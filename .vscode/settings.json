@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ttlea\\Downloads\\commons-lang3-3.12.0-bin\\commons-lang3-3.12.0\\commons-lang3-3.12.0.jar",
+        "c:\\Users\\ttlea\\Downloads\\commons-codec-1.13.jar",
+        "c:\\Users\\ttlea\\Downloads\\commons-collections4-4.1.jar",
+        "c:\\Users\\ttlea\\Downloads\\jd-core-1.1.3.jar",
+        "c:\\Users\\ttlea\\Downloads\\procyon-compilertools-0.5.36.jar"
+    ],
+    "maven.view": "flat"
+    
+}
