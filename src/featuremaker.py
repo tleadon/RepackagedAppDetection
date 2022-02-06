@@ -43,12 +43,6 @@ def featuremaker(filename, appname):
     entries = []
     entries.append(AppRows(appname, ft))
     
-    print(tdf[col[0]].value_counts().plot(kind='bar', rot='0'))
-    print(tdf[col[1]].value_counts().plot(kind='bar', rot='0'))
-    print(tdf[col[2]].value_counts().plot(kind='bar', rot='0'))
-    print(tdf[col[3]].value_counts().plot(kind='bar', rot='0'))
-    
-    plt.show()
     #Now to find the occurence of each type
     count = 0
     while(count < len(tdf["ICC Name"].value_counts())):
@@ -160,9 +154,27 @@ def featuremaker(filename, appname):
     for i in featureArray:
         print(i)
     
-    with open(featureCSV, 'a+', encoding='UTF8') as f:
+    csvheader = [
+        'App Name',
+        'Broadcast Receiver Occurence Frequency',
+        'Activity Occurence Frequency',
+        'Services Occurence Frequency',
+        'Permissions',
+        'Most Common Internal Source-Target Pair',
+        'Most Common External Source-Target Pair',
+        'Most Common Activity Source-Target Pair',
+        'Most Common Service Source-Target Pair',
+        'Most Common Broadcast Receiver Source-Target Pair',
+        'Most Common Target Component',
+        'Most Common Source Component',
+        'RepackStatus'
+        ]
+    
+    write_header = not os.path.exists(featureCSV)
+    with open(featureCSV, 'a+', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow("")
+        if write_header:
+            writer.writerow(csvheader)
         writer.writerow(featureArray)
         
 def main():
