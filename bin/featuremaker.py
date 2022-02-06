@@ -33,7 +33,7 @@ class AppRows:
     
 def featuremaker(filename, appname):
     tdf = pd.read_csv(filename)
-    tdf.info()
+    #tdf.info()
 
     col = ['ICC Name', ' Source Component', ' Target Component', ' Type of Communication']
     iCCTypes = ['Activit', 'Service', 'Broadcast'] #Activit because of startActivities*
@@ -61,10 +61,10 @@ def featuremaker(filename, appname):
             
         count += 1
     
-    print("_"*200)
-    print("Activity Count: ", entries[0].featureData.ActivityOccurenceFrequency)
-    print("Services Count: ", entries[0].featureData.ServicesOccurenceFrequency)
-    print("Broadcast Reciever Count: ", entries[0].featureData.BroadcastReceiverOccurenceFrequency)
+    # print("_"*200)
+    # print("Activity Count: ", entries[0].featureData.ActivityOccurenceFrequency)
+    # print("Services Count: ", entries[0].featureData.ServicesOccurenceFrequency)
+    # print("Broadcast Reciever Count: ", entries[0].featureData.BroadcastReceiverOccurenceFrequency)
     
     tdf['SourceTargetType'] = tdf[' Source Component'] + '-' + tdf[' Target Component'] + '-' + tdf[' Type of Communication']
     tdf['SourceTargetType'].value_counts()
@@ -85,14 +85,14 @@ def featuremaker(filename, appname):
             running = False
         count += 1
     
-    print("_"*200)
-    print("Most Common Internal Source-Target Pair: ", entries[0].featureData.MostCommonInternalSourceTargetPair)
-    print("Most Common External Source-Target Pair: ", entries[0].featureData.MostCommonExternalSourceTargetPair)
+    # print("_"*200)
+    # print("Most Common Internal Source-Target Pair: ", entries[0].featureData.MostCommonInternalSourceTargetPair)
+    # print("Most Common External Source-Target Pair: ", entries[0].featureData.MostCommonExternalSourceTargetPair)
     
     #Now the same could but with the ICCTypes... I could probably make a function for these but anyway
     
     tdf['SourceTargetICC'] = tdf[' Source Component'] + '-' + tdf[' Target Component'] + '-' + tdf['ICC Name']
-    print("_"*200)
+    # print("_"*200)
     
     running = True
     count = 0
@@ -119,14 +119,14 @@ def featuremaker(filename, appname):
         count += 1
     #I should definitely make these into a function lol
     
-    print("Most Common Activity Source-Target Pair: ", entries[0].featureData.MostCommonActivitySourceTargetPair)
-    print("Most Common Service Source-Target Pair: ", entries[0].featureData.MostCommonServiceSourceTargetPair)
-    print("Most Common Broadcast Reciever Source-Target Pair: ", entries[0].featureData.MostCommonBroadcastReceiverSourceTargetPair)
-    print("_"*200)
+    # print("Most Common Activity Source-Target Pair: ", entries[0].featureData.MostCommonActivitySourceTargetPair)
+    # print("Most Common Service Source-Target Pair: ", entries[0].featureData.MostCommonServiceSourceTargetPair)
+    # print("Most Common Broadcast Reciever Source-Target Pair: ", entries[0].featureData.MostCommonBroadcastReceiverSourceTargetPair)
+    # print("_"*200)
     
     permissions = tdf[' Permissions'].value_counts().index.tolist()[0]
     permArray = re.findall(r'\[(.*?)\]', permissions)
-    print("Number of Permissions:", len(permArray))
+    #print("Number of Permissions:", len(permArray))
     entries[0].featureData.Permissions = len(permArray)
     
     entries[0].featureData.MostCommonTargetComponent = tdf[" Target Component"].value_counts().index.tolist()[0]
@@ -151,8 +151,9 @@ def featuremaker(filename, appname):
     featureArray.append(entries[0].featureData.Repacked)
     
     #I'm almost 100% sure I could've made this into a loop or a seperate function lol this doesnt need to be in main bro ill fix it later
-    for i in featureArray:
-        print(i)
+    
+    #for i in featureArray:
+    #    print(i)
     
     csvheader = [
         'App Name',
