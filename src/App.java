@@ -77,7 +77,7 @@ public class App {
             
         }
         if(appname[0] == "appCSV"){
-            appname[0] = RandomStringUtils.randomAlphanumeric(64);
+            appname[0] = RandomStringUtils.randomAlphanumeric(12);
         };
         maniscanny.close();
 

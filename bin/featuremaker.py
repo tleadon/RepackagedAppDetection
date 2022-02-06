@@ -3,6 +3,8 @@ import re
 import pandas as pd
 import matplotlib.pyplot as plt
 import csv
+import os
+import glob
 from dataclasses import dataclass, field
 
 @dataclass
@@ -29,8 +31,8 @@ class AppRows:
     featureData: list[Features] = field(default_factory=list)
     
     
-def main():
-    tdf = pd.read_csv("../apkCSVFiles/com.whatsapp.AppShell.csv")
+def featuremaker(filename, appname):
+    tdf = pd.read_csv(filename)
     tdf.info()
 
     col = ['ICC Name', ' Source Component', ' Target Component', ' Type of Communication']
@@ -39,7 +41,7 @@ def main():
     
     ft = Features()
     entries = []
-    entries.append(AppRows('WhatsApp', ft))
+    entries.append(AppRows(appname, ft))
     
     print(tdf[col[0]].value_counts().plot(kind='bar', rot='0'))
     print(tdf[col[1]].value_counts().plot(kind='bar', rot='0'))
@@ -163,6 +165,14 @@ def main():
         writer.writerow("")
         writer.writerow(featureArray)
         
+def main():
+    path = "../apkCSVFiles"
+    csv_files = glob.glob(os.path.join(path,"*.csv"))
+    
+    for f in csv_files:
+        print(f)
+        an = f.split("\\")[-1]
+        featuremaker(f, an)
         
 if __name__ == "__main__":
     main()
