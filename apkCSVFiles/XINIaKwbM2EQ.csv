@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/imatox/colorcode/CustomizationActivity$1,com/imatox/colorcode/GameActivity,external,30,111,14
+startActivity,com/imatox/colorcode/GameActivity$12,com/imatox/colorcode/RulesActivity,external,30,111,23
+startActivity,com/imatox/colorcode/GameActivity,com/imatox/colorcode/GameActivity,internal,30,115,38
+startActivity,com/imatox/colorcode/MainActivity,com/imatox/colorcode/SoloActivity,external,30,119,40
+startActivity,com/imatox/colorcode/MainActivity,com/imatox/colorcode/RulesActivity,external,30,119,40
+startActivity,com/imatox/colorcode/MainActivity,com/imatox/colorcode/MainActivity,external,30,119,44
+startActivity,com/imatox/colorcode/SoloActivity$1,com/imatox/colorcode/GameActivity,external,30,119,45
+startActivity,com/imatox/colorcode/SoloActivity,null,internal,30,119,47
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,30,145,76
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,30,145,76
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,42,202,79
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,42,202,79
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,42,202,79
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,42,202,79

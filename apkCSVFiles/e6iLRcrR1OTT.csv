@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SEND_SMS]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SEND_SMS]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.UNINSTALL_SHORTCUT]-,1,0
+startActivity,com/mobgame/game/d/f,android.intent.action.VIEW,external,8,68,0
+startActivityForResult,com/mobgame/game/d/f,android.intent.action.VIEW,external,8,68,0
+startActivity,com/mobgame/game/d/f,android.intent.action.VIEW,external,8,68,0
+startActivityForResult,com/mobgame/game/d/f,android.intent.action.VIEW,external,8,68,0
+startActivity,com/mobgame/game/d/k,android.intent.action.SEND,external,10,68,1
+startActivity,com/mobgame/game/d/k,android.intent.action.SEND,external,10,68,1
+startActivityForResult,com/mobgame/game/d/k,android.intent.action.SEND,external,10,68,1
+startActivity,com/umeng/common/b/g,null,external,45,133,23
+startActivity,com/umeng/common/b/g,android.intent.action.VIEW,external,45,133,23
+bindService,com/umeng/common/net/e,com/umeng/common/net/DownloadingService,external,81,307,23
+bindService,com/umeng/common/net/g,null,external,81,307,23
+startActivity,com/umeng/common/net/l,android.intent.action.VIEW,external,105,310,23
+sendBroadcast,com/wiyun/sdk/a$1,c.w.self,external,111,357,25
+sendBroadcast,com/wiyun/sdk/a$1,c.w.self,external,116,382,25
+sendBroadcast,com/wiyun/sdk/a$1,c.w.self,external,117,388,25
+sendBroadcast,com/wiyun/sdk/activity/CommonDialog,cmdlg_act_cancel,internal,124,403,25
+sendBroadcast,com/wiyun/sdk/activity/CommonDialog,cmdlg_act_ok,internal,124,403,25
+sendBroadcast,com/wiyun/sdk/activity/SimpleBrowserActivity,sba_act_cancel,internal,124,405,34
+sendBroadcast,com/wiyun/sdk/activity/SimpleBrowserActivity,sba_act_ok,internal,124,405,34
+sendBroadcast,com/wiyun/sdk/b/b,c.w.pdlg,external,124,407,52
+startActivity,com/wiyun/sdk/b/b,com/wiyun/sdk/activity/ProgressDialog,external,124,407,52

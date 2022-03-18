@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+sendBroadcast,cn/salesuite/firewall/Api,com.googlecode.droidwall.intent.action.STATUS_CHANGED,external,0,117,0
+startActivity,cn/salesuite/system/ui/AboutActivity$1,android.intent.action.VIEW,external,17,152,1
+startService,cn/salesuite/system/ui/CpuActivity,cn/salesuite/system/NetMeterService,external,17,152,1
+bindService,cn/salesuite/system/ui/CpuActivity,cn/salesuite/system/NetMeterService,external,17,152,1
+bindService,cn/salesuite/system/ui/CpuActivity,cn/salesuite/system/NetMeterService,external,17,152,1
+startActivity,cn/salesuite/system/ui/Main,cn/salesuite/system/ui/CpuActivity,external,17,155,4
+startActivity,cn/salesuite/system/ui/Main,cn/salesuite/system/ui/FireWallActivity,external,17,155,4
+startActivity,cn/salesuite/system/ui/Main,cn/salesuite/system/ui/AboutActivity,external,17,155,4
+bindService,cn/salesuite/system/ui/Main,cn/salesuite/system/ui/AboutActivity,external,17,155,4
+bindService,cn/salesuite/system/ui/Main,cn/salesuite/system/NetMeterService,external,17,155,4
+startActivity,cn/salesuite/system/ui/StartActivity$1,cn/salesuite/system/ui/Main,external,17,155,4

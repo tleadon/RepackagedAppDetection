@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,7,6
+startActivity,com/l308/appbuilder/activity/SplashActivity$2,com/l308/appbuilder/activity/MainActivity,external,32,287,31
+startActivity,com/l308/appbuilder/activity/StandardFeedFlipperActivity$3$2,android.intent.action.VIEW,external,32,287,32
+startActivity,com/l308/appbuilder/activity/StandardFeedFlipperActivity$3$2,android.intent.action.VIEW,external,32,287,32
+startActivity,com/l308/appbuilder/activity/StandardFeedFlipperActivity$3$2,android.intent.action.VIEW,external,32,287,32
+startActivity,com/l308/appbuilder/activity/StandardFeedFlipperActivity$4,android.intent.action.VIEW,external,32,287,35
+startActivity,com/l308/appbuilder/activity/StandardFeedFlipperActivity,android.intent.action.VIEW,internal,32,287,37
+startActivity,com/l308/appbuilder/activity/StandardFeedFlipperActivity,android.intent.action.SEND,internal,32,287,37
+startActivity,com/l308/appbuilder/activity/TestAppActivity$1,com/l308/appbuilder/activity/SplashActivity,external,32,287,37
+startActivity,com/l308/appbuilder/map/AppBuilderItemizedOverlay$1,android.intent.action.VIEW,external,32,295,41
+startActivity,com/l308/appbuilder/utils/AppBuilderAnimationUtils$1,null,external,108,296,42
+startActivity,com/l308/appbuilder/utils/AppBuilderAnimationUtils$1,null,external,108,296,42
+startActivity,com/l308/appbuilder/utils/AppBuilderAnimationUtils$1,null,external,108,296,42

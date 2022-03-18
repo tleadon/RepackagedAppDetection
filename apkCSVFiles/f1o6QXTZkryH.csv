@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+startActivity,com/appmk/book/main/FlipBookActivity,com/appmk/book/main/Catalog,external,32,0,12
+startActivityForResult,com/appmk/book/main/FlipBookActivity,com/appmk/book/main/Catalog,external,32,0,12
+startActivity,com/appmk/book/main/FlipBookActivity,com/appmk/book/main/Config,external,32,0,12
+startActivity,com/appmk/book/main/FlipBookActivity,com/appmk/book/main/Cover,external,32,0,12

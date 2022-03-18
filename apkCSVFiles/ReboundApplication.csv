@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.MODIFY_AUDIO_SETTINGS]-,0,0
+startActivity,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivityForResult,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/admob/android/ads/d,null,external,33,2,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,35,10
+bindService,com/android/vending/licensing/LicenseChecker,null,external,33,43,14
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,33,45,14
+startActivity,com/exit4/app/rebound/ReboundApp,com/scoreloop/client/android/ui/EntryScreenActivity,external,33,49,18
+startActivity,com/exit4/app/rebound/ReboundApp,com/scoreloop/client/android/ui/EntryScreenActivity,external,33,49,18
+startActivity,com/exit4/app/rebound/ReboundApp,com/scoreloop/client/android/ui/EntryScreenActivity,external,33,49,18
+startActivity,com/exit4/app/rebound/ReboundApp,com/scoreloop/client/android/ui/EntryScreenActivity,external,33,49,18
+startActivity,com/exit4/app/rebound/ReboundApp,android.intent.action.VIEW,external,33,49,19
+startActivity,com/exit4/app/rebound/ReboundApp,android.intent.action.VIEW,external,33,49,19
+startActivity,com/exit4/app/rebound/ReboundApp,android.intent.action.VIEW,external,33,49,19
+startActivity,com/exit4/app/rebound/ReboundApp,android.intent.action.VIEW,external,33,49,19
+startActivity,com/exit4/app/rebound/ReboundApp,com/scoreloop/client/android/ui/EntryScreenActivity,external,33,49,19
+startActivity,com/exit4/app/rebound/ReboundApp,android.intent.action.SEND,external,33,49,19
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,63,169,26
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,63,169,33
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,63,169,33
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,63,169,49
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,android.intent.action.GET_CONTENT,internal,63,170,62
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,android.intent.action.GET_CONTENT,internal,63,170,62
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,63,170,62
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,63,170,62
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,65,173,77
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,65,173,95

@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,0,0,0
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,0,0,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,0,5,0
+bindService,com/outlinegames/unibill/BillingServiceManager$1$1,null,external,0,5,0
+bindService,com/outlinegames/unibill/BillingServiceManager,null,external,0,5,0
+bindService,com/outlinegames/unibill/BillingServiceManager,com.android.vending.billing.InAppBillingService.BIND,external,0,5,0
+startActivity,com/outlinegames/unibill/UniBill,com/outlinegames/unibill/PurchaseActivity,external,0,15,0
+bindService,com/sec/android/iap/lib/helper/SamsungIapHelper,com.sec.android.iap.service.iapService,external,0,17,5
+bindService,com/sec/android/iap/lib/helper/SamsungIapHelper,com.sec.android.iap.service.iapService,external,0,17,5
+startActivity,com/sec/android/iap/lib/helper/SamsungIapHelper,com/sec/android/iap/lib/activity/InboxActivity,external,0,17,5
+startActivity,com/sec/android/iap/lib/helper/SamsungIapHelper,com/sec/android/iap/lib/activity/ItemActivity,external,0,17,5
+startActivity,com/sec/android/iap/lib/helper/SamsungIapHelper,com/sec/android/iap/lib/activity/PaymentActivity,external,0,17,6
+startActivity,com/sec/android/iap/lib/helper/SamsungIapHelper,android.intent.action.MAIN,external,0,17,6
+startActivityForResult,com/sec/android/iap/lib/helper/SamsungIapHelper,android.intent.action.MAIN,external,0,17,6
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,46,57,31

@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,0,2
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,3
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,3
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,3
+startActivity,com/mosbyit/sheldoncooper/installRoutine,com.blogopa.pool.action.INSTALL_POOLS,external,19,85,8
+startActivity,com/mosbyit/sheldoncooper/installRoutine,com.blogopa.lite.pool.action.INSTALL_POOLS,external,19,85,8
+startActivity,com/mosbyit/sheldoncooper/installRoutine,com.blogopa.pool.action.INSTALL_POOLS,external,19,85,8
+startActivity,com/mosbyit/sheldoncooper/installRoutine,com.blogopa.lite.pool.action.INSTALL_POOLS,external,19,85,8
+startActivity,com/mosbyit/sheldoncooper/sbshelper,android.intent.action.VIEW,external,19,85,8
+startActivity,com/mosbyit/sheldoncooper/sbshelper,android.intent.action.VIEW,external,19,85,8

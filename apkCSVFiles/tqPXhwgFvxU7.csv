@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SEND_SMS]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.GET_TASKS]-,1,1
+sendBroadcast,com/feelingtouch/pay/PayUtil,PARAM_CONTENT,external,12,56,6
+startActivity,com/feelingtouch/zombiex/FirstPage,com/feelingtouch/zombiex/GameActivity,external,106,91,24
+startService,com/feelingtouch/zombiex/payment/checkout/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,109,103,30
+startService,com/feelingtouch/zombiex/payment/checkout/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,109,103,30
+startService,com/feelingtouch/zombiex/payment/checkout/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,109,103,30
+bindService,com/feelingtouch/zombiex/payment/checkout/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,109,103,30

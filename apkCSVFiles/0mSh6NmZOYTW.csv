@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-,1,1
+startActivity,com/admob/android/ads/Ad,android.intent.action.VIEW,external,0,8,0
+startActivity,com/dseffects/VirtualDog/VirtualDog$1,android.intent.action.VIEW,external,63,71,11
+startActivity,com/mmsdk/a/d$2,android.intent.action.DIAL,external,66,85,20
+startActivity,com/mmsdk/a/d$2,android.intent.action.SEND,external,66,85,20
+startActivity,com/mmsdk/a/d$2,android.intent.action.VIEW,external,66,85,20
+startActivity,com/mmsdk/a/d$6,android.intent.action.VIEW,external,66,89,22
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.DIAL,external,68,131,35
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.SEND,external,68,131,35
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.VIEW,external,68,131,35
+startActivity,com/mmsdk/internal/CustomWebView$8,android.intent.action.VIEW,external,68,136,37
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.DIAL,external,68,144,47
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.SEND,external,68,144,47
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.VIEW,external,68,144,47
+startActivity,com/mmsdk/internal/CustomWebViewBackup$8,android.intent.action.VIEW,external,68,149,49

@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.RECORD_AUDIO]-,1,0
+startService,com/cat/pianocxch/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,6,65,21
+startService,com/cat/pianocxch/BillingReceiver,com.cat.pianocnperfect.GET_PURCHASE_INFORMATION,external,6,65,21
+startService,com/cat/pianocxch/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,6,65,21
+bindService,com/cat/pianocxch/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,6,65,21
+bindService,com/cat/pianocxch/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,6,65,21
+startActivity,com/cat/pianocxch/cu,android.intent.action.VIEW,external,8,76,43
+startActivity,com/cat/pianocxch/cu,com/cat/pianocxch/AudioPlayerFloatingActivity,external,8,76,43
+startActivity,com/cat/pianocxch/da,android.intent.action.SEND,external,8,86,48
+startActivity,com/cat/pianocxch/do,android.intent.action.VIEW,external,8,88,57
+bindService,com/cat/pianocxch/DownloadMoreSongsActivity,com/cat/pianocxch/DownloadService,external,8,95,59
+bindService,com/cat/pianocxch/DownloadMoreSongsActivity,com/cat/pianocxch/DownloadService,external,8,95,59
+startActivity,com/cat/pianocxch/du,android.intent.action.VIEW,external,8,99,71
+startActivity,com/cat/pianocxch/dv,android.intent.action.SEND,external,8,99,72
+startActivity,com/cat/pianocxch/ed,com/cat/pianocxch/MainWindow,external,8,99,77
+startActivity,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/SongsListActivity,external,8,103,79
+startActivityForResult,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/SongsListActivity,external,8,103,79
+startActivity,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/FileManagerActivity,external,8,103,79
+startActivityForResult,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/FileManagerActivity,external,8,103,79
+startActivity,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/FileManagerActivity,external,8,103,79
+startActivityForResult,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/FileManagerActivity,external,8,103,79
+startActivity,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/HelpActivity,external,8,103,79
+startActivity,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/DownloadMoreSongsActivity,external,8,103,79
+startActivity,com/cat/pianocxch/LearnModeActivity,com/cat/pianocxch/Settings,external,8,103,79
+startActivity,com/cat/pianocxch/MainWindow,com/cat/pianocxch/HelpActivity,external,8,103,85
+startActivityForResult,com/cat/pianocxch/MainWindow,com/cat/pianocxch/HelpActivity,external,8,103,85
+startActivity,com/cat/pianocxch/MainWindow,com/cat/pianocxch/Settings,external,8,103,85
+startActivity,com/cat/pianocxch/MainWindow,com/cat/pianocxch/LearnModeActivity,external,8,103,85
+startActivity,com/cat/pianocxch/MainWindow,com/cat/pianocxch/RecordingsListActivity,external,8,103,85
+startActivityForResult,com/cat/pianocxch/MainWindow,com/cat/pianocxch/RecordingsListActivity,external,8,103,85
+startActivity,com/cat/pianocxch/MainWindow,android.intent.action.VIEW,external,8,103,85
+startActivity,com/cat/pianocxch/RecordingsListActivity,android.intent.action.VIEW,external,8,106,94
+startActivity,com/cat/pianocxch/RecordingsListActivity,com/cat/pianocxch/AudioPlayerFloatingActivity,external,8,106,94
+startActivity,com/cat/pianocxch/RecordingsListActivity,com/cat/pianocxch/FileManagerActivity,external,8,106,95
+startActivityForResult,com/cat/pianocxch/RecordingsListActivity,com/cat/pianocxch/FileManagerActivity,external,8,106,95
+startActivity,com/cat/pianocxch/SongsListActivity,com/cat/pianocxch/DownloadMoreSongsActivity,external,8,106,97

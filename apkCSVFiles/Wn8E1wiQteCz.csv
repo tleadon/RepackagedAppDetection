@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.BILLING]-[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[archos.permission.FULLSCREEN.FULL]-,1,1
+startActivity,com/chartboost/sdk/CBWebViewClient,android.intent.action.VIEW,external,22,42,5
+startActivity,com/chartboost/sdk/ChartBoost,com/chartboost/sdk/CBDialogActivity,external,22,42,5
+startActivity,com/flurry/android/v,android.intent.action.VIEW,external,59,126,8
+startActivity,com/flurry/android/v,android.intent.action.VIEW,external,59,126,8
+startActivity,com/flurry/android/v,android.intent.category.DEFAULT,external,59,126,8
+startActivity,com/flurry/android/v,android.intent.category.DEFAULT,external,62,126,8
+startActivity,de/hellowins/Hellowins,null,external,76,139,12
+startActivity,de/hellowins/HellowinsUnity,checkInstalledApps,external,76,139,13
+startService,de/nurogames/android/tl/base/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,86,142,18
+startService,de/nurogames/android/tl/base/BillingReceiver,com.example.subscriptions.GET_PURCHASE_INFORMATION,external,86,142,18
+startService,de/nurogames/android/tl/base/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,86,142,18
+bindService,de/nurogames/android/tl/base/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,86,142,18
+bindService,de/nurogames/android/tl/base/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,86,142,18
+startActivity,de/nurogames/android/tl/base/core/ShopMngr$2,null,external,86,151,20
+startActivity,de/nurogames/android/tl/base/core/UpdateMngr$DownloadFile,android.intent.action.VIEW,external,86,206,23
+startActivity,de/nurogames/android/tl/base/views/TinyBeeView$8,android.intent.action.VIEW,external,112,246,42
+startActivity,de/nurogames/android/tl/base/views/TinyBeeView,android.intent.action.VIEW,external,112,246,44
+startActivity,de/nurogames/android/tl/tbActivity,de/nurogames/android/tl/base/tinysanta,external,112,246,45

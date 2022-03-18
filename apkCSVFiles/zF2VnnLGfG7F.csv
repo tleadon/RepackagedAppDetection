@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_LOGS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.DISABLE_KEYGUARD]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,internal,0,6,0
+sendBroadcast,com/common/StarterActivity,com.cstrike.openit,external,0,6,0
+startActivity,com/common/StarterActivity,android.intent.action.MAIN,external,0,6,0
+startActivity,com/lekoo/Fishingsfllswaqcfsswvgregbrds/MainActivity$5,null,external,12,14,8
+startActivity,com/lekoo/Fishingsfllswaqcfsswvgregbrds/MainActivity$7,android.intent.action.VIEW,external,12,14,10
+startActivity,com/lekoo/Fishingsfllswaqcfsswvgregbrds/MainActivity,highScore,external,12,24,12
+startActivity,com/lekoo/Fishingsfllswaqcfsswvgregbrds/MainActivity,android.intent.action.SENDTO,external,12,24,21
+startActivity,com/lekoo/Fishingsfllswaqcfsswvgregbrds/Ranking$2,com/lekoo/Fishingsfllswaqcfsswvgregbrds/EditProfile,external,12,24,24
+startActivity,com/lekoo/Fishingsfllswaqcfsswvgregbrds/Ranking,com/lekoo/Fishingsfllswaqcfsswvgregbrds/EditProfile,external,12,36,27
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,12,36,27
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,12,36,27
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,12,36,27
+bindService,com/umeng/common/net/a$b,null,external,75,212,31
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,75,212,31
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,99,215,31
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,99,294,31
+startActivity,com/umeng/common/util/g,null,external,113,410,31
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,113,410,31

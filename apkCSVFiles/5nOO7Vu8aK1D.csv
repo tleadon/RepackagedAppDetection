@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.BILLING]-,0,0
+startActivity,com/bdiet/ru/AActivity,com/bdiet/ru/BActivity,internal,0,0,1
+startActivity,com/bdiet/ru/BActivity,com/bdiet/ru/CActivity,internal,0,0,2
+bindService,com/bdiet/ru/billing/util/IabHelper,null,external,0,2,2
+bindService,com/bdiet/ru/billing/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,0,2,2
+startActivity,com/bdiet/ru/CActivity,com/bdiet/ru/DActivity,internal,0,6,4
+startActivity,com/bdiet/ru/DActivity,com/bdiet/ru/EActivity,internal,0,6,6
+startActivity,com/bdiet/ru/EActivity,com/bdiet/ru/FActivity,internal,0,6,7
+startActivity,com/bdiet/ru/FActivity,com/bdiet/ru/GActivity,internal,0,6,9
+startActivity,com/bdiet/ru/GActivity,com/bdiet/ru/HActivity,internal,0,6,10
+startActivity,com/bdiet/ru/HActivity,com/bdiet/ru/IActivity,internal,0,6,11
+startActivity,com/bdiet/ru/IActivity,com/bdiet/ru/PActivity,internal,0,6,12
+startActivity,com/bdiet/ru/l,com/bdiet/ru/MainActivity,external,0,6,13
+startActivity,com/bdiet/ru/MainActivity,com/bdiet/ru/StartActivity,internal,0,6,14
+startActivity,com/bdiet/ru/MainActivity,com/bdiet/ru/AActivity,internal,0,6,15
+startActivity,com/bdiet/ru/PActivity,com/bdiet/ru/WActivity,internal,0,24,16
+startActivity,com/bdiet/ru/PActivity,com/bdiet/ru/WOtActivity,internal,0,24,17
+startActivity,com/bdiet/ru/s,com/bdiet/ru/MainActivity,external,0,24,17
+startActivity,com/bdiet/ru/StartActivity,com/bdiet/ru/MainActivity,external,0,24,18
+startActivity,com/bdiet/ru/StartActivity,com/bdiet/ru/WOtActivity,external,0,24,19

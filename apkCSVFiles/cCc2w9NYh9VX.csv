@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_LOGS]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-[android.permission.BATTERY_STATS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,null,external,0,50,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,53,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+startActivity,com/stway/qstudy/DownloadListActivity,com/stway/qstudy/DownloadListDetailActivity,external,4,98,36
+startActivity,com/stway/qstudy/IntroActivity$1,com/stway/qstudy/MainActivity,external,4,102,52
+startActivity,com/stway/qstudy/Tab1Activity$1,com/stway/qstudy/MainActivity,external,10,108,76
+startActivity,com/stway/qstudy/Tab1Activity$1,com/stway/qstudy/MainActivity,external,10,108,76
+startActivity,com/stway/qstudy/Tab1Activity$1,com/stway/qstudy/MainActivity,external,10,108,76
+startActivity,com/stway/qstudy/Tab1Activity$1,com/stway/qstudy/MainActivity,external,10,108,76
+startActivity,com/stway/qstudy/Tab4Activity,com/stway/qstudy/DownloadListActivity,external,10,108,85
+startActivity,net/stway/stwclass/StwayClass,filename,external,270,210,102
+startActivity,net/stway/stwclass/StwayClass,filename,external,270,210,102

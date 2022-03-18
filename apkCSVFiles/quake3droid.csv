@@ -1,0 +1,4 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.BLUETOOTH]-[android.permission.BLUETOOTH_ADMIN]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/zeemote/zc/ui/android/ControllerAndroidUi,com/zeemote/zc/ui/android/ControllerAndroidUi$Activity,external,0,50,0
+startActivity,org/anderdroid/quake3droid/Launcher$1,org/anderdroid/quake3droid/Game,external,0,86,6

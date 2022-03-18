@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.VIBRATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.INTERNET]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_CONTACTS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.BROADCAST_STICKY]-,0,0
+startService,com/macmillan/prepu/plugin/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,0,0,0
+startService,com/macmillan/prepu/plugin/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,0,0,0
+startService,com/macmillan/prepu/plugin/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,0,0,0
+bindService,com/macmillan/prepu/plugin/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,0,0
+bindService,com/macmillan/prepu/plugin/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,0,0
+startActivity,com/phonegap/CameraLauncher,Get Picture,external,30,38,0
+startActivityForResult,com/phonegap/CameraLauncher,Get Picture,external,30,38,0
+startActivity,com/phonegap/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,47,67,0
+startActivityForResult,com/phonegap/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,47,67,0
+startActivity,com/phonegap/Capture,android.provider.MediaStore.RECORD_SOUND,external,47,67,0
+startActivityForResult,com/phonegap/Capture,android.provider.MediaStore.RECORD_SOUND,external,47,67,0
+startActivity,com/phonegap/Capture,android.media.action.IMAGE_CAPTURE,external,47,72,0
+startActivityForResult,com/phonegap/Capture,android.media.action.IMAGE_CAPTURE,external,47,72,0
+startActivity,com/phonegap/Capture,android.media.action.VIDEO_CAPTURE,external,47,72,0
+startActivityForResult,com/phonegap/Capture,android.media.action.VIDEO_CAPTURE,external,47,72,0
+startActivity,com/phonegap/DroidGap$GapViewClient,android.intent.action.DIAL,external,77,139,8
+startActivity,com/phonegap/DroidGap$GapViewClient,android.intent.action.VIEW,external,77,139,8
+startActivity,com/phonegap/DroidGap$GapViewClient,android.intent.action.VIEW,external,77,139,8
+startActivity,com/phonegap/DroidGap$GapViewClient,android.intent.action.VIEW,external,77,139,8
+startActivity,com/phonegap/DroidGap$GapViewClient,android.intent.action.VIEW,external,77,139,8
+startActivity,com/phonegap/DroidGap,android.intent.action.VIEW,external,77,141,18
+startActivity,com/phonegap/DroidGap,android.intent.action.VIEW,external,77,141,18
+startActivity,com/phonegap/DroidGap,android.intent.action.VIEW,external,77,142,18
+startActivityForResult,com/phonegap/DroidGap,android.intent.action.VIEW,external,77,142,18
+startActivity,com/phonegap/DroidGap,android.intent.action.VIEW,external,77,142,18
+startActivityForResult,com/phonegap/DroidGap,android.intent.action.VIEW,external,77,142,18
+startActivity,com/phonegap/DroidGap,android.intent.action.VIEW,external,77,142,18
+startActivityForResult,com/phonegap/DroidGap,android.intent.action.VIEW,external,77,142,18

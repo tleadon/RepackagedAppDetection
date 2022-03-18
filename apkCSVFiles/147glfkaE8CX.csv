@@ -1,0 +1,32 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,1,1
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,39,3
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,39,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,31,39,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,34,39,3
+startService,com/gamevil/cartoonwars/gunner/global/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,34,56,4
+startService,com/gamevil/cartoonwars/gunner/global/BillingReceiver,com.gamevil.nexus2.billing.GET_PURCHASE_INFORMATION,external,34,56,4
+startService,com/gamevil/cartoonwars/gunner/global/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,34,56,4
+bindService,com/gamevil/cartoonwars/gunner/global/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,34,56,4
+bindService,com/gamevil/cartoonwars/gunner/global/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,34,56,4
+startActivity,com/gamevil/cartoonwars/gunner/global/GunnerActivity$1,android.intent.action.VIEW,external,34,56,5
+startActivity,com/gamevil/cartoonwars/gunner/JNINatives,null,external,60,60,9
+startActivity,com/gamevil/cartoonwars/gunner/SharedActivity$3$2,null,external,60,100,30
+startActivity,com/gamevil/cartoonwars/gunner/SharedActivity$3,null,external,60,100,30
+startService,com/gamevil/cartoonwars/gunner/SharedActivity,sender,external,60,102,31
+startActivity,com/gamevil/nexus2/cpi/CpiUtils,null,external,76,107,34
+startActivity,com/gamevil/nexus2/cpi/GamevilGift,com/gamevil/nexus2/cpi/GamevilGiftActivity,external,76,107,35
+startActivity,com/gamevil/nexus2/cpi/GiftWebView$1,null,external,76,127,35
+startActivity,com/gamevil/nexus2/Natives,null,external,76,145,36
+startActivity,com/tapjoy/TapjoyDisplayAd$2,com/tapjoy/TJCOffersWebView,external,174,467,87
+startActivity,com/tapjoy/TapjoyFeaturedApp,com/tapjoy/TapjoyFeaturedAppWebView,external,174,475,87
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,174,475,87
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView,com/tapjoy/TJCOffersWebView,external,174,475,87
+startActivity,com/tapjoy/TapjoyVideo,com/tapjoy/TapjoyVideoView,external,179,693,87
+startActivity,com/tapjoy/TapjoyVideoView$5,android.intent.action.VIEW,external,179,695,91
+startActivity,com/tapjoy/TapjoyVideoView$6,android.intent.action.VIEW,external,179,695,92
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,external,179,695,97
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,external,179,695,97
+startActivity,com/tapjoy/TJCOffersWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,179,695,98

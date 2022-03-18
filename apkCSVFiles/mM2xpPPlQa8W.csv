@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/swarmconnect/aq$1,android.intent.action.VIEW,external,0,7,7
+startActivity,com/swarmconnect/ar$a$3,null,external,0,7,13
+startActivity,com/swarmconnect/as$1,android.intent.action.VIEW,external,0,7,19
+startActivity,com/swarmconnect/at$1,null,external,3,7,20
+startActivity,com/swarmconnect/aw,null,external,3,7,31
+startActivity,com/swarmconnect/ba$1,android.intent.action.VIEW,external,3,7,40
+startActivity,com/swarmconnect/ba$2,android.intent.action.VIEW,external,3,7,41
+startActivity,com/swarmconnect/bh$a,android.intent.action.VIEW,external,3,7,54
+startActivity,com/swarmconnect/bh$a,android.intent.action.VIEW,external,3,7,54
+startActivity,com/swarmconnect/bm,com/swarmconnect/SwarmMainActivity,external,3,7,67
+startActivity,com/swarmconnect/bm,com/swarmconnect/SwarmMainActivity,external,3,7,67
+startActivity,com/swarmconnect/bq$2,android.intent.action.VIEW,external,8,7,68
+startActivity,com/swarmconnect/bv,com/swarmconnect/by,external,8,9,68
+startActivity,com/swarmconnect/by$b,android.intent.action.VIEW,external,8,9,68
+startActivity,com/swarmconnect/by$b,android.intent.action.VIEW,external,8,9,68
+startActivity,com/swarmconnect/by,com/swarmconnect/SwarmMainActivity,external,8,9,68
+sendBroadcast,com/swarmconnect/cp,com.swarmconnect.CUSTOM_PUSH_RECEIVED,external,11,58,68
+startActivity,com/swarmconnect/Swarm$4,com/swarmconnect/SwarmMainActivity,external,50,115,68
+startService,com/swarmconnect/Swarm,com.swarmconnect.CUSTOM_PUSH_RECEIVED,internal,50,115,68
+startActivity,com/swarmconnect/SwarmGetCoinsScreen$1,null,external,50,115,70
+startActivity,com/swarmconnect/SwarmGetCoinsScreen$2,null,external,50,115,71
+startService,com/swarmconnect/SwarmIO,null,external,50,115,76
+startService,com/swarmconnect/SwarmIO,com/swarmconnect/NotificationService,external,50,115,76
+startService,com/swarmconnect/SwarmIOBroadcastReceiver,com/swarmconnect/NotificationService,external,50,115,76
+startActivity,com/swarmconnect/SwarmLeaderboard,com/swarmconnect/SwarmMainActivity,external,50,115,76
+startActivity,com/swarmconnect/SwarmMainActivity,null,internal,50,115,82
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,102,157,110

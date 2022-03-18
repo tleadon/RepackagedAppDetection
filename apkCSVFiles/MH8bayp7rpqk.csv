@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+startActivity,cn/domob/android/a/b,null,external,0,8,0
+startActivity,cn/domob/android/ads/e,android.intent.action.PACKAGE_ADDED,external,83,95,5
+startActivity,cn/domob/android/ads/g$2,null,external,83,95,8
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$5,null,external,83,121,32
+startActivity,cn/domob/android/ads/p,android.intent.action.VIEW,external,83,138,33
+startActivity,cn/domob/android/ads/v$6,cn/domob/android/ads/DomobActivity,external,88,138,38
+startActivity,com/a/a/b,com.facebook.katana,external,90,164,39
+startActivityForResult,com/a/a/b,com.facebook.katana,external,90,164,39
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,90,164,39
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,90,166,43
+startActivity,com/admob/android/ads/InterstitialAd,null,external,123,177,44
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,123,177,44
+startActivity,com/admob/android/ads/q,null,external,123,177,53
+startActivity,com/mrd/SG3D/MainAct,com/scoreloop/client/android/ui/PostScoreOverlayActivity,external,123,257,61
+startActivityForResult,com/mrd/SG3D/MainAct,com/scoreloop/client/android/ui/PostScoreOverlayActivity,external,123,257,61
+startActivity,com/mrd/SG3D/MainAct,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,123,257,63
+startActivity,com/mrd/SG3D/MainAct,com/scoreloop/client/android/ui/ShowResultOverlayActivity,external,123,257,63
+startActivityForResult,com/mrd/SG3D/MainAct,com/scoreloop/client/android/ui/ShowResultOverlayActivity,external,123,257,63
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,153,374,71
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,153,374,80
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,153,374,80
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,153,374,96
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,157,383,109
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,157,383,109
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,157,386,124
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,157,386,147

@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.SEND_SMS]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.VIBRATE]-,0,0
+startActivity,cn/domob/android/a/b,null,external,0,8,0
+startActivity,cn/domob/android/ads/e,android.intent.action.PACKAGE_ADDED,external,83,95,5
+startActivity,cn/domob/android/ads/g$2,null,external,83,95,8
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$5,null,external,83,121,32
+startActivity,cn/domob/android/ads/p,android.intent.action.VIEW,external,83,138,33
+startActivity,cn/domob/android/ads/v$6,cn/domob/android/ads/DomobActivity,external,88,138,38
+startActivity,com/umeng/api/common/Manager,com/umeng/api/activity/UpdateStatusActivity,external,100,475,62
+startActivity,com/umeng/api/common/Manager,com/umeng/api/activity/OauthActivity,external,100,475,62
+startActivity,kk/scofield/BeautyChannel$1,kk/scofield/PosterShow,external,114,495,77
+startActivity,kk/scofield/FashionChannel$1,kk/scofield/PosterShow,external,114,495,79
+startActivity,kk/scofield/GoodsInfo,android.intent.action.VIEW,external,114,514,81
+startActivity,kk/scofield/GoodsInfo,android.intent.action.SENDTO,external,114,514,81
+startActivity,kk/scofield/HotType$1,kk/scofield/PosterShow,external,114,514,83
+startActivity,kk/scofield/LadyChannel$1,kk/scofield/PosterShow,external,114,514,85
+startActivity,kk/scofield/ManChannel$1,kk/scofield/PosterShow,external,114,514,88
+startActivity,kk/scofield/NeiKuType$1,kk/scofield/GoodsInfo,external,114,514,90
+startActivity,kk/scofield/PosterShow,kk/scofield/GoodsInfo,external,114,514,94
+startActivity,kk/scofield/QingQuType$1,kk/scofield/GoodsInfo,external,114,514,96
+startActivity,kk/scofield/RecommendType$1,kk/scofield/PosterShow,external,114,514,99
+startActivity,kk/scofield/RecommendType$2,kk/scofield/PosterShow,external,114,514,100
+startActivity,kk/scofield/view/MDialog$1,kk/scofield/GoodsInfo,external,114,620,104
+startActivity,kk/scofield/WenXiongType$1,kk/scofield/GoodsInfo,external,114,638,105

@@ -1,0 +1,47 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,android/support/v4/app/Fragment,null,external,0,15,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,15,4
+startActivity,android/support/v4/app/Fragment,null,external,0,15,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,15,4
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,19,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,19,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,19,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,19,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,19,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,19,8
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,66,13
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,66,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,66,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,66,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,69,17
+startActivities,android/support/v4/content/ContextCompat,null,external,0,69,17
+startActivities,android/support/v4/content/ContextCompat,null,external,0,69,17
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,69,17
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,69,17
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,72,17
+startActivity,android/support/v4/content/IntentCompat,null,external,2,72,17
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,72,17
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,74,17
+startActivity,com/actionbarsherlock/internal/view/menu/ActionMenuItem,null,external,4,211,85
+startActivity,com/actionbarsherlock/internal/view/menu/MenuItemImpl,null,external,4,211,94
+startActivity,com/actionbarsherlock/widget/ActivityChooserView$Callbacks,null,external,4,243,131
+startActivity,com/actionbarsherlock/widget/ActivityChooserView$Callbacks,null,external,4,243,132
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,4,247,156
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,4,249,157
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,4,249,169
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,4,249,169
+startActivity,com/actionbarsherlock/widget/ShareActionProvider$ShareMenuItemOnMenuItemClickListener,null,external,4,249,175
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,8,287,177
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,8,287,177
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,20,319,179
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,24,328,185
+startActivity,com/webcraftbd/tv/ShowStationList$AppListFragment,com/webcraftbd/tv/TVDetail,external,39,397,205
+startActivity,com/webcraftbd/tv/TVActivity,android.intent.action.SEND,external,39,399,210
+startActivity,com/webcraftbd/tv/TVActivity,android.intent.action.VIEW,external,39,399,211
+startActivity,com/webcraftbd/tv/TVDetail,com/webcraftbd/tv/PlayTV,internal,39,401,213
+startActivity,com/yixia/zi/utils/IntentHelper,android.intent.action.MAIN,external,150,991,216
+startActivity,com/yixia/zi/utils/IntentHelper,android.intent.action.MAIN,external,150,991,216
+startActivity,io/vov/vitamio/activity/InitActivity$UIHandler,package,external,177,1035,256
+startActivity,io/vov/vitamio/LibsChecker,io.vov.vitamio.activity.InitActivity,external,177,1049,256
+sendBroadcast,io/vov/vitamio/widget/VideoView,com.android.music.musicservicecommand,external,217,1206,260

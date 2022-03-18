@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,1,0
+startActivity,com/droidhen/api/promptclient/more/MoreHelper,com/droidhen/api/promptclient/more/MoreActivity,external,0,0,0
+startActivity,com/droidhen/api/promptclient/prompt/PromptUtil,com/droidhen/api/promptclient/prompt/RecommendActivity,external,0,31,0
+startActivity,com/droidhen/api/promptclient/prompt/PromptUtil,com/droidhen/api/promptclient/prompt/RateActivity,external,0,31,0
+startActivity,com/droidhen/api/promptclient/prompt/RecommendActivity$1,android.intent.action.VIEW,external,0,31,2
+startActivity,com/droidhen/api/promptclient/util/RateUtil,android.intent.action.VIEW,external,0,35,3
+startActivity,com/droidhen/api/promptclient/util/RateUtil,android.intent.action.VIEW,external,0,35,3
+startActivity,com/droidhen/api/promptclient/util/ShareUtil,android.intent.action.SEND,external,0,77,3
+startActivity,com/droidhen/api/promptclient/util/ShareUtil,android.intent.action.SEND,external,0,77,3
+startActivityForResult,com/droidhen/api/promptclient/util/ShareUtil,android.intent.action.SEND,external,0,77,3
+startActivity,com/droidhen/api/scoreclient/ui/HighScoresHelper$1,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,55,101,17
+startActivity,com/droidhen/api/scoreclient/ui/HighScoresHelper,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,55,101,17
+startActivity,com/droidhen/api/scoreclient/ui/HighScoresHelper,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,55,101,17
+startActivity,com/droidhen/game/motorad/GameActivity$2,android.intent.action.VIEW,external,69,113,30
+startActivity,com/gaels/ads/AdActivity,com/gaels/ads/AdActivity,external,69,288,42
+startActivity,com/gaels/ads/AdActivity,com.gaels.android.apps.plus,external,69,288,43
+startActivityForResult,com/gaels/ads/AdActivity,com.gaels.android.apps.plus,external,69,288,43
+startActivity,com/gaels/ads/AdActivity,android.intent.action.VIEW,external,69,288,43

@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,7,6
+startActivity,com/tapjoy/TapjoyDisplayAd$2,com/tapjoy/TJCOffersWebView,external,45,21,19
+startActivity,com/tapjoy/TapjoyFeaturedApp,com/tapjoy/TapjoyFeaturedAppWebView,internal,45,29,19
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,45,29,19
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView,com/tapjoy/TJCOffersWebView,internal,45,29,19
+startActivity,com/tapjoy/TapjoyVideo,com/tapjoy/TapjoyVideoView,external,50,259,19
+startActivity,com/tapjoy/TapjoyVideoView$5,android.intent.action.VIEW,external,50,261,23
+startActivity,com/tapjoy/TapjoyVideoView$6,android.intent.action.VIEW,external,50,261,24
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,50,261,29
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,50,261,29
+startActivity,com/tapjoy/TJCOffersWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,50,261,30
+startActivity,com/westriversw/AdManager/Notice$NoticeHandler$1$1,android.intent.action.VIEW,external,63,286,35
+bindService,com/westriversw/CatWar/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,69,343,36
+startActivity,com/westriversw/CatWar/CatWar,android.intent.action.VIEW,external,76,343,38
+startActivity,com/westriversw/CatWar/CatWar,android.intent.action.VIEW,external,76,343,38
+startActivity,com/westriversw/CatWar/CatWar,android.intent.action.VIEW,external,82,343,38
+startService,com/westriversw/CatWar/CatWar,com/westriversw/CatWar/BillingService,external,97,343,38
+startActivity,mediba/ad/sdk/android/openx/MasAdView$AndroidBridge,mediba/ad/sdk/android/openx/MasAdClickWebview,external,97,343,38
+startActivity,mediba/ad/sdk/android/openx/MasAdView$AndroidBridge,android.intent.action.VIEW,external,97,343,38
+startActivity,mediba/ad/sdk/android/openx/MasAdView$AndroidBridge,android.intent.action.VIEW,external,97,343,38
+startActivity,net/daum/adam/publisher/AdInterstitial,net/daum/adam/publisher/impl/AdInterstitialActivity,external,101,343,38

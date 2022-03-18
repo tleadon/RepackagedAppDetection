@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.RECORD_AUDIO]-,1,1
+startService,com/cat/pianocgoyl/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,6,65,21
+startService,com/cat/pianocgoyl/BillingReceiver,com.cat.pianocnperfect.GET_PURCHASE_INFORMATION,external,6,65,21
+startService,com/cat/pianocgoyl/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,6,65,21
+bindService,com/cat/pianocgoyl/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,6,65,21
+bindService,com/cat/pianocgoyl/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,6,65,21
+startActivity,com/cat/pianocgoyl/cu,android.intent.action.VIEW,external,8,76,43
+startActivity,com/cat/pianocgoyl/cu,com/cat/pianocgoyl/AudioPlayerFloatingActivity,external,8,76,43
+startActivity,com/cat/pianocgoyl/da,android.intent.action.SEND,external,8,86,48
+startActivity,com/cat/pianocgoyl/do,android.intent.action.VIEW,external,8,88,57
+bindService,com/cat/pianocgoyl/DownloadMoreSongsActivity,com/cat/pianocgoyl/DownloadService,external,8,95,59
+bindService,com/cat/pianocgoyl/DownloadMoreSongsActivity,com/cat/pianocgoyl/DownloadService,external,8,95,59
+startActivity,com/cat/pianocgoyl/du,android.intent.action.VIEW,external,8,99,71
+startActivity,com/cat/pianocgoyl/dv,android.intent.action.SEND,external,8,99,72
+startActivity,com/cat/pianocgoyl/ed,com/cat/pianocgoyl/MainWindow,external,8,99,77
+startActivity,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/SongsListActivity,external,8,103,79
+startActivityForResult,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/SongsListActivity,external,8,103,79
+startActivity,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/FileManagerActivity,external,8,103,79
+startActivityForResult,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/FileManagerActivity,external,8,103,79
+startActivity,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/FileManagerActivity,external,8,103,79
+startActivityForResult,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/FileManagerActivity,external,8,103,79
+startActivity,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/HelpActivity,external,8,103,79
+startActivity,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/DownloadMoreSongsActivity,external,8,103,79
+startActivity,com/cat/pianocgoyl/LearnModeActivity,com/cat/pianocgoyl/Settings,external,8,103,79
+startActivity,com/cat/pianocgoyl/MainWindow,com/cat/pianocgoyl/HelpActivity,external,8,103,85
+startActivityForResult,com/cat/pianocgoyl/MainWindow,com/cat/pianocgoyl/HelpActivity,external,8,103,85
+startActivity,com/cat/pianocgoyl/MainWindow,com/cat/pianocgoyl/Settings,external,8,103,85
+startActivity,com/cat/pianocgoyl/MainWindow,com/cat/pianocgoyl/LearnModeActivity,external,8,103,85
+startActivity,com/cat/pianocgoyl/MainWindow,com/cat/pianocgoyl/RecordingsListActivity,external,8,103,85
+startActivityForResult,com/cat/pianocgoyl/MainWindow,com/cat/pianocgoyl/RecordingsListActivity,external,8,103,85
+startActivity,com/cat/pianocgoyl/MainWindow,android.intent.action.VIEW,external,8,103,85
+startActivity,com/cat/pianocgoyl/RecordingsListActivity,android.intent.action.VIEW,external,8,106,94
+startActivity,com/cat/pianocgoyl/RecordingsListActivity,com/cat/pianocgoyl/AudioPlayerFloatingActivity,external,8,106,94
+startActivity,com/cat/pianocgoyl/RecordingsListActivity,com/cat/pianocgoyl/FileManagerActivity,external,8,106,95
+startActivityForResult,com/cat/pianocgoyl/RecordingsListActivity,com/cat/pianocgoyl/FileManagerActivity,external,8,106,95
+startActivity,com/cat/pianocgoyl/SongsListActivity,com/cat/pianocgoyl/DownloadMoreSongsActivity,external,8,106,97

@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/miciniti/comcities/player/activities/Intro,com/miciniti/comcities/player/activities/Main,external,0,0,0
+startService,com/miciniti/comcities/player/activities/Radio,com/miciniti/comcities/player/ComcitiesService,internal,0,0,3
+sendBroadcast,com/miciniti/comcities/player/ComcitiesService,KEY_MESSAGE,external,5,0,8
+sendBroadcast,com/miciniti/comcities/player/ComcitiesService,com.comcities.player.intent.metadata,external,5,0,8

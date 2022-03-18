@@ -1,0 +1,45 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.RECEIVE_SMS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-[com.android.vending.CHECK_LICENSE]-[com.android.vending.BILLING]-[com.tmoney.vending.INBILLING]-[com.yandex.store.permission.BILLING]-[com.sec.android.iap.permission.BILLING]-[org.onepf.openiab.permission.BILLING]-,0,0
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,0,0,0
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,0,0,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,0,5,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,5,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,5,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,37,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,46,8
+startActivity,com/purplebrain/adbuddiz/sdk/AdBuddiz,com/purplebrain/adbuddiz/sdk/AdBuddizActivity,external,40,71,20
+bindService,com/purplebrain/adbuddiz/sdk/util/device/i,com.google.android.gms.ads.identifier.service.START,external,50,71,22
+bindService,com/purplebrain/adbuddiz/sdk/util/device/i,com.google.android.gms.ads.identifier.service.START,external,50,71,22
+bindService,com/purplebrain/adbuddiz/sdk/util/device/i,com.google.android.gms.ads.identifier.service.START,external,50,71,22
+startActivity,com/purplebrain/adbuddiz/sdk/util/f,android.intent.action.VIEW,external,50,71,22
+startActivity,com/purplebrain/adbuddiz/sdk/util/f,android.intent.action.VIEW,external,50,71,22
+startActivity,com/purplebrain/adbuddiz/sdk/util/h,android.intent.action.VIEW,external,50,71,25
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,96,151,51
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,96,158,51
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,96,158,51
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,122,259,52
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,122,269,52
+startService,com/unity3d/plugin/downloader/b/r,EPI,external,122,269,52
+startActivity,com/unity3d/plugin/downloader/b,android.settings.WIFI_SETTINGS,external,150,273,53
+bindService,com/unity3d/plugin/downloader/c/j,null,external,150,283,53
+bindService,com/unity3d/plugin/downloader/c/j,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,150,283,53
+startActivity,org/onepf/oms/appstore/FortumoBillingService,null,external,150,296,54
+startActivityForResult,org/onepf/oms/appstore/FortumoBillingService,null,external,150,296,54
+bindService,org/onepf/oms/appstore/GooglePlay$1,null,external,150,298,54
+bindService,org/onepf/oms/appstore/GooglePlay$1,null,external,150,298,54
+bindService,org/onepf/oms/appstore/GooglePlay$1,null,external,150,298,54
+bindService,org/onepf/oms/appstore/GooglePlay,com.android.vending.billing.InAppBillingService.BIND,external,150,298,54
+bindService,org/onepf/oms/appstore/googleUtils/IabHelper,null,external,150,298,54
+bindService,org/onepf/oms/appstore/googleUtils/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,150,302,54
+bindService,org/onepf/oms/appstore/nokiaUtils/NokiaStoreHelper,com.nokia.payment.iapenabler.InAppBillingService.BIND,external,150,304,54
+bindService,org/onepf/oms/appstore/nokiaUtils/NokiaStoreHelper,RemoteException: ,external,150,304,54
+bindService,org/onepf/oms/appstore/OpenAppstore$1,null,external,150,304,54
+bindService,org/onepf/oms/appstore/SamsungAppsBillingService,com.sec.android.iap.service.iapService,external,150,304,54
+bindService,org/onepf/oms/appstore/SamsungAppsBillingService,com.sec.android.iap.service.iapService,external,150,304,54
+startActivity,org/onepf/oms/appstore/SamsungAppsBillingService,android.intent.action.MAIN,external,150,304,54
+startActivityForResult,org/onepf/oms/appstore/SamsungAppsBillingService,android.intent.action.MAIN,external,150,304,54
+bindService,org/onepf/oms/OpenIabHelper,bindService() failed for ,external,150,304,54
+startActivity,org/onepf/openiab/UnityPlugin,org/onepf/openiab/UnityProxyActivity,external,150,304,54

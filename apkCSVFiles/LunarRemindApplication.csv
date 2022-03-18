@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.AUTHENTICATE_ACCOUNTS]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_CONTACTS]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.GET_ACCOUNTS]-[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_LOGS]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/a/a/c,android.intent.action.VIEW,external,0,0,0
+startActivity,com/a/a/p,android.intent.action.VIEW,external,29,53,4
+startActivity,com/feedback/a/c,com/feedback/ui/SendFeedback,external,33,92,4
+startActivity,com/feedback/a/c,com/feedback/ui/SendFeedback,external,33,92,4
+startActivity,com/feedback/a/c,com/feedback/ui/FeedbackConversations,external,33,92,4
+startActivity,com/feedback/a/c,com/feedback/ui/FeedbackConversation,external,33,92,4
+sendBroadcast,com/feedback/c/a,RetrieveReplyBroadcast,external,36,94,4
+sendBroadcast,com/feedback/c/b,postFeedbackFinished,external,36,94,4
+sendBroadcast,com/feedback/c/c,postFeedbackFinished,external,36,94,4
+startActivity,com/feedback/ui/c,com/feedback/ui/FeedbackConversations,external,36,94,7
+startActivity,com/oscaryang/lunarremind/ui/ContactDetailActivity,com/oscaryang/lunarremind/ui/ComposeActivity,external,56,95,29
+startActivity,com/oscaryang/lunarremind/ui/ContactDetailActivity,com/oscaryang/lunarremind/ui/ComposeActivity,external,56,95,30
+startActivity,com/oscaryang/lunarremind/ui/ContactListActivity,com/oscaryang/lunarremind/ui/SettingActivity,external,56,95,30
+startActivity,com/oscaryang/lunarremind/ui/ContactListActivity,com/oscaryang/lunarremind/ui/ComposeActivity,external,56,95,30
+startActivity,com/oscaryang/lunarremind/ui/ContactListActivity,com/oscaryang/lunarremind/ui/RemindingEventDetailActivity,external,56,95,30
+startActivity,com/oscaryang/lunarremind/ui/ContactListActivity,com/oscaryang/lunarremind/ui/ComposeActivity,external,56,95,30
+startActivity,com/oscaryang/lunarremind/ui/ContactListActivity,com/oscaryang/lunarremind/ui/AboutActivity,external,56,95,31
+startActivity,com/oscaryang/lunarremind/ui/ContactListActivity,com/oscaryang/lunarremind/ui/ContactDetailActivity,external,56,95,32
+startActivity,com/oscaryang/lunarremind/ui/RemindingEventDetailActivity,com/oscaryang/lunarremind/ui/ContactListActivity,external,56,95,44
+startActivity,com/oscaryang/lunarremind/ui/s,market://details?id=,external,56,95,45
+startActivity,com/oscaryang/lunarremind/ui/SplashActivity,com/oscaryang/lunarremind/ui/RemindingEventDetailActivity,external,56,95,45
+startActivity,com/oscaryang/lunarremind/ui/SplashActivity,com/oscaryang/lunarremind/ui/ContactListActivity,external,56,95,45

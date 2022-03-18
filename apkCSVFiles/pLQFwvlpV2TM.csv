@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/gaban/legends/SplashScreenActivity$SplashHandler,com/gaban/legends/WebViewActivity,external,0,0,0
+startActivity,com/gaban/legends/WebViewActivity$MyWebChromeClient,android.intent.action.GET_CONTENT,external,0,26,2
+startActivityForResult,com/gaban/legends/WebViewActivity$MyWebChromeClient,android.intent.action.GET_CONTENT,external,0,26,2
+startActivity,com/gaban/legends/WebViewActivity$MyWebChromeClient,android.intent.action.GET_CONTENT,external,0,26,2
+startActivityForResult,com/gaban/legends/WebViewActivity$MyWebChromeClient,android.intent.action.GET_CONTENT,external,0,26,2
+startActivity,com/gaban/legends/WebViewActivity$MyWebViewClient,android.intent.action.VIEW,external,0,26,2
+startActivity,com/gaban/legends/WebViewActivity$MyWebViewClient,android.intent.action.DIAL,external,0,26,2
+startActivity,com/gaban/legends/WebViewActivity$MyWebViewClient,android.intent.action.SEND,external,0,26,2
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,26,6
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,26,6
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,26,6
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,26,6
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,28,10
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,17,33,12

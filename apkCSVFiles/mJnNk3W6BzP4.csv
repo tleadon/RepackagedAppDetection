@@ -1,0 +1,35 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.WAKE_LOCK]-[com.iyanagames.WaterScoot.permission.C2D_MESSAGE]-[com.iyanagames.WaterScoot.permission.C2D_MESSAGE]-[android.permission.USE_CREDENTIALS]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-,1,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,null,external,0,50,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,53,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+sendBroadcast,com/iyanagames/WaterScoot/CommonUtilities,iyanga.NitroxRacing.DISPLAY_MESSAGE,external,8,104,27
+startActivity,com/iyanagames/WaterScoot/GamePlayScreen,android.intent.action.VIEW,external,8,104,27
+startActivity,com/iyanagames/WaterScoot/GamePlayScreen,android.intent.action.VIEW,external,8,104,27
+startActivity,com/iyanagames/WaterScoot/GamePlayScreen,android.intent.action.VIEW,external,8,104,27
+startActivity,com/iyanagames/WaterScoot/GamePlayScreen,android.intent.action.VIEW,external,8,104,27
+bindService,com/umeng/common/net/a$b,null,external,103,685,34
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,103,685,34
+startActivity,com/umeng/common/net/d$b,android.intent.action.VIEW,external,127,694,34
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,135,768,34
+startActivity,com/umeng/common/util/h,null,external,141,900,34
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,141,900,34

@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+bindService,com/umeng/common/net/a$b,null,external,39,153,6
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,39,153,6
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,63,156,6
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,63,235,6
+startActivity,com/umeng/common/util/g,null,external,77,351,6
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,77,351,6
+startActivity,com/umeng/fb/d,com/umeng/fb/ContactActivity,external,85,351,9
+startActivity,com/umeng/fb/FeedbackAgent,com/umeng/fb/ConversationActivity,external,85,351,10
+startActivity,mobi/shoumeng/sdk/poster/IntegralWallPoster$2,android.settings.SETTINGS,external,121,357,27
+startActivity,mobi/shoumeng/sdk/poster/IntegralWallPoster$2,android.settings.WIRELESS_SETTINGS,external,121,357,27
+startActivity,mobi/shoumeng/sdk/poster/IntegralWallPoster$4,mobi/shoumeng/sdk/IntegralAppListActivity,external,121,357,29
+startActivity,mobi/shoumeng/sdk/poster/IntegralWallPoster,mobi/shoumeng/sdk/IntegralAppListActivity,external,121,357,30
+startActivity,mobi/shoumeng/sdk/poster/RecommandPoster,mobi/shoumeng/sdk/RecommendListActivity,external,121,357,41
+startService,mobi/shoumeng/sdk/receiver/BootReceiver,mobi/shoumeng/sdk/service/ResetNotifyTimeService,external,121,357,43
+startActivity,mobi/shoumeng/sdk/receiver/BootReceiver,android.intent.action.VIEW,external,121,357,43
+startService,mobi/shoumeng/sdk/receiver/DownloadFinishCountReceiver,mobi/shoumeng/sdk/service/DownloadFinishCountService,internal,121,357,43
+startService,mobi/shoumeng/sdk/receiver/IntegralWallReceiver,mobi/shoumeng/sdk/service/IntegralWallService,internal,121,357,43
+startService,mobi/shoumeng/sdk/receiver/SystemClockAlarmReceiver$1,mobi/shoumeng/sdk/service/PosterNotifyService,external,121,357,43
+sendBroadcast,mobi/shoumeng/sdk/service/DownloadFinishCountService,null,internal,121,357,43
+sendBroadcast,mobi/shoumeng/sdk/service/DownloadService$1,mobi.shoumeng.sdk.download.finish,external,121,357,43
+startService,mobi/shoumeng/sdk/service/DownloadService,mobi/shoumeng/sdk/service/DownloadService,internal,121,357,43
+startActivity,mobi/shoumeng/sdk/service/DownloadService,android.intent.action.VIEW,internal,121,357,43
+startActivity,mobi/shoumeng/sdk/service/DownloadUtils,android.intent.action.VIEW,external,121,357,43
+sendBroadcast,mobi/shoumeng/sdk/service/RAppService$1,mobi.shoumeng.SDK.RAppService,external,121,365,43
+startActivity,mobi/shoumeng/sdk/ShouMengSDK$7,android.settings.SETTINGS,external,125,406,46
+startActivity,mobi/shoumeng/sdk/ShouMengSDK$7,android.settings.WIRELESS_SETTINGS,external,125,406,46
+startActivity,org/cocos2dx/lib/Cocos2dxExtra,android.intent.action.VIEW,external,192,694,64

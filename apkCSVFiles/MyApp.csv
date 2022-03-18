@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-,0,0
+startActivity,com/casee/adsdk/AdClickListener,android.intent.action.VIEW,external,0,20,19
+startActivity,org/loon/framework/android/game/LGameActivity$3,android.intent.action.VIEW,external,28,443,48
+startActivity,org/loon/framework/android/game/LGameActivity$9,android.settings.WIRELESS_SETTINGS,external,28,443,52

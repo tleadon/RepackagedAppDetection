@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_CONTACTS]-[android.permission.VIBRATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,cn/luna/sanhuang/hangzhou/FingerDancing,cn/luna/sanhuang/hangzhou/Name,external,0,27,13
+startActivity,cn/luna/sanhuang/hangzhou/MainMenu,com/crowntech/Utils/MoreGamesList,external,0,73,19
+startActivity,com/crowntech/Utils/MoreGamesList,android.intent.action.VIEW,external,0,108,44
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,108,44
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,108,45
+startActivity,com/google/ads/GoogleAdView$AdWebViewClient,android.intent.action.VIEW,external,8,108,49
+startActivity,com/scoreloop/android/coreui/HighscoresActivity,com/scoreloop/android/coreui/ProfileActivity,external,26,144,61
+startActivity,com/scoreloop/android/coreui/ProfileActivity,com/scoreloop/android/coreui/HighscoresActivity,external,26,144,72

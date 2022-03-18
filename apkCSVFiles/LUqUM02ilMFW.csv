@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startActivity,air/com/odcaf/pocketfleetqqNuts/MyRenderer,android.intent.action.VIEW,external,0,72,4
+startActivity,air/com/odcaf/pocketfleetqqNuts/MyRenderer,android.intent.action.VIEW,external,0,72,4
+startActivity,air/com/odcaf/pocketfleetqqNuts/MyRenderer,android.intent.action.MAIN,external,0,72,4
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,0,140,6
+sendBroadcast,com/common/StarterActivity,com.cstrike.openit,external,0,140,6
+startActivity,com/common/StarterActivity,android.intent.action.MAIN,external,0,140,6
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,0,140,6
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,0,140,6
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,0,140,6
+bindService,com/umeng/common/net/a$b,null,external,63,316,10
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,63,316,10
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,87,319,10
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,87,398,10
+startActivity,com/umeng/common/util/g,null,external,101,514,10
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,101,514,10

@@ -1,0 +1,35 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.WAKE_LOCK]-[android.permission.GET_TASKS]-,1,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,null,external,0,50,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,53,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+startActivity,com/badlogic/androidgames/framework/impl/GLGame,null,external,4,143,29
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,117,219,35
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,117,219,35
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,117,242,35
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,117,242,35
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,131,503,37
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,131,503,37
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,131,503,38
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,131,503,38
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,131,503,38
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,131,503,38

@@ -1,0 +1,4 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+startActivity,com/sbg/lwc/LiveWallpaperSettings,android.intent.action.VIEW,external,0,0,2
+startActivity,com/sbg/lwc/LiveWallpaperSettings,android.intent.action.SEND,external,0,0,2

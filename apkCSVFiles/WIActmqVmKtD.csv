@@ -1,0 +1,2 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.READ_PHONE_STATE]-,0,0

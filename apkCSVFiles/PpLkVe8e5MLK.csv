@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/belgesel/izle/Belgeselizle$1,com/belgesel/izle/BelgeselizleListe,external,0,0,0
+startActivity,com/belgesel/izle/Belgeselizle$3$1,com/belgesel/izle/BelgeselizleListe,external,0,0,0
+startActivity,com/belgesel/izle/BelgeselizleListe$1,android.settings.WIRELESS_SETTINGS,external,0,14,1
+startActivity,com/belgesel/izle/BelgeselizleListe$2,android.intent.action.VIEW,external,0,14,2
+startActivity,com/belgesel/izle/BelgeselizleListe$5,com/belgesel/izle/Belgeselizle,external,0,14,5
+startActivity,com/belgesel/izle/MMenu,android.intent.action.VIEW,external,0,69,7
+startActivity,com/belgesel/izle/MMenu,android.intent.action.VIEW,external,0,69,7
+startActivity,com/belgesel/izle/MMenu,android.intent.action.SEND,external,0,69,7
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,5,74,7
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,5,74,7
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,17,106,9
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,21,115,15

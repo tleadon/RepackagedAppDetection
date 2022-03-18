@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/android/kiwi/KiWiReader,null,internal,0,1,1
+startActivity,org/geometerplus/android/fbreader/BookDownloader,android.intent.action.VIEW,external,0,79,1
+startActivity,org/geometerplus/android/fbreader/BookmarksActivity,org/geometerplus/android/fbreader/BookmarkEditActivity,internal,0,99,4
+startActivityForResult,org/geometerplus/android/fbreader/BookmarksActivity,org/geometerplus/android/fbreader/BookmarkEditActivity,internal,0,99,4
+startActivity,org/geometerplus/zlibrary/ui/android/dialogs/ZLAndroidDialogManager,org/geometerplus/zlibrary/ui/android/dialogs/DialogActivity,external,222,463,30
+startActivity,org/geometerplus/zlibrary/ui/android/library/ZLAndroidLibrary,android.intent.action.VIEW,external,222,468,45

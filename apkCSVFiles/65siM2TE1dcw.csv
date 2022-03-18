@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/arthisoft/dressupgirl/Done_Activity,android.intent.action.SEND,external,4,13,7
+startActivity,com/arthisoft/dressupgirl/Done_Activity,android.intent.action.SEND,external,4,17,7
+startActivity,com/arthisoft/dressupgirl/Done_Activity,com/arthisoft/dressupgirl/More_Activity,external,4,20,8
+startActivity,com/arthisoft/dressupgirl/DressUpGirl_Activity,com/arthisoft/dressupgirl/Done_Activity,external,6,38,27
+startActivity,com/arthisoft/dressupgirl/DressUpGirl_Activity,com/arthisoft/dressupgirl/Splash_Screen_Activity,external,6,38,27
+startActivity,com/arthisoft/dressupgirl/DressUpGirl_Activity,com/arthisoft/dressupgirl/More_Activity,external,6,38,27
+startActivity,com/arthisoft/dressupgirl/DressUpGirl_Activity,com/arthisoft/dressupgirl/Splash_Screen_Activity,external,6,38,29
+startActivity,com/arthisoft/dressupgirl/Splash_Screen_Activity,com/arthisoft/dressupgirl/DressUpGirl_Activity,external,6,38,37
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,6,38,41
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,6,38,41
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,18,70,43
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,22,79,49

@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.READ_LOGS]-,1,1
+startActivity,com/android/sf/dna/Collection,null,external,0,15,1
+startActivity,com/android/sf/dna/Collection,android.intent.action.VIEW,external,0,20,1
+startService,com/android/sf/dna/Collection,android.intent.action.VIEW,external,0,20,1
+startService,com/android/sf/dna/To,3082025d308201c6a00302010202044de7355a300d06092a864886f70d010105050030723111300f060355040613086b656a69303030313111300f060355040813086b656a69303030313111300f060355040713086b656a69303030313111300f060355040a13086b656a69303030313111300f060355040b13086b656a69303030313111300f060355040313086b656a69303030313020170d3131303630323037303134365a180f32313232303530363037303134365a30723111300f060355040613086b656a69303030313111300f060355040813086b656a69303030313111300f060355040713086b656a69303030313111300f060355040a13086b656a69303030313111300f060355040b13086b656a69303030313111300f060355040313086b656a693030303130819f300d06092a864886f70d010101050003818d0030818902818100b2851f2f85af5894bdfd96b10b9465dfc10bf430d66f3837bd12f2346c438f3da0c16666cc23e7ae29c1f3ce30167d32376bb170b372fb8c87439b6ce7f0c3811818d60517131ddf1cead3db2e124f918d6b5db9899dd56fa28ff933c4ed855233d5318dd3d3b4fb28b00c5b8b8cec71a74a88a011d6c8256b90ce122a4a06330203010001300d06092a864886f70d0101050500038181000d72270a1c9970897335541d64ba729568a0f535aee7c20e5397f44d410e6cf76d0f97bc495eeb8e77d2d3d3ab6fe947515f4cb10468b073bf122a4e4bcdd2e6f0a6623af3bdc9039cc8139dc4fb32c58cf55f1661b730beaa5977faea9ace72e65448a002e5bffa6de75fcf14a1c3bcfd64d385c7e6654c4e2f52e635015dae,external,0,20,4
+startActivity,com/mobclick/android/b,android.intent.action.VIEW,external,0,64,6
+startActivity,com/mobclick/android/MobclickAgent,com/mobclick/android/UmengFeedback,external,25,107,9
+startActivity,net/yebaihe/xpzs/main,android.intent.action.VIEW,external,43,117,11
+startActivity,net/youmi/android/AdManager,android.intent.action.VIEW,external,47,117,11
+startActivity,net/youmi/android/AdManager,android.intent.action.VIEW,external,47,117,11
+startActivity,net/youmi/android/an,android.intent.action.VIEW,external,47,131,11
+startActivity,net/youmi/android/ay,android.intent.action.VIEW,external,47,131,12
+startActivity,net/youmi/android/ba,android.intent.action.SENDTO,external,47,187,13
+startActivity,net/youmi/android/bb,android.intent.action.VIEW,external,47,187,14
+startActivity,net/youmi/android/bc,android.intent.action.VIEW,external,47,187,15
+startActivity,net/youmi/android/bf,android.intent.action.DIAL,external,47,187,16
+startActivity,net/youmi/android/ch,android.intent.action.VIEW,external,53,195,20

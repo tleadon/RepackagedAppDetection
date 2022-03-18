@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/prime31/GoogleIABPlugin$3,com/prime31/GoogleIABProxyActivity,external,0,0,0
+bindService,com/prime31/GoogleIABPlugin,null,external,0,0,0
+bindService,com/prime31/util/IabHelper,null,external,0,0,0
+bindService,com/prime31/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,0,4,0
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,6,61,27

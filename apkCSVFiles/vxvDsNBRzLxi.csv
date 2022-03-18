@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/onevcat/unirate/UniRatePlugin,android.intent.action.VIEW,external,31,55,21
+bindService,com/umeng/common/net/a$b,null,external,70,103,25
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,103,25
+startService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,103,25
+startActivity,com/umeng/common/net/d$c,android.intent.action.VIEW,external,94,112,25
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,102,194,25
+startActivity,com/umeng/common/util/h,null,external,108,326,25
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,108,326,25
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,154,366,50

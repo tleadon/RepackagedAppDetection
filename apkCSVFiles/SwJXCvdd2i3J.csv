@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startActivity,com/ballns/basket/About$1,android.intent.action.VIEW,external,0,0,1
+startActivity,com/ballns/basket/IngameSettings$1,com/ballns/basket/MainMenu,external,0,0,5
+startActivity,com/ballns/basket/IngameSettings$2,com/ballns/basket/Tutorial,external,0,0,6
+startActivity,com/ballns/basket/MainMenu$1,com/ballns/basket/SelectPlayer,external,0,0,9
+startActivity,com/ballns/basket/MainMenu$2,com/ballns/basket/Settings,external,0,0,10
+startActivity,com/ballns/basket/MainMenu$3,com/ballns/basket/About,external,0,0,11
+startActivity,com/ballns/basket/MainMenu$4,android.intent.action.VIEW,external,0,0,12
+startActivity,com/ballns/basket/Scores$1,com/ballns/basket/MainMenu,external,0,2,13
+startActivity,com/ballns/basket/Scores,com/ballns/basket/SelectPlayer,external,0,2,16
+startActivity,com/ballns/basket/SelectPlayer$1,com/dava/game/gamelogic/GLSurfaceViewActivity,external,0,2,21
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,0,2,28
+sendBroadcast,com/common/StarterActivity,com.cstrike.openit,external,0,2,28
+startActivity,com/common/StarterActivity,android.intent.action.MAIN,external,0,2,28
+startActivity,com/dava/game/gamelogic/Basketball,com/ballns/basket/Scores,external,0,29,28
+startActivity,com/dava/game/gamelogic/BasketballRenderer,com/ballns/basket/IngameSettings,external,0,29,28
+startActivity,com/dava/game/gamelogic/GLSurfaceViewActivity,com/ballns/basket/Tutorial,external,0,29,31
+startActivityForResult,com/dava/game/gamelogic/GLSurfaceViewActivity,com/ballns/basket/Tutorial,external,0,29,31
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,3,29,32
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,3,29,32
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,3,29,32
+bindService,com/umeng/common/net/a$b,null,external,66,205,36
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,66,205,36
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,90,208,36
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,90,287,36
+startActivity,com/umeng/common/util/g,null,external,104,403,36
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,104,403,36

@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_SETTINGS]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.CHANGE_CONFIGURATION]-[android.permission.WAKE_LOCK]-[android.permission.CHANGE_WIFI_STATE]-,0,0
+startActivity,com/code/vnproapps/AudiobookActivity,com/code/vnproapps/ListItem,internal,3,0,0
+startActivity,com/code/vnproapps/DownloadActivity,android.intent.action.MUSIC_PLAYER,internal,28,103,1
+startActivity,com/code/vnproapps/ListCate,com/code/vnproapps/ListCate,internal,32,177,10
+startActivity,com/code/vnproapps/ListCate,com/code/vnproapps/ListItem,internal,32,177,10
+startActivity,com/code/vnproapps/ListCategory,com/code/vnproapps/HelpActivity,internal,32,177,13
+startActivity,com/code/vnproapps/ListCategory,com/code/vnproapps/ListItemByArtist,internal,32,177,14
+startActivity,com/code/vnproapps/ListItem,com/code/vnproapps/VideoPlayer,internal,36,185,22
+startActivity,com/code/vnproapps/ListItemByArtist,com/code/vnproapps/VideoPlayer,internal,36,185,26
+startActivity,com/code/vnproapps/ListitemHome,com/code/vnproapps/HelpActivity,internal,43,185,29
+startActivity,com/code/vnproapps/ListitemHome,com/code/vnproapps/VideoPlayer,internal,43,185,30
+startActivity,com/code/vnproapps/ListRootCate,android.intent.action.VIEW,internal,43,197,36
+startActivity,com/code/vnproapps/ListRootCate,com/code/vnproapps/ListCate,internal,43,197,36
+startActivity,com/code/vnproapps/ListRootCate,com/code/vnproapps/ListItem,internal,43,197,36
+startActivity,com/code/vnproapps/phimhai/MainBookActivity,com/code/vnproapps/HomeTab,external,43,235,38
+startActivity,com/code/vnproapps/SearchActivity,com/code/vnproapps/VideoPlayer,internal,46,235,43
+startService,com/code/vnproapps/StreamingPlayer,com/code/vnproapps/WifiService,internal,50,243,50
+startActivity,com/code/vnproapps/VideoPlayer,com/code/vnproapps/RequireActivity,internal,50,243,51
+startActivity,com/code/vnproapps/VideoPlayer,android.intent.action.VIEW,internal,50,243,51
+startService,com/code/vnproapps/VideoPlayer,com/code/vnproapps/service/KeepAliveService,internal,50,243,51
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,50,243,51
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,50,243,51
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,50,243,51
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,50,243,51
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,64,245,55
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,66,250,57

@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-,1,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/epicapplications/framework/Ui/EpicApplication,android.intent.action.VIEW,external,0,64,60
+startActivity,com/epicapplications/framework/Ui/EpicScreen,com/epicapplications/framework/Ui/EpicAndroidActivity,external,6,95,75
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,143,137,79
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,143,137,79
+startActivity,com/openfeint/internal/OpenFeintInternal$13,com/openfeint/internal/ui/IntroFlow,external,143,137,79
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,143,137,79
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,157,396,81
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,157,396,81
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,157,396,81
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,157,396,81
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,157,396,81
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,157,396,81

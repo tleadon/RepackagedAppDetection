@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.DISABLE_KEYGUARD]-[android.permission.WAKE_LOCK]-,1,1
+startActivity,com/admob/android/ads/Ad$1,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/GoogleAdView$AdWebViewClient,android.intent.action.VIEW,external,49,138,14
+startActivity,kr/mobilesoft/yxplayer/AboutView,android.intent.action.SEND,external,55,140,15
+startActivity,kr/mobilesoft/yxplayer/FilesView$2,android.intent.action.VIEW,external,76,180,36
+startActivity,kr/mobilesoft/yxplayer/FilesView$2,kr.mobilesoft.yxplayer.PLAYER,external,76,180,36
+startActivity,kr/mobilesoft/yxplayer/FilesView,kr.mobilesoft.yxplayer.PLAYER,external,76,202,51
+startActivity,kr/mobilesoft/yxplayer/Mosembro$1,android.intent.action.VIEW,external,80,202,69
+startActivity,kr/mobilesoft/yxplayer/Mosembro$1,kr.mobilesoft.yxplayer.PLAYER,external,80,202,69
+startActivity,kr/mobilesoft/yxplayer/PlaylistView$1,android.intent.action.VIEW,external,80,202,83
+startActivity,kr/mobilesoft/yxplayer/PlaylistView$1,kr.mobilesoft.yxplayer.PLAYER,external,80,202,83
+startActivity,kr/mobilesoft/yxplayer/PlaylistView,kr.mobilesoft.yxplayer.PLAYER,external,80,202,93
+startActivity,kr/mobilesoft/yxplayer/PlaylistView,kr.mobilesoft.yxplayer.PLAYER,external,80,202,93
+startActivity,kr/mobilesoft/yxplayer/RegisterView,android.intent.action.VIEW,external,80,233,96
+startActivity,kr/mobilesoft/yxplayer/SettingsView$5,kr.mobilesoft.yxplayer.yxplayer,external,80,233,107
+startActivity,kr/mobilesoft/yxplayer/StreamsView$1,android.intent.action.VIEW,external,80,233,109
+startActivity,kr/mobilesoft/yxplayer/StreamsView$1,kr.mobilesoft.yxplayer.PLAYER,external,80,233,109
+startActivity,kr/mobilesoft/yxplayer/yxplayer,kr.mobilesoft.yxplayer.RegisterView,external,88,361,129

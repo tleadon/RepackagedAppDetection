@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,null,external,0,50,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,53,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,94,27
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,94,27
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,94,27
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,4,94,27
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,18,96,31
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,20,101,33
+startActivity,memory/game/kids/fun/play/ui/MainActivity,memory/game/kids/fun/play/ui/PreferencesActivity,external,36,115,50

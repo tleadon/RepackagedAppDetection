@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COURSE_LOCATION]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,11
+startActivity,com/funbox/game/angxde/GMenu$1,com/funbox/game/angxde/Main,external,33,33,16
+startActivity,com/funbox/game/angxde/GMenu$2,com/funbox/game/angxde/Main,external,33,33,17
+startActivity,com/funbox/game/angxde/GMenu,com/funbox/game/promote/AdSplash,external,33,33,22
+startActivity,com/funbox/game/angxde/GMenu,com/funbox/game/angxde/OptionActivity,external,33,33,26
+startActivityForResult,com/funbox/game/angxde/GMenu,com/funbox/game/angxde/OptionActivity,external,33,33,26
+startActivity,com/funbox/game/angxde/GMenu,com/funbox/game/angxde/ScoreList,external,33,33,26
+startActivity,com/funbox/game/angxde/Main,com/funbox/game/angxde/GMenu,external,33,33,26
+startActivity,com/funbox/game/angxde/MoreGame,android.intent.action.VIEW,external,33,33,34
+startActivity,com/funbox/game/promote/AdSplash$4,android.intent.action.VIEW,external,33,33,40
+startActivity,com/funbox/game/promote/AdSplash$5,android.intent.action.VIEW,external,33,33,41
+startActivity,com/funbox/game/promote/AdSplash$6,android.intent.action.VIEW,external,33,33,42

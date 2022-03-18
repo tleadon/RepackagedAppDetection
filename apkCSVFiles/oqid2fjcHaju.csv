@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,1,1
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient$AnalyticsServiceConnection,null,external,4,282,0
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,4,282,0
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,4,282,0
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,4,282,0
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,4,282,0
+sendBroadcast,com/google/analytics/tracking/android/GANetworkReceiver,com.google.analytics.RADIO_POWERED,external,4,318,0
+startService,com/google/tagmanager/InstallReferrerReceiver,com/google/tagmanager/InstallReferrerService,external,98,371,1
+sendBroadcast,com/google/tagmanager/NetworkReceiver,com.google.analytics.RADIO_POWERED,external,100,376,1
+startActivity,com/google/tagmanager/PreviewActivity,null,external,155,378,1
+startActivity,org/kde/necessitas/industrius/QtNative,android.intent.action.VIEW,external,163,810,21

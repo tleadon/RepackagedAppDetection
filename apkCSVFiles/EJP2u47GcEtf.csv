@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,1,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,4
+startActivity,com/dotgears/c,null,external,0,80,19
+startActivityForResult,com/dotgears/c,null,external,0,80,19
+startActivity,com/dotgears/c,android.intent.action.VIEW,external,0,80,19
+startActivity,com/dotgears/flappy/d,com/dotgears/GameActivity,external,0,82,19
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,0,94,21
+startActivity,com/google/android/gms/internal/cp,null,external,0,104,24
+startActivityForResult,com/google/android/gms/internal/cp,null,external,0,104,24
+bindService,com/google/android/gms/internal/cx,com.google.android.gms,external,0,105,24
+startService,com/google/android/gms/internal/cx,com.google.android.gms,external,0,105,24
+bindService,com/google/android/gms/internal/cx,com.google.android.gms,external,0,105,24
+startService,com/google/android/gms/internal/cx,com.google.android.gms,external,0,105,24
+bindService,com/google/android/gms/internal/cx,com.google.android.gms,external,0,105,24
+startActivity,com/google/android/gms/plus/d,null,external,6,107,28
+startActivityForResult,com/google/android/gms/plus/d,null,external,6,107,28
+startService,com/google/tagmanager/InstallReferrerReceiver,com/google/tagmanager/InstallReferrerService,external,6,157,29
+startActivity,com/google/tagmanager/PreviewActivity,null,external,6,157,29

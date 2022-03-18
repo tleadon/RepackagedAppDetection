@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,35,66,3
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,35,66,3
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,35,66,3
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,38,66,3
+startActivity,com/gamesalad/common/GSPlayerActivity,android.intent.action.VIEW,external,50,175,4
+startActivity,com/gamesalad/common/GSPlayerActivity,com/gamesalad/common/plugins/KeyboardInputActivity,external,50,181,4
+startActivityForResult,com/gamesalad/common/GSPlayerActivity,com/gamesalad/common/plugins/KeyboardInputActivity,external,50,181,4
+startActivity,com/tencent/mobwin/core/k,com/tencent/mobwin/MobinWINBrowserActivity,external,408,314,20
+startActivity,com/tencent/mobwin/core/k,android.intent.action.DIAL,external,410,314,20
+startActivity,com/tencent/mobwin/core/k,android.intent.action.SENDTO,external,412,314,20
+startActivity,com/tencent/mobwin/core/k,android.intent.action.VIEW,external,412,314,20
+startActivity,com/tencent/mobwin/core/k,android.intent.action.VIEW,external,412,314,20
+startActivity,com/tencent/mobwin/core/k,android.intent.action.VIEW,external,412,314,20
+startActivity,com/tencent/mobwin/core/k,com/tencent/mobwin/MobinWINBrowserActivity,external,412,314,20
+startActivity,com/tencent/mobwin/core/w,android.intent.action.VIEW,external,412,354,20
+startActivity,com/tencent/mobwin/MobinWINBrowserActivity,android.intent.action.VIEW,external,412,440,25
+startActivity,com/tencent/mobwin/MobinWINBrowserActivity,android.intent.action.VIEW,external,412,440,25
+startActivity,com/tencent/mobwin/MobinWINBrowserActivity,android.intent.action.VIEW,external,412,440,25
+startActivity,com/tencent/mobwin/MobinWINBrowserActivity,android.intent.action.VIEW,external,412,440,25
+startActivity,com/tencent/webnet/al,android.intent.action.VIEW,external,412,445,33
+startActivity,com/tencent/webnet/JavaScript,null,external,498,616,39
+startActivity,com/tencent/webnet/WebNetInterface,com/tencent/webnet/WebNetMain,external,503,650,41

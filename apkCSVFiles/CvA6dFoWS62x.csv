@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-[android.permission.READ_PHONE_STATE]-[com.android.vending.BILLING]-[android.permission.GET_TASKS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+startService,com/nobleempire/GunDisassembly2/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,0,43,0
+startService,com/nobleempire/GunDisassembly2/BillingReceiver,com.nobleempire.dungeons.GET_PURCHASE_INFORMATION,external,0,43,0
+startService,com/nobleempire/GunDisassembly2/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,0,43,0
+bindService,com/nobleempire/GunDisassembly2/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,0,43,0
+bindService,com/nobleempire/GunDisassembly2/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,0,43,0
+startActivity,com/nobleempire/GunDisassembly2/NvEventQueueActivity,android.intent.action.VIEW,external,17,62,16

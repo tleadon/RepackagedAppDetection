@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/bfsgooglegames/GameHelper$31,null,external,0,0,0
+startActivityForResult,com/bfsgooglegames/GameHelper$31,null,external,0,0,0
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,24,27,6
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,24,27,6
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,30,77,13
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,30,77,13
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,30,77,13
+sendBroadcast,com/google/android/gms/common/images/ImageManager,com.google.android.gms.common.images.LOAD_IMAGE,external,35,85,13
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,35,87,15
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,35,87,15
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,35,87,15
+startActivity,com/google/android/gms/internal/bb$5,null,external,35,91,16
+startActivity,com/google/android/gms/internal/dz$a,null,external,61,99,22
+startActivityForResult,com/google/android/gms/internal/dz$a,null,external,61,99,22
+startActivity,com/google/android/gms/internal/o,null,external,61,103,23
+startActivityForResult,com/google/android/gms/internal/o,null,external,61,103,23
+startService,com/google/android/gms/internal/q,null,external,61,103,23
+startService,com/google/android/gms/internal/q,null,external,61,103,23
+bindService,com/google/android/gms/internal/q,null,external,61,103,23
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,131,155,48
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,131,178,63
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,131,178,63
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,157,279,64
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,157,289,64
+startService,com/unity3d/plugin/downloader/b/r,EPI,external,157,289,64
+startActivity,com/unity3d/plugin/downloader/b,android.settings.WIFI_SETTINGS,external,185,293,65
+bindService,com/unity3d/plugin/downloader/c/j,null,external,185,303,65
+bindService,com/unity3d/plugin/downloader/c/j,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,185,303,65

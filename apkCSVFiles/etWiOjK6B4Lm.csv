@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-,0,0
+startActivity,anywheresoftware/b4a/BA,null,external,0,6,0
+startActivityForResult,anywheresoftware/b4a/BA,null,external,0,6,0
+startActivity,anywheresoftware/b4a/BA,null,external,0,6,0
+startActivityForResult,anywheresoftware/b4a/BA,null,external,0,6,0
+startActivity,anywheresoftware/b4a/keywords/Common,null,external,0,99,2
+startService,anywheresoftware/b4a/keywords/Common,null,external,0,99,2
+startActivity,anywheresoftware/b4a/objects/ActivityWrapper,anywheresoftware.b4a.designer.includeTitle,external,0,106,4

@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.DISABLE_KEYGUARD]-[android.permission.WAKE_LOCK]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.READ_CONTACTS]-[android.permission.GET_TASKS]-[android.hardware.sensor.proximity]-[com.android.vending.CHECK_LICENSE]-,1,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,4,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,4,4
+bindService,com/a/a/a/a/i,null,external,0,25,5
+bindService,com/a/a/a/a/i,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,0,25,5
+startActivity,com/nlucas/iphonenotifications/a,com/nlucas/iphonenotifications/IPhoneNotificationsMultiChoiceAppList,external,0,29,6
+startActivity,com/nlucas/iphonenotifications/b,com/nlucas/iphonenotifications/Tutorial2Activity,external,0,29,7
+startActivity,com/nlucas/iphonenotifications/c,com/nlucas/notifications/commons/preference/DefaultSettingsPreferences,external,0,29,8
+startActivity,com/nlucas/iphonenotifications/e,android.settings.ACCESSIBILITY_SETTINGS,external,0,29,9
+startActivity,com/nlucas/iphonenotifications/g,com/nlucas/iphonenotifications/IPhoneNotificationsMultiChoiceAppList,external,0,29,10
+startActivity,com/nlucas/iphonenotifications/IPhoneNotificationsPreferences,com/nlucas/iphonenotifications/Tutorial1Activity,external,0,29,10
+startActivity,com/nlucas/iphonenotifications/IPhoneNotificationsService,com/nlucas/iphonenotifications/Tutorial2Activity,external,0,29,10
+sendBroadcast,com/nlucas/notifications/commons/c/c,com.nlucas.commons.action.BANNER_STATUS_UPDATE,external,8,29,10
+startActivity,com/nlucas/notifications/commons/d,null,external,8,29,11
+startActivity,com/nlucas/notifications/commons/d,null,external,8,29,11
+startActivity,com/nlucas/notifications/commons/popup/k,com/nlucas/notifications/commons/popup/PopupActivity,external,14,34,17
+startActivity,com/nlucas/notifications/commons/popup/k,com/nlucas/notifications/commons/popup/PopupActivity,external,14,34,17
+startActivity,com/nlucas/notifications/commons/preference/af,android.intent.action.VIEW,external,14,34,25
+startActivity,com/nlucas/notifications/commons/preference/ag,android.intent.action.SEND,external,14,34,26
+startActivity,com/nlucas/notifications/commons/preference/ah,android.intent.action.VIEW,external,14,34,27
+startActivity,com/nlucas/notifications/commons/preference/ai,null,external,14,34,28
+startActivity,com/nlucas/notifications/commons/preference/i,com/nlucas/notifications/commons/preference/AppearancePreferences,external,14,34,35
+startActivity,com/nlucas/notifications/commons/preference/j,com/nlucas/notifications/commons/preference/BannerPreferences,external,14,34,36
+startActivity,com/nlucas/notifications/commons/preference/k,com/nlucas/notifications/commons/preference/AlertPreferences,external,14,34,37
+startActivity,com/nlucas/notifications/commons/preference/l,com/nlucas/notifications/commons/preference/VibrationPreferences,external,14,34,38
+startActivity,com/nlucas/notifications/commons/preference/m,com/nlucas/notifications/commons/preference/SoundPreferences,external,14,34,39
+startActivity,com/nlucas/notifications/commons/preference/n,com/nlucas/notifications/commons/preference/PrivacyPreferences,external,14,34,40
+startActivity,com/nlucas/notifications/commons/preference/o,com/nlucas/notifications/commons/preference/QuietHoursPreferences,external,14,34,41
+startActivity,com/nlucas/notifications/commons/preference/p,com/nlucas/notifications/commons/preference/RemindersPreferences,external,14,34,42
+startActivity,com/nlucas/notifications/commons/preference/s,android.settings.ACCESSIBILITY_SETTINGS,external,14,34,45
+startActivityForResult,com/nlucas/notifications/commons/preference/s,android.settings.ACCESSIBILITY_SETTINGS,external,14,34,45
+startActivity,com/nlucas/notifications/commons/preference/v,android.intent.action.VIEW,external,14,34,47
+startActivity,com/nlucas/notifications/commons/preference/w,android.intent.action.VIEW,external,14,34,48
+startActivity,com/nlucas/notifications/multiChoiceAppList/c,com/nlucas/notifications/commons/preference/SingleAppPreferences,external,44,34,51
+startActivity,com/nlucas/notifications/multiChoiceAppList/e,com/nlucas/notifications/commons/preference/SingleAppPreferences,external,44,34,52

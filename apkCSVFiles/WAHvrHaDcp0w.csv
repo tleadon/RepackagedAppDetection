@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-,0,0
+startService,com/platoevolved/inappbilling/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,0,14,0
+startService,com/platoevolved/inappbilling/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,0,14,0
+startService,com/platoevolved/inappbilling/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,0,14,0
+bindService,com/platoevolved/inappbilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,14,0
+bindService,com/platoevolved/inappbilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,14,0
+bindService,com/unity3d/player/a/e,null,external,0,26,0
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,45,34,8
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,51,52,22

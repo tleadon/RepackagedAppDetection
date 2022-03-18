@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,com/chartboost/sdk/CBWebViewClient,android.intent.action.VIEW,external,22,48,5
+startActivity,com/chartboost/sdk/ChartBoost,com/chartboost/sdk/CBDialogActivity,external,22,48,5
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,22,48,5
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,22,48,6
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,146,114,9
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,146,114,9
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,146,137,9
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,146,137,9
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,160,398,11
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,160,398,11
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,160,398,12
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,160,398,12
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,160,398,12
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,160,398,12
+bindService,com/unity3d/player/a/e,null,external,186,858,21
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,231,866,29
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,237,884,43

@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/andoop/ag/BaseActivity,com/andoop/union/android/UnionList,external,0,43,2
+startActivity,com/andoop/ag/common/h,android.intent.action.VIEW,external,0,126,3
+startActivity,com/andoop/ag/common/m,android.intent.action.SENDTO,external,0,149,5
+startActivity,com/andoop/union/android/ac,android.intent.action.VIEW,external,3,233,5
+startActivity,com/andoop/union/android/y,com/andoop/union/android/UnionList,external,3,255,20
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,3,259,20
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,3,259,21
+startActivity,com/tapjoy/TapjoyDisplayAd$2,com/tapjoy/TJCOffersWebView,external,89,262,22
+startActivity,com/tapjoy/TapjoyFeaturedApp,com/tapjoy/TapjoyFeaturedAppWebView,internal,89,264,22
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,89,264,22
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView,com/tapjoy/TJCOffersWebView,internal,89,264,22
+startActivity,com/tapjoy/TapjoyVideo,com/tapjoy/TapjoyVideoView,external,92,352,22
+startActivity,com/tapjoy/TapjoyVideoView$5,android.intent.action.VIEW,external,92,354,26
+startActivity,com/tapjoy/TapjoyVideoView$6,android.intent.action.VIEW,external,92,354,27
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,92,354,32
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,92,354,32
+startActivity,com/tapjoy/TJCOffersWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,92,354,33

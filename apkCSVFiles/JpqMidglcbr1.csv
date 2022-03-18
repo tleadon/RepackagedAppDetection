@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.SEND_SMS]-[android.permission.RECEIVE_SMS]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,com/ahorrecomparando/Love/Quotes$6,com/ahorrecomparando/Love/About,external,2,58,19
+startActivity,com/ahorrecomparando/Love/Quotes$9,android.intent.action.SEND,external,2,58,23
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,5,58,23
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,5,58,23
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,17,90,25
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,21,99,31
+startActivity,com/nostra13/socialsharing/facebook/extpack/com/facebook/android/Facebook,com.facebook.katana,external,36,122,43
+startActivityForResult,com/nostra13/socialsharing/facebook/extpack/com/facebook/android/Facebook,com.facebook.katana,external,36,122,43
+startActivity,com/nostra13/socialsharing/facebook/extpack/com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,36,123,43

@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/ad_stir/adp/AdpapriView$6,android.intent.action.VIEW,external,0,0,1
+startActivity,com/ad_stir/adserver/AdServerView,android.intent.action.VIEW,external,0,11,2
+startActivity,com/ad_stir/rtb/RTBView$6,android.intent.action.VIEW,external,35,16,3
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,35,177,3
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,35,177,3
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,35,177,3
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,35,177,3
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,49,179,7
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,52,184,9
+startActivity,com/inmobi/activity/LauncherActivity,com/inmobi/activity/AdCreativeTesting,external,68,198,26
+startActivity,com/inmobi/activity/LauncherActivity,com/inmobi/activity/InMobiAdActivity,external,68,198,27
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,android.intent.action.DIAL,external,68,198,27
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,com/inmobi/androidsdk/IMBrowserActivity,external,68,198,27
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,android.intent.action.VIEW,external,68,198,27
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,com/inmobi/androidsdk/IMBrowserActivity,external,68,198,27
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,android.intent.action.VIEW,external,68,198,27
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,android.intent.action.VIEW,external,68,198,27
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$12,android.intent.action.VIEW,external,68,198,29
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView,com/inmobi/androidsdk/IMBrowserActivity,external,71,198,38
+startActivity,com/inmobi/androidsdk/ai/controller/JSUtilityController,android.intent.action.CALL,external,82,298,39
+startActivity,com/inmobi/androidsdk/ai/controller/JSUtilityController,android.intent.action.VIEW,external,82,298,39
+startActivity,com/inmobi/androidsdk/ai/controller/JSUtilityController,android.intent.action.SEND,external,82,298,39
+startActivity,com/inmobi/androidsdk/ai/controller/JSUtilityController,android.intent.action.VIEW,external,82,298,39
+startActivity,com/inmobi/androidsdk/impl/IMClickProcessingTask,com/inmobi/androidsdk/IMBrowserActivity,external,87,302,48
+startActivity,com/inmobi/androidsdk/impl/IMClickProcessingTask,android.intent.action.SENDTO,external,87,302,48
+startActivity,jp/ne/pickle/ASDLibrary/IApliManager,android.intent.action.VIEW,external,156,462,55

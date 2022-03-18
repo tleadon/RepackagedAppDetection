@@ -1,0 +1,25 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.GET_ACCOUNTS]-[android.permission.USE_CREDENTIALS]-,0,0
+startActivity,com/lonelycatgames/Xplore/About$1,android.intent.action.VIEW,external,160,30,17
+startActivity,com/lonelycatgames/Xplore/Browser$3,android.intent.action.VIEW,external,160,32,26
+startActivity,com/lonelycatgames/Xplore/ClearDefaultsOperation$1,android.settings.APPLICATION_DETAILS_SETTINGS,external,167,175,42
+startActivity,com/lonelycatgames/Xplore/ConfigurationOperation,com/lonelycatgames/Xplore/Configuration,external,167,175,44
+startActivityForResult,com/lonelycatgames/Xplore/ConfigurationOperation,com/lonelycatgames/Xplore/Configuration,external,167,175,44
+startActivity,com/lonelycatgames/Xplore/HexViewOperation$1,null,external,205,302,69
+startActivity,com/lonelycatgames/Xplore/HexViewOperation,com/lonelycatgames/Xplore/HexViewer,external,205,308,69
+startActivity,com/lonelycatgames/Xplore/IntentOperation,null,external,205,315,72
+startActivity,com/lonelycatgames/Xplore/IntentOperation,null,external,205,315,72
+sendBroadcast,com/lonelycatgames/Xplore/LocalFileSystem,android.intent.action.MEDIA_MOUNTED,external,205,414,84
+startActivity,com/lonelycatgames/Xplore/NewTextFileOperation,null,external,273,511,94
+startActivity,com/lonelycatgames/Xplore/NewTextFileOperation,com/lonelycatgames/Xplore/TextEditor,external,273,515,94
+startActivity,com/lonelycatgames/Xplore/OpenBySystemOperation,null,external,273,515,94
+startActivityForResult,com/lonelycatgames/Xplore/OpenBySystemOperation,null,external,273,515,94
+startActivity,com/lonelycatgames/Xplore/OpenBySystemOperation,null,external,273,515,94
+startActivity,com/lonelycatgames/Xplore/Pane,null,external,273,520,125
+startActivityForResult,com/lonelycatgames/Xplore/Pane,null,external,273,520,125
+startActivity,com/lonelycatgames/Xplore/Pane,null,external,273,520,125
+startActivity,com/lonelycatgames/Xplore/PicasaFileSystem$ViewOriginalOperation,null,external,290,549,130
+startActivity,com/lonelycatgames/Xplore/PicasaFileSystem,null,external,298,559,130
+startActivity,com/lonelycatgames/Xplore/ShareOperation,null,external,298,692,133
+startActivity,com/lonelycatgames/Xplore/TextEditOperation,com/lonelycatgames/Xplore/TextEditor,external,298,786,133
+startActivity,org/acra/sender/EmailIntentSender,android.intent.action.SEND,external,313,1454,219

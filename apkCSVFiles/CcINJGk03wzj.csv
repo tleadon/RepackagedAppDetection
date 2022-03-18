@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+startActivity,com/game/monster/LevelMenuScrollerActivity$4,com/game/monster/ParticlyActivity,external,0,0,1
+startActivity,com/game/monster/LevelMenuScrollerActivity,com/game/monster/WorldMenuScrollerActivity,external,0,0,1
+startActivity,com/game/monster/LevelMenuScrollerActivity,com/game/monster/WorldMenuScrollerActivity,external,0,0,1
+startActivity,com/game/monster/LoadingScreen,com/game/monster/WorldMenuScrollerActivity,external,0,0,4
+startActivity,com/game/monster/ParticlyActivity,com/game/monster/LevelMenuScrollerActivity,external,0,0,4
+startActivity,com/game/monster/ParticlyActivity,com/game/monster/WorldMenuScrollerActivity,external,0,0,9
+startActivity,com/game/monster/ParticlyActivity,com/game/monster/LevelMenuScrollerActivity,external,0,0,9
+startActivity,com/game/monster/ParticlyActivity,com/game/monster/LoadingScreen,external,0,0,9
+startActivity,com/game/monster/WorldMenuScrollerActivity$5,com/game/monster/LevelMenuScrollerActivity,external,0,12,9
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,22,159,37
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,22,159,38

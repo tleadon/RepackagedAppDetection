@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/blog/gue/Contact$1,android.intent.action.SEND,external,0,0,1
+startActivity,com/blog/gue/DetailFeed$1,android.intent.action.SEND,external,0,0,2
+startActivity,com/blog/gue/Feed$2,com/blog/gue/DetailFeed,external,0,0,9
+startActivity,com/blog/gue/Feed$2,android.intent.action.VIEW,external,0,0,9
+startActivity,com/blog/gue/Home$1,com/blog/gue/Feed,external,0,23,10
+startActivity,com/blog/gue/Home$1,com/blog/gue/SocialMedia,external,0,23,10
+startActivity,com/blog/gue/Home$1,com/blog/gue/Youtube,external,0,23,10
+startActivity,com/blog/gue/Home$1,com/blog/gue/Contact,external,0,23,10
+startActivity,com/blog/gue/SplashScreen$Loading,com/blog/gue/Home,external,0,47,16
+startActivity,com/blog/gue/Youtube$1,android.intent.action.VIEW,external,0,52,17

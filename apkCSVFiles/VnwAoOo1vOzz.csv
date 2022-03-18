@@ -1,0 +1,39 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.SET_WALLPAPER]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.GET_ACCOUNTS]-[android.permission.WAKE_LOCK]-,0,0
+bindService,com/appnext/appnextsdk/Appnext$13,com/appnext/appnextsdk/DownloadService,external,0,2,0
+startService,com/appnext/appnextsdk/Appnext$13,com/appnext/appnextsdk/DownloadService,external,0,2,0
+bindService,com/appnext/appnextsdk/Appnext$13,com/appnext/appnextsdk/DownloadService,external,2,4,0
+startService,com/appnext/appnextsdk/Appnext$13,com/appnext/appnextsdk/DownloadService,external,2,4,0
+startActivity,com/appnext/appnextsdk/Appnext$13,android.intent.action.VIEW,external,2,4,0
+bindService,com/appnext/appnextsdk/Appnext$Click1,com/appnext/appnextsdk/DownloadService,external,24,6,24
+startService,com/appnext/appnextsdk/Appnext$Click1,com/appnext/appnextsdk/DownloadService,external,24,6,24
+bindService,com/appnext/appnextsdk/Appnext$Click1,com/appnext/appnextsdk/DownloadService,external,24,6,24
+startService,com/appnext/appnextsdk/Appnext$Click1,com/appnext/appnextsdk/DownloadService,external,24,6,24
+startActivity,com/appnext/appnextsdk/Appnext$Click1,android.intent.action.VIEW,external,24,6,24
+startActivity,com/appnext/appnextsdk/Appnext$Click1,android.intent.action.VIEW,external,24,6,24
+startActivity,com/appnext/appnextsdk/Appnext$DownloadReceiver,android.intent.action.VIEW,external,24,14,24
+startActivity,com/appnext/appnextsdk/Appnext$DownloadReceiver,android.intent.action.VIEW,external,24,17,24
+startActivity,com/appnext/appnextsdk/Appnext,android.intent.action.VIEW,external,99,73,26
+startActivity,com/appnext/appnextsdk/Appnext,com/appnext/appnextsdk/PopupActivity,external,103,73,27
+bindService,com/appnext/appnextsdk/Appnext,com/appnext/appnextsdk/PopupActivity,external,103,73,27
+sendBroadcast,com/appnext/appnextsdk/C_apnxt,lgeWapService.prov.persister.INSTALL_BROWSER,external,120,113,31
+startActivity,com/appnext/appnextsdk/DownloadService$1,null,external,120,113,31
+sendBroadcast,com/appnext/appnextsdk/D_apnxt,android.intent.action.OMADM_BROWSER_SET_HOMEPAGE,external,120,137,31
+sendBroadcast,com/appnext/appnextsdk/D_apnxt,android.intent.action.OMADM_BROWSER_SET_HOMEPAGE,external,120,137,31
+sendBroadcast,com/appnext/appnextsdk/E_apnxt,android.intent.action.CSC_UPDATE_HOMEURL,external,120,137,31
+sendBroadcast,com/appnext/appnextsdk/F_apnxt,null,external,120,138,31
+startActivity,com/badlogic/gdx/backends/android/AndroidNet$1,android.intent.action.VIEW,external,170,289,44
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,170,1293,170
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,170,1293,170
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,182,1325,172
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,186,1334,178
+bindService,com/heyzap/internal/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,261,1514,190
+bindService,com/heyzap/internal/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,261,1514,190
+bindService,com/heyzap/internal/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,261,1514,190
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,263,1566,190
+startActivity,com/heyzap/sdk/ads/ClickHandler,android.intent.action.VIEW,external,270,1570,197
+startActivity,com/heyzap/sdk/ads/IncentivizedAd$2,impression_id,external,270,1585,218
+startActivity,com/heyzap/sdk/ads/InterstitialAd$3,impression_id,external,270,1585,218
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,270,1595,227
+startActivity,com/heyzap/sdk/ads/VideoAd$2,impression_id,external,270,1595,227
+startActivity,com/manigames/minecraftpuzzle/MainActivity,android.intent.action.VIEW,external,270,1616,232

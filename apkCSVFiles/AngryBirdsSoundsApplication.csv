@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_SETTINGS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,com/adwhirl/AdWhirlLayout,android.intent.action.VIEW,external,40,94,20
+startActivity,com/baylandblue/sounds/soundlib/MainActivity,android.intent.action.SEND,external,71,117,20
+startActivity,com/millennialmedia/android/MMAdView$5,android.intent.action.VIEW,external,82,226,29
+startActivity,com/millennialmedia/android/MMAdView,com/millennialmedia/android/MMAdViewOverlayActivity,internal,86,226,29
+startActivityForResult,com/millennialmedia/android/MMAdView,com/millennialmedia/android/MMAdViewOverlayActivity,internal,86,226,29
+startActivity,com/millennialmedia/android/MMAdView,android.intent.action.VIEW,internal,86,226,29
+startActivity,com/millennialmedia/android/MMAdView,com/millennialmedia/android/VideoPlayer,internal,86,226,29
+startActivityForResult,com/millennialmedia/android/MMAdView,com/millennialmedia/android/VideoPlayer,internal,86,226,29
+startActivity,com/millennialmedia/android/MMAdView,android.intent.action.DIAL,internal,86,226,29
+startActivity,com/millennialmedia/android/MMAdView,com/millennialmedia/android/VideoPlayer,internal,86,226,29
+startActivityForResult,com/millennialmedia/android/MMAdView,com/millennialmedia/android/VideoPlayer,internal,86,226,29
+startActivity,com/millennialmedia/android/MMAdView,com/millennialmedia/android/MMAdViewOverlayActivity,internal,86,226,29
+startActivityForResult,com/millennialmedia/android/MMAdView,com/millennialmedia/android/MMAdViewOverlayActivity,internal,86,226,29
+startActivity,com/millennialmedia/android/MMAdView,com/millennialmedia/android/MMAdViewOverlayActivity,internal,86,226,29
+startActivityForResult,com/millennialmedia/android/MMAdView,com/millennialmedia/android/MMAdViewOverlayActivity,internal,86,226,29
+startActivity,com/millennialmedia/android/MMAdView,android.intent.action.VIEW,internal,86,226,29
+startActivity,com/millennialmedia/android/OverlayWebViewClient,android.intent.action.VIEW,external,94,234,33
+startActivity,com/millennialmedia/android/OverlayWebViewClient,com/millennialmedia/android/VideoPlayer,external,94,234,33
+startActivityForResult,com/millennialmedia/android/OverlayWebViewClient,com/millennialmedia/android/VideoPlayer,external,94,234,33
+startActivity,com/millennialmedia/android/OverlayWebViewClient,android.intent.action.DIAL,external,94,234,33
+startActivity,com/millennialmedia/android/OverlayWebViewClient,com/millennialmedia/android/VideoPlayer,external,94,234,33
+startActivityForResult,com/millennialmedia/android/OverlayWebViewClient,com/millennialmedia/android/VideoPlayer,external,94,234,33
+startActivity,com/zestadz/android/ZestadzAd$1$1$1$1,android.intent.action.VIEW,external,94,234,37
+startActivity,com/zestadz/android/ZestadzAd$1$1$4$1,android.intent.action.VIEW,external,94,234,38
+startActivity,com/zestadz/android/ZestADZAdView$1$1$2$1,android.intent.action.VIEW,external,94,240,39

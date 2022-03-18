@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,33,91,19
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,33,91,19
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,33,91,19
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,33,91,19
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,47,93,23
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,50,98,25
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,72,167,64

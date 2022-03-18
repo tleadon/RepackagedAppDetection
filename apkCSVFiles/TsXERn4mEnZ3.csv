@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.SET_WALLPAPER]-[com.android.vending.CHECK_LICENSE]-,0,0
+startActivity,com/flurry/android/FlurryAds,adSpaceName,external,9,69,4
+startActivity,com/flurry/android/FlurryFullscreenTakeoverActivity,null,external,41,125,5
+bindService,com/google/android/vending/expansion/downloader/DownloaderClientMarshaller$Stub,EMH,external,41,826,21
+bindService,com/google/android/vending/expansion/downloader/DownloaderClientMarshaller$Stub,EMH,external,41,826,21
+startService,com/google/android/vending/expansion/downloader/impl/DownloaderService$InnerBroadcastReceiver,EPI,external,72,893,21
+startService,com/google/android/vending/expansion/downloader/impl/DownloaderService,EPI,external,74,897,21
+startService,com/google/android/vending/expansion/downloader/impl/DownloaderService,EPI,external,74,910,21
+sendBroadcast,com/google/android/vending/expansion/downloader/SystemFacade,null,external,120,1043,21
+bindService,com/google/android/vending/licensing/LicenseChecker,null,external,120,1051,21
+bindService,com/google/android/vending/licensing/LicenseChecker,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,120,1053,21
+startActivity,com/nordcurrent/AdSystem/AdSystem$4,android.intent.action.VIEW,external,122,1067,31
+startActivity,com/nordcurrent/curseofwerewolves/MainActivity$2$1,android.intent.action.VIEW,external,166,1167,32
+bindService,com/nordcurrent/curseofwerewolves/MainActivity,com.android.vending.billing.InAppBillingService.BIND,external,166,1167,32
+bindService,com/nordcurrent/curseofwerewolves/MainActivity,com/nordcurrent/curseofwerewolves/CowDownloaderService,external,166,1167,32
+startActivity,com/nordcurrent/curseofwerewolves/MainActivity,android.intent.action.SEND,external,166,1172,32

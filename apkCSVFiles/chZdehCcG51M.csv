@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/prime31/GoogleIABPlugin$3,com/prime31/GoogleIABProxyActivity,external,0,0,0
+bindService,com/prime31/GoogleIABPlugin,null,external,0,0,0
+bindService,com/prime31/util/IabHelper,null,external,0,0,0
+bindService,com/prime31/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,0,4,0
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,0,9,22
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,18,58,25
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,18,58,25
+bindService,com/unity3d/player/a/e,null,external,22,70,25
+startActivity,com/unity3d/player/UnityPlayer$17,null,external,67,82,33
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,73,100,50

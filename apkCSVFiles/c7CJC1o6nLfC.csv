@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,0,0,0
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,0,0,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,0,5,0
+bindService,com/outlinegames/unibill/IabHelper,null,external,0,5,0
+bindService,com/outlinegames/unibill/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,0,9,0
+startActivity,com/outlinegames/unibill/UniBill,com/outlinegames/unibill/PurchaseActivity,external,0,11,0
+sendBroadcast,com/ryanwebb/androidscreenshot/MainActivity$1,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,0,15,0
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,46,59,25

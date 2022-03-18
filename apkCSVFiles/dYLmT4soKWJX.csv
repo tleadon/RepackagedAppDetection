@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECORD_AUDIO]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,br/eng/mosaic/pigeon/client/gameplay/SelectPerson$1,br/eng/mosaic/pigeon/client/gameplay/Stage1,external,0,0,1
+startActivity,br/eng/mosaic/pigeon/client/gameplay/SelectPerson$2,br/eng/mosaic/pigeon/client/gameplay/Stage1,external,0,0,2
+startActivity,br/eng/mosaic/pigeon/client/gameplay/SelectPerson$3,br/eng/mosaic/pigeon/client/gameplay/Stage1,external,0,0,3
+startActivity,br/eng/mosaic/pigeon/client/gameplay/SelectPerson$4,br/eng/mosaic/pigeon/client/gui/menu/MainActivity,external,0,0,4
+startActivity,br/eng/mosaic/pigeon/client/gameplay/SelectPerson,br/eng/mosaic/pigeon/client/gui/menu/MainActivity,external,0,0,7
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Stage$5,br/eng/mosaic/pigeon/client/gameplay/Stage1,external,0,0,12
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Stage$6,br/eng/mosaic/pigeon/client/gameplay/SelectPerson,external,0,0,13
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Stage1$1,br/eng/mosaic/pigeon/client/gameplay/SelectPerson,external,0,0,21
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Stage1,br/eng/mosaic/pigeon/client/gameplay/Transition,external,0,0,24
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Stage2$1,br/eng/mosaic/pigeon/client/gameplay/SelectPerson,external,0,0,31
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Stage2,br/eng/mosaic/pigeon/client/gameplay/Transition,external,0,0,34
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Stage3$1,br/eng/mosaic/pigeon/client/gameplay/SelectPerson,external,0,0,41
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Stage3,br/eng/mosaic/pigeon/client/gameplay/Transition,external,0,0,44
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Transition$1,br/eng/mosaic/pigeon/client/gameplay/Stage2,external,0,0,49
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Transition$1,br/eng/mosaic/pigeon/client/gameplay/Stage3,external,0,0,49
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Transition$2,br/eng/mosaic/pigeon/client/gameplay/SelectPerson,external,0,0,50
+startActivity,br/eng/mosaic/pigeon/client/gameplay/Transition,br/eng/mosaic/pigeon/client/gameplay/SelectPerson,external,0,0,53
+startActivity,br/eng/mosaic/pigeon/client/gui/menu/MainActivity,br/eng/mosaic/pigeon/client/gameplay/SelectPerson,external,0,0,62
+startActivity,br/eng/mosaic/pigeon/client/gui/menu/MainActivity,br/eng/mosaic/pigeon/client/infra/SendMessage,external,0,0,62
+startActivity,br/eng/mosaic/pigeon/client/gui/menu/SplashScreen,br/eng/mosaic/pigeon/client/gui/menu/MainActivity,external,0,0,66
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,43,221,66
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,43,221,66
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,br/eng/mosaic/pigeon/client/gui/menu/MainActivity,external,43,222,66
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,43,252,66
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,43,252,66
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,55,284,68
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,59,293,74
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,92,469,111
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,92,469,112

@@ -1,0 +1,3 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,1,0
+startActivity,org/kde/necessitas/industrius/QtNative,android.intent.action.VIEW,external,0,73,22

@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,org/apache/cordova/CordovaActivity,null,external,3,873,16
+startActivityForResult,org/apache/cordova/CordovaActivity,null,external,3,873,16
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,3,873,23
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,3,873,23
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,16,958,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,16,958,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,958,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,958,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,958,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,958,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,958,35

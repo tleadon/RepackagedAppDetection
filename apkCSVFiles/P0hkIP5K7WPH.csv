@@ -1,0 +1,42 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-,1,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/umeng/ad/AdDetailActivity$a,android.intent.action.DIAL,external,31,197,20
+startActivity,com/umeng/ad/AdView,android.intent.action.VIEW,external,31,201,26
+startActivity,com/umeng/ad/AdView,android.intent.action.VIEW,external,31,201,26
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,31,201,26
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,31,201,26
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,31,201,26
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,31,201,26
+startActivity,com/umeng/ad/AdView,android.intent.action.DIAL,external,31,201,26
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,31,201,26
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,31,201,26
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,31,201,26
+startActivity,com/umeng/ad/i,android.intent.action.VIEW,external,40,203,33
+startActivity,com/umeng/common/b/g,null,external,47,261,36
+startActivity,com/umeng/common/b/g,android.intent.action.VIEW,external,47,261,36
+bindService,com/umeng/common/net/a$b,null,external,69,271,36
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,69,271,36
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,93,274,36
+sendBroadcast,com/umeng/fb/a/d,postFeedbackFinished,external,108,410,36
+sendBroadcast,com/umeng/fb/a/e,RetrieveReplyBroadcast,external,108,410,36
+sendBroadcast,com/umeng/fb/a/f,postFeedbackFinished,external,108,410,36
+startActivity,com/umeng/fb/ui/SendFeedback$b,com/umeng/fb/ui/FeedbackConversations,external,112,410,53
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/FeedbackConversation,external,116,410,53
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/FeedbackConversations,external,116,410,53
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/SendFeedback,external,116,410,53
+startActivity,com/umeng/xp/controller/b,android.intent.action.CALL,external,133,412,55
+startActivity,com/umeng/xp/controller/b,android.intent.action.VIEW,external,133,412,55
+startActivity,com/umeng/xp/view/ao,com/umeng/xp/view/ao,external,136,414,63
+startActivity,com/umeng/xp/view/aw,android.intent.action.VIEW,external,136,422,69
+startActivity,com/umeng/xp/view/L,android.intent.action.VIEW,external,136,434,80
+startActivity,com/wpd/game/popstar/PopStar,android.intent.action.VIEW,external,136,435,101
+startActivity,com/yahoo/ad/AdUnit,com/yahoo/ad/MoreGame,external,136,435,101
+startActivity,com/yahoo/ad/AdUpdate,android.intent.action.VIEW,external,136,484,109
+startActivity,com/yahoo/ad/Share$1$1,android.intent.action.SEND,external,136,656,115
+startActivity,com/yahoo/ad/Share$1$3,com/yahoo/ad/MoreGame,external,136,658,119
+startActivity,com/yahoo/ad/Weclome$1,com/wpd/game/popstar/PopStar,external,136,662,126
+startActivity,com/yahoo/ad/Weclome,com/wpd/game/popstar/PopStar,external,136,662,126

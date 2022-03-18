@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,25,43,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,25,43,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,25,43,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,25,43,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,25,43,0
+startService,com/appbrain/a/ar,com.appbrain.CONVERSION,external,25,47,5
+startService,com/appbrain/a/au,com/appbrain/AppBrainService,external,25,47,5
+startActivity,com/appbrain/a/bg,android.intent.action.VIEW,external,25,48,9
+startActivity,com/appbrain/a/bh,null,external,25,48,9
+startActivity,com/appbrain/a/bh,android.intent.action.VIEW,external,30,48,9
+startActivity,com/appbrain/a/bh,android.intent.action.VIEW,external,30,48,9
+startService,com/appbrain/a/br,com/appbrain/AppBrainService,external,30,48,9
+startService,com/appbrain/a/br,com/appbrain/AppBrainService,external,30,48,9
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,85,133,42

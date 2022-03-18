@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-,1,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,29,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,29,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,29,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,29,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,31,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,36,6
+startActivity,com/jumptap/adtag/actions/BrowserAdAction,android.intent.action.VIEW,external,37,50,19
+startActivity,com/jumptap/adtag/actions/CallAdAction,android.intent.action.DIAL,external,37,50,19
+startActivity,com/jumptap/adtag/actions/MapAdAction,android.intent.action.VIEW,external,37,50,19
+startActivity,com/jumptap/adtag/actions/StoreAdAction,android.intent.action.VIEW,external,37,50,19
+startActivity,com/jumptap/adtag/actions/VideoAdAction,android.intent.action.VIEW,external,37,50,19
+startActivity,com/jumptap/adtag/actions/YouTubeAdAction,android.intent.action.VIEW,external,37,50,19
+startActivity,com/jumptap/adtag/actions/YouTubeAdAction,android.intent.action.VIEW,external,37,50,19
+sendBroadcast,com/jumptap/adtag/media/JtVideoAdView,com.android.music.musicservicecommand,external,97,94,30
+startActivity,com/natenai/jniutil/NateGameJNIUtilLib,android.intent.action.VIEW,external,156,153,45

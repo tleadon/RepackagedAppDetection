@@ -1,0 +1,46 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,23,61,6
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,23,61,6
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,null,external,40,147,18
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,null,external,40,147,18
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,null,external,40,147,18
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,null,external,40,147,18
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,40,147,18
+bindService,com/google/android/gms/analytics/c$a,null,external,95,152,18
+bindService,com/google/android/gms/analytics/c,com.google.android.gms.analytics.service.START,external,95,152,18
+bindService,com/google/android/gms/analytics/c,com.google.android.gms.analytics.service.START,external,95,152,18
+bindService,com/google/android/gms/analytics/c,com.google.android.gms.analytics.service.START,external,95,152,18
+startService,com/google/android/gms/analytics/CampaignTrackingReceiver,com/google/android/gms/analytics/CampaignTrackingService,external,95,152,18
+sendBroadcast,com/google/android/gms/analytics/q,com.google.analytics.RADIO_POWERED,external,95,174,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,95,182,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,95,182,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,95,182,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,95,182,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,95,182,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,95,182,18
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,105,195,18
+startActivity,com/google/android/gms/dynamic/a$5,null,external,105,209,21
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,105,211,21
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,105,211,21
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,105,211,21
+startActivity,com/google/android/gms/internal/bl,Open GMSG did not contain a URL.,external,121,211,25
+startActivity,com/google/android/gms/internal/bo,com.google.android.gms.ads.AdActivity,external,121,211,25
+startActivity,com/google/android/gms/internal/dd$a,null,external,139,220,26
+startActivity,com/google/android/gms/internal/dd$a,null,external,139,220,26
+startActivity,com/google/android/gms/internal/dd,android.intent.action.VIEW,external,139,220,26
+startActivity,com/google/android/gms/internal/ef,null,external,139,227,34
+startActivityForResult,com/google/android/gms/internal/ef,null,external,139,227,34
+bindService,com/google/android/gms/internal/ej,com.google.android.gms,external,139,228,34
+startService,com/google/android/gms/internal/ej,com.google.android.gms,external,139,228,34
+bindService,com/google/android/gms/internal/ej,com.google.android.gms,external,139,228,34
+startService,com/google/android/gms/internal/ej,com.google.android.gms,external,139,228,34
+bindService,com/google/android/gms/internal/ej,com.google.android.gms,external,139,228,34
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,213,279,70
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,213,279,70
+sendBroadcast,com/google/android/gms/tagmanager/bn,com.google.analytics.RADIO_POWERED,external,231,303,70
+startService,com/google/android/gms/tagmanager/InstallReferrerReceiver,com/google/android/gms/tagmanager/InstallReferrerService,external,277,339,70
+startActivity,com/google/android/gms/tagmanager/PreviewActivity,null,external,277,339,71
+startActivity,com/unity3d/player/PsmMainActivity,com/unity3d/player/PsmUnityActivity,external,360,380,93
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,362,426,113

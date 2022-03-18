@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,1,1
+startActivity,blink/game/fl/ChooseSong$3$1,android.intent.action.VIEW,external,0,3,5
+startActivity,blink/game/fl/ChooseSong$3,blink/game/fl/SearchMusic,external,0,3,8
+startActivityForResult,blink/game/fl/ChooseSong$3,blink/game/fl/SearchMusic,external,0,3,8
+startActivity,blink/game/fl/ChooseSong$4$1,android.intent.action.VIEW,external,0,3,10
+startActivity,blink/game/fl/ChooseSong,blink/game/fl/UploadSong,external,0,3,13
+startActivityForResult,blink/game/fl/ChooseSong,blink/game/fl/UploadSong,external,0,3,13
+startActivity,blink/game/fl/Main$5,android.intent.action.VIEW,external,28,6,23
+startActivity,blink/game/fl/Main,blink/game/fl/ChooseSong,external,28,6,23
+startActivityForResult,blink/game/fl/Main,blink/game/fl/ChooseSong,external,28,6,23
+startActivity,blink/game/fl/Main,blink/game/fl/DroidzActivity,external,28,6,23
+startActivityForResult,blink/game/fl/Main,blink/game/fl/DroidzActivity,external,28,6,23
+startActivity,blink/game/fl/Main,blink/game/fl/Help,external,28,6,23
+startActivity,blink/game/fl/Main,blink/game/fl/Preferences,external,28,6,23
+startActivity,blink/game/fl/UploadSong$2,blink/game/fl/CalcBeat,external,28,34,27
+startActivityForResult,blink/game/fl/UploadSong$2,blink/game/fl/CalcBeat,external,28,34,27
+startActivity,com/admob/android/ads/d,null,external,61,34,28
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,61,67,38

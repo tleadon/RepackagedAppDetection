@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_NETWORK_STATE]-,0,0
+startActivity,com/admob/android/ads/b,null,external,33,0,1
+startActivity,com/admob/android/ads/j$a,android.intent.action.VIEW,external,33,22,2
+startActivity,com/s7turn/games/FarmActivity,com/s7turn/games/BuySeedActivity,external,33,33,28
+startActivity,com/s7turn/games/FriendListActivity,com/s7turn/games/BuySeedActivity,external,33,33,36
+startActivity,com/s7turn/games/FriendListActivity,com/s7turn/games/FarmActivity,external,33,33,37
+startActivity,com/s7turn/games/FriendListActivity,com/s7turn/games/FarmActivity,external,33,33,39
+startActivity,com/s7turn/games/FriendListActivity,com/s7turn/games/WarehouseActivity,external,33,33,39
+startActivity,com/s7turn/games/LoginActivity$2,com/s7turn/games/FriendListActivity,external,33,33,40
+startActivity,com/s7turn/games/LoginActivity$7,android.settings.WIRELESS_SETTINGS,external,33,33,45
+startActivity,com/s7turn/games/utils/FarmUtil,android.intent.action.VIEW,external,57,153,55
+startActivity,com/s7turn/games/utils/SessionManager,com/s7turn/games/LoginActivity,external,111,289,57

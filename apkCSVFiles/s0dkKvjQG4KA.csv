@@ -1,0 +1,25 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,1,0
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,0,0,0
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,0,0,0
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,0,0,0
+sendBroadcast,com/google/android/gms/common/images/ImageManager,com.google.android.gms.common.images.LOAD_IMAGE,external,5,8,0
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,5,10,2
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,5,10,2
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,5,10,2
+startActivity,com/google/android/gms/internal/bb$5,null,external,5,14,3
+startActivity,com/google/android/gms/internal/dz$a,null,external,31,22,9
+startActivityForResult,com/google/android/gms/internal/dz$a,null,external,31,22,9
+startActivity,com/google/android/gms/internal/o,null,external,31,26,10
+startActivityForResult,com/google/android/gms/internal/o,null,external,31,26,10
+startService,com/google/android/gms/internal/q,null,external,31,26,10
+startService,com/google/android/gms/internal/q,null,external,31,26,10
+bindService,com/google/android/gms/internal/q,null,external,31,26,10
+startActivity,com/prime31/GameServicesManager,com/prime31/PlayServicesProxyActivity,external,48,35,13
+startActivity,com/prime31/PlayGameServicesPlugin$13,null,external,50,45,13
+startActivityForResult,com/prime31/PlayGameServicesPlugin$13,null,external,50,45,13
+startActivity,com/prime31/PlayGameServicesPlugin$14,null,external,50,45,13
+startActivityForResult,com/prime31/PlayGameServicesPlugin$14,null,external,50,45,13
+startActivity,com/prime31/PlayGameServicesPlugin$9,null,external,50,45,13
+startActivityForResult,com/prime31/PlayGameServicesPlugin$9,null,external,50,45,13
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,56,100,40

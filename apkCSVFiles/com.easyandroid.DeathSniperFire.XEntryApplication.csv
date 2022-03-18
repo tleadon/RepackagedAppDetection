@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.VIBRATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.CHANGE_COMPONENT_ENABLED_STATE]-[android.permission.SET_PREFERRED_APPLICATIONS]-,1,1
+startService,com/easyandroid/DeathSniperFire/a,com.leadbolt.start.stop,external,0,0,0
+sendOrderedBroadcast,com/easyandroid/DeathSniperFire/XReceiver,com.leadbolt.restart,external,0,0,0
+startActivity,com/easyandroid/util/Spost,android.app.action.ADD_DEVICE_ADMIN,external,28,67,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,28,77,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,28,77,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,40,109,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,44,118,8
+startActivity,com/pnq/ExternalServer,android.intent.action.CALL,external,59,132,20
+startActivity,com/pnq/PopUpActivity$1,android.intent.action.VIEW,external,77,209,25
+startActivity,com/pnq/PopUpActivity$2,android.intent.action.VIEW,external,77,209,26
+bindService,com/umeng/common/net/a$b,null,external,134,298,34
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,134,298,34
+startService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,134,298,34
+startActivity,com/umeng/common/net/d$c,android.intent.action.VIEW,external,158,307,34
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,166,389,34
+startActivity,com/umeng/common/util/h,null,external,172,521,34
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,172,521,34
+startActivity,leyo/ad/handler/MyHandler$1,android.intent.action.VIEW,external,172,521,35
+startActivity,leyo/ad/handler/MyHandler$1,android.intent.action.VIEW,external,172,521,35
+startActivity,leyo/ad/util/CrossUtil,android.intent.action.VIEW,external,172,522,35
+startActivity,leyo/ad/util/CrossUtil,android.intent.action.VIEW,external,172,522,35

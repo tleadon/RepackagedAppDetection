@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,lk/bhasha/adaderanahd/activities/AdaDeranaTabActivity,android.intent.action.VIEW,internal,0,14,15
+startActivity,lk/bhasha/adaderanahd/activities/AdaDeranaTabActivity,lk/bhasha/adaderanahd/activities/CartoonViewPage,internal,0,14,15
+startActivity,lk/bhasha/adaderanahd/activities/AdaDeranaTabActivity,lk/bhasha/adaderanahd/activities/NewsPage,internal,0,14,15
+startActivity,lk/bhasha/adaderanahd/activities/AdaDeranaTabActivity,lk/bhasha/adaderanahd/activities/StoryPage,internal,0,14,15
+startActivity,lk/bhasha/adaderanahd/activities/AdaDeranaTabActivity,lk/bhasha/adaderanahd/activities/VideoPage,internal,0,14,15
+startActivity,lk/bhasha/adaderanahd/activities/NewsPage,android.intent.action.SEND,internal,0,14,23
+startActivity,lk/bhasha/adaderanahd/activities/SplashActivity,lk/bhasha/adaderanahd/activities/AdaDeranaTabActivity,external,0,14,24
+startActivity,lk/bhasha/adaderanahd/activities/StoryPage,android.intent.action.SEND,external,0,14,28

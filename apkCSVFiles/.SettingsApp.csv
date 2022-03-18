@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_SECURE_SETTINGS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.BLUETOOTH]-[android.permission.BLUETOOTH_ADMIN]-[android.permission.READ_SYNC_SETTINGS]-[android.permission.WRITE_SYNC_SETTINGS]-[android.permission.WRITE_SETTINGS]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.EXPAND_STATUS_BAR]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CAMERA]-[android.permission.CALL_PHONE]-[android.permission.NFC]-[android.permission.VIBRATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[com.android.vending.BILLING]-[android.permission.READ_LOGS]-,0,0
+startActivity,android/support/v4/app/h,null,external,0,13,5
+startActivityForResult,android/support/v4/app/h,null,external,0,13,5
+startActivity,android/support/v4/app/h,null,external,0,13,5
+startActivityForResult,android/support/v4/app/h,null,external,0,13,5
+startActivity,android/support/v4/app/h,null,external,0,15,9
+startActivityForResult,android/support/v4/app/h,null,external,0,15,9
+bindService,com/hb/settings/a/a,null,external,12,48,13
+bindService,com/hb/settings/a/a,com.android.vending.billing.InAppBillingService.BIND,external,12,48,13
+bindService,com/hb/settings/a/c,com.android.vending.billing.InAppBillingService.BIND,external,12,48,13
+startActivity,com/hb/settings/c/b,com/hb/settings/ui/BrightnessControlActivity,external,20,48,13
+startActivity,com/hb/settings/c/d,android.bluetooth.adapter.action.REQUEST_ENABLE,external,32,48,13
+startService,com/hb/settings/CommonReceiver,com/hb/settings/SettingsService,external,32,48,13
+sendBroadcast,com/hb/settings/g/c,android.intent.action.AIRPLANE_MODE,external,56,48,33
+sendBroadcast,com/hb/settings/g/i,com.android.settings,external,74,52,33
+startService,com/hb/settings/m,com/hb/settings/SettingsService,external,101,52,33
+startService,com/hb/settings/SettingsService,com/hb/settings/SettingsService,external,101,52,33
+startActivity,com/hb/settings/SettingsService,com/hb/settings/SettingsService,external,101,52,33
+startActivity,com/hb/settings/ui/WidgetSetupActivity,com/hb/settings/ui/OptionsActivity,external,105,52,37
+startActivityForResult,com/hb/settings/ui/WidgetSetupActivity,com/hb/settings/ui/OptionsActivity,external,105,52,37
+startService,com/hb/settings/ui/WidgetSetupActivity,com/hb/settings/SettingsService,external,105,52,37
+startService,com/hb/settings/ui/WidgetSetupActivity,com/hb/settings/SettingsService,external,105,52,37
+startService,com/hb/settings/ui/WidgetSetupActivity,com/hb/settings/SettingsService,external,105,52,37
+startActivity,com/hb/settings/ui/WidgetSetupActivity,com/hb/settings/ui/FeedbackOptionsActivity,external,105,52,38
+startActivity,com/hb/settings/ui/WidgetSetupActivity,com/hb/settings/ui/ClosableActivity,external,105,52,38
+startActivity,com/hb/settings/utils/e,android.intent.action.SEND,external,105,54,40

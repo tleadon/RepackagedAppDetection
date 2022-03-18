@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/jirbo/adcolony/ADCController,com/jirbo/adcolony/AdColonyOverlay,external,30,150,13
+startActivity,com/jirbo/adcolony/ADCController,com/jirbo/adcolony/AdColonyFullscreen,external,30,150,13
+sendBroadcast,com/jirbo/adcolony/ADCCustomVideoView,com.android.music.musicservicecommand,external,30,166,14
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.EDIT,external,45,277,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.EDIT,external,45,277,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.SEND,external,45,277,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.VIEW,external,45,277,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.VIEW,external,45,277,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.VIEW,external,45,277,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,com/jirbo/adcolony/AdColonyBrowser,external,45,277,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.VIEW,external,45,277,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.VIEW,external,45,277,19
+sendBroadcast,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.MEDIA_MOUNTED,external,45,307,19
+startActivity,com/jirbo/adcolony/ADCMRAIDHandler,android.intent.action.DIAL,external,45,319,19
+startActivity,com/jirbo/adcolony/AdColonyBrowser$2,android.intent.action.VIEW,external,45,319,20
+startActivity,com/jirbo/adcolony/ADCVideoHUD$4,android.intent.action.VIEW,external,45,420,35
+startActivity,com/jirbo/adcolony/ADCVideoHUD,android.intent.action.VIEW,external,45,420,35
+startActivity,com/jirbo/adcolony/ADCVideoHUD,com/jirbo/adcolony/AdColonyBrowser,external,45,423,35
+startActivity,com/jirbo/adcolony/ADCVideoHUD,android.intent.action.VIEW,external,45,423,35
+startActivity,com/jirbo/adcolony/ADCVideoHUD,com/jirbo/adcolony/AdColonyBrowser,external,45,423,35
+startActivity,com/jirbo/adcolony/ADCVideoHUD,android.intent.action.VIEW,external,45,424,37
+startActivity,com/jirbo/adcolony/ADCVideoHUD,com/jirbo/adcolony/AdColonyBrowser,external,45,424,37
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,91,484,68

@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.RESTART_PACKAGES]-[android.permission.GET_PACKAGE_SIZE]-[android.permission.CLEAR_APP_CACHE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_CONTACTS]-[com.android.browser.permission.READ_HISTORY_BOOKMARKS]-[com.android.browser.permission.WRITE_HISTORY_BOOKMARKS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,1
+startActivity,com/james/SmartUninstaller/About,android.intent.action.VIEW,external,12,0,4
+startActivity,com/james/SmartUninstaller/About,android.intent.action.VIEW,external,12,0,4
+startActivity,com/james/SmartUninstaller/About,com/james/SmartUninstaller/AppSettings,external,12,0,4
+startActivity,com/james/SmartUninstaller/ApplicationFavorite,null,external,81,44,12
+startActivity,com/james/SmartUninstaller/ApplicationFavorite,null,external,81,44,12
+startActivity,com/james/SmartUninstaller/ApplicationFavorite,com/james/SmartUninstaller/Main,external,83,44,14
+startActivity,com/james/SmartUninstaller/ApplicationList,null,external,97,69,14
+startActivity,com/james/SmartUninstaller/ApplicationList,null,external,97,69,14
+startActivity,com/james/SmartUninstaller/ApplicationList,null,external,97,69,14
+startActivity,com/james/SmartUninstaller/ApplicationList,null,external,97,69,14
+startActivity,com/james/SmartUninstaller/ApplicationList,null,external,97,69,14
+startActivity,com/james/SmartUninstaller/ApplicationList,com/james/SmartUninstaller/SdcardList,external,101,69,16
+startActivity,com/james/SmartUninstaller/ApplicationSearch,null,external,101,91,16
+startActivity,com/james/SmartUninstaller/ApplicationSearch,null,external,101,91,16
+sendBroadcast,com/james/SmartUninstaller/AppSettings,com.james.SmartUninstaller.UPDATE_STATUSBAR_INTEGRATION,external,101,91,18
+startActivity,com/james/SmartUninstaller/Information,null,external,129,112,27
+startActivity,com/james/SmartUninstaller/Information,com/james/SmartUninstaller/AndroidSystemInfo,external,129,122,28
+startActivity,com/james/SmartUninstaller/Information,com/james/SmartUninstaller/AppSettings,external,129,122,28
+sendBroadcast,com/james/SmartUninstaller/Main,com.james.SmartUninstaller.UPDATE_STATUSBAR_INTEGRATION,external,129,122,32
+startActivity,com/james/SmartUninstaller/s,android.intent.action.VIEW,external,139,127,36
+startActivity,com/james/SmartUninstaller/SdcardList,android.intent.action.VIEW,external,139,140,38
+startActivity,com/james/SmartUninstaller/SdcardList,android.intent.action.VIEW,external,139,140,38
+startActivity,com/james/SmartUninstaller/SdcardList,android.intent.action.VIEW,external,139,140,38
+startActivity,com/james/SmartUninstaller/Settings,null,external,139,150,38

@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_ACCOUNTS]-,0,1
+startActivity,com/applovin/impl/adview/ah,com/applovin/adview/AppLovinInterstitialActivity,external,0,2,0
+startActivity,com/applovin/impl/adview/x,android.intent.action.VIEW,external,0,2,1
+startActivity,com/applovin/impl/adview/x,android.intent.action.VIEW,external,0,2,1
+startActivity,com/applovin/impl/adview/x,android.intent.action.VIEW,external,0,2,1
+startService,com/applovin/sdk/AppLovinBootReceiver,com/applovin/sdk/AppLovinService,external,14,115,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,21,117,2
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,45,144,7
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,45,144,7
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,57,249,41

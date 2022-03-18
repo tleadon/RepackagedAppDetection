@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_CONTACTS]-,0,0
+startActivity,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivityForResult,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,2,2
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,2,3
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,2,3
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,2,3
+startActivity,com/NinjaMarathon/NinjaMarathon$Result,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,19,10,6
+startActivity,com/NinjaMarathon/NinjaMarathon$Title,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,19,10,8
+startActivity,com/NinjaMarathon/NinjaMarathon$Title,com/NinjaMarathon/Check,external,19,10,8
+startActivity,com/NinjaMarathon/NinjaMarathon$Title,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,19,10,8
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,49,103,16
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,49,103,25
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,49,103,25
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,49,103,41
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,53,112,54
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,53,112,54
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,53,115,69
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,53,115,92
+startActivity,jp/co/nobot/libAdMaker/libAdMaker$2,android.intent.action.VIEW,external,57,327,100
+startActivity,jp/co/nobot/libAdMaker/libAdMaker$2,android.intent.action.VIEW,external,57,327,100

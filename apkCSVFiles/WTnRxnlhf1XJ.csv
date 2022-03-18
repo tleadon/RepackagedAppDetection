@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[com.android.vending.BILLING]-,1,1
+bindService,com/andcreations/bubbleunblock/billing/IAB,com.android.vending.billing.InAppBillingService.BIND,external,0,105,0
+bindService,com/andcreations/bubbleunblock/billing/IAB,com.android.vending.billing.InAppBillingService.BIND,external,0,105,0
+startActivity,com/andcreations/bubbleunblock/BubbleUnblockAct,android.intent.action.VIEW,external,4,107,1
+startActivity,com/andcreations/bubbleunblock/scoreloop/ScoreloopImpl$3,com/scoreloop/client/android/ui/EntryScreenActivity,external,4,249,34
+startActivity,com/facebook/android/e$a,android.intent.action.VIEW,external,4,498,63
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,500,63
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,500,63
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,500,63
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,4,500,63
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,18,502,67
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,20,507,69
+startActivity,com/inject/InjectActivity$MyTask,null,external,36,528,81
+startActivity,com/inject/InjectActivity,null,external,36,528,81
+startActivity,com/inject/InjectActivity,android.intent.action.MAIN,external,36,541,81
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,153,648,82
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,153,648,82
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,153,648,82
+bindService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,153,648,82
+bindService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,153,648,82
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,167,661,92
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,167,661,92
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,167,661,92
+startActivityForResult,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,167,661,92
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,167,736,97
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,167,736,106
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,167,736,106
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,external,167,736,122
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,167,736,141
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,167,736,141
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,169,740,157
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,169,742,180

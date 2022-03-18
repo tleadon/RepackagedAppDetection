@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.KILL_BACKGROUND_PROCESSES]-[android.permission.VIBRATE]-[android.permission.ACCESS_DOWNLOAD_MANAGER]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.RECEIVE_SMS]-[android.permission.SEND_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_PACKAGE_SIZE]-[com.android.launcher.permission.READ_SETTINGS]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_SETTINGS]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INSTALL_PACKAGES]-[android.permission.DELETE_PACKAGES]-[android.permission.WRITE_SECURE_SETTINGS]-[android.permission.WAKE_LOCK]-[android.permission.SYSTEM_ALERT_WINDOW]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.UNINSTALL_SHORTCUT]-,0,0
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,0,0,0
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,0,0,0
+startActivity,com/dle/a/a/g,android.intent.action.VIEW,external,0,7,3
+bindService,com/dle/a/a/h,com/alipay/android/app/IAlixPay,external,0,7,3
+startActivity,com/dle/a/a/j,android.intent.action.MAIN,external,0,7,3
+bindService,com/dle/a/a/k,null,external,0,7,3
+startService,com/dle/psdk/a/ae,com/dle/psdk/svc/PlatFormService,external,0,7,3
+startService,com/dle/psdk/a/ak,com/dle/psdk/svc/PlatFormService,external,0,53,3
+startService,com/dle/psdk/a/ak,com/dle/psdk/svc/PlatFormService,external,0,59,3
+startService,com/dle/psdk/a/ak,com/dle/psdk/svc/PlatFormService,external,0,87,3
+startService,com/dle/psdk/a/at,com/dle/psdk/svc/PlatFormService,external,0,104,3
+startService,com/dle/psdk/a/at,com/dle/psdk/svc/PlatFormService,external,0,104,3
+startService,com/dle/psdk/a/at,com/dle/psdk/svc/PlatFormService,external,4,104,3
+startService,com/dle/psdk/a/at,com/dle/psdk/svc/PlatFormService,external,4,104,3
+startService,com/dle/psdk/a/at,com/dle/psdk/svc/PlatFormService,external,4,114,3
+startService,com/dle/psdk/svc/a,com/dle/psdk/svc/PlatFormService,external,49,218,5
+startActivity,com/dshine/mtAndroid/mtAndroidLotteryActivity$DownloadJavaScriptInterface,android.intent.action.VIEW,external,49,221,12
+startActivity,com/dshine/mtAndroid/mtAndroidMainActivity,com/dshine/mtAndroid/mtAndroidLotteryActivity,external,49,221,20
+startActivity,com/dshine/mtAndroid/mtAndroidMainActivity,android.settings.WIRELESS_SETTINGS,external,55,227,20
+startService,com/dshine/mtAndroid/mtAndroidMainActivity,com/dshine/mtAndroid/mtAndroidRunningService,external,55,227,20
+startActivity,com/dshine/mtAndroid/mtAndroidNativeBright,android.intent.action.VIEW,external,57,234,32
+startActivity,com/dshine/mtAndroid/mtAndroidShortCutActivity,com/dshine/mtAndroid/mtAndroidMainActivity,external,57,290,32
+sendBroadcast,com/dshine/mtAndroid/mtAndroidUtil,com/dshine/mtAndroid/mtAndroidShortCutActivity,external,60,372,44
+startActivity,com/dshine/mtAndroid/mtAndroidUtil,android.intent.action.VIEW,external,62,394,44

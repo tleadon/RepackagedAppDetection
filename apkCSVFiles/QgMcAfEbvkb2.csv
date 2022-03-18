@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,6,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,6,1
+startActivity,com/lexapps/calls/pkg/newBoard$26,android.intent.action.VIEW,external,8,40,20
+sendBroadcast,com/lexapps/calls/pkg/newBoard,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,8,58,28

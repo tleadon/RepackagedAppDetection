@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.CHANGE_WIFI_STATE]-,0,0
+startActivity,com/joinwish/apps/ctrlrs/me/MeWorkspace$4,com/joinwish/apps/ctrlrs/me/WishDetailActivity,external,0,6,3
+startActivity,com/joinwish/apps/ctrlrs/wishing/WishingWorkspace$1,com/joinwish/apps/ctrlrs/me/WishDetailActivity,external,0,12,4
+startActivity,com/joinwish/apps/ctrlrs/wishing/WishingWorkspace$3,com/joinwish/apps/ctrlrs/me/WishDetailActivity,external,0,14,4
+startActivity,com/joinwish/apps/ctrlrs/wishing/WishingWorkspace,com/joinwish/apps/PhotoSelectActivity,external,0,14,8
+startActivityForResult,com/joinwish/apps/ctrlrs/wishing/WishingWorkspace,com/joinwish/apps/PhotoSelectActivity,external,0,14,8
+startActivity,com/joinwish/apps/ctrlrs/wishing/WishingWorkspace,com/joinwish/apps/PhotoSelectActivity,external,0,14,8
+startActivityForResult,com/joinwish/apps/ctrlrs/wishing/WishingWorkspace,com/joinwish/apps/PhotoSelectActivity,external,0,14,8
+startActivity,com/joinwish/apps/LoginActivity$2,com/joinwish/apps/MainActivity,external,0,16,8
+startActivity,com/joinwish/apps/LoginActivity$3,com/joinwish/apps/MainActivity,external,0,18,8
+startActivity,com/joinwish/apps/LoginActivity,com/tencent/tauth/TAuthView,external,0,18,11
+startActivity,com/joinwish/apps/MainActivity$2,com/joinwish/apps/LoginActivity,external,0,18,15
+startActivity,com/joinwish/apps/PhotoSelectActivity,image/*,external,7,70,27
+startActivityForResult,com/joinwish/apps/PhotoSelectActivity,image/*,external,7,70,27
+startActivity,com/joinwish/apps/PhotoSelectActivity,android.media.action.IMAGE_CAPTURE,external,7,96,27
+startActivityForResult,com/joinwish/apps/PhotoSelectActivity,android.media.action.IMAGE_CAPTURE,external,7,96,27
+startActivity,com/joinwish/apps/StartActivity$1,com/joinwish/apps/LoginActivity,external,7,96,30
+sendBroadcast,com/tencent/tauth/TAuthView,null,internal,7,183,54
+sendBroadcast,com/tencent/tauth/TAuthView,com.tencent.auth.BROWSER,internal,7,183,54
+startActivity,com/tencent/tauth/TAuthView,android.intent.action.VIEW,internal,7,183,54
+sendBroadcast,com/tencent/tauth/TAuthView,android.intent.action.VIEW,internal,7,183,54
+startActivity,com/weibo/net/Weibo,com/weibo/net/ShareActivity,external,29,253,61
+startActivity,com/weibo/net/WeiboDialog$WeiboWebViewClient,android.intent.action.VIEW,external,29,253,62

@@ -1,0 +1,47 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_CONTACTS]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.VIBRATE]-[android.permission.VIBRATE]-,0,0
+startActivity,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivityForResult,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,2,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,13,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,13,5
+startActivity,com/admob/android/ads/q,null,external,33,13,14
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,44,93,24
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,44,93,24
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,44,93,24
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,49,93,24
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,49,93,24
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,49,93,24
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,59,104,24
+startActivity,com/google/android/gms/dynamic/a$5,null,external,59,118,27
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,59,120,27
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,59,120,27
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,59,120,27
+startActivity,com/google/android/gms/internal/bh,Open GMSG did not contain a URL.,external,71,120,31
+startActivity,com/google/android/gms/internal/bk,com.google.android.gms.ads.AdActivity,external,71,120,31
+startActivity,com/google/android/gms/internal/cw$a,null,external,89,129,32
+startActivity,com/google/android/gms/internal/cw$a,null,external,89,129,32
+startActivity,com/google/android/gms/internal/cw,android.intent.action.VIEW,external,89,129,32
+startActivity,com/google/android/gms/internal/du,null,external,89,136,40
+startActivityForResult,com/google/android/gms/internal/du,null,external,89,136,40
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,89,137,40
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,89,137,40
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,89,137,40
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,89,137,40
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,89,137,40
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,167,178,76
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,167,178,76
+startActivity,com/omnicienss/darkduckhunt/Game$3$2,com/scoreloop/client/android/ui/EntryScreenActivity,external,167,178,92
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,193,279,104
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,193,279,111
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,193,279,111
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,193,279,125
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,android.intent.action.GET_CONTENT,internal,193,280,142
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,android.intent.action.GET_CONTENT,internal,193,280,142
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,193,280,142
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,193,280,142
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,195,283,157
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,195,283,175
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,217,593,205
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,217,593,206

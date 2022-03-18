@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_SETTINGS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.VIBRATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.BLUETOOTH]-[android.permission.BLUETOOTH_ADMIN]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.premission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/admob/android/ads/Ad$1,android.intent.action.VIEW,external,0,0,0
+startActivity,com/casee/adsdk/AdClickListener,android.intent.action.VIEW,external,51,178,11
+startActivity,com/google/ads/GoogleAdView$AdWebViewClient,android.intent.action.VIEW,external,174,315,20
+startActivity,com/mappn/aring/ExtraHandleMusic,com/mappn/aring/ui/AringEditActivity,external,191,346,30
+sendBroadcast,com/mappn/aring/ExtraHandleMusic,android.intent.action.MEDIA_MOUNTED,external,191,347,31
+startActivity,com/mappn/aring/Main$4,android.intent.action.VIEW,external,191,347,34
+startActivity,com/mappn/aring/Main,com/mappn/aring/ui/AringEditActivity,external,191,351,41
+sendBroadcast,com/mappn/aring/Main,android.intent.action.MEDIA_MOUNTED,external,191,352,59
+sendBroadcast,com/mappn/aring/ProfileActivity$ProfileAdapter,com.mappn.aring.profile.UPDATE,external,191,353,61
+startActivity,com/mappn/aring/ProfileActivity$ProfileAdapter,com/mappn/aring/ui/ProfileEditActivity,external,191,353,62
+sendBroadcast,com/mappn/aring/ProfileActivity$ProfileAdapter,com.mappn.aring.profile.UPDATE,external,191,353,64
+startActivity,com/mappn/aring/ProfileActivity,com/mappn/aring/ui/ProfileEditActivity,external,191,353,69
+startActivity,com/mappn/aring/ProfileActivity,com/mappn/aring/ui/ProfileScheduleActivity,external,191,353,71
+sendBroadcast,com/mappn/aring/ProfileActivity,com.mappn.aring.profile.UPDATE,external,191,353,72
+sendBroadcast,com/mappn/aring/ProfileActivity,com.mappn.aring.recompute.timer,external,191,353,72
+sendBroadcast,com/mappn/aring/receiver/TimerReceiver,com.mappn.aring.recompute.timer,external,234,359,77
+sendBroadcast,com/mappn/aring/service/PlayService,com.mappn.aring.pb.UPDATE,external,234,359,77
+sendBroadcast,com/mappn/aring/service/PlayService,com.mappn.aring.play.ONCOMPLETE,external,234,359,77
+sendBroadcast,com/mappn/aring/service/PlayService,com.mappn.aring.play.ONCOMPLETE,external,234,359,77
+sendBroadcast,com/mappn/aring/ui/AChannelActivity,com.mappn.aring.player.STOP,external,279,756,77
+startActivity,com/mappn/aring/ui/AChannelActivity,com/mappn/aring/ui/SignIn,external,285,765,78
+startActivity,com/mappn/aring/ui/AChannelActivity,com/mappn/aring/ui/SignIn,external,285,774,92
+sendBroadcast,com/mappn/aring/ui/AddNewScheduleActivity,com.mappn.aring.profile.schedule.UPDATE,external,285,774,98
+startActivity,com/mappn/aring/ui/AringEditActivity,android.intent.action.EDIT,external,287,807,132
+startActivityForResult,com/mappn/aring/ui/AringEditActivity,android.intent.action.EDIT,external,287,807,132
+sendBroadcast,com/mappn/aring/ui/ProfileEditActivity,com.mappn.aring.profile.UPDATE,external,307,822,160
+startActivity,com/mappn/aring/ui/ProfileScheduleActivity,com/mappn/aring/ui/AddNewScheduleActivity,external,307,822,182
+sendBroadcast,com/mappn/aring/ui/ProfileScheduleActivity,com.mappn.aring.profile.schedule.UPDATE,external,307,822,185
+startActivity,com/mappn/aring/ui/ProfileScheduleActivity,com/mappn/aring/ui/AddNewScheduleActivity,external,307,822,185
+startActivity,com/mappn/aring/ui/ProfileScheduleActivity,com/mappn/aring/ui/AddNewScheduleActivity,external,307,822,192
+startActivity,com/mappn/aring/ui/Register,com/mappn/aring/ui/SignIn,external,307,822,192
+startActivity,com/mappn/aring/ui/SignIn,com/mappn/aring/ui/Register,external,307,822,197
+sendBroadcast,com/mappn/aring/util/ProfileUtil,android.intent.action.AIRPLANE_MODE,external,440,830,225
+startActivity,com/mobclick/android/DownloadAgent$1,android.intent.action.VIEW,external,464,958,225

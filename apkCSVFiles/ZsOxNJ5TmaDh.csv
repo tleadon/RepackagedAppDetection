@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+bindService,com/umeng/common/net/a$b,null,external,70,103,24
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,103,24
+startService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,103,24
+startActivity,com/umeng/common/net/d$c,android.intent.action.VIEW,external,94,112,24
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,102,194,24
+startActivity,com/umeng/common/util/h,null,external,108,326,24
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,108,326,24
+startActivity,com/umeng/fb/d,com/umeng/fb/ContactActivity,external,116,326,27
+startActivity,com/umeng/fb/FeedbackAgent,com/umeng/fb/ConversationActivity,external,116,326,28
+startActivity,com/umeng/newxp/controller/b,android.intent.action.VIEW,external,137,332,30
+startActivity,com/umeng/newxp/view/al,android.intent.action.VIEW,external,145,332,37
+startActivity,com/umeng/newxp/view/aN,com/umeng/newxp/view/aN,external,145,334,40
+startActivity,com/umeng/newxp/view/aV,android.intent.action.VIEW,external,145,342,50
+sendBroadcast,com/umeng/newxp/view/aw,boradcast_action_key,external,145,342,50
+sendBroadcast,com/umeng/newxp/view/aw,boradcast_action_key,external,145,342,50
+startActivity,com/umeng/newxp/view/p,android.intent.action.CALL,external,145,352,68
+startActivity,com/umeng/newxp/view/V,android.intent.action.VIEW,external,145,352,80
+startActivity,com/umeng/update/l,com/umeng/update/UpdateDialogActivity,external,145,354,87
+startActivity,com/umeng/update/UmengUpdateAgent,android.intent.action.VIEW,external,145,371,89
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,191,418,114

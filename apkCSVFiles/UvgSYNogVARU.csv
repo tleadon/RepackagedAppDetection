@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_TASKS]-[android.permission.PERSISTENT_ACTIVITY]-[android.permission.RESTART_PACKAGES]-,0,0
+startActivity,com/fantasmosoft/free_memory_recover/FreeMemoryRecover,com/fantasmosoft/free_memory_recover/SettingsActivity,external,129,0,14
+startActivity,com/fantasmosoft/free_memory_recover/FreeMemoryRecover,com/fantasmosoft/free_memory_recover/About,external,129,0,14
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,172,0,30
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,172,0,31
+startActivity,jp/co/nobot/libAdMaker/d,android.intent.action.VIEW,external,184,6,32
+startActivity,jp/co/nobot/libAdMaker/d,android.intent.action.VIEW,external,184,6,32

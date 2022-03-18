@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[com.android.vending.BILLING]-[android.permission.GET_TASKS]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startService,uin/android/piano/en/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,internal,31,55,21
+startService,uin/android/piano/en/billing/BillingReceiver,uin.android.piano.en.GET_PURCHASE_INFORMATION,internal,31,55,21
+startService,uin/android/piano/en/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,internal,31,55,21
+bindService,uin/android/piano/en/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,31,55,21
+bindService,uin/android/piano/en/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,31,55,21
+startActivity,uin/android/piano/en/list/RecordListActivity,uin/android/piano/en/play/PlayActivity,internal,83,57,25
+startActivity,uin/android/piano/en/list/RecordListActivity,uin/android/piano/en/play/PlayActivity,internal,83,57,26
+startActivity,uin/android/piano/en/list/SongListActivity$6,uin/android/piano/en/play/PlayActivity,external,83,57,29
+startActivity,uin/android/piano/en/list/SongListActivity$9,android.intent.action.VIEW,external,83,57,32
+startActivity,uin/android/piano/en/list/SongListActivity,uin/android/piano/en/play/PlayActivity,internal,83,57,32
+startActivity,uin/android/piano/en/MiniPiano2Activity,uin/android/piano/en/list/SongListActivity,internal,83,57,34
+startActivity,uin/android/piano/en/MiniPiano2Activity,uin/android/piano/en/list/SongListActivity,internal,83,57,34
+startActivity,uin/android/piano/en/MiniPiano2Activity,uin/android/piano/en/list/RecordListActivity,internal,83,57,34
+startActivity,uin/android/piano/en/play/PlayActivity,uin/android/piano/en/list/SongListActivity,internal,83,57,34
+startActivity,uin/android/piano/en/play/PlayActivity,uin/android/piano/en/play/popup/PlayEndPopup,internal,83,57,34
+startActivityForResult,uin/android/piano/en/play/PlayActivity,uin/android/piano/en/play/popup/PlayEndPopup,internal,83,57,34

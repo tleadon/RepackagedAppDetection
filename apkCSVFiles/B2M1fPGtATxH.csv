@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-,0,1
+startActivity,com/adsdk/sdk/AdManager,com/adsdk/sdk/video/RichMediaActivity,external,3,7,0
+startActivityForResult,com/adsdk/sdk/AdManager,com/adsdk/sdk/video/RichMediaActivity,external,3,7,0
+startActivity,com/adsdk/sdk/banner/BannerAdView,android.intent.action.VIEW,external,22,22,0
+startActivity,com/adsdk/sdk/banner/BannerAdView,com/adsdk/sdk/banner/InAppWebView,external,22,22,0
+startActivity,com/adsdk/sdk/banner/BannerAdView,android.intent.action.VIEW,external,22,22,0
+startActivity,com/adsdk/sdk/banner/InAppWebView$1,android.intent.action.VIEW,external,22,22,0
+startActivity,com/adsdk/sdk/mraid/AdView$AdWebViewClient,android.intent.action.VIEW,external,29,22,2
+startActivity,com/adsdk/sdk/mraid/AdView,com.mopub.intent.extra.AD_CLICK_DATA,external,40,22,2
+startActivity,com/adsdk/sdk/mraid/AdView,android.intent.action.VIEW,external,40,22,2
+startActivity,com/adsdk/sdk/mraid/AdView,com/adsdk/sdk/banner/InAppWebView,external,40,22,2
+startActivity,com/adsdk/sdk/mraid/AdView,android.intent.action.VIEW,external,40,22,2
+startActivity,com/adsdk/sdk/mraid/MraidBrowserController,android.intent.action.VIEW,external,50,22,6
+startActivity,com/adsdk/sdk/mraid/MraidBrowserController,android.intent.action.VIEW,external,50,22,6
+startActivity,com/adsdk/sdk/mraid/MraidInterstitialAdapter,com/adsdk/sdk/mraid/MraidActivity,external,50,22,12
+startActivity,com/adsdk/sdk/mraid/MraidView$MraidWebViewClient,android.intent.action.VIEW,external,50,22,13
+startActivity,com/adsdk/sdk/video/NavIcon,android.intent.action.VIEW,external,71,78,30
+startActivity,com/adsdk/sdk/video/NavIcon,android.intent.action.VIEW,external,71,78,30
+startActivity,com/adsdk/sdk/video/NavIcon,android.intent.action.VIEW,external,71,78,30
+startActivity,com/adsdk/sdk/video/RichMediaActivity$7,com/adsdk/sdk/video/RichMediaActivity,external,77,108,34
+startActivity,com/adsdk/sdk/video/RichMediaActivity,com/adsdk/sdk/video/RichMediaActivity,internal,77,108,34
+startActivity,com/adsdk/sdk/video/RichMediaActivity,com/adsdk/sdk/video/RichMediaActivity,internal,77,108,38
+sendBroadcast,com/adsdk/sdk/video/SDKVideoView,com.android.music.musicservicecommand,external,77,108,43
+startActivity,com/adsdk/sdk/video/WebFrame,android.intent.action.VIEW,external,82,108,44
+startActivity,com/adsdk/sdk/video/WebViewClient,android.intent.action.VIEW,external,82,108,47
+startActivity,com/adsdk/sdk/video/WebViewClient,android.intent.action.VIEW,external,82,108,47
+startActivity,com/adsdk/sdk/video/WebViewClient,com/adsdk/sdk/video/RichMediaActivity,external,82,108,47
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,82,108,47
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,82,108,47
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,93,140,49
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,97,149,55
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,118,218,94

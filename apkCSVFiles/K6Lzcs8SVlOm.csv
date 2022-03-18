@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixBrowser$1,android.intent.action.VIEW,external,72,256,19
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,android.intent.action.VIEW,external,72,256,22
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,url,external,72,256,22
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixVideoView$ButtonOnClickListener,android.intent.action.VIEW,external,72,256,24
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,72,256,41
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,72,256,41
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,android.intent.action.VIEW,external,72,256,41
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,cachedHTML,external,72,256,41
+startActivity,com/mobclix/android/sdk/MobclixCreative$HTMLPage$1,android.intent.action.VIEW,external,72,258,42
+startActivity,wisemon/paint/abc/hatch/MainColoring$29,wisemon/paint/abc/hatch/new_picture,external,142,260,74
+startActivity,wisemon/paint/abc/hatch/MainColoring,android.intent.action.VIEW,external,142,290,82

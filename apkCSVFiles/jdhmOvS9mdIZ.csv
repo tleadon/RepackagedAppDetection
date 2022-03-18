@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-,0,0
+startActivity,com/andoop/ag/common/h,android.intent.action.VIEW,external,0,126,3
+startActivity,com/andoop/ag/common/m,android.intent.action.SENDTO,external,0,149,5
+startActivity,com/andoop/killbox/ab,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,3,205,5
+startActivity,com/andoop/union/android/ac,android.intent.action.VIEW,external,3,220,5
+startActivity,com/andoop/union/android/y,com/andoop/union/android/UnionList,external,3,242,20
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,3,242,20
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,3,242,21
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,165,386,21
+startActivity,com/scoreloop/client/android/ui/component/base/l,android.intent.action.VIEW,external,165,386,24
+startActivity,com/scoreloop/client/android/ui/component/base/l,android.intent.action.VIEW,external,165,386,24
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,165,386,32
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,165,386,40
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,165,386,40
+startActivity,com/scoreloop/client/android/ui/framework/b,null,external,167,387,46
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,167,387,53

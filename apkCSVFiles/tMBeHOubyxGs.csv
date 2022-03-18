@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-[android.permission.SET_WALLPAPER]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-,1,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,8,149,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,41,160,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,41,160,5
+startActivity,com/admob/android/ads/q,null,external,41,160,14
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,50,657,22
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,50,657,22
+startActivity,com/openfeint/internal/OpenFeintInternal$10,com/openfeint/internal/ui/IntroFlow,external,50,657,22
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,50,657,22
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,54,943,24
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,external,54,943,24
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,54,943,24
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,54,943,24
+startActivity,com/rubycell/jigsaw/ChooseImageActivity$4,com/rubycell/jigsaw/JigsawActivity,external,68,1106,36
+startActivity,com/rubycell/jigsaw/ChooseImageActivity$5,android.intent.action.VIEW,external,68,1106,37
+startActivity,com/rubycell/jigsaw/ChooseImageActivity$6,com/rubycell/jigsaw/JigsawActivity,external,68,1106,38

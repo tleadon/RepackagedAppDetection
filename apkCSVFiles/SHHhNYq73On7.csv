@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection$1,null,external,0,13,0
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection,null,external,0,13,0
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+bindService,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,0,14,1
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,0,184,1
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.GET_PURCHASE_INFORMATION,external,0,184,1
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,0,184,1
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,184,1
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,184,1
+startActivity,com/prime31/FacebookPlugin$3,com/prime31/FacebookProxyActivity,external,4,190,1
+bindService,com/prime31/IABPlugin$1,com/prime31/billing/BillingService,external,4,195,1
+bindService,com/prime31/IABPlugin,null,external,4,195,3
+bindService,com/unity3d/player/a/e,null,external,4,205,3
+startActivity,com/unity3d/player/UnityPlayer$17,null,external,49,217,11
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,55,235,28

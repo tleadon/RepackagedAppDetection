@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.SET_WALLPAPER]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,cn/domob/android/ads/DomobActionReceiver,null,external,24,17,0
+startActivity,cn/domob/android/ads/DomobAdEngine$2,null,external,24,17,14
+startActivity,cn/domob/android/ads/DomobAdEngine,url,external,24,17,16
+startActivity,cn/domob/android/ads/DomobAdEngine,url,external,24,17,16
+startActivity,cn/domob/android/ads/DomobAdEngine,url,external,24,17,16
+startActivity,cn/domob/android/ads/DomobAdEngine,url,external,24,17,16
+startActivity,cn/domob/android/ads/i$12,android.intent.action.VIEW,external,57,46,19
+startActivity,cn/domob/android/ads/i$12,android.intent.action.VIEW,external,57,46,19
+startActivity,cn/domob/android/ads/i$12,android.intent.action.VIEW,external,57,46,19
+startActivity,cn/domob/android/ads/i$6,null,external,57,46,28
+startActivity,cn/domob/android/ads/i,android.intent.action.VIEW,external,57,59,28
+startActivity,cn/domob/android/download/a,null,external,61,79,28

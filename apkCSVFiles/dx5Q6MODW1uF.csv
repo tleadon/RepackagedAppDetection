@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,31,3
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,31,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,31,31,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,34,31,3
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,34,48,4
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,34,48,5
+startActivity,com/pixle/bord/Bord,android.intent.action.SEND,external,49,48,6
+startActivity,com/pixle/bord/SplashActivity$1,com/pixle/bord/Bord,external,49,48,9

@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[android.permission.VIBRATE]-[android.permission.RESTART_PACKAGES]-[android.permission.RESTART_PACKAGES]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_TASKS]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.DISABLE_KEYGUARD]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.RECEIVE_BOOT_COMPLETED]-,1,1
+startActivity,com/doodlemobile/gamecenter/DMTabHost$IntentContentStrategy,null,external,0,0,7
+startActivity,com/doodlemobile/gamecenter/featurescreen/FeatureScreenLayout,android.intent.action.VIEW,external,93,116,17
+startActivity,com/doodlemobile/gamecenter/featurescreen/FeatureScreenLayout,android.intent.action.VIEW,external,93,116,17
+startActivity,com/doodlemobile/gamecenter/FeatureView$1,null,external,93,131,18
+startActivity,com/doodlemobile/gamecenter/FeatureView$2,null,external,93,131,19
+startActivity,com/doodlemobile/gamecenter/FeatureView$3,null,external,93,131,20
+startActivity,com/doodlemobile/gamecenter/GameCenterActivity,com.android.camera.action.CROP,internal,93,131,25
+startActivityForResult,com/doodlemobile/gamecenter/GameCenterActivity,com.android.camera.action.CROP,internal,93,131,25
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$1,com/doodlemobile/gamecenter/GameCenterActivity,external,93,131,32
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$2,com/doodlemobile/gamecenter/GameCenterActivity,external,93,131,33
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$3,com/doodlemobile/gamecenter/GameCenterActivity,external,93,131,34
+startActivity,com/doodlemobile/gamecenter/ProfileView,null,external,112,159,44
+startActivityForResult,com/doodlemobile/gamecenter/ProfileView,null,external,112,159,44
+startActivity,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,112,159,44
+startActivityForResult,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,112,159,44
+startActivity,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,112,160,44
+startActivityForResult,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,112,160,44
+startActivity,com/doodlemobile/gamecenter/PromoteDialog$1,null,external,112,160,45
+startActivity,com/doodlemobile/gamecenter/UserInfoView$UserInfoAdapter$1,android.intent.action.VIEW,external,112,160,49
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,112,197,49
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,112,197,49
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,112,198,49
+startActivity,com/sniper/board/MenuBoard$SubmitScoreTask,com/doodlemobile/gamecenter/GameCenterActivity,external,147,286,56
+startActivityForResult,com/sniper/board/MenuBoard$SubmitScoreTask,com/doodlemobile/gamecenter/GameCenterActivity,external,147,286,56
+startActivity,com/sniper/board/MenuBoard$SubmitScoreTask,com/doodlemobile/gamecenter/GameCenterActivity,external,147,286,56
+startActivityForResult,com/sniper/board/MenuBoard$SubmitScoreTask,com/doodlemobile/gamecenter/GameCenterActivity,external,147,286,56
+startActivity,com/xsniper/likesh/GameActivity,android.intent.action.VIEW,external,152,292,73

@@ -1,0 +1,32 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+startActivity,com/directtap/o,android.intent.action.VIEW,external,7,41,2
+startActivity,com/directtap/o,android.intent.action.VIEW,external,7,41,2
+startActivity,com/gipnetix/aliensspace/MainActivity$11,android.intent.action.VIEW,external,18,60,4
+startActivity,com/gipnetix/aliensspace/MainActivity$5,android.intent.action.VIEW,external,18,60,9
+startActivity,com/gipnetix/aliensspace/MainActivity$7,android.intent.action.VIEW,external,18,60,11
+startActivity,com/gipnetix/aliensspace/MainActivity$9,android.intent.action.VIEW,external,18,60,13
+startActivity,com/gipnetix/aliensspace/MainActivity,android.intent.action.VIEW,external,18,60,13
+startActivity,com/gipnetix/aliensspace/MainActivity,android.intent.action.SEND,external,18,60,18
+startActivity,com/gipnetix/aliensspace/MainActivity,android.intent.action.VIEW,external,18,60,18
+startActivity,com/metaps/e,android.intent.action.VIEW,external,23,75,22
+startActivity,com/metaps/e,android.intent.action.VIEW,external,23,75,22
+bindService,com/umeng/common/net/a$b,null,external,75,175,27
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,75,175,27
+startActivity,com/umeng/common/net/d$b,android.intent.action.VIEW,external,99,184,27
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,107,258,27
+startActivity,com/umeng/common/util/h,null,external,113,390,27
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,113,390,27
+startActivity,com/umeng/fb/d,com/umeng/fb/ContactActivity,external,121,390,30
+startActivity,com/umeng/fb/FeedbackAgent,com/umeng/fb/ConversationActivity,external,121,390,31
+startActivity,com/umeng/newxp/controller/b,android.intent.action.VIEW,external,142,396,33
+startActivity,com/umeng/newxp/view/al,android.intent.action.VIEW,external,150,396,40
+startActivity,com/umeng/newxp/view/aN,com/umeng/newxp/view/aN,external,150,398,43
+startActivity,com/umeng/newxp/view/aV,android.intent.action.VIEW,external,150,406,53
+sendBroadcast,com/umeng/newxp/view/aw,boradcast_action_key,external,150,406,53
+sendBroadcast,com/umeng/newxp/view/aw,boradcast_action_key,external,150,406,53
+startActivity,com/umeng/newxp/view/p,android.intent.action.CALL,external,150,416,71
+startActivity,com/umeng/newxp/view/V,android.intent.action.VIEW,external,150,416,83
+startActivity,com/umeng/update/b,android.intent.action.VIEW,external,150,421,90
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,168,606,120
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,168,606,121

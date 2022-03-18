@@ -1,0 +1,41 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,30,111,13
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,30,111,13
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,42,143,15
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,46,152,21
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,61,166,33
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,61,166,33
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,61,166,33
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,61,166,33
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,61,166,33
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,61,166,33
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,71,176,33
+startActivity,com/google/android/gms/dynamic/a$5,null,external,71,178,36
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,71,180,36
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,71,180,36
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,71,180,36
+startActivity,com/google/android/gms/internal/bc,Open GMSG did not contain a URL.,external,73,180,40
+startActivity,com/google/android/gms/internal/bf,com.google.android.gms.ads.AdActivity,external,73,180,40
+startActivity,com/google/android/gms/internal/cq,android.intent.action.VIEW,external,89,189,41
+startActivity,com/google/android/gms/internal/dc,null,external,89,196,49
+startActivityForResult,com/google/android/gms/internal/dc,null,external,89,196,49
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,89,197,49
+startService,com/google/android/gms/internal/df,com.google.android.gms,external,89,197,49
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,89,197,49
+startService,com/google/android/gms/internal/df,com.google.android.gms,external,89,197,49
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,89,197,49
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,145,230,85
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,145,230,85
+startActivity,com/prime31/PlayGameServicesPlugin$12,null,external,145,230,86
+startActivityForResult,com/prime31/PlayGameServicesPlugin$12,null,external,145,230,86
+startActivity,com/prime31/PlayGameServicesPlugin$16,null,external,145,230,86
+startActivityForResult,com/prime31/PlayGameServicesPlugin$16,null,external,145,230,86
+startActivity,com/prime31/PlayGameServicesPlugin$17,null,external,145,230,86
+startActivityForResult,com/prime31/PlayGameServicesPlugin$17,null,external,145,230,86
+startActivity,com/prime31/PlayGameServicesPlugin$9,null,external,145,237,86
+startActivityForResult,com/prime31/PlayGameServicesPlugin$9,null,external,145,237,86
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,191,277,111

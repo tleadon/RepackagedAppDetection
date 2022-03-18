@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.VIBRATE]-,0,1
+bindService,com/miidi/browser/activity/DownloadActivity,com/miidi/browser/service/DownloadService,external,0,0,12
+bindService,com/miidi/browser/activity/DownloadActivity,com/miidi/browser/service/DownloadService,external,0,0,12
+startActivity,com/miidi/browser/activity/MainActivity$1,com/miidi/browser/activity/BookMarkActivity,external,0,0,13
+startActivityForResult,com/miidi/browser/activity/MainActivity$1,com/miidi/browser/activity/BookMarkActivity,external,0,0,13
+startService,com/miidi/browser/activity/MainActivity$2$3,com/miidi/browser/service/DownloadService,external,0,0,14
+startActivity,com/miidi/browser/activity/MainActivity,com/miidi/browser/activity/BookMarkActivity,external,0,9,23
+startActivityForResult,com/miidi/browser/activity/MainActivity,com/miidi/browser/activity/BookMarkActivity,external,0,9,23
+startActivity,com/miidi/browser/activity/MainActivity,com/miidi/browser/activity/DownloadActivity,external,0,9,23
+startService,com/miidi/browser/common/UpdateVersion$1,com/miidi/browser/service/DownloadService,external,41,31,25
+startActivity,com/miidi/browser/util/InstallUtil,android.intent.action.VIEW,external,117,158,27

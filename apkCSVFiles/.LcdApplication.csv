@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/facebook/android/e$a,android.intent.action.VIEW,external,0,0,0
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,117,59,1
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,117,59,1
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,117,59,1
+bindService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,117,59,1
+bindService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,117,59,1
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,131,72,11
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,131,72,11
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,131,72,11
+startActivityForResult,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,131,72,11
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,131,147,16
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,131,147,25
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,131,147,25
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,131,147,41
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,131,147,60
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,131,147,60
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,133,151,76
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,133,151,99
+startActivity,com/valentingalea/lcdcar/LcdCarRacing$4,com/scoreloop/client/android/ui/EntryScreenActivity,external,137,399,108
+sendBroadcast,com/valentingalea/lcdcar/LcdCarRacing$AndroidInterface,com.valentingalea.lcdcar.submit,external,137,399,110
+startActivity,com/valentingalea/lcdcar/LcdCarRacing,com/scoreloop/client/android/ui/PostScoreOverlayActivity,external,137,399,110
+startActivityForResult,com/valentingalea/lcdcar/LcdCarRacing,com/scoreloop/client/android/ui/PostScoreOverlayActivity,external,137,399,110
+startActivity,com/valentingalea/lcdcar/LcdCarRacing,com/scoreloop/client/android/ui/ShowResultOverlayActivity,external,137,399,114
+startActivityForResult,com/valentingalea/lcdcar/LcdCarRacing,com/scoreloop/client/android/ui/ShowResultOverlayActivity,external,137,399,114
+startActivity,org/acra/sender/EmailIntentSender,android.intent.action.SEND,external,141,515,116

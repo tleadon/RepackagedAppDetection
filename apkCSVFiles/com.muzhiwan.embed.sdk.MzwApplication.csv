@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.INTERNET]-[android.permission.MANAGE_ACCOUNTS]-[android.permission.USE_CREDENTIALS]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.CHECK_LICENSE]-[android.permission.AUTHENTICATE_ACCOUNTS]-[android.permission.MANAGE_ACCOUNTS]-[android.permission.USE_CREDENTIALS]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.VIBRATE]-[android.permission.KILL_BACKGROUND_PROCESSES]-[android.permission.RESTART_PACKAGES]-,1,1
+startService,null,null,null,0,0,0
+startActivity,com/cattlecall/googledriveplugin/GoogleDrivePlugin,com/cattlecall/googledriveplugin/GoogleDrivePluginActivity,internal,0,14,0
+startActivity,com/cattlecall/googledriveplugin/GoogleDrivePlugin,com/cattlecall/googledriveplugin/GoogleDrivePluginActivity,internal,2,14,0
+startActivity,com/cattlecall/googledriveplugin/GoogleDrivePluginActivity,null,internal,2,14,0
+startActivityForResult,com/cattlecall/googledriveplugin/GoogleDrivePluginActivity,null,internal,2,14,0
+startActivity,com/cattlecall/licensing/b,com/cattlecall/unityandroidaccessor/OverrideUnityPlayerNativeActivity,external,4,14,1
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,4,299,3
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,4,299,3
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,4,299,3
+sendBroadcast,com/google/android/gms/common/images/ImageManager,com.google.android.gms.common.images.LOAD_IMAGE,external,9,311,3
+bindService,com/google/android/gms/internal/aa$b,null,external,9,311,5
+bindService,com/google/android/gms/internal/aa,GmsClient,external,9,311,5
+bindService,com/google/android/gms/internal/aa,GmsClient,external,9,311,5
+bindService,com/google/android/gms/internal/aa,GmsClient,external,9,311,5
+bindService,com/google/android/gms/internal/aa,GmsClient,external,9,311,5
+startActivity,com/google/android/gms/internal/ag$b,null,external,9,311,6
+startActivityForResult,com/google/android/gms/internal/ag$b,null,external,9,311,6
+startActivity,com/google/android/gms/internal/bj,null,external,9,315,7
+startActivityForResult,com/google/android/gms/internal/bj,null,external,9,315,7
+startActivity,com/google/android/gms/internal/e$2,null,external,9,317,8
+bindService,com/google/android/vending/a/i,null,external,22,336,10
+bindService,com/google/android/vending/a/i,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,22,336,10
+startService,com/google/android/vending/expansion/downloader/a/p,EPI,external,48,422,10
+startService,com/google/android/vending/expansion/downloader/a/p,EPI,external,48,435,10
+startService,com/google/android/vending/expansion/downloader/a/r,EPI,external,48,435,10
+bindService,com/google/android/vending/expansion/downloader/e,EMH,external,76,442,10
+bindService,com/google/android/vending/expansion/downloader/e,EMH,external,76,442,10
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,164,2085,35

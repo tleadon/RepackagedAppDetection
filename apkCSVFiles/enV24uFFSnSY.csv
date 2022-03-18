@@ -1,0 +1,45 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,7,6
+startActivity,com/hidayabooks/app36/Share,android.intent.action.SEND,external,32,21,22
+startActivityForResult,com/hidayabooks/app36/Share,android.intent.action.SEND,external,32,21,22
+bindService,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+bindService,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startActivity,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startActivity,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startActivity,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startActivity,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startService,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startService,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+bindService,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+bindService,org/apache/cordova/api/LegacyContext,null,external,32,21,22
+startActivity,org/apache/cordova/CameraLauncher,Get Picture,external,42,71,22
+startActivityForResult,org/apache/cordova/CameraLauncher,Get Picture,external,42,71,22
+startActivity,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,46,90,22
+startActivityForResult,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,46,90,22
+startActivity,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,46,90,22
+startActivityForResult,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,46,90,22
+startActivity,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,46,94,22
+startActivityForResult,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,46,94,22
+startActivity,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,46,94,22
+startActivityForResult,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,46,94,22
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,75,136,29
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,75,136,29
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,93,140,40
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,93,140,40
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,93,140,40
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,140,40
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,140,40
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,140,40
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,140,40
+startActivity,org/apache/cordova/DroidGap,null,external,98,169,52
+startActivityForResult,org/apache/cordova/DroidGap,null,external,98,169,52
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.DIAL,external,153,615,56
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.VIEW,external,153,615,56

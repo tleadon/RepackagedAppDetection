@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,1,0
+startActivity,com/android/libso/AndroidLoadLibActivity$1,null,external,0,0,0
+startActivity,com/android/libso/AndroidLoadLibActivity,android.intent.action.MAIN,internal,0,31,0
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,57,123,25

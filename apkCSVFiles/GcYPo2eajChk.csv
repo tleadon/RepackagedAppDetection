@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,69,233,25
+startActivity,com/heyzap/sdk/AchievementsFullOverlay,android.intent.action.VIEW,external,76,241,36
+startActivity,com/heyzap/sdk/ads/AdUnit,android.intent.action.VIEW,external,76,243,37
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,76,243,61
+startActivity,com/heyzap/sdk/HeyzapDialog,android.intent.action.CLOSE_SYSTEM_DIALOGS,external,76,252,64
+startActivity,com/heyzap/sdk/HeyzapLib$5,android.intent.action.MAIN,external,76,252,65
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,76,252,65
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,76,252,65
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,76,252,65
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,76,252,65
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,76,252,65
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,76,252,65
+startActivity,com/heyzap/sdk/LeaderboardFullOverlay,android.intent.action.VIEW,external,76,258,79
+startActivity,com/heyzap/sdk/LeaderboardInGameOverlay$1,android.intent.action.VIEW,external,76,258,86
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,85,319,150

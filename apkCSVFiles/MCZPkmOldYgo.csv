@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.android.hardware.sensor.accelerometer]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,6,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,6,1
+startActivity,com/mmsdk/a/d$2,android.intent.action.DIAL,external,18,20,10
+startActivity,com/mmsdk/a/d$2,android.intent.action.SEND,external,18,20,10
+startActivity,com/mmsdk/a/d$2,android.intent.action.VIEW,external,18,20,10
+startActivity,com/mmsdk/a/d$6,android.intent.action.VIEW,external,18,24,12
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.DIAL,external,20,66,25
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.SEND,external,20,66,25
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.VIEW,external,20,66,25
+startActivity,com/mmsdk/internal/CustomWebView$8,android.intent.action.VIEW,external,20,71,27
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.DIAL,external,20,79,37
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.SEND,external,20,79,37
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.VIEW,external,20,79,37
+startActivity,com/mmsdk/internal/CustomWebViewBackup$8,android.intent.action.VIEW,external,20,84,39
+startActivity,com/my/game/SencerJump/gameplay,android.intent.action.VIEW,external,76,262,53
+startActivity,com/my/game/SencerJump/gameplay,android.intent.action.VIEW,external,76,262,53
+startActivity,com/my/game/SencerJump/SencerJump$1,com/my/game/SencerJump/Base,external,76,298,53
+startActivityForResult,com/my/game/SencerJump/SencerJump$1,com/my/game/SencerJump/Base,external,76,298,53

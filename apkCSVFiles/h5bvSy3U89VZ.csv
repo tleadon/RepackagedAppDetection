@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.RECORD_AUDIO]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.hardware.sensor.accelerometer]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-,0,0
+startActivity,cn/domob/android/a/b,null,external,0,8,0
+startActivity,cn/domob/android/ads/DomobActivity,android.media.action.IMAGE_CAPTURE,external,4,104,6
+startActivityForResult,cn/domob/android/ads/DomobActivity,android.media.action.IMAGE_CAPTURE,external,4,104,6
+startActivity,cn/domob/android/ads/DomobActivity,android.intent.action.GET_CONTENT,external,4,104,6
+startActivityForResult,cn/domob/android/ads/DomobActivity,android.intent.action.GET_CONTENT,external,4,104,6
+startActivity,cn/domob/android/ads/h,android.intent.action.PACKAGE_ADDED,external,30,133,12
+startActivity,cn/domob/android/ads/i,android.intent.action.VIEW,external,30,133,12
+startActivity,cn/domob/android/ads/i,android.intent.action.VIEW,external,30,133,12
+startActivity,cn/domob/android/ads/i,android.intent.action.VIEW,external,30,133,12
+startActivity,cn/domob/android/ads/n,Activity is null,external,30,133,12
+startActivity,cn/domob/android/ads/r$1,null,external,106,157,15
+startActivity,cn/domob/android/ads/x,android.intent.action.VIEW,external,106,189,30
+startActivity,com/oooo3d/talkingtom/CaptureDialogHelper$1,com/oooo3d/talkingtom/CapturePlayActivity,external,106,368,33
+startActivity,com/oooo3d/talkingtom/CaptureDialogHelper,android.intent.action.SEND,external,106,372,37
+startActivity,com/oooo3d/talkingtom/DanceActivity,com/oooo3d/talkingtom/WelcomeActivity,internal,113,395,39
+startActivity,com/oooo3d/talkingtom/MainActivity$4,com/oooo3d/talkingtom/study/StudyActivity,external,113,408,44
+startActivity,com/oooo3d/talkingtom/MainActivity$7,com/oooo3d/talkingtom/DanceActivity,external,113,408,47
+startActivity,com/oooo3d/talkingtom/MainActivity,com/oooo3d/talkingtom/WelcomeActivity,internal,113,408,47
+startActivity,com/oooo3d/talkingtom/RecommendHelper$2,android.intent.action.VIEW,external,113,408,49
+startActivity,com/oooo3d/talkingtom/study/StudyActivity,com/oooo3d/talkingtom/WelcomeActivity,internal,113,410,54
+bindService,com/oooo3d/talkingtom/video/Converter$1$1,null,external,119,769,54
+bindService,com/oooo3d/talkingtom/video/Converter$2,null,external,119,769,54
+bindService,com/oooo3d/talkingtom/video/Converter,com/oooo3d/talkingtom/video/VideoService,external,119,814,54
+startActivity,com/oooo3d/talkingtom/WelcomeActivity$2$1,com/oooo3d/talkingtom/MainActivity,external,119,814,54

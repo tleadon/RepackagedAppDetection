@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-,1,1
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,com/andgame/kocb/controller/GameController,com/andgame/kocb/GameOverDialog,external,33,91,19
+startActivityForResult,com/andgame/kocb/controller/GameController,com/andgame/kocb/GameOverDialog,external,33,91,19
+startActivity,com/andgame/kocb/GameActivity,com/andgame/kocb/QuitDialog,external,33,91,21
+startActivityForResult,com/andgame/kocb/GameActivity,com/andgame/kocb/QuitDialog,external,33,91,21
+startActivity,com/andgame/kocb/GameRunnable$7,com/andgame/kocb/QuitDialog,external,33,91,34
+startActivityForResult,com/andgame/kocb/GameRunnable$7,com/andgame/kocb/QuitDialog,external,33,91,34
+startActivity,com/feelingtouch/util/AndroidUtil,android.intent.action.CALL,external,33,95,49
+startActivity,com/feelingtouch/util/AndroidUtil,android.intent.action.SEND,external,55,95,49
+startActivity,com/feelingtouch/util/AndroidUtil,com.android.mms,external,55,95,49
+startActivity,com/feelingtouch/util/AndroidUtil,com.android.mms,external,55,95,49
+startActivity,com/feelingtouch/util/AndroidUtil,com.motorola.blur.conversations,external,55,95,49

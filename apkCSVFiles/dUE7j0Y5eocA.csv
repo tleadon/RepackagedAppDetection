@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,70,183,32
+startActivity,com/heyzap/sdk/AchievementsFullOverlay,android.intent.action.VIEW,external,77,191,43
+startActivity,com/heyzap/sdk/ads/AdUnit,android.intent.action.VIEW,external,77,193,44
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,77,193,62
+startActivity,com/heyzap/sdk/HeyzapDialog,android.intent.action.CLOSE_SYSTEM_DIALOGS,external,77,202,65
+startActivity,com/heyzap/sdk/HeyzapLib$5,android.intent.action.MAIN,external,77,202,66
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,77,202,66
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,77,202,66
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,77,202,66
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,77,202,66
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,77,202,66
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,77,202,66
+startActivity,com/heyzap/sdk/LeaderboardFullOverlay,android.intent.action.VIEW,external,77,202,80
+startActivity,com/heyzap/sdk/LeaderboardInGameOverlay$1,android.intent.action.VIEW,external,77,202,87
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,80,210,146
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,98,266,149
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,98,266,149
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,108,323,176

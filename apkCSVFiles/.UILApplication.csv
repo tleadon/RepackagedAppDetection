@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.BIND_WALLPAPER]-[android.permission.SET_WALLPAPER]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,62,12
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,62,12
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,62,12
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,4,62,12
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,18,64,16
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,20,69,18
+startActivity,com/graphics/car/lamborghini/ImageGridActivity,com/graphics/car/lamborghini/ImageViewPagerActivity,external,36,83,35
+startActivity,com/graphics/car/lamborghini/ImageViewPagerActivity,android.intent.action.SEND,external,36,88,37

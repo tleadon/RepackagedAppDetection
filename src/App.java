@@ -1,9 +1,13 @@
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Objects;
 import java.util.Scanner;
 
 import org.apache.commons.lang3.RandomStringUtils;
@@ -47,20 +51,40 @@ public class App {
         File[] appsArray = apps.listFiles();
         for(File file : appsArray ){
             if(file.isDirectory()){
-                String appName = file.getAbsolutePath();
-                System.out.println(appName);
-                File app = new File(appName);
-                File[] appFiles = app.listFiles();
-                String manifestName = slashToslash(appName) + "/AndroidManifest.xml";
-                System.out.println(manifestName);
-                File manifest = new File(manifestName);
-                csvMaker(appFiles, manifest);
+                if (file.getName().contains("originals")){
+                    Boolean repacked = false;
+                    generator(file, repacked);
+                }
+                else if (file.getName().contains("repacks")){
+                    Boolean repacked = true;
+                    generator(file, repacked);
+                }
+                else {
+                    System.out.println(file.getName() + " not analyzed.");
+                }
             }
         }
         
     }
 
-    public static void csvMaker(File[] appFiles, File manifest) throws IOException{
+    public static void generator(File file, Boolean repacked) throws IOException, InterruptedException{
+        String folderpath = file.getAbsolutePath();
+        File folderfile = new File(folderpath);
+        File[] apps = folderfile.listFiles();
+        for(File app : apps){
+            if(app.isDirectory()){
+                String appName = app.getAbsolutePath();
+                System.out.println(appName);
+                File appfile = new File(appName);
+                File[] appFiles = appfile.listFiles();
+                String manifestName = slashToslash(appName) + "/AndroidManifest.xml";
+                File manifest = new File(manifestName);
+                csvMaker(appFiles, manifest, repacked);
+            }
+        }
+    }
+
+    public static void csvMaker(File[] appFiles, File manifest, Boolean repacked) throws IOException, InterruptedException{
         ArrayList<iCComp> iCCList = new ArrayList<iCComp>();
         Scanner maniscanny = new Scanner(manifest);
         String manicurrent;
@@ -87,16 +111,63 @@ public class App {
 
         String appCSV = apkCSVFolderPath + appname[0] + ".csv";
         File iccCSV = new File(appCSV);
-        FileWriter csvWriter = new FileWriter(iccCSV);
         if (iccCSV.createNewFile()) {
               System.out.println("File created: " + iccCSV.getName());
         }
-        
-        csvWriter.write("ICC Name, Source Component, Target Component, Type of Communication, Permissions\n");
+        FileWriter csvWriter = new FileWriter(iccCSV);
+
+        csvWriter.write("ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked\n");
         String appPerm = getPermissions(manifest);
-        csvWriter.write(" , , , , " + appPerm + "\n");
-        csvFinisher(csvWriter, appFiles, iCCList, manifest);        
+        String rp = repackedornah(repacked);
+        String ssoNotInOrder = androsoo(appFiles);
+        csvWriter.write(" , , , , , , ," + appPerm + "," + ssoNotInOrder + "," + rp + "\n");
+
+        HashMap<String, Integer> apiCount = new HashMap<String, Integer>();
+        apiCount.put("android", 0);
+        apiCount.put("java", 0);
+        apiCount.put("useraction", 0);
+        csvFinisher(csvWriter, appFiles, iCCList, manifest, apiCount);        
         csvWriter.close();
+    }
+
+    public static String androsoo(File[] appFiles) throws IOException, InterruptedException{
+        for (File file : appFiles){
+            if(file.isFile()){
+                String filename = file.toString();
+                int index = filename.lastIndexOf('.');
+                if(index > 0){
+                    String extension = filename.substring(index + 1);
+                    if(extension.contains("dex")){
+                        String command = "\"C:\\Users\\ttlea\\OneDrive\\Documents\\Thesis 1\\ICC Mapper\\androsoo.exe\" " + 
+                        "\"" + filename + "\"";
+                        System.out.println(command);
+                        Process process = Runtime.getRuntime().exec(command);
+                        BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+                        String line ="";
+                        while((line = reader.readLine()) != null){
+                            
+                            if(line.contains("String offset not")){
+                                System.out.println(line);
+                                 return "1";
+                            }
+                        }
+
+                    }
+                }
+            }
+        }
+        
+        
+        return "0";
+    }
+
+    public static String repackedornah(Boolean repacked){
+        if(repacked){
+            return "1";
+        }
+        else{
+            return "0";
+        }
     }
 
     public static String getPermissions(File manifest) throws FileNotFoundException {
@@ -116,14 +187,15 @@ public class App {
         return permissions;
     }
 
-    public static void csvFinisher(FileWriter csvWriter, File[] appFiles, ArrayList<iCComp> iCCList, File manifest) throws IOException{
+    public static void csvFinisher(FileWriter csvWriter, File[] appFiles, ArrayList<iCComp> iCCList, File manifest, HashMap<String, Integer> apiCount) throws IOException{
+
         for (File file : appFiles){
             if (file.isDirectory() && file.getAbsolutePath().contains("smali")){
                 File[] subDirectory = file.listFiles();
-                csvFinisher(csvWriter, subDirectory, iCCList, manifest);
+                csvFinisher(csvWriter, subDirectory, iCCList, manifest, apiCount);
             }
             if (file.isFile()){
-                iCCList = iccFinder(file, manifest);
+                iCCList = iccFinder(file, manifest, apiCount);
                 for (iCComp i: iCCList){
                     csvWriter.append(i.toCSVFormat());
                 }
@@ -131,9 +203,10 @@ public class App {
         }
     }
 
-    public static ArrayList<iCComp> iccFinder(File file, File manifest) throws FileNotFoundException{
+    public static ArrayList<iCComp> iccFinder(File file, File manifest, HashMap<String, Integer> apiCount) throws FileNotFoundException{
 
             ArrayList<iCComp> iCCList = new ArrayList<iCComp>();
+            apifeatures apifeatures = new apifeatures();
             Scanner scannah = new Scanner(file);
             String[] currentSource = null;
             String[] currentTarget = {"null"};
@@ -142,6 +215,7 @@ public class App {
             while(scannah.hasNextLine()){
 
                 String current = scannah.nextLine();
+                    
                 if (current.contains(".class")){ //.class [stuff] L [sourceComponent];
                     currentSource = StringUtils.substringsBetween(current, " L", ";");
                 }
@@ -162,14 +236,44 @@ public class App {
                             done = true;
                         }
                     }
+
                 }
+                if(current.contains("Landroid/") || current.contains("Lorg/")){
+                    for(String api : apifeatures.androidAPIs){
+                        if (current.contains(api)){
+                            apiCount.put("android", apiCount.get("android") + 1);
+                            break;
+                        }
+                    }
+                }
+                
+                if(current.contains("Ljava/")){
+                    for(String api : apifeatures.javaAPIs){
+                        if (current.contains(api)){
+                            apiCount.put("java", apiCount.get("java") + 1);
+                            break;
+                        }
+                    }
+                }
+
+                for(String userAction : apifeatures.userActionList){
+                    if(current.contains(userAction)){
+                        apiCount.put("useraction", apiCount.get("useraction") + 1);
+                    }
+                }
+                    
                 for(String i : methods){
                     if(current.contains(i) && !current.contains(".method")){
                         iCCList.add(new iCComp(i));
+                        if(!Objects.isNull(currentSource) && !Objects.isNull(currentTarget)){
                         iCCList.get(count).setSourceComp(currentSource[0]);
                         iCCList.get(count).setTargetComp(currentTarget[0]);
                         iCCList.get(count).setTypeComm(findTypeComm(manifest, iCCList.get(count).getSourceComp()));
+                        iCCList.get(count).androidAPICount(apiCount.get("android"));
+                        iCCList.get(count).javaAPICount(apiCount.get("java"));
+                        iCCList.get(count).userICount(apiCount.get("useraction"));
                         count++;
+                        }
                     }
                 }
             }
@@ -188,18 +292,20 @@ public class App {
         while(scanner.hasNextLine()){
             current = scanner.nextLine();
             if(current.contains(androidname)){
-                while(!current.contains("</intent-filter>") && !current.contains("</manifest>")){
+                while(!current.contains("</intent-filter>") && !current.contains("</manifest>") && scanner.hasNextLine()){
                     current = scanner.nextLine();
-                    for(String i : internalArrayChecker){
-                        
-                        if(current.contains(i)){
-                            probablyInternal++;
+
+                    if(!Objects.isNull(internalArrayChecker))
+                        for(String i : internalArrayChecker){
                             
+                            if(current.contains(i)){
+                                probablyInternal++;
+                                
+                            }
+                            if(probablyInternal >= 1){
+                                typeComm = "internal";
+                            }
                         }
-                        if(probablyInternal >= 1){
-                            typeComm = "internal";
-                        }
-                    }
                     probablyInternal = 0;
                 }
                 scanner.close();

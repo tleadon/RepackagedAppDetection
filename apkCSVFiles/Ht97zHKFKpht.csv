@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,20,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,20,4
+startActivity,com/chartboost/sdk/a,com/chartboost/sdk/CBImpressionActivity,external,4,34,10
+startActivity,com/chartboost/sdk/impl/bb,android.intent.action.VIEW,external,25,58,13
+startActivity,com/chartboost/sdk/impl/bb,android.intent.action.VIEW,external,25,58,13
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,null,external,43,153,27
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,null,external,43,153,27
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,null,external,43,153,27
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,null,external,43,153,27
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,43,153,27
+startService,com/google/android/gms/analytics/CampaignTrackingReceiver,com/google/android/gms/analytics/CampaignTrackingService,external,47,153,27
+startActivity,com/google/android/gms/internal/ba,Open GMSG did not contain a URL.,external,53,163,35
+startActivity,com/google/android/gms/internal/bc,com.google.android.gms.ads.AdActivity,external,53,163,35
+startActivity,com/google/android/gms/internal/cr$1,android.intent.action.SEND,external,63,166,37
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,65,178,43
+startService,com/google/android/gms/internal/dm,com.google.android.gms,external,65,178,43
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,65,178,43
+startService,com/google/android/gms/internal/dm,com.google.android.gms,external,65,178,43
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,65,178,43
+startActivity,com/google/android/gms/internal/dz$a,null,external,65,178,43
+startActivity,com/google/android/gms/internal/dz$a,null,external,65,178,43
+startActivity,com/google/android/gms/internal/dz,android.intent.action.VIEW,external,65,178,43
+startActivity,com/google/android/gms/plus/PlusOneButton$a,null,external,81,198,45
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$a,null,external,81,198,45
+startService,com/google/android/gms/tagmanager/InstallReferrerReceiver,com/google/android/gms/tagmanager/InstallReferrerService,external,109,210,46
+startActivity,com/google/android/gms/tagmanager/PreviewActivity,null,external,109,210,47
+startActivity,com/umeng/common/net/c$b,android.intent.action.VIEW,external,158,266,58
+startActivity,com/umeng/common/net/e,android.intent.action.VIEW,external,166,336,58

@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,1
+startActivity,com/appfireworks/android/advert/AppWebView$AppWebClient,android.intent.action.VIEW,external,0,0,3
+startService,com/appfireworks/android/re/AppBootReceiver,com/appfireworks/android/re/AppBootReceiverService,external,0,170,11
+startService,com/appfireworks/android/re/AppReEngagement,com/appfireworks/android/re/AppReEngagementService,external,0,170,11
+startService,com/appfireworks/android/track/AppAutoReceiver,com/appfireworks/android/track/AppAutoService,external,34,191,11
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,44,487,12
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,68,514,17
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,68,514,17
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,74,564,24
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,74,564,24
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,86,596,26
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,90,605,32
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,144,747,56
+startActivity,com/heyzap/sdk/ads/AdUnit,android.intent.action.VIEW,external,151,753,57
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,151,753,75
+startService,com/prshhretrr/AdBootReceiver,com/prshhretrr/AdBootReceiverService,external,154,892,77
+startActivity,com/prshhretrr/AdController$AdShakeListener,mIhUcNh\teIxBbS\,external,157,897,91
+startActivity,com/prshhretrr/AdUtilityController,mIhUcNh\teIxBbS\,external,210,910,93
+startActivity,com/prshhretrr/AdUtilityController,\u0010j\u0015v\u001em\u0015*\u0018j\u0005a\u001fp_e\u0012p\u0018k\u001f*\,external,210,910,93
+startActivity,com/prshhretrr/AdUtilityController,mIhUcNh\teIxBbS\,external,210,910,93
+startActivity,com/prshhretrr/AdView$5,mIhUcNh\teIxBbS\,external,210,923,94
+startActivity,com/prshhretrr/AdView$5,mIhUcNh\teIxBbS\,external,210,923,94
+startActivity,com/prshhretrr/AdView$5,mIhUcNh\teIxBbS\,external,210,923,94
+startActivity,com/prshhretrr/AdView$5,mIhUcNh\teIxBbS\,external,210,923,94
+startActivity,com/prshhretrr/AdView,com/prshhretrr/AdBrowser,external,210,967,98
+startActivity,com/prshhretrr/AdView,\u0010j\u0015v\u001em\u0015*\u0018j\u0005a\u001fp_e\u0012p\u0018k\u001f*\'M4S,external,210,967,98
+startActivity,com/prshhretrr/AdView,com/prshhretrr/AdActionHandler,external,210,967,98
+startActivity,com/prshhretrr/AdView,com/prshhretrr/AdActionHandler,external,210,967,98
+startActivity,com/prshhretrr/AdWebView$AdWebClient,\u000e\u0002\u000b\u001e\u0000\u0005\u000bB\u0006\u0002\u001b\t\u0001\u0018A\r\u000c\u0018\u0006\u0003\u0001B9%*;,external,212,968,101
+startActivity,com/prshhretrr/AdWebView$AdWebClient,\u000e\u0002\u000b\u001e\u0000\u0005\u000bB\u0006\u0002\u001b\t\u0001\u0018A\r\u000c\u0018\u0006\u0003\u0001B9%*;,external,212,968,101
+startActivity,com/prshhretrr/AdWebView$AdWebClient,\u000e\u0002\u000b\u001e\u0000\u0005\u000bB\u0006\u0002\u001b\t\u0001\u0018A\r\u000c\u0018\u0006\u0003\u0001B9%*;,external,212,968,101
+startService,com/prshhretrr/ReEngagement,com/prshhretrr/ReEngagementService,external,212,968,101
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,258,1008,126

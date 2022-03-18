@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.RESTART_PACKAGES]-[android.permission.BLUETOOTH_ADMIN]-[android.permission.BLUETOOTH]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_SETTINGS]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,imoblife/applist/AppListActivity$4,android.intent.action.VIEW,external,33,91,21
+startActivity,imoblife/applist/AppListActivity$4,android.intent.action.VIEW,external,33,91,21
+startActivity,imoblife/applist/AppListActivity$ListViewItem$1$1,android.intent.action.VIEW,external,33,91,25
+startActivity,imoblife/applist/AppListActivity$ListViewItem$1$1,android.intent.action.VIEW,external,33,91,25
+startActivity,imoblife/applist/AppListActivity$ListViewItem$1$1,android.intent.action.VIEW,external,33,91,25
+startActivity,imoblife/applist/AppListActivity$ListViewItem$1$1,android.intent.action.VIEW,external,33,91,25
+startActivity,imoblife/batterybooster/Battery$3$1,android.intent.action.VIEW,external,65,94,29
+sendBroadcast,imoblife/batterybooster/BatteryBoosterService,android.intent.action.AIRPLANE_MODE,external,98,94,30
+startService,imoblife/batterybooster/BatteryBoosterWidget,imoblife/batterybooster/BatteryBoosterService,external,98,94,30
+startService,imoblife/batterybooster/BootBroadcastReceiver,imoblife/batterybooster/BatteryBoosterService,external,98,94,30
+startService,imoblife/batterybooster/BrightnessActivity,imoblife/batterybooster/BatteryBoosterService,external,108,94,34
+startActivity,imoblife/batterybooster/device/Bluetooth,android.settings.WIRELESS_SETTINGS,external,114,94,34
+startActivity,imoblife/batterybooster/device/Wifi,android.settings.WIFI_SETTINGS,external,116,94,34
+startActivity,imoblife/batterybooster/DisableBuletoothActivity$2,imoblife/batterybooster/MyActivity,external,116,94,37
+startActivity,imoblife/batterybooster/DisableWifiActivity$2,imoblife/batterybooster/MyActivity,external,116,94,39
+startActivity,imoblife/batterybooster/MyActivity$2,imoblife/batterybooster/BrightnessActivity,external,116,94,47
+startActivity,imoblife/batterybooster/MyActivity$3,imoblife/batterybooster/OutTimeActivity,external,116,94,48
+startActivity,imoblife/batterybooster/MyActivity$4,android.intent.action.VIEW,external,116,94,50
+startService,imoblife/batterybooster/MyActivity,imoblife/batterybooster/BatteryBoosterService,external,116,94,52
+startActivity,imoblife/batterybooster/MyActivity,imoblife/batterybooster/MenuSettings,external,116,94,54
+startActivity,imoblife/batterybooster/MyActivity,imoblife/applist/AppListActivity,external,116,94,54
+startService,imoblife/batterybooster/OutTimeActivity,imoblife/batterybooster/BatteryBoosterService,external,116,94,55
+startActivity,imoblife/batterybooster/SettingsActivity$14,android.intent.action.VIEW,external,120,94,77

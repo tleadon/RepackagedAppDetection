@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/qualcomm/QCARUnityPlayer/QCARPlayerProxyActivity,orientation,external,4,29,6
+sendBroadcast,com/ryanwebb/androidscreenshot/MainActivity$1,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,4,70,13
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,10,129,40

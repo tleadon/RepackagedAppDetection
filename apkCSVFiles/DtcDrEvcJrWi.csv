@@ -1,0 +1,46 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/purplebrain/giftiz/sdk/GiftizButtonView,com/purplebrain/giftiz/sdk/GiftizWebViewActivity,external,35,55,28
+startActivity,com/purplebrain/giftiz/sdk/GiftizButtonView,com/purplebrain/giftiz/sdk/GiftizWebViewActivity,external,35,55,28
+startActivity,com/purplebrain/giftiz/sdk/GiftizSDK$Ad,com/purplebrain/giftiz/sdk/GiftizWebViewActivity,external,35,55,31
+startActivity,com/purplebrain/giftiz/sdk/GiftizWebViewActivity,android.intent.action.VIEW,external,35,65,40
+startActivity,com/purplebrain/giftiz/sdk/GiftizWebViewActivity,android.intent.action.VIEW,external,35,65,40
+startActivity,com/tapjoy/mraid/controller/Display,android.intent.action.VIEW,external,46,250,41
+startActivity,com/tapjoy/mraid/controller/Display,android.intent.action.VIEW,external,46,250,41
+startActivity,com/tapjoy/mraid/controller/Utility,android.intent.action.CALL,external,77,250,42
+startActivity,com/tapjoy/mraid/controller/Utility,android.intent.action.INSERT,external,77,250,42
+startActivity,com/tapjoy/mraid/controller/Utility,android.intent.action.SEND,external,77,250,42
+startActivity,com/tapjoy/mraid/controller/Utility,android.intent.action.VIEW,external,77,250,42
+startActivity,com/tapjoy/mraid/view/MraidView$4,android.intent.action.DIAL,external,88,259,52
+startActivity,com/tapjoy/mraid/view/MraidView$4,android.intent.action.VIEW,external,88,259,52
+startActivity,com/tapjoy/mraid/view/MraidView$4,android.intent.action.VIEW,external,88,259,52
+startActivity,com/tapjoy/mraid/view/MraidView$4,android.intent.action.VIEW,external,88,259,52
+startActivity,com/tapjoy/mraid/view/MraidView,com/tapjoy/mraid/view/Browser,external,88,259,58
+startActivity,com/tapjoy/mraid/view/MraidView,android.intent.action.VIEW,external,88,259,58
+startActivity,com/tapjoy/mraid/view/MraidView,com/tapjoy/mraid/view/ActionHandler,external,88,259,58
+startActivity,com/tapjoy/mraid/view/MraidView,com/tapjoy/mraid/view/ActionHandler,external,88,259,58
+startActivity,com/tapjoy/TapjoyDailyRewardAd,com/tapjoy/TapjoyDailyRewardAdWebView,internal,104,261,59
+startActivity,com/tapjoy/TapjoyDisplayAd$GetBannerAdTask$1,android.intent.action.VIEW,external,104,261,60
+startActivity,com/tapjoy/TapjoyFullScreenAd,com/tapjoy/TapjoyFeaturedAppWebView,internal,104,261,60
+startActivity,com/tapjoy/TapjoyFullScreenAd,com/tapjoy/TapjoyFullScreenAdWebView,internal,104,261,60
+startActivity,com/tapjoy/TapjoyVideo,com/tapjoy/TapjoyVideoView,internal,112,431,60
+startActivity,com/tapjoy/TapjoyVideoView,com/tapjoy/TJAdUnitView,internal,112,431,63
+startActivityForResult,com/tapjoy/TapjoyVideoView,com/tapjoy/TJAdUnitView,internal,112,431,63
+startActivity,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TJAdUnitView,external,143,448,69
+startActivityForResult,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TJAdUnitView,external,143,448,69
+startActivity,com/tapjoy/TJAdUnitJSBridge,android.intent.action.VIEW,external,143,448,69
+startActivity,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TapjoyVideoView,external,143,448,69
+startActivityForResult,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TapjoyVideoView,external,143,448,69
+startActivity,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TapjoyVideoView,external,157,448,69
+startActivity,com/tapjoy/TJAdUnitJSBridge,android.intent.action.SEND,external,157,452,69
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,157,463,77
+startActivityForResult,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,157,463,77
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,157,463,77
+startActivity,com/tapjoy/TJEvent,com/tapjoy/TapjoyFeaturedAppWebView,external,157,463,77
+bindService,com/unity3d/player/a/e,null,external,157,473,77
+startActivity,com/unity3d/player/UnityPlayer$17,null,external,202,485,85
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,208,503,102

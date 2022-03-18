@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+bindService,com/google/android/vending/expansion/downloader/DownloaderClientMarshaller$Stub,EMH,external,0,3,0
+bindService,com/google/android/vending/expansion/downloader/DownloaderClientMarshaller$Stub,EMH,external,0,3,0
+startService,com/google/android/vending/expansion/downloader/impl/DownloaderService$InnerBroadcastReceiver,EPI,external,31,70,0
+startService,com/google/android/vending/expansion/downloader/impl/DownloaderService,EPI,external,33,74,0
+startService,com/google/android/vending/expansion/downloader/impl/DownloaderService,EPI,external,33,87,0
+sendBroadcast,com/google/android/vending/expansion/downloader/SystemFacade,null,external,79,224,0
+bindService,com/google/android/vending/licensing/LicenseChecker,null,external,79,232,0
+bindService,com/google/android/vending/licensing/LicenseChecker,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,79,234,0
+startActivity,org/renpy/android/Action,android.intent.action.SEND,external,79,238,0
+startActivity,org/renpy/android/DownloaderActivity$2,android.settings.WIFI_SETTINGS,external,79,262,2
+startActivity,org/renpy/android/DownloaderActivity,org/renpy/android/PythonActivity,external,79,268,3
+startActivity,org/renpy/android/ProjectChooser,org.renpy.LAUNCH,external,79,306,4
+startActivity,org/renpy/android/SDLSurfaceView,android.intent.action.VIEW,external,79,408,11

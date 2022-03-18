@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/prime31/GoogleIABPlugin$3,com/prime31/GoogleIABProxyActivity,external,31,55,20
+bindService,com/prime31/GoogleIABPlugin,null,external,31,55,20
+bindService,com/prime31/util/IabHelper,null,external,31,55,20
+bindService,com/prime31/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,31,59,20
+startActivity,com/unity3d/player/PsmMainActivity,com/unity3d/player/PsmUnityActivity,external,75,98,27
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,77,144,47

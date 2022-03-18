@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.CAMERA]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,42,104,20
+startService,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,42,104,20
+startService,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,42,104,20
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/MobileCoreReport,external,42,104,20
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/InstallationTracker,external,42,104,20
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/InstallationTracker,external,42,107,20
+startActivity,com/ironsource/mobilcore/aN,android.intent.action.VIEW,external,54,153,23
+startActivity,com/ironsource/mobilcore/ay,null,external,60,203,36
+sendBroadcast,com/ironsource/mobilcore/G,com.ironsource.mcslidermenu.MCWidgetCallbackAction,external,60,205,38
+bindService,com/ironsource/mobilcore/h,null,external,60,205,40
+bindService,com/ironsource/mobilcore/h,null,external,60,205,40
+bindService,com/ironsource/mobilcore/h,com.google.android.gms.ads.identifier.service.START,external,60,205,40
+startService,com/ironsource/mobilcore/I,null,external,60,205,40
+startActivity,com/ironsource/mobilcore/J,android.intent.action.SENDTO,external,60,247,40
+startService,com/ironsource/mobilcore/MobileCore$1,com/ironsource/mobilcore/MobileCoreReport,external,60,254,46
+startService,com/ironsource/mobilcore/r,null,external,60,281,46
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,60,293,46
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,60,314,46
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,60,324,46
+startActivity,com/ironsource/mobilcore/T,android.intent.action.VIEW,external,60,324,46
+startActivity,com/ironsource/mobilcore/Y,null,external,64,371,48
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,72,539,74
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,72,539,74
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,76,621,77
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,76,621,77
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,76,621,77
+startActivity,com/unity3d/player/PsmMainActivity,com/unity3d/player/PsmUnityActivity,external,124,675,84
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,126,721,104

@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,org/renpy/android/Action,android.intent.action.SEND,external,0,0,0
+startActivity,org/renpy/android/ProjectChooser,org.renpy.LAUNCH,external,0,62,1
+startActivity,org/renpy/android/SDLSurfaceView,android.intent.action.VIEW,external,0,159,8

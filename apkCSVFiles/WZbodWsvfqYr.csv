@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.CHANGE_WIFI_MULTICAST_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.vending.CHECK_LICENSE]-,1,1
+startActivity,com/admob/android/ads/Ad$1,android.intent.action.VIEW,external,0,0,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,49,146,10
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,49,148,10
+startActivity,com/google/android/downloader/PreconditionActivityHelper,PreconditionActivityHelper_wrappedIntent,external,88,436,14
+startActivity,com/google/android/downloader/PreconditionActivityHelper,PreconditionActivityHelper_wrappedIntent,external,88,436,14
+startActivity,com/magicandroidapps/bettertermpro/BetterTerm$7,android.intent.action.VIEW,external,88,457,38
+startActivity,com/magicandroidapps/bettertermpro/BetterTerm$7,android.intent.action.VIEW,external,88,457,38
+startActivity,com/magicandroidapps/bettertermpro/BetterTerm,com/magicandroidapps/bettertermpro/BetterTermEmulator,external,88,516,39
+startActivityForResult,com/magicandroidapps/bettertermpro/BetterTerm,com/magicandroidapps/bettertermpro/BetterTermEmulator,external,88,516,39
+startActivity,com/magicandroidapps/bettertermpro/BetterTermEmulator$6,android.intent.action.VIEW,external,88,523,41
+startActivity,com/magicandroidapps/bettertermpro/BetterTermEmulator$7,android.intent.action.VIEW,external,88,523,42
+startActivity,com/magicandroidapps/bettertermpro/BetterTermEmulator,android.intent.action.SENDTO,external,88,526,43
+startActivity,com/magicandroidapps/bettertermpro/BetterTermEmulator,com/magicandroidapps/bettertermpro/BettertermProPreferences,external,88,526,43
+startActivity,com/magicandroidapps/bettertermpro/OneShotAlarm,com/magicandroidapps/bettertermpro/BetterTerm,external,90,551,47
+startActivity,com/magicandroidapps/bettertermpro/SshClient$3,android.intent.action.VIEW,external,90,551,50
+startActivityForResult,com/magicandroidapps/bettertermpro/SshClient$3,android.intent.action.VIEW,external,90,551,50
+sendBroadcast,com/magicandroidapps/bettertermpro/SshClient$5,android.intent.extra.shortcut.INTENT,external,90,551,52
+startActivity,com/magicandroidapps/bettertermpro/SshClient$7,android.intent.action.VIEW,external,90,551,54
+startActivity,com/magicandroidapps/bettertermpro/SshClient,android.intent.action.VIEW,external,90,560,54
+startActivityForResult,com/magicandroidapps/bettertermpro/SshClient,android.intent.action.VIEW,external,90,560,54
+startActivity,com/magicandroidapps/bettertermpro/SshClient,android.intent.action.VIEW,external,90,560,54
+startActivityForResult,com/magicandroidapps/bettertermpro/SshClient,android.intent.action.VIEW,external,90,560,54
+startActivity,com/magicandroidapps/bettertermpro/TermShortcut$5,android.intent.action.VIEW,external,90,560,61
+startActivity,com/magicandroidapps/htclib/AndroidMarket$1,android.intent.action.VIEW,external,90,560,64
+startActivity,com/magicandroidapps/htclib/AndroidMarket$1,android.intent.action.VIEW,external,90,560,64
+startActivity,com/magicandroidapps/htclib/AndroidMarket$3,android.intent.action.VIEW,external,90,560,66

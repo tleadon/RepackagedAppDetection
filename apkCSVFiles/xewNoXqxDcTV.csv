@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.RECORD_AUDIO]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-,1,0
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,0,13,0
+startService,com/android/util/counter/CounterReceiver,com/test/httputil/HttpUtilService,internal,0,13,0
+startActivity,com/clear/wolveshfghtytr1/all/MainActivity$9,android.intent.action.VIEW,external,64,27,18
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,64,27,18
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,64,27,18
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,217,226,18
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,217,226,18
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,217,226,18

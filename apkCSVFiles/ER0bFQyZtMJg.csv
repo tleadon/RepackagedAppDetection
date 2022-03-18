@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.CHECK_LICENSE]-,1,1
+startActivity,com/android/mixloader/loader/QQ,null,internal,13,74,0
+startActivity,com/android/pushsdk/loader/QQ,null,internal,26,169,0
+bindService,com/unity3d/player/a/e,null,external,26,185,0
+startActivity,com/unity3d/player/UnityPlayer$9,null,external,30,199,13
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,69,221,22

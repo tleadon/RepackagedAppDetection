@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-,0,0
+bindService,com/android/vending/licensing/d,null,external,0,10,0
+bindService,com/android/vending/licensing/d,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,43,55,30

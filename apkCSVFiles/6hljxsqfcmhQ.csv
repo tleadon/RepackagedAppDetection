@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/purplebrain/adbuddiz/sdk/AdBuddiz,com/purplebrain/adbuddiz/sdk/AdBuddizActivity,external,31,66,20
+startActivity,com/purplebrain/adbuddiz/sdk/util/e,android.intent.action.VIEW,external,41,66,22
+startActivity,com/purplebrain/adbuddiz/sdk/util/e,android.intent.action.VIEW,external,41,66,22
+startActivity,com/purplebrain/adbuddiz/sdk/util/g,android.intent.action.VIEW,external,41,66,25
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,41,108,51
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,41,108,51
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,45,190,54
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,45,190,54
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,45,190,54
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,95,245,79

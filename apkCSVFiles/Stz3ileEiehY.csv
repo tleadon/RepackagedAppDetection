@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+startActivity,com/amazon/android/e/a,null,external,6,50,0
+startActivityForResult,com/amazon/android/e/a,null,external,6,50,0
+startActivity,com/amazon/android/e/a,null,external,6,50,0
+startActivityForResult,com/amazon/android/e/a,null,external,6,50,0
+startActivity,com/amazon/android/e/d,null,external,6,50,0
+startActivityForResult,com/amazon/android/e/d,null,external,6,50,0
+sendBroadcast,com/amazon/android/framework/context/d,Sending Broadcast!!!!: ,external,6,50,0
+bindService,com/amazon/android/framework/task/command/b,com.amazon.venezia,external,6,50,2
+bindService,com/amazon/android/framework/task/command/b,com.amazon.venezia,external,6,50,2
+startActivity,com/gnosoft/Vampir/PlatformHelper,android.intent.action.VIEW,external,8,287,9
+startActivity,com/gnosoft/Vampir/PlatformHelper,android.intent.action.VIEW,external,8,287,9
+startActivity,com/gnosoft/Vampir/VampirWebViewClient,android.intent.action.VIEW,external,8,287,17

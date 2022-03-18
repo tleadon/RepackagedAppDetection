@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/hanumanchalisaaudiocafeinks/BT_activity_base,com/hanumanchalisaaudiocafeinks/BT_activity_root,internal,62,55,32
+startActivity,com/hanumanchalisaaudiocafeinks/BT_activity_root,isSplash,external,71,55,33
+startActivity,com/hanumanchalisaaudiocafeinks/BT_activity_root,com/hanumanchalisaaudiocafeinks/BT_activity_root_tabs,external,71,55,33
+startActivity,com/hanumanchalisaaudiocafeinks/BT_act_controller,android.intent.action.VIEW,external,71,55,35
+startActivity,com/hanumanchalisaaudiocafeinks/BT_act_controller,android.intent.action.VIEW,external,71,55,35
+startActivity,com/hanumanchalisaaudiocafeinks/BT_act_controller,android.intent.action.SEND,external,71,55,35
+startActivity,com/hanumanchalisaaudiocafeinks/BT_act_controller,android.intent.action.VIEW,external,71,55,35
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_customHTML$1,android.intent.action.VIEW,external,92,203,35
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_customHTML$2,android.intent.action.VIEW,external,92,203,37
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_customHTML$4,android.intent.action.SEND,external,92,203,39
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_customHTML,android.intent.action.VIEW,internal,92,203,44
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_images,android.intent.action.SEND,internal,92,212,55
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_map,android.intent.action.VIEW,external,93,215,71
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_webView$1,android.intent.action.VIEW,external,93,230,109
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_webView$3,android.intent.action.VIEW,external,93,230,113
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_webView$5,android.intent.action.SEND,external,93,230,115
+startActivity,com/hanumanchalisaaudiocafeinks/BT_screen_webView,android.intent.action.VIEW,internal,93,230,120

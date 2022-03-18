@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-,1,1
+startActivity,com/admob/android/ads/ar,null,external,0,0,14
+startActivity,com/admob/android/ads/bw,android.intent.action.VIEW,external,12,77,15
+startActivity,com/ielfgame/dartNinja/b/e,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,32,88,19
+startActivity,com/ielfgame/dartNinja/v,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,32,98,19
+startActivity,com/mt/airad/IIIIlllIlllIIIII,android.intent.action.VIEW,external,44,110,24
+startActivity,com/mt/airad/IlllIllIlllIIIII,android.intent.action.VIEW,external,103,150,25
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,com/mt/airad/MultiAD,external,103,150,26
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,103,150,26
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,103,150,26
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,103,150,26
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,103,150,26
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,103,150,26
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,127,282,33
+startActivity,com/scoreloop/client/android/ui/component/base/d,android.intent.action.VIEW,external,127,282,36
+startActivity,com/scoreloop/client/android/ui/component/base/d,android.intent.action.VIEW,external,127,282,36
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,127,282,44
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,131,290,51
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,131,290,51
+startActivity,com/scoreloop/client/android/ui/framework/m,null,external,131,290,63
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,131,290,63

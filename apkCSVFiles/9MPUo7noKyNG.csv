@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+sendBroadcast,com/miui/themeapk/ThemeActivity$1,miui.intent.extra.MIHOME_START_THEME_APK_ACTION,external,12,127,7
+startActivity,com/miui/themeapk/ThemeActivity$1,com/miui/themeapk/ThemeDetailActivity,external,12,127,7
+sendBroadcast,com/miui/themeapk/ThemeActivity,miui.intent.extra.MIHOME_START_THEME_APK_ACTION,external,12,127,8
+startActivity,com/miui/themeapk/ThemeActivity,android.intent.action.VIEW,external,12,127,8
+startActivity,com/miui/themeapk/ThemeActivity,android.intent.action.VIEW,external,12,127,8
+startActivity,com/miui/themeapk/ThemeActivity,com/miui/themeapk/ThemeDetailActivity,external,12,127,8
+startActivity,com/miui/themeapk/ThemeDetailActivity$2,android.intent.action.VIEW,external,12,127,9
+startActivity,com/miui/themeapk/ThemeDetailActivity,android.intent.action.VIEW,external,12,191,14

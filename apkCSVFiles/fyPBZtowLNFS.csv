@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_PROFILE]-[android.permission.READ_CONTACTS]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/mobeleader/sps/SpsLib,android.intent.action.VIEW,external,79,4,12
+startService,com/tapcontext/analytics/tcmetrics/TapContextAPI$PeopleImpl,sender,external,98,19,12
+startActivity,com/tapcontext/BannerAdView,android.intent.action.VIEW,external,132,33,12
+startActivity,com/tapcontext/BannerAdView,android.intent.action.VIEW,external,132,33,12
+startActivity,com/tapcontext/BannerAdView,android.intent.action.VIEW,external,132,33,12
+startActivity,com/tapcontext/MraidAdView$AdWebViewClient,android.intent.action.VIEW,external,174,83,16
+startActivity,com/tapcontext/MraidAdView,com.mopub.intent.extra.AD_CLICK_DATA,external,191,83,16
+startActivity,com/tapcontext/MraidAdView,android.intent.action.VIEW,external,191,83,16
+startActivity,com/tapcontext/MraidAdView,android.intent.action.VIEW,external,191,83,16
+startActivity,com/tapcontext/ScanAd$1,android.intent.action.VIEW,external,204,83,16
+startActivity,com/tapcontext/ScanAd$ScanJSInterface,android.intent.action.VIEW,external,204,83,17
+startService,com/tapcontext/TapContextReceiver,com/tapcontext/TapContextService,external,226,83,18
+startActivity,com/tapcontext/TapContextSDK$1,com/tapcontext/TapContextActivity,external,226,83,18
+startActivity,com/tapcontext/TapContextService$6,null,external,226,83,18
+startActivity,org/zeroxlab/demo/MainActivity$1,android.intent.action.VIEW,external,266,151,20

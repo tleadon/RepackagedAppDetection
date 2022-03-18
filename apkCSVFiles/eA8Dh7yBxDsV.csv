@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,org/apache/cordova/CordovaActivity,null,external,3,887,16
+startActivityForResult,org/apache/cordova/CordovaActivity,null,external,3,887,16
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,3,887,23
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,3,887,23
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,16,970,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,16,970,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,970,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,970,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,970,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,970,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,970,35
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$1,android.intent.action.DIAL,external,29,1370,35
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.DIAL,external,29,1372,39
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,29,1372,39
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,29,1372,39
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser,android.intent.action.VIEW,external,29,1372,39
+startActivity,org/chromium/ChromeNavigation,android.intent.action.VIEW,external,29,1393,39

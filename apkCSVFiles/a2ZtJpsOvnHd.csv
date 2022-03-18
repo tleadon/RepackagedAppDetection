@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.BATTERY_STATS]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.SET_ORIENTATION]-[android.permission.DEVICE_POWER]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.vending.BILLING]-,0,0
+startActivity,com/ideaworks3d/marmalade/LoaderActivity$1,null,external,2,23,0
+startActivityForResult,com/ideaworks3d/marmalade/LoaderActivity$1,null,external,2,23,0
+startActivity,com/ideaworks3d/marmalade/LoaderThread,vfstore,external,75,55,17
+startActivity,com/ideaworks3d/marmalade/LoaderThread,android.intent.action.SEND,external,75,57,18
+bindService,com/ideaworks3d/marmalade/s3eAndroidMarketBilling/s3eAndroidMarketBilling,com.android.vending.billing.MarketBillingService.BIND,internal,75,57,26
+bindService,com/ideaworks3d/marmalade/s3eAndroidMarketBilling/s3eAndroidMarketBilling,com.android.vending.billing.MarketBillingService.BIND,internal,75,57,26

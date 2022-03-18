@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.RESTART_PACKAGES]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.VIBRATE]-[android.permission.GET_TASKS]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.CHANGE_CONFIGURATION]-[com.android.browser.permission.READ_HISTORY_BOOKMARKS]-[android.permission.READ_PHONE_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.SYSTEM_ALERT_WINDOW]-,0,0
+startActivity,com/cdim/c/a/k,android.intent.action.VIEW,external,13,85,23
+startActivity,com/cdim/driver/core/DetailActivity,com/cdim/driver/core/AbortActivity,external,23,85,35
+startActivity,com/cdim/driver/core/DetailActivity,com/cdim/driver/core/HelpActivity,external,23,85,35
+startActivity,com/cdim/driver/core/e,com/cdim/driver/core/ChessboardActivity,external,23,85,36
+startActivity,com/cdim/driver/core/j,com/cdim/driver/core/DetailActivity,external,23,85,37
+startActivity,com/cdim/driver/core/j,com/cdim/driver/core/DetailActivity,external,23,85,37
+startActivity,com/cdim/driver/core/j,com/cdim/driver/core/DetailActivity,external,23,85,37
+startActivity,com/cdim/driver/core/j,com/cdim/driver/core/DetailActivity,external,23,85,37
+startActivity,com/cdim/driver/core/j,com/cdim/driver/core/DetailActivity,external,23,85,37
+startActivity,com/cdim/driver/core/j,com/cdim/driver/core/HelpActivity,external,23,85,37
+startActivity,com/cdim/driver/core/j,com/cdim/driver/core/AbortActivity,external,23,85,37
+startActivity,com/cdim/driver/core/j,com/cdim/driver/core/GamesActivity,external,23,85,37
+startActivity,com/cdim/driver/core/m,com/cdim/driver/core/MainActivity,external,23,85,39
+startActivity,com/cdim/driver/core/MainActivity,com/cdim/driver/core/AbortActivity,external,26,85,44
+startActivity,com/cdim/driver/core/MainActivity,com/cdim/driver/core/HelpActivity,external,26,85,44
+startActivity,com/cdim/driver/core/PromptActivity,com/cdim/driver/core/MainActivity,external,26,85,44

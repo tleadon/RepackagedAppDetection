@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.INTERNET]-[android.permission.READ_CONTACTS]-[android.permission.MANAGE_ACCOUNTS]-[android.permission.AUTHENTICATE_ACCOUNTS]-[android.permission.GET_ACCOUNTS]-[android.permission.USE_CREDENTIALS]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/umeng/common/b/g,null,external,38,88,20
+startActivity,com/umeng/common/b/g,android.intent.action.VIEW,external,38,88,20
+bindService,com/umeng/common/net/a$b,null,external,60,98,20
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,60,98,20
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,84,101,20
+sendBroadcast,net/micode/notes/gtask/remote/GTaskASyncTask,net/micode/notes/ui/NotesListActivity,external,232,241,20
+sendBroadcast,net/micode/notes/gtask/remote/GTaskSyncService$1,null,external,280,266,20
+startService,net/micode/notes/gtask/remote/GTaskSyncService,net/micode/notes/gtask/remote/GTaskSyncService,external,280,266,20
+sendBroadcast,net/micode/notes/gtask/remote/GTaskSyncService,net/micode/notes/gtask/remote/GTaskSyncService,external,280,266,20
+startService,net/micode/notes/gtask/remote/GTaskSyncService,net/micode/notes/gtask/remote/GTaskSyncService,external,280,266,20
+sendBroadcast,net/micode/notes/gtask/remote/GTaskSyncService,net.micode.notes.gtask.remote.gtask_sync_service,external,280,266,20
+startActivity,net/micode/notes/ui/AlarmAlertActivity,net/micode/notes/ui/NoteEditActivity,internal,343,295,21
+startActivity,net/micode/notes/ui/AlarmReceiver,null,internal,349,295,21
+startActivity,net/micode/notes/ui/NoteEditActivity,net/micode/notes/ui/NoteEditActivity,external,349,295,26
+startActivity,net/micode/notes/ui/NoteEditActivity,net/micode/notes/ui/NotesListActivity,external,355,295,26
+startActivity,net/micode/notes/ui/NoteEditActivity,android.intent.action.SEND,external,357,295,26
+sendBroadcast,net/micode/notes/ui/NoteEditActivity,net/micode/notes/ui/NoteEditActivity,external,357,295,26
+sendBroadcast,net/micode/notes/ui/NoteEditActivity,android.appwidget.action.APPWIDGET_UPDATE,external,357,295,26
+startActivity,net/micode/notes/ui/NotesListActivity$3,android.intent.action.VIEW,external,359,295,45
+startActivity,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NoteEditActivity,external,383,295,55
+startActivityForResult,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NoteEditActivity,external,383,295,55
+startActivity,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NoteEditActivity,external,393,295,55
+startActivityForResult,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NoteEditActivity,external,393,295,55
+startActivity,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NotesPreferenceActivity,external,393,318,55
+startActivityIfNeeded,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NotesPreferenceActivity,external,393,318,55
+sendBroadcast,net/micode/notes/ui/NotesListActivity,android.appwidget.action.APPWIDGET_UPDATE,external,393,318,55
+startActivity,net/micode/notes/ui/NotesPreferenceActivity$5,android.settings.ADD_ACCOUNT_SETTINGS,external,393,318,64
+startActivityForResult,net/micode/notes/ui/NotesPreferenceActivity$5,android.settings.ADD_ACCOUNT_SETTINGS,external,393,318,64

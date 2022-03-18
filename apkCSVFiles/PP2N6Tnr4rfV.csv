@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.CHECK_LICENSE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-,1,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/camelgames/blowup/MainActivity$3,android.intent.action.VIEW,external,0,14,2
+startActivity,com/camelgames/explode/activities/MainMenuActivity$3,com/camelgames/explode/activities/ScoreActivity,external,2,14,5
+startActivity,com/camelgames/explode/activities/MainMenuActivity$4,android.intent.action.VIEW,external,2,14,6
+startActivity,com/camelgames/explode/activities/ScoreActivity$2,android.intent.action.VIEW,external,2,14,10
+startActivity,com/camelgames/explode/game/GameManager$1,com/camelgames/explode/activities/MainMenuActivity,external,2,16,14

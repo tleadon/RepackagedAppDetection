@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WRITE_SETTINGS]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_CONTACTS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,null,external,0,50,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,53,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,94,27
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,4,94,27
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,126,29
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,135,35
+startActivity,planeteringtones/mrdimeh/ListRingtonesAdapter$2,planeteringtones/mrdimeh/SelectContactActivity,external,35,149,67
+sendBroadcast,planeteringtones/mrdimeh/ListRingtonesAdapter$5,REMOVE_SONG,external,35,149,69
+sendBroadcast,planeteringtones/mrdimeh/ListRingtonesAdapter,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,37,191,70
+sendBroadcast,planeteringtones/mrdimeh/ListRingtonesAdapter,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,41,226,70
+sendBroadcast,planeteringtones/mrdimeh/ListRingtonesAdapter,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,45,261,70
+sendBroadcast,planeteringtones/mrdimeh/ListRingtonesAdapter,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,49,296,70
+startActivity,planeteringtones/mrdimeh/SplashActivity$1,planeteringtones/mrdimeh/Main,external,55,309,75
+startActivity,planeteringtones/mrdimeh/SplashActivity,planeteringtones/mrdimeh/Main,external,55,309,76
+sendBroadcast,planeteringtones/mrdimeh/start/Util,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,57,334,76

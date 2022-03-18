@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_CONTACTS]-[android.permission.VIBRATE]-,0,1
+startActivity,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivityForResult,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,534,14
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,534,14
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,566,16
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,575,22
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient$AnalyticsServiceConnection,null,external,31,589,34
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,31,589,34
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,31,589,34
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,31,589,34
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,31,589,34
+startActivity,com/google/analytics/tracking/android/EasyTracker,null,external,31,594,34
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,118,748,41
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,118,748,50
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,118,748,50
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,118,748,66
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,122,757,79
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,122,757,79
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,122,760,94
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,122,760,117
+startActivity,com/voidworx/gellypop/ScoreloopHandler$1,com/scoreloop/client/android/ui/EntryScreenActivity,external,126,1013,128
+startActivityForResult,com/voidworx/gellypop/ScoreloopHandler$1,com/scoreloop/client/android/ui/EntryScreenActivity,external,126,1013,128
+startActivity,com/voidworx/gellypop/ScoreloopHandler$1,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,126,1013,128
+startActivityForResult,com/voidworx/gellypop/ScoreloopHandler$1,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,126,1013,128
+startActivity,com/voidworx/gellypop/WindowedTest$2,com/voidworx/gellypop/WindowedTest,external,126,1013,132

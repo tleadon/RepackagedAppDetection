@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.BILLING]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,0,0,0
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,0,0,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,0,5,0
+startService,com/outlinegames/unibill/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,0,5,0
+startService,com/outlinegames/unibill/BillingReceiver,com.example.subscriptions.GET_PURCHASE_INFORMATION,external,0,5,0
+startService,com/outlinegames/unibill/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,0,5,0
+bindService,com/outlinegames/unibill/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,0,5,0
+bindService,com/outlinegames/unibill/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,0,5,0
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,6,62,27

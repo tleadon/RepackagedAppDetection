@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,2,58,14
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,2,58,15
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,2,58,15
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,2,58,15
+startActivity,cz/acerapps/opensudoku/gui/FileImportActivity,cz/acerapps/opensudoku/gui/ImportSudokuActivity,external,187,94,17
+startActivity,cz/acerapps/opensudoku/gui/FileListActivity$3,cz/acerapps/opensudoku/gui/ImportSudokuActivity,external,187,112,18
+startActivity,cz/acerapps/opensudoku/gui/FileListActivity,cz/acerapps/opensudoku/gui/FileListActivity,external,187,136,19
+startActivity,cz/acerapps/opensudoku/gui/FolderListActivity$1,android.intent.action.VIEW,external,187,138,20
+startActivity,cz/acerapps/opensudoku/gui/FolderListActivity,cz/acerapps/opensudoku/gui/SudokuExportActivity,external,187,138,24
+startActivity,cz/acerapps/opensudoku/gui/FolderListActivity,cz/acerapps/opensudoku/gui/SudokuListActivity,external,187,138,25
+startActivity,cz/acerapps/opensudoku/gui/FolderListActivity,cz/acerapps/opensudoku/gui/FileListActivity,external,187,138,27
+startActivity,cz/acerapps/opensudoku/gui/FolderListActivity,cz/acerapps/opensudoku/gui/SudokuExportActivity,external,187,138,27
+startActivity,cz/acerapps/opensudoku/gui/ImportSudokuActivity,cz/acerapps/opensudoku/gui/SudokuImportActivity,external,191,185,28
+startActivity,cz/acerapps/opensudoku/gui/SudokuImportActivity$1,cz/acerapps/opensudoku/gui/FolderListActivity,external,191,197,54
+startActivity,cz/acerapps/opensudoku/gui/SudokuImportActivity$1,cz/acerapps/opensudoku/gui/SudokuListActivity,external,191,197,54
+startActivity,cz/acerapps/opensudoku/gui/SudokuListActivity,cz/acerapps/opensudoku/gui/SudokuPlayActivity,external,191,197,60
+startActivity,cz/acerapps/opensudoku/gui/SudokuListActivity,cz/acerapps/opensudoku/gui/SudokuEditActivity,external,191,197,61
+startActivity,cz/acerapps/opensudoku/gui/SudokuListActivity,cz/acerapps/opensudoku/gui/FolderListActivity,external,191,197,63
+startActivity,cz/acerapps/opensudoku/gui/SudokuListActivity,cz/acerapps/opensudoku/gui/SudokuEditActivity,external,191,197,68
+startActivity,cz/acerapps/opensudoku/gui/SudokuListActivity,cz/acerapps/opensudoku/gui/FolderListActivity,external,191,197,68
+startActivity,cz/acerapps/opensudoku/gui/SudokuPlayActivity,null,external,191,197,71
+startActivity,cz/acerapps/opensudoku/gui/SudokuPlayActivity,null,external,191,197,71
+startActivity,cz/acerapps/opensudoku/gui/SudokuPlayActivity,cz/acerapps/opensudoku/gui/GameSettingsActivity,external,191,197,73
+startActivityForResult,cz/acerapps/opensudoku/gui/SudokuPlayActivity,cz/acerapps/opensudoku/gui/GameSettingsActivity,external,191,197,73

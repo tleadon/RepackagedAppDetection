@@ -1,0 +1,45 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-,1,0
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,0,5,0
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,0,5,0
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,0,6,1
+startActivity,com/fivesg/bubble/GameMainScreens$7,android.intent.action.VIEW,external,0,29,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,3,29,5
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,3,29,5
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,15,61,7
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,19,70,13
+startActivity,com/umeng/ad/AdDetailActivity$a,android.intent.action.DIAL,external,34,240,25
+startActivity,com/umeng/ad/AdView,android.intent.action.VIEW,external,34,244,31
+startActivity,com/umeng/ad/AdView,android.intent.action.VIEW,external,34,244,31
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,34,244,31
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,34,244,31
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,34,244,31
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,34,244,31
+startActivity,com/umeng/ad/AdView,android.intent.action.DIAL,external,34,244,31
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,34,244,31
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,34,244,31
+startActivity,com/umeng/ad/AdView,com/umeng/ad/AdDetailActivity,external,34,244,31
+startActivity,com/umeng/ad/i,android.intent.action.VIEW,external,43,246,38
+startActivity,com/umeng/common/b/g,null,external,50,304,41
+startActivity,com/umeng/common/b/g,android.intent.action.VIEW,external,50,304,41
+bindService,com/umeng/common/net/a$b,null,external,72,314,41
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,72,314,41
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,96,317,41
+sendBroadcast,com/umeng/fb/a/d,postFeedbackFinished,external,111,453,41
+sendBroadcast,com/umeng/fb/a/e,RetrieveReplyBroadcast,external,111,453,41
+sendBroadcast,com/umeng/fb/a/f,postFeedbackFinished,external,111,453,41
+startActivity,com/umeng/fb/ui/SendFeedback$b,com/umeng/fb/ui/FeedbackConversations,external,115,453,58
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/FeedbackConversation,external,119,453,58
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/FeedbackConversations,external,119,453,58
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/SendFeedback,external,119,453,58
+startActivity,com/umeng/xp/controller/b,android.intent.action.CALL,external,136,455,60
+startActivity,com/umeng/xp/controller/b,android.intent.action.VIEW,external,136,455,60
+startActivity,com/umeng/xp/view/ao,com/umeng/xp/view/ao,external,139,457,68
+startActivity,com/umeng/xp/view/aw,android.intent.action.VIEW,external,139,465,74
+startActivity,com/umeng/xp/view/L,android.intent.action.VIEW,external,139,477,85
+startActivity,com/yahoo/ad/AdUnit,com/yahoo/ad/MoreGame,external,139,477,106
+startActivity,com/yahoo/ad/AdUpdate,android.intent.action.VIEW,external,139,526,114
+startActivity,com/yahoo/ad/Share$1$1,android.intent.action.SEND,external,139,698,120
+startActivity,com/yahoo/ad/Share$1$3,com/yahoo/ad/MoreGame,external,139,700,124
+startActivity,com/yahoo/ad/Weclome$1,com/fivesg/bubble/GameMainScreens,external,139,704,131
+startActivity,com/yahoo/ad/Weclome,com/fivesg/bubble/GameMainScreens,external,139,704,131

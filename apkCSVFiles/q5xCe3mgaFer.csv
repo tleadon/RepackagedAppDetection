@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-,1,1
+startActivity,coolcherrytrees/games/reaxvd/AboutActivity$1,android.intent.action.VIEW,external,35,33,3
+startActivity,coolcherrytrees/games/reaxvd/AboutActivity$2,android.intent.action.VIEW,external,35,33,5
+startActivity,coolcherrytrees/games/reaxvd/AboutActivity,android.intent.action.VIEW,external,35,33,10
+startActivity,coolcherrytrees/games/reaxvd/ChangeLog$2,android.intent.action.VIEW,external,35,33,15
+startActivity,coolcherrytrees/games/reaxvd/GameActivity$1,android.intent.action.VIEW,external,35,46,17
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/GamePreferences,external,40,48,18
+startActivityForResult,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/GamePreferences,external,40,48,18
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/AboutActivity,external,40,48,18
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/AboutActivity,external,40,48,20
+startActivityForResult,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/AboutActivity,external,40,48,20
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,android.intent.action.VIEW,external,40,48,22
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/ProHighscoreAgainActivity,external,40,48,23
+startActivityForResult,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/ProHighscoreAgainActivity,external,40,48,23
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/ProAgainActivity,external,40,48,23
+startActivityForResult,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/ProAgainActivity,external,40,48,23
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/AgainActivity,external,40,48,23
+startActivityForResult,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/AgainActivity,external,40,48,23
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/GamePreferences,external,40,48,23
+startActivityForResult,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/GamePreferences,external,40,48,23
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/AboutActivity,external,40,48,23
+startActivityForResult,coolcherrytrees/games/reaxvd/GameActivity,coolcherrytrees/games/reaxvd/AboutActivity,external,40,48,23
+startActivity,coolcherrytrees/games/reaxvd/GameActivity,android.intent.action.VIEW,external,40,48,23
+startActivity,coolcherrytrees/games/reaxvd/GamePreferences,coolcherrytrees/games/reaxvd/SelectModesActivity,external,40,48,24
+startActivityForResult,coolcherrytrees/games/reaxvd/GamePreferences,coolcherrytrees/games/reaxvd/SelectModesActivity,external,40,48,24
+startActivity,coolcherrytrees/games/reaxvd/SelectModesActivity$2,coolcherrytrees/games/reaxvd/AboutActivity,external,50,50,33

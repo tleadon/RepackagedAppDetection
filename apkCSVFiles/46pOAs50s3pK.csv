@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-,0,0
+startService,com/mosjoy/LotteryActivityTiCai/LotteryActivity,com/mosjoy/service/MsgService,external,5,0,4
+sendBroadcast,com/mosjoy/service/k,com.mosjoy.message,external,5,33,12
+sendBroadcast,com/mosjoy/service/k,com.mosjoy.message,external,5,34,12
+sendBroadcast,com/mosjoy/service/k,com.mosjoy.message,external,5,34,12
+startActivity,com/mosjoy/view/f,android.intent.action.VIEW,external,5,86,210
+startActivity,com/mosjoy/view/wq,android.intent.action.VIEW,external,5,92,482
+startActivity,com/mosjoy/view/wr,android.intent.action.VIEW,external,5,92,483

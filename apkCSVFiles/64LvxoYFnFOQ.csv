@@ -1,0 +1,55 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.FLASHLIGHT]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_CONTACTS]-[android.permission.GET_ACCOUNTS]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.RECORD_AUDIO]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.READ_PHONE_STATE]-[android.permission.RECORD_VIDEO]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-,0,1
+startActivity,com/google/zxing/client/android/book/BrowseBookListener,android.intent.action.VIEW,external,0,2,1
+startActivity,com/google/zxing/client/android/CaptureActivity,com/google/zxing/client/android/HelpActivity,external,0,14,3
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,0,14,8
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,0,14,8
+startActivityForResult,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,0,14,8
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,0,14,8
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,0,14,8
+startActivity,com/google/zxing/client/android/CaptureActivityHandler,android.intent.action.VIEW,external,0,14,9
+startActivity,com/google/zxing/client/android/encode/EncodeActivity,android.intent.action.SEND,external,0,41,9
+startActivity,com/google/zxing/client/android/encode/EncodeActivity,android.intent.action.SEND,external,0,59,10
+startActivity,com/google/zxing/client/android/HelpActivity$HelpClient,android.intent.action.VIEW,external,2,64,13
+startActivity,com/google/zxing/client/android/history/HistoryActivity,android.intent.action.SEND,external,10,64,22
+startActivity,com/google/zxing/client/android/pref/BSPlusPreference$1,android.intent.action.VIEW,external,67,101,24
+startActivity,com/google/zxing/client/android/result/ResultHandler,android.intent.action.SEARCH,external,67,101,28
+startActivity,com/google/zxing/client/android/result/ResultHandler,android.intent.action.VIEW,external,67,101,28
+startActivity,com/google/zxing/client/android/share/ShareActivity$1,android.intent.action.PICK,external,69,101,31
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$1,android.intent.action.PICK,external,69,101,31
+startActivity,com/google/zxing/client/android/share/ShareActivity$2,android.intent.action.PICK,external,69,101,32
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$2,android.intent.action.PICK,external,69,101,32
+startActivity,com/google/zxing/client/android/share/ShareActivity$3,android.intent.action.PICK,external,69,101,33
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$3,android.intent.action.PICK,external,69,101,33
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.google.zxing.client.android.ENCODE,external,69,101,35
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.google.zxing.client.android.ENCODE,external,75,101,35
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.google.zxing.client.android.ENCODE,external,75,101,35
+startActivity,com/phonegap/plugins/barcodescanner/BarcodeScanner,com.phonegap.plugins.barcodescanner.ENCODE,external,75,101,35
+startActivity,com/phonegap/plugins/barcodescanner/BarcodeScanner,com.phonegap.plugins.barcodescanner.SCAN,external,75,101,35
+startActivityForResult,com/phonegap/plugins/barcodescanner/BarcodeScanner,com.phonegap.plugins.barcodescanner.SCAN,external,75,101,35
+startActivity,org/apache/cordova/camera/CameraLauncher,Get Picture,external,92,1043,39
+startActivityForResult,org/apache/cordova/camera/CameraLauncher,Get Picture,external,92,1043,39
+startActivity,org/apache/cordova/camera/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,92,1048,39
+startActivityForResult,org/apache/cordova/camera/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,92,1048,39
+startActivity,org/apache/cordova/CordovaActivity,null,external,115,1069,51
+startActivityForResult,org/apache/cordova/CordovaActivity,null,external,115,1069,51
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,115,1069,58
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,115,1069,58
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,128,1152,70
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,128,1152,70
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,128,1152,70
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,128,1152,70
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,128,1152,70
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,128,1152,70
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,128,1152,70
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$1,android.intent.action.DIAL,external,143,1686,77
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.DIAL,external,143,1688,81
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,143,1688,81
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,143,1688,81
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser,android.intent.action.VIEW,external,143,1688,81
+startActivity,org/apache/cordova/mediacapture/Capture,android.provider.MediaStore.RECORD_SOUND,external,149,1733,81
+startActivityForResult,org/apache/cordova/mediacapture/Capture,android.provider.MediaStore.RECORD_SOUND,external,149,1733,81
+startActivity,org/apache/cordova/mediacapture/Capture,android.media.action.IMAGE_CAPTURE,external,149,1737,81
+startActivityForResult,org/apache/cordova/mediacapture/Capture,android.media.action.IMAGE_CAPTURE,external,149,1737,81
+startActivity,org/apache/cordova/mediacapture/Capture,android.media.action.VIDEO_CAPTURE,external,149,1737,81
+startActivityForResult,org/apache/cordova/mediacapture/Capture,android.media.action.VIDEO_CAPTURE,external,149,1737,81

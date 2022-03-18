@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.MODIFY_PHONE_STATE]-[android.permission.WRITE_CONTACTS]-[android.permission.READ_CONTACTS]-[android.permission.SEND_SMS]-[com.android.browser.permission.READ_HISTORY_BOOKMARKS]-[com.android.browser.permission.WRITE_HISTORY_BOOKMARKS]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_WIFI_STATE]-,0,1
+startActivity,com/sqw/app/call/HBCallManage$1,android.settings.WIRELESS_SETTINGS,external,3,0,50
+startActivityForResult,com/sqw/app/call/HBCallManage$1,android.settings.WIRELESS_SETTINGS,external,3,0,50
+startActivity,com/sqw/app/call/HBContactDatial$11,com/sqw/app/sms/HBCreateComMessageApp,external,3,0,61
+startActivity,com/sqw/app/call/HBRecordDetailApp$9,com/sqw/app/sms/HBCreateComMessageApp,external,15,0,97
+startActivity,com/sqw/app/HBLanding$1,android.settings.WIRELESS_SETTINGS,external,101,0,131
+startActivityForResult,com/sqw/app/HBLanding$1,android.settings.WIRELESS_SETTINGS,external,101,0,131
+startActivity,com/sqw/app/main/HBMainBottom,key,external,101,0,135
+startActivity,com/sqw/app/main/HBMainBottom,Str,external,101,0,135
+startActivity,com/sqw/app/main/HBMainBottom,key,external,101,0,136
+startActivity,com/sqw/app/main/HBMainScreen,Str,external,101,0,136
+startActivity,com/sqw/app/main/HBSMSScreen,com/sqw/app/sms/HBComMessageApp,external,101,0,145
+startActivity,com/sqw/app/sms/HBSendEmailApp$1,android.intent.action.SEND,external,101,0,178
+startActivity,com/sqw/app/sys/HBDownNewSoftUtil$1,android.intent.action.VIEW,external,109,7,180

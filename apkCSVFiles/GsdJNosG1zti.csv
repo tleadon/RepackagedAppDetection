@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/proj/Layer/CoinBuy,android.intent.action.VIEW,external,31,55,20
+startActivity,com/proj/utils/Actions,android.intent.action.VIEW,external,46,55,25
+startActivity,com/proj/utils/Actions,android.intent.action.SEND,external,46,55,25
+startService,com/vungle/sdk/a/a/f,Http,external,46,74,25
+startActivity,com/vungle/sdk/q,android.intent.action.VIEW,external,54,309,30
+startActivity,com/vungle/sdk/VunglePub,com/vungle/sdk/VungleAdvert,external,54,309,36
+startActivity,org/cocos2d/Cocos2D,android.intent.action.MAIN,external,54,315,39

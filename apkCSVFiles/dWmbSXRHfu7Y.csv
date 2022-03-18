@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/purplebrain/adbuddiz/sdk/AdBuddiz,com/purplebrain/adbuddiz/sdk/AdBuddizActivity,external,0,0,0
+startActivity,com/purplebrain/adbuddiz/sdk/util/ABAdDisplayer,android.intent.action.VIEW,external,0,11,4
+startActivity,com/purplebrain/adbuddiz/sdk/util/ABAdDisplayer,android.intent.action.VIEW,external,0,11,4
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,16,97,31

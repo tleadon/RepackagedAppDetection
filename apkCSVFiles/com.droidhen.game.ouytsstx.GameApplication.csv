@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.RECEIVE_SMS]-[android.permission.SEND_SMS]-[android.permission.READ_PHONE_STATE]-[com.droidhen.game.ouytsstx]-[android.permission.GET_TASKS]-,1,1
+startActivity,com/droidhen/api/promptclient/a/b,android.intent.action.VIEW,external,0,21,0
+startActivity,com/droidhen/api/promptclient/a/g,android.intent.action.SEND,external,0,21,0
+startActivity,com/droidhen/api/promptclient/more/a,com/droidhen/api/promptclient/more/MoreActivity,external,0,21,0
+startActivity,com/droidhen/api/promptclient/prompt/d,android.intent.action.VIEW,external,0,21,1
+startActivity,com/droidhen/api/promptclient/prompt/h,com/droidhen/api/promptclient/prompt/RecommendActivity,external,0,21,1
+startActivity,com/droidhen/api/promptclient/prompt/h,com/droidhen/api/promptclient/prompt/RateActivity,external,0,21,1
+startActivity,com/droidhen/api/scoreclient/ui/a,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,43,41,7
+startActivity,com/droidhen/api/scoreclient/ui/c,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,43,43,11
+startActivity,com/droidhen/api/scoreclient/ui/c,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,43,43,11

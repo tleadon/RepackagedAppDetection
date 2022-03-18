@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,34,25,3
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,34,42,4
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,34,42,4
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,46,74,6
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,50,83,12
+startActivity,com/swarmconnect/aq$1,android.intent.action.VIEW,external,65,104,31
+startActivity,com/swarmconnect/ar$a$3,null,external,65,104,37
+startActivity,com/swarmconnect/as$1,android.intent.action.VIEW,external,65,104,43
+startActivity,com/swarmconnect/at$1,null,external,68,104,44
+startActivity,com/swarmconnect/aw,null,external,68,104,55
+startActivity,com/swarmconnect/ba$1,android.intent.action.VIEW,external,68,104,64
+startActivity,com/swarmconnect/ba$2,android.intent.action.VIEW,external,68,104,65
+startActivity,com/swarmconnect/bh$a,android.intent.action.VIEW,external,68,104,78
+startActivity,com/swarmconnect/bh$a,android.intent.action.VIEW,external,68,104,78
+startActivity,com/swarmconnect/bm,com/swarmconnect/SwarmMainActivity,external,68,104,91
+startActivity,com/swarmconnect/bm,com/swarmconnect/SwarmMainActivity,external,68,104,91
+startActivity,com/swarmconnect/bq$2,android.intent.action.VIEW,external,73,104,92
+startActivity,com/swarmconnect/bv,com/swarmconnect/by,external,73,106,92
+startActivity,com/swarmconnect/by$b,android.intent.action.VIEW,external,73,106,92
+startActivity,com/swarmconnect/by$b,android.intent.action.VIEW,external,73,106,92
+startActivity,com/swarmconnect/by,com/swarmconnect/SwarmMainActivity,external,73,106,92
+sendBroadcast,com/swarmconnect/cp,com.swarmconnect.CUSTOM_PUSH_RECEIVED,external,76,155,92
+startActivity,com/swarmconnect/Swarm$4,com/swarmconnect/SwarmMainActivity,external,115,212,92
+startService,com/swarmconnect/Swarm,com.swarmconnect.CUSTOM_PUSH_RECEIVED,internal,115,212,92
+startActivity,com/swarmconnect/SwarmGetCoinsScreen$1,null,external,115,212,94
+startActivity,com/swarmconnect/SwarmGetCoinsScreen$2,null,external,115,212,95
+startService,com/swarmconnect/SwarmIO,null,external,115,212,100
+startService,com/swarmconnect/SwarmIO,com/swarmconnect/NotificationService,external,115,212,100
+startService,com/swarmconnect/SwarmIOBroadcastReceiver,com/swarmconnect/NotificationService,external,115,212,100
+startActivity,com/swarmconnect/SwarmLeaderboard,com/swarmconnect/SwarmMainActivity,external,115,212,100
+startActivity,com/swarmconnect/SwarmMainActivity,null,internal,115,212,106

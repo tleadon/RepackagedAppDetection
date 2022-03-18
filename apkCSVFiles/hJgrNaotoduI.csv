@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,7,6
+startActivity,nl/buijen/android/ihkal/AIhkalActivity,nl/buijen/android/ihkal/IndexActivity,external,32,21,21
+startActivity,nl/buijen/android/ihkal/AIhkalActivity,nl/buijen/android/ihkal/MainActivity,external,32,21,24
+startActivity,nl/buijen/android/ihkal/AIhkalActivity,nl/buijen/android/ihkal/IndexActivity,external,32,21,25
+startActivity,nl/buijen/android/ihkal/AIhkalActivity,nl/buijen/android/ihkal/FavoritesActivity,external,32,21,26
+startActivity,nl/buijen/android/ihkal/AIhkalActivity,nl/buijen/android/ihkal/GlossaryActivity,external,32,21,27
+startActivityForResult,nl/buijen/android/ihkal/AIhkalActivity,nl/buijen/android/ihkal/GlossaryActivity,external,32,21,27
+startActivity,nl/buijen/android/ihkal/FavoritesActivity,nl/buijen/android/ihkal/ChapterActivity,internal,32,21,37
+startActivity,nl/buijen/android/ihkal/IndexActivity,nl/buijen/android/ihkal/ChapterActivity,internal,32,21,42
+startActivityForResult,nl/buijen/android/ihkal/IndexActivity,nl/buijen/android/ihkal/ChapterActivity,internal,32,21,42
+startActivity,nl/buijen/android/ihkal/MainActivity,nl/buijen/android/ihkal/IndexActivity,external,32,21,49
+startActivityForResult,nl/buijen/android/ihkal/MainActivity,nl/buijen/android/ihkal/IndexActivity,external,32,21,49
+startActivity,nl/buijen/android/ihkal/MainActivity,nl/buijen/android/ihkal/FavoritesActivity,external,32,21,49
+startActivityForResult,nl/buijen/android/ihkal/MainActivity,nl/buijen/android/ihkal/FavoritesActivity,external,32,21,49

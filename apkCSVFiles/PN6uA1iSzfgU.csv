@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[com.android.browser.permission.READ_HISTORY_BOOKMARKS]-[com.android.browser.permission.WRITE_HISTORY_BOOKMARKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,org/zirco/ui/activities/BookmarksListActivity,org/zirco/ui/activities/EditBookmarkActivity,external,208,97,25
+startActivityForResult,org/zirco/ui/activities/BookmarksListActivity,org/zirco/ui/activities/EditBookmarkActivity,external,208,97,25
+startActivity,org/zirco/ui/activities/BookmarksListActivity,org/zirco/ui/activities/EditBookmarkActivity,external,210,97,27
+startActivityForResult,org/zirco/ui/activities/BookmarksListActivity,org/zirco/ui/activities/EditBookmarkActivity,external,210,97,27
+startActivity,org/zirco/ui/activities/DownloadsListActivity,android.intent.action.VIEW,external,214,104,32
+startActivity,org/zirco/ui/activities/MainActivity$28,android.intent.action.GET_CONTENT,external,228,106,61
+startActivityForResult,org/zirco/ui/activities/MainActivity$28,android.intent.action.GET_CONTENT,external,228,106,61
+startActivity,org/zirco/ui/activities/MainActivity,org/zirco/ui/activities/EditBookmarkActivity,external,228,108,70
+startActivity,org/zirco/ui/activities/MainActivity,org/zirco/ui/activities/BookmarksHistoryActivity,external,228,108,70
+startActivityForResult,org/zirco/ui/activities/MainActivity,org/zirco/ui/activities/BookmarksHistoryActivity,external,228,108,70
+startActivity,org/zirco/ui/activities/MainActivity,org/zirco/ui/activities/DownloadsListActivity,external,228,108,70
+startActivityForResult,org/zirco/ui/activities/MainActivity,org/zirco/ui/activities/DownloadsListActivity,external,228,108,70
+startActivity,org/zirco/ui/activities/MainActivity,org/zirco/ui/activities/preferences/PreferencesActivity,external,228,108,70
+startActivity,org/zirco/ui/activities/MainActivity,org/zirco/ui/activities/ChangelogActivity,external,228,108,73
+startActivity,org/zirco/ui/activities/MainActivity,android.intent.action.VIEW,external,228,108,73
+startActivity,org/zirco/ui/activities/MainActivity,android.intent.action.VIEW,external,228,108,86
+startActivity,org/zirco/ui/activities/preferences/PreferencesActivity,org/zirco/ui/activities/AboutActivity,external,238,108,121
+startActivity,org/zirco/ui/activities/preferences/PreferencesActivity,org/zirco/ui/activities/ChangelogActivity,external,238,108,121
+startActivity,org/zirco/ui/activities/preferences/PreferencesActivity,org/zirco/ui/activities/preferences/HomepagePreferenceActivity,external,238,108,121
+startActivity,org/zirco/ui/activities/preferences/PreferencesActivity,org/zirco/ui/activities/MobileViewListActivity,external,238,108,121
+startActivity,org/zirco/ui/activities/preferences/PreferencesActivity,org/zirco/ui/activities/preferences/SearchUrlPreferenceActivity,external,238,108,121
+startActivity,org/zirco/ui/activities/preferences/PreferencesActivity,org/zirco/ui/activities/preferences/UserAgentPreferenceActivity,external,238,108,121
+startActivity,org/zirco/ui/activities/preferences/PreferencesActivity,org/zirco/ui/activities/preferences/WeaveServerPreferenceActivity,external,238,108,121
+startActivity,org/zirco/ui/activities/preferences/PreferencesActivity,org/zirco/ui/activities/AdBlockerWhiteListActivity,external,238,108,121
+startActivity,org/zirco/ui/activities/preferences/WeavePreferencesActivity,org/zirco/ui/activities/preferences/WeaveServerPreferenceActivity,external,238,108,122
+startActivity,org/zirco/ui/activities/WeaveBookmarksListActivity$3,org/zirco/ui/activities/preferences/WeavePreferencesActivity,external,240,108,125
+startActivity,org/zirco/utils/ApplicationUtils,android.intent.action.SEND,external,260,201,140

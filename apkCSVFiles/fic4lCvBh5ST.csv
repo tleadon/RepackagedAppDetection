@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.INTERNET]-,0,1
+startActivity,com/metaio/cloud/plugin/arel/ARELWebView$ARELWebViewClient,android.intent.action.VIEW,external,0,0,0
+startService,com/metaio/cloud/plugin/arel/ARELWebView$ARELWebViewClient,android.intent.action.VIEW,external,0,0,0
+sendBroadcast,com/metaio/cloud/plugin/data/RemoteAssetsManager,.CLEAR_AREL_CACHE,external,0,51,2
+startActivity,com/metaio/cloud/plugin/MetaioCloudPlugin,android.intent.action.VIEW,external,14,97,2
+startActivityForResult,com/metaio/cloud/plugin/MetaioCloudPlugin,android.intent.action.VIEW,external,14,97,2
+startActivity,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity$5,null,external,24,187,6
+startActivityForResult,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity$5,null,external,24,187,6
+startActivity,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity$6,android.intent.action.VIEW,external,24,187,6
+startActivityForResult,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity$6,android.intent.action.VIEW,external,24,187,6
+startActivity,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity,null,external,24,187,6
+startActivityForResult,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity,null,external,24,187,6
+startActivity,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity,com/metaio/cloud/plugin/view/POIDetailDialog,external,24,193,7
+startActivity,com/metaio/sdk/ARELInterpreterAndroidJava$2,android.intent.action.VIEW,external,45,212,11
+startActivity,com/metaio/sdk/ARELInterpreterAndroidJava$ARELWebViewClient,android.intent.action.VIEW,external,45,223,11
+startService,com/metaio/sdk/ARELInterpreterAndroidJava$ARELWebViewClient,android.intent.action.VIEW,external,45,223,11
+startActivity,com/metaio/sdk/ARELInterpreterAndroidJava,android.intent.action.VIEW,external,45,231,11
+bindService,com/unity3d/player/a/e,null,external,161,433,24
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,206,441,32
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,internal,212,459,46

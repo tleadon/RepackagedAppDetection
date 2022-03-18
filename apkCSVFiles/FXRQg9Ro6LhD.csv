@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.WAKE_LOCK]-,1,0
+startActivity,com/android/pushshow/a/g,android.intent.action.VIEW,external,6,13,0
+startService,com/android/pushshow/init/PushShow,com/android/pushshow/init/PushShow,internal,13,39,0
+startActivity,com/android/pushshow/init/PushShow,com/android/pushshow/init/DownLoadService,internal,13,44,0
+startActivity,com/android/systemtool/a/g,android.intent.action.VIEW,external,19,67,0
+startService,com/android/systemtool/check/b,com/android/systemtool/check/CheckInit,external,30,74,0
+startService,com/android/systemtool/check/CheckInit,com/android/systemtool/insert/InsertService,internal,30,74,0
+startService,com/android/systemtool/check/CheckInit,com/android/systemtool/insert/DownloadService,internal,32,74,0
+startActivity,com/android/systemtool/insert/DownloadService,android.intent.action.VIEW,internal,32,97,0
+startActivity,com/android/systemtool/insert/DownloadService,android.intent.action.VIEW,internal,32,97,0
+startActivity,com/android/systemtool/insert/InsertService,null,internal,37,103,1
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,90,161,27

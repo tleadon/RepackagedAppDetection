@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.DISABLE_KEYGUARD]-[android.permission.WAKE_LOCK]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.READ_CONTACTS]-,1,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,com/nlucas/iphonenotifications/IPhoneNotificationsPreferences$1,com/nlucas/iphonenotifications/IPhoneNotificationsMultiChoiceAppList,external,2,58,13
+startActivity,com/nlucas/iphonenotifications/IPhoneNotificationsPreferences$2,com/nlucas/iphonenotifications/Tutorial2Activity,external,2,58,14
+startActivity,com/nlucas/iphonenotifications/IPhoneNotificationsPreferences,com/nlucas/iphonenotifications/Tutorial1Activity,external,2,58,16
+startActivity,com/nlucas/iphonenotifications/IPhoneNotificationsService,com/nlucas/iphonenotifications/Tutorial2Activity,external,2,58,16
+startActivity,com/nlucas/iphonenotifications/Tutorial1Activity$AwesomePagerAdapter$1,android.settings.ACCESSIBILITY_SETTINGS,external,2,58,17
+startActivity,com/nlucas/iphonenotifications/Tutorial2Activity$AwesomePagerAdapter$1,com/nlucas/iphonenotifications/IPhoneNotificationsMultiChoiceAppList,external,2,58,18
+startActivity,com/nlucas/notifications/commons/NotificationUtil,null,external,11,66,24
+startActivity,com/nlucas/notifications/commons/NotificationUtil,null,external,11,66,24
+startActivity,com/nlucas/notifications/commons/popup/PopupService,com/nlucas/notifications/commons/popup/PopupActivity,external,16,71,42
+startActivity,com/nlucas/notifications/commons/popup/PopupService,com/nlucas/notifications/commons/popup/PopupActivity,external,16,71,42
+startActivity,com/nlucas/notifications/commons/preference/NotifierPreferenceActivity$1,android.settings.ACCESSIBILITY_SETTINGS,external,16,71,44
+startActivityForResult,com/nlucas/notifications/commons/preference/NotifierPreferenceActivity$1,android.settings.ACCESSIBILITY_SETTINGS,external,16,71,44
+startActivity,com/nlucas/notifications/commons/preference/NotifierPreferenceActivity$10,android.intent.action.VIEW,external,16,71,45
+startActivity,com/nlucas/notifications/commons/preference/NotifierPreferenceActivity$11,android.intent.action.VIEW,external,16,71,46
+startActivity,com/nlucas/notifications/commons/preference/NotifierPreferenceActivity$12,android.intent.action.VIEW,external,16,71,47
+startActivity,com/nlucas/notifications/commons/preference/NotifierPreferenceActivity$8,android.intent.action.VIEW,external,16,71,55
+startActivity,com/nlucas/notifications/commons/preference/NotifierPreferenceActivity$9,android.intent.action.VIEW,external,16,71,56

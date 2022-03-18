@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/artofbytes/gpg/android/GpgAndroidAdapter,null,external,0,0,0
+startActivityForResult,com/artofbytes/gpg/android/GpgAndroidAdapter,null,external,0,0,0
+startActivity,com/artofbytes/gpg/android/GpgAndroidAdapter,com/artofbytes/gpg/android/ConnectionResolver,external,0,0,0
+startActivity,com/artofbytes/gpg/android/GpgAndroidAdapter,com/artofbytes/gpg/android/ConnectionResolver,external,0,0,0
+startActivity,com/artofbytes/gpg/android/GpgAndroidAdapter,com/artofbytes/gpg/android/ConnectionResolver,external,0,0,0
+startActivity,com/artofbytes/gpg/android/GpgAndroidAdapter,com/artofbytes/gpg/android/ConnectionResolver,external,0,0,0
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,0,0,0
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,0,0,0
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,0,0,0
+sendBroadcast,com/google/android/gms/common/images/ImageManager,com.google.android.gms.common.images.LOAD_IMAGE,external,5,8,0
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,5,10,2
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,5,10,2
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,5,10,2
+startActivity,com/google/android/gms/internal/bb$5,null,external,5,14,3
+startActivity,com/google/android/gms/internal/dz$a,null,external,31,22,9
+startActivityForResult,com/google/android/gms/internal/dz$a,null,external,31,22,9
+startActivity,com/google/android/gms/internal/o,null,external,31,26,10
+startActivityForResult,com/google/android/gms/internal/o,null,external,31,26,10
+startService,com/google/android/gms/internal/q,null,external,31,26,10
+startService,com/google/android/gms/internal/q,null,external,31,26,10
+bindService,com/google/android/gms/internal/q,null,external,31,26,10
+startActivity,com/prime31/GoogleIABPlugin$3,com/prime31/GoogleIABProxyActivity,external,48,35,22
+bindService,com/prime31/GoogleIABPlugin,null,external,48,35,22
+startActivity,com/prime31/PlayGameServicesPlugin$11,null,external,50,45,22
+startActivityForResult,com/prime31/PlayGameServicesPlugin$11,null,external,50,45,22
+startActivity,com/prime31/PlayGameServicesPlugin$15,null,external,50,45,22
+startActivityForResult,com/prime31/PlayGameServicesPlugin$15,null,external,50,45,22
+startActivity,com/prime31/PlayGameServicesPlugin$16,null,external,50,45,22
+startActivityForResult,com/prime31/PlayGameServicesPlugin$16,null,external,50,45,22
+bindService,com/prime31/util/IabHelper,null,external,50,52,22
+bindService,com/prime31/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,50,56,22
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,56,113,49

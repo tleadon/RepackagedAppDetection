@@ -1,0 +1,4 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/glu/android/GameLet,android.intent.action.VIEW,external,0,65,9
+startActivity,com/google/ads/GoogleAdView$AdWebViewClient,android.intent.action.VIEW,external,2,491,22

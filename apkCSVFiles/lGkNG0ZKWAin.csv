@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.SEND_SMS]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_SMS]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/adroitdevelopers/smsreader/AppRater$1,android.intent.action.VIEW,external,0,6,1
+startActivity,com/adroitdevelopers/smsreader/helpers/MyTtsHelper,android.speech.tts.engine.INSTALL_TTS_DATA,external,5,6,3
+startActivity,com/adroitdevelopers/smsreader/ShowSMS,com.adroitdevelopers.smsreader,external,22,17,5
+startActivity,com/adroitdevelopers/smsreader/SMSReaderActivity,android.intent.action.MAIN,external,44,17,6
+startActivity,com/adroitdevelopers/smsreader/SMSReaderActivity,com.adroitdevelopers.smsreader.MyPreferenceActivity,external,44,17,8
+startActivity,com/adroitdevelopers/smsreader/SMSReceiver,com.adroitdevelopers.smsreader,external,44,17,8
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,44,17,8
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,44,17,9

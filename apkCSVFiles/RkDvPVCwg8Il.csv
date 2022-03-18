@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CAMERA]-[android.permission.FLASHLIGHT]-,1,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,2,13,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,2,13,4
+startActivity,com/crformeout/events/mcevents$1,android.intent.action.VIEW,external,2,17,11
+startActivity,com/directtap/p,android.intent.action.VIEW,external,9,67,14
+startActivity,com/directtap/p,android.intent.action.VIEW,external,9,67,14
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,16,76,14
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,16,76,14
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,28,108,16
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,32,117,22
+startActivity,com/mopub/mobileads/AdAlertReporter,android.intent.action.SEND_MULTIPLE,external,47,146,34
+startActivity,com/mopub/mobileads/HtmlWebViewClient,android.intent.action.VIEW,external,117,148,36
+startActivity,com/mopub/mobileads/MraidBrowser$1,android.intent.action.VIEW,external,126,148,36
+startActivity,com/mopub/mobileads/MraidBrowserController,com/mopub/mobileads/MraidBrowser,external,126,148,41
+startActivity,com/mopub/mobileads/MraidDisplayController,android.intent.action.INSERT,external,128,179,44
+startActivity,com/mopub/mobileads/MraidVideoPlayerActivity,com/mopub/mobileads/MraidVideoPlayerActivity,external,128,179,44
+startActivity,com/mopub/mobileads/MraidView$MraidWebViewClient,android.intent.action.VIEW,external,128,179,45
+startActivity,com/nbpcorp/mobilead/sdk/k,com/nbpcorp/mobilead/sdk/MobileAdBrowserActivity,external,133,190,47
+startActivity,com/nbpcorp/mobilead/sdk/k,android.intent.action.VIEW,external,133,190,47
+startActivity,com/nbpcorp/mobilead/sdk/k,android.intent.action.VIEW,external,133,190,47
+startActivity,com/nbpcorp/mobilead/sdk/k,android.intent.action.DIAL,external,133,190,47
+startActivity,com/nbpcorp/mobilead/sdk/k,android.intent.action.VIEW,external,133,190,47
+startActivity,com/socialnmobile/hd/flashlight/Flashlight,com/socialnmobile/hd/flashlight/Settings,external,133,193,58
+startActivity,gp,android.intent.action.VIEW,external,272,206,67
+startActivity,id,android.intent.action.VIEW,external,272,207,101
+startActivity,iy,com/socialnmobile/hd/flashlight/Settings,external,272,207,111
+startActivity,jb,android.intent.action.VIEW,external,272,207,112
+startActivity,jf,android.intent.action.VIEW,external,272,207,115

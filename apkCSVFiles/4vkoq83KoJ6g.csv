@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,11,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,15,41,8
+startActivity,com/prime31/GoogleIABPlugin$3,com/prime31/GoogleIABProxyActivity,external,30,55,20
+bindService,com/prime31/GoogleIABPlugin,null,external,30,55,20
+bindService,com/prime31/util/IabHelper,null,external,30,55,20
+bindService,com/prime31/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,30,59,20
+bindService,com/unity3d/player/a/e,null,external,30,71,20
+startActivity,com/unity3d/player/UnityPlayer$17,null,external,75,83,28
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,81,101,45

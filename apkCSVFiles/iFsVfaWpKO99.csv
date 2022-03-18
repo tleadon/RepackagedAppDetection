@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[android.permission.VIBRATE]-[com.android.vending.BILLING]-,1,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,4,16,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,4,16,1
+bindService,com/unity3d/player/a/e,null,external,167,29,1
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,212,37,3
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,218,55,17
+startService,jp/colopl/inappbilling/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,218,66,38
+startService,jp/colopl/inappbilling/BillingReceiver,jp.colopl.GET_PURCHASE_INFORMATION,external,218,66,38
+startService,jp/colopl/inappbilling/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,218,66,38
+bindService,jp/colopl/inappbilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,218,66,38
+bindService,jp/colopl/inappbilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,218,66,38
+startActivity,jp/colopl/kwt/AppHelper$1$1,android.intent.action.VIEW,external,252,68,40
+startActivity,jp/colopl/kwt/AppHelper$2$1,android.intent.action.VIEW,external,252,68,42
+startActivity,jp/colopl/kwt/KrArmyActivity$ColoplPurchaseObserver$1,android.intent.action.VIEW,external,260,68,48
+startActivity,jp/colopl/kwt/KrArmyActivity,jp/colopl/inappbilling/PurchasedHistoryActivity,external,260,68,59

@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivities,android/support/v4/app/ActivityCompat,null,external,0,0,0
+startActivities,android/support/v4/app/ActivityCompatHoneycomb,null,external,0,3,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils,android.intent.action.MAIN,external,0,48,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,48,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,56,11
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,60,24
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,4,60,24
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,92,26
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,101,32
+startActivity,com/unity3d/player/PsmMainActivity,com/unity3d/player/PsmUnityActivity,external,79,152,51
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,81,198,71

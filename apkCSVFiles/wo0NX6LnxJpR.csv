@@ -1,0 +1,35 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.INTERNET]-[android.permission.READ_CONTACTS]-[android.permission.MANAGE_ACCOUNTS]-[android.permission.AUTHENTICATE_ACCOUNTS]-[android.permission.GET_ACCOUNTS]-[android.permission.USE_CREDENTIALS]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+bindService,com/umeng/common/net/a$b,null,external,70,103,24
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,103,24
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,94,106,24
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,94,185,24
+startActivity,com/umeng/common/util/g,null,external,108,301,24
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,108,301,24
+sendBroadcast,net/micode/notes/gtask/remote/GTaskASyncTask,net/micode/notes/ui/NotesListActivity,external,245,305,24
+sendBroadcast,net/micode/notes/gtask/remote/GTaskSyncService$1,null,external,293,330,24
+startService,net/micode/notes/gtask/remote/GTaskSyncService,net/micode/notes/gtask/remote/GTaskSyncService,external,293,330,24
+sendBroadcast,net/micode/notes/gtask/remote/GTaskSyncService,net/micode/notes/gtask/remote/GTaskSyncService,external,293,330,24
+startService,net/micode/notes/gtask/remote/GTaskSyncService,net/micode/notes/gtask/remote/GTaskSyncService,external,293,330,24
+sendBroadcast,net/micode/notes/gtask/remote/GTaskSyncService,net.micode.notes.gtask.remote.gtask_sync_service,external,293,330,24
+startActivity,net/micode/notes/ui/AlarmAlertActivity,net/micode/notes/ui/NoteEditActivity,internal,356,359,25
+startActivity,net/micode/notes/ui/AlarmReceiver,null,internal,362,359,25
+startActivity,net/micode/notes/ui/NoteEditActivity,net/micode/notes/ui/NoteEditActivity,external,362,359,30
+startActivity,net/micode/notes/ui/NoteEditActivity,net/micode/notes/ui/NotesListActivity,external,368,359,30
+startActivity,net/micode/notes/ui/NoteEditActivity,android.intent.action.SEND,external,370,359,30
+sendBroadcast,net/micode/notes/ui/NoteEditActivity,net/micode/notes/ui/NoteEditActivity,external,370,359,30
+sendBroadcast,net/micode/notes/ui/NoteEditActivity,android.appwidget.action.APPWIDGET_UPDATE,external,370,359,30
+startActivity,net/micode/notes/ui/NotesListActivity$3,android.intent.action.VIEW,external,372,359,49
+startActivity,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NoteEditActivity,external,396,359,59
+startActivityForResult,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NoteEditActivity,external,396,359,59
+startActivity,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NoteEditActivity,external,406,359,59
+startActivityForResult,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NoteEditActivity,external,406,359,59
+startActivity,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NotesPreferenceActivity,external,406,382,59
+startActivityIfNeeded,net/micode/notes/ui/NotesListActivity,net/micode/notes/ui/NotesPreferenceActivity,external,406,382,59
+sendBroadcast,net/micode/notes/ui/NotesListActivity,android.appwidget.action.APPWIDGET_UPDATE,external,406,382,59
+startActivity,net/micode/notes/ui/NotesPreferenceActivity$5,android.settings.ADD_ACCOUNT_SETTINGS,external,406,382,68
+startActivityForResult,net/micode/notes/ui/NotesPreferenceActivity$5,android.settings.ADD_ACCOUNT_SETTINGS,external,406,382,68

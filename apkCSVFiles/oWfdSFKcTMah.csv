@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,10
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,33,42,14
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,33,42,14
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,33,43,14
+startActivity,com/vsshv/radio/sample/MainScreen$38,com/vsshv/radio/Twitter/TwitterShare,external,70,634,58
+startActivity,com/vsshv/radio/sample/MainScreen,com/vsshv/radio/Twitter/TwitterLogin,internal,72,634,60
+startService,com/vsshv/radio/sample/MainScreen,com/vsshv/radio/Manager/Network_Notification,internal,72,634,60
+startService,com/vsshv/radio/sample/MainScreen,com/vsshv/radio/Manager/Player_Notification,internal,72,634,60
+startActivity,com/vsshv/radio/sample/SplashScreen,com/vsshv/radio/sample/MainScreen,external,74,647,64
+startActivity,com/vsshv/radio/Twitter/TwitterLogin$1,com/vsshv/radio/Twitter/TwitterShare,external,74,647,65
+startActivity,com/vsshv/radio/Twitter/TwitterLogin$2,com/vsshv/radio/Twitter/TwitterShare,external,74,647,65

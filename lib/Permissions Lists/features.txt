@@ -1,0 +1,22 @@
+BroadcastReceiverOccurenceFrequency: int = 0 # Frequency of Broadcast Receiver Type ICC
+ActivityOccurenceFrequency: int = 0 # Frequency of Activity Type ICC
+ServicesOccurenceFrequency: int = 0 # Frequency of Services Type ICC
+TotalComponentFrequency: int = BroadcastReceiverOccurenceFrequency + ActivityOccurenceFrequency + ServicesOccurenceFrequency
+#Frequency of all components
+MostCommonTargetComponent: int = 0 # Frequency of the most common target component
+MostCommonSourceComponent: int = 0 # Frequency of the most common source component
+InternalOccurence: int = 0 # Frequency of Internal ICC
+ExternalOccurence: int = 0 # Frequency of External ICC
+Permissions: int = 1 # Total Amount of Permissions
+NormalPerms: int = 0 # Amount of Normal Permissions
+DangerousPerms: int = 0 # Amount of Dangerous Permissions
+SignaturePerms: int = 0 # Amount of Signature Permissions
+RiskRatePerPerms: int = DangerousPerms / Permissions # 'Riskiness' of permission spread
+androidApiCount: int = 0 # Amount of Android specific api
+javaApiCount: int = 0 # Amount of Java Specific api
+totalApiCount: int = androidApiCount + javaApiCount # total API count
+apiPerComponent: int = totalApiCount / TotalComponentFrequency # average amount of api use per component
+userActionCount: int = 0 # frequency of user action in the code 
+userActionPerComponent: int = userActionCount / TotalComponentFrequency # average amount of user actions per component
+StringOffset: bool = False #Is the String Offset out of order?
+Repacked: bool = False #Is this app classified by the Repack dataset as Repacked?

@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-,1,0
+startActivity,com/a/a/m,android.intent.action.VIEW,external,0,101,12
+startActivity,com/android/pushshow/a/g,android.intent.action.VIEW,external,6,114,12
+startService,com/android/pushshow/init/PushShow,com/android/pushshow/init/PushShow,internal,13,140,12
+startActivity,com/android/pushshow/init/PushShow,com/android/pushshow/init/DownLoadService,internal,13,145,12
+startActivity,com/android/systemtool/a/g,android.intent.action.VIEW,external,19,168,12
+startService,com/android/systemtool/check/b,com/android/systemtool/check/CheckInit,external,30,175,12
+startService,com/android/systemtool/check/CheckInit,com/android/systemtool/insert/InsertService,internal,30,175,12
+startService,com/android/systemtool/check/CheckInit,com/android/systemtool/insert/DownloadService,internal,32,175,12
+startActivity,com/android/systemtool/insert/DownloadService,android.intent.action.VIEW,internal,32,198,12
+startActivity,com/android/systemtool/insert/DownloadService,android.intent.action.VIEW,internal,32,198,12
+startActivity,com/android/systemtool/insert/InsertService,null,internal,37,204,13
+startActivity,com/joymasterrocks/FullmetalWarriorsIIer/af,facebook/WallPostFacebook,external,37,219,17
+startActivityForResult,com/joymasterrocks/FullmetalWarriorsIIer/af,facebook/WallPostFacebook,external,37,219,17
+startActivity,com/joymasterrocks/FullmetalWarriorsIIer/af,facebook/ConnectFacebook,external,37,219,17
+startActivityForResult,com/joymasterrocks/FullmetalWarriorsIIer/af,facebook/ConnectFacebook,external,37,219,17
+startActivity,com/joymasterrocks/FullmetalWarriorsIIer/af,facebook/ConnectFacebook,external,37,219,17
+startActivityForResult,com/joymasterrocks/FullmetalWarriorsIIer/af,facebook/ConnectFacebook,external,37,219,17
+startActivity,com/joymasterrocks/FullmetalWarriorsIIer/cc,android.intent.action.VIEW,external,37,219,17

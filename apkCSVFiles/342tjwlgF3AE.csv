@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.DISABLE_KEYGUARD]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_TASKS]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.RECEIVE_BOOT_COMPLETED]-,1,1
+startActivity,com/kyview/DownloadService$1,android.intent.action.VIEW,external,66,195,5
+startActivity,com/sunflower/game/gangnam/AdviewHelper$5,android.intent.action.VIEW,external,82,408,5
+startActivity,com/sunflower/game/gangnam/ShareActivity,android.media.action.IMAGE_CAPTURE,internal,82,449,13
+startActivityForResult,com/sunflower/game/gangnam/ShareActivity,android.media.action.IMAGE_CAPTURE,internal,82,449,13
+startActivity,com/sunflower/game/gangnam/SinaWeiboHelper$2,com/sunflower/game/gangnam/ShareActivity,external,82,449,13
+startActivity,com/sunflower/game/gangnam/TCShareActivity,android.media.action.IMAGE_CAPTURE,internal,82,490,20
+startActivityForResult,com/sunflower/game/gangnam/TCShareActivity,android.media.action.IMAGE_CAPTURE,internal,82,490,20
+startActivity,com/sunflower/game/gangnam/TcWeiboHelper,com/tencent/weibo/webview/OAuthV2AuthorizeWebView,external,82,490,20
+startActivityForResult,com/sunflower/game/gangnam/TcWeiboHelper,com/tencent/weibo/webview/OAuthV2AuthorizeWebView,external,82,490,20
+startActivity,com/sunflower/game/gangnam/TcWeiboHelper,com/sunflower/game/gangnam/TCShareActivity,external,82,490,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+startActivity,com/weibo/sdk/android/api/ActivityInvokeAPI,android.intent.action.VIEW,external,94,539,20
+bindService,com/weibo/sdk/android/sso/SsoHandler,com.sina.weibo.remotessoservice,external,111,581,20
+startActivity,com/weibo/sdk/android/sso/SsoHandler,appKey,external,111,581,20
+startActivityForResult,com/weibo/sdk/android/sso/SsoHandler,appKey,external,111,581,20
+bindService,com/weibo/sdk/android/sso/SsoHandler,appKey,external,111,581,20
+startActivity,com/weibo/sdk/android/WeiboDialog$WeiboWebViewClient,android.intent.action.VIEW,external,111,707,21

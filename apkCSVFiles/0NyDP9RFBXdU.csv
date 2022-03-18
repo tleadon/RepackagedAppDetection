@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.CHECK_LICENSE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_ACCOUNTS]-[com.android.vending.BILLING]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.GET_TASKS]-[android.permission.ACCESS_WIFI_STATE]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.VIBRATE]-[android.permission.RESTART_PACKAGES]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-,1,1
+startActivity,com/a/a/h,android.intent.action.VIEW,external,0,99,0
+bindService,com/android/vending/licensing/h,null,external,47,218,0
+bindService,com/android/vending/licensing/h,com/android/vending/licensing/ILicensingService,external,47,218,0
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,138,286,3
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,138,286,3
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,138,299,3
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,138,299,3
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,148,448,5
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,148,448,5
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,148,448,6
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,148,448,6
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,148,448,6
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,148,448,6
+startActivity,com/wagame/BikeStrike/BikeStrike,null,external,170,675,15
+startActivity,com/wagame/BikeStrike/VerifyLicense,com/wagame/BikeStrike/BikeStrike,external,170,683,20
+startActivity,com/walib/sendscore/WGOnLineShopHelper,null,external,174,835,30
+startActivityForResult,com/walib/sendscore/WGOnLineShopHelper,null,external,174,835,30
+startActivity,net/emome/hamiapps/sdk/c,android.intent.action.VIEW,external,195,871,31
+startActivity,net/emome/hamiapps/sdk/f,android.settings.WIFI_SETTINGS,external,195,871,34
+bindService,net/emome/hamiapps/sdk/j,null,external,195,871,35
+bindService,net/emome/hamiapps/sdk/j,null,external,195,871,35
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,206,873,35
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,206,873,35
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,206,873,35
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,206,873,35
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,206,873,35
+bindService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,206,873,35

@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-,1,0
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/Avatar,com/gameloft/android/GAND/GloftAVAR/Avatar/Billing/AndroidBilling,external,0,0,0
+startActivityForResult,com/gameloft/android/GAND/GloftAVAR/Avatar/Avatar,com/gameloft/android/GAND/GloftAVAR/Avatar/Billing/AndroidBilling,external,0,0,0
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/Avatar,android.intent.action.VIEW,external,0,0,0
+sendBroadcast,com/gameloft/android/GAND/GloftAVAR/Avatar/Billing/SUtils,android.intent.action.AIRPLANE_MODE,external,25,56,13
+sendBroadcast,com/gameloft/android/GAND/GloftAVAR/Avatar/Billing/SUtils,android.intent.action.AIRPLANE_MODE,external,27,56,13
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/GameInstaller,com.gameloft.android.GAND.GloftAVAR.Avatar.Avatar,external,30,403,20
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/GameInstaller,com.gameloft.android.GAND.GloftAVAR.Avatar.Avatar,external,30,403,20
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/GameInstaller,android.intent.action.VIEW,external,30,403,20
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/GLMediaPlayer,com/gameloft/android/GAND/GloftAVAR/Avatar/MyVideoView,external,30,403,20
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/MyVideoView$1,com/gameloft/android/GAND/GloftAVAR/Avatar/Avatar,external,30,518,21
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/MyVideoView$2,com/gameloft/android/GAND/GloftAVAR/Avatar/Avatar,external,30,518,21
+startActivity,com/gameloft/android/GAND/GloftAVAR/Avatar/MyVideoView,com/gameloft/android/GAND/GloftAVAR/Avatar/Avatar,external,30,518,27
+sendBroadcast,com/gameloft/android/GAND/GloftAVAR/Avatar/SUtils,android.intent.action.AIRPLANE_MODE,external,34,526,27
+sendBroadcast,com/gameloft/android/GAND/GloftAVAR/Avatar/SUtils,android.intent.action.AIRPLANE_MODE,external,36,526,27

@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.SEND_SMS]-[android.permission.CAMERA]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.VIBRATE]-[android.permission.BROADCAST_STICKY]-[com.qg.Actablealpha.permission.C2D_MESSAGE]-[com.google.android.c2dm.permission.RECEIVE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/daqri/daqrishare/ShareController,android.intent.action.SEND,external,0,0,3
+startActivity,com/daqri/daqrishare/ShareController,android.intent.action.SEND,external,0,0,3
+startActivity,com/daqri/daqriutils/DaqriShare,android.intent.action.VIEW,external,0,0,7
+startActivity,com/daqri/daqriutils/DaqriShare,android.intent.action.SEND,external,0,0,7
+startActivity,com/daqri/daqriutils/DaqriShare,android.intent.action.SEND,external,0,0,7
+startActivity,com/daqri/daqriutils/DaqriWebActivity,com/daqri/daqriutils/DaqriWebActivity,external,0,0,12
+startActivity,com/daqri/daqriutils/DaqriWebActivity,android.intent.action.VIEW,external,0,0,12
+startActivity,com/daqri/daqriutils/DaqriWebActivity,android.intent.action.SEND,external,0,0,12
+startActivity,com/daqri/daqriutils/DaqriWebActivity,android.intent.action.SEND,external,0,0,12
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection$1,null,external,0,13,12
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection,null,external,0,13,12
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,0,13,12
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,0,13,12
+bindService,com/facebook/android/Facebook,com.facebook.katana,external,0,13,12
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,0,14,13
+startActivity,com/qualcomm/QCARUnityPlayer/QCARPlayerProxyActivity,orientation,external,4,218,19
+bindService,com/unity3d/player/a/e,null,external,4,267,26
+startActivity,com/unity3d/player/UnityPlayer$17,null,external,49,279,34
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,55,297,51

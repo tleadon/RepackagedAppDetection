@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/solution24hours/bigfartbutton/DogActivity,com/solution24hours/bigfartbutton/MonkeyActivity,external,31,55,21
+startActivity,com/solution24hours/bigfartbutton/DogActivity,com/solution24hours/bigfartbutton/MainActivity,external,31,55,21
+startActivity,com/solution24hours/bigfartbutton/DogActivity,com/solution24hours/bigfartbutton/MainActivity,external,31,55,21
+startActivity,com/solution24hours/bigfartbutton/DogActivity,com/solution24hours/bigfartbutton/MainActivity,external,31,55,21
+startActivity,com/solution24hours/bigfartbutton/MainActivity,com/solution24hours/bigfartbutton/MonkeyActivity,external,31,55,22
+startActivity,com/solution24hours/bigfartbutton/MainActivity,com/solution24hours/bigfartbutton/DogActivity,external,31,55,22
+startActivity,com/solution24hours/bigfartbutton/MainActivity,com/solution24hours/bigfartbutton/DogActivity,external,31,55,22
+startActivity,com/solution24hours/bigfartbutton/MainActivity,com/solution24hours/bigfartbutton/DogActivity,external,31,55,22
+startActivity,com/solution24hours/bigfartbutton/MonkeyActivity,com/solution24hours/bigfartbutton/MainActivity,internal,31,55,23
+startActivity,com/solution24hours/bigfartbutton/MonkeyActivity,com/solution24hours/bigfartbutton/DogActivity,internal,31,55,23
+startActivity,com/solution24hours/bigfartbutton/MonkeyActivity,com/solution24hours/bigfartbutton/DogActivity,internal,31,55,23
+startActivity,com/solution24hours/bigfartbutton/MonkeyActivity,com/solution24hours/bigfartbutton/DogActivity,internal,31,55,23

@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,30,113,38
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,30,113,38
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,42,195,41
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,42,195,41
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,42,195,41
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,52,265,68

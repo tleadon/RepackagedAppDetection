@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.GET_TASKS]-,1,1
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,0,13,0
+startService,com/android/util/counter/CounterReceiver,com/test/httputil/HttpUtilService,internal,0,13,0
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,64,24,2
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,64,24,2
+sendBroadcast,com/polarbit/fuse/FuseWebView,com.polarbit.fuse.custom.intent.action.FuseWebView,external,80,37,6
+sendBroadcast,com/polarbit/fuse/FuseWebView,com.polarbit.fuse.custom.intent.action.FuseWebView,external,80,37,6
+startService,com/polarbit/fuse/inapp/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,80,37,6
+startService,com/polarbit/fuse/inapp/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,80,37,6
+startService,com/polarbit/fuse/inapp/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,80,37,6
+bindService,com/polarbit/fuse/inapp/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,80,37,6
+bindService,com/polarbit/fuse/inapp/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,80,37,6
+startActivity,com/polarbit/fuse/InputDialog,com/polarbit/fuse/InputDialogActivity,external,106,39,6
+sendBroadcast,com/polarbit/fuse/VideoPlayer$FuseVideoView,null,external,106,45,27
+sendBroadcast,com/polarbit/fuse/VideoPlayer,com.polarbit.fuse.custom.intent.action.VideoPlayer,external,106,45,27
+sendBroadcast,com/polarbit/fuse/VideoPlayer,com.polarbit.fuse.custom.intent.action.VideoPlayer,external,106,45,27
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,187,202,27
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,187,202,27
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,187,202,27

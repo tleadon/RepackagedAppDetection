@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-,0,0
+startActivity,com/flurry/android/v,android.intent.action.VIEW,external,37,84,3
+startActivity,com/flurry/android/v,android.intent.action.VIEW,external,37,84,3
+startActivity,com/flurry/android/v,android.intent.category.DEFAULT,external,37,84,3
+startActivity,com/flurry/android/v,android.intent.category.DEFAULT,external,40,84,3
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,40,84,4
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.GET_PURCHASE_INFORMATION,external,40,84,4
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,40,84,4
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,40,84,4
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,40,84,4
+bindService,com/prime31/IABPlugin$1,com/prime31/billing/BillingService,external,46,103,4
+bindService,com/prime31/IABPlugin,null,external,46,103,6
+startActivity,com/tapjoy/DownloadVirtualGood$1,com/tapjoy/TJCVirtualGoods,external,46,103,7
+startActivity,com/tapjoy/TapjoyConnect,com/tapjoy/TJCVirtualGoods,external,46,103,8
+startActivity,com/tapjoy/TapjoyDisplayAd$2,com/tapjoy/TJCOffersWebView,external,59,103,9
+startActivity,com/tapjoy/TapjoyFeaturedApp,com/tapjoy/TapjoyFeaturedAppWebView,internal,59,111,9
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,59,111,9
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView,com/tapjoy/TJCOffersWebView,internal,59,111,9
+startActivity,com/tapjoy/TapjoyVideo,com/tapjoy/TapjoyVideoView,internal,64,329,9
+startActivity,com/tapjoy/TapjoyVideoView$5,android.intent.action.VIEW,external,64,331,13
+startActivity,com/tapjoy/TapjoyVideoView$6,android.intent.action.VIEW,external,64,331,14
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,64,331,19
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,64,331,19
+startActivity,com/tapjoy/TJCOffersWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,64,331,20
+startActivity,com/tapjoy/TJCVirtualGoods,com/tapjoy/TJCOffersWebView,internal,64,337,39
+startActivity,com/tapjoy/TJCVirtualGoodUtil$CheckForVirtualGoodsTask,com/tapjoy/DownloadVirtualGood,external,106,428,50
+bindService,com/unity3d/player/a/e,null,external,116,513,55
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,161,521,57
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,167,539,71

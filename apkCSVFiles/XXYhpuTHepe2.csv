@@ -1,0 +1,4 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-,1,0
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,11

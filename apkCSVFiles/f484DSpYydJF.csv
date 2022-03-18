@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CALL_PHONE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-,0,1
+startActivity,com/trid/tridad/TriDBrowser,android.intent.action.VIEW,external,25,322,10
+startActivity,kr/rain/WallPaperBeautiful2/BatteryWidgetFrame$1,kr/rain/WallPaperBeautiful2/BatteryWidgetFrame2,external,30,380,12
+startActivity,net/daum/adam/publisher/AdInterstitial,net/daum/adam/publisher/impl/AdInterstitialActivity,external,30,380,20
+startActivity,net/daum/adam/publisher/impl/b/k,net/daum/adam/publisher/impl/AdInterstitialActivity,external,34,384,27

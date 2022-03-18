@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-,0,0
+startActivity,com/arbstudios/tikigolf/AxCoreGLSurface,android.intent.action.VIEW,external,8,0,0
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixBrowser$1,android.intent.action.VIEW,external,47,167,8
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,android.intent.action.VIEW,external,47,167,11
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,url,external,47,167,11
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixVideoView$ButtonOnClickListener,android.intent.action.VIEW,external,47,167,13
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,47,167,30
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,47,167,30
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,android.intent.action.VIEW,external,47,167,30
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,cachedHTML,external,47,167,30
+startActivity,com/mobclix/android/sdk/MobclixCreative$HTMLPage$1,android.intent.action.VIEW,external,47,169,31

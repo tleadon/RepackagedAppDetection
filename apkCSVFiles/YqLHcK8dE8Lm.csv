@@ -1,0 +1,3 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.BIND_WALLPAPER]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,jp/co/qsdn/android/jinbei3d/setting/SettingActivity$3,jp/co/qsdn/android/jinbei3d/setting/AboutActivity,external,7,14,14

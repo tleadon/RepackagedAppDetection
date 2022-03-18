@@ -1,0 +1,38 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_COARSE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.READ_LOGS]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+bindService,air/top/free/fun/game/Rl/AppEntry$4,null,external,0,0,2
+startActivity,air/top/free/fun/game/Rl/AppEntry,null,external,0,0,2
+bindService,air/top/free/fun/game/Rl/AppEntry,com.adobe.air.AIRServiceAction,external,0,0,2
+startActivity,com/adobe/air/AdobeAIR$1,android.intent.action.VIEW,external,0,2,29
+sendStickyBroadcast,com/adobe/air/AIRService,com.adobe.air.DownloadConfigComplete,external,0,4,37
+sendBroadcast,com/adobe/air/AndroidActivityWrapper,android.intent.action.MAIN,external,2,9,55
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,11,55
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,11,55
+startService,com/adobe/air/AndroidActivityWrapper,com.adobe.air.DownloadConfig,external,2,13,55
+startActivity,com/adobe/air/AndroidMediaManager,image/*,external,17,21,67
+startActivityForResult,com/adobe/air/AndroidMediaManager,image/*,external,17,21,67
+startActivity,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,22,80
+startActivityForResult,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,22,80
+startActivity,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,136,84
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,136,84
+startActivity,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,136,84
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,136,84
+bindService,com/adobe/flashplayer/HDMIUtils,com.motorola.intent.action.externaldisplaystate,external,78,314,103
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,82,327,103
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,82,327,103
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,94,359,105
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,98,368,111
+bindService,com/umeng/common/net/a$b,null,external,152,415,127
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,152,415,127
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,176,418,127
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,176,497,127
+startActivity,com/umeng/common/util/g,null,external,190,613,127
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,190,613,127
+sendBroadcast,com/umeng/fb/a/d,postFeedbackFinished,external,194,613,127
+sendBroadcast,com/umeng/fb/a/e,RetrieveReplyBroadcast,external,194,613,127
+sendBroadcast,com/umeng/fb/a/f,postFeedbackFinished,external,194,613,127
+startActivity,com/umeng/fb/ui/SendFeedback$b,com/umeng/fb/ui/FeedbackConversations,external,198,613,144
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/FeedbackConversation,external,202,613,144
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/FeedbackConversations,external,202,613,144
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/SendFeedback,external,202,613,144
+startActivity,com/umeng/newxp/controller/b,android.intent.action.VIEW,external,223,615,144

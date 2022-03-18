@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_COARSE_LOCATION]-,0,1
+startActivity,com/am/ammob/activities/AdActivity$AdActivityDownloadListener,android.intent.action.VIEW,external,0,0,0
+startActivity,com/am/ammob/activities/AdActivity$AdActivityWebViewClient,android.intent.action.VIEW,external,0,0,0
+startActivity,com/am/ammob/activities/AdActivity$AdActivityWebViewClient,android.intent.action.VIEW,external,0,0,0
+startActivity,com/am/ammob/ads/AMBaseWebView,com.am.ammob.bannerUrl,external,0,15,4
+startActivity,com/am/ammob/ads/AMBaseWebView,android.intent.action.VIEW,external,0,15,4
+startActivity,com/am/ammob/ads/AMBaseWebView,android.intent.action.VIEW,external,0,15,4
+startActivity,com/am/ammob/ads/AMBaseWebView,android.intent.action.VIEW,external,0,15,4
+startService,com/am/ammob/services/BService,null,external,0,27,11
+startService,com/am/ammob/services/SManager$1,null,external,0,27,11
+sendBroadcast,com/am/ammob/services/SManager$1,com.am.ammob.layerData,external,0,27,11
+startService,com/am/ammob/services/SManager$1,com.am.ammob.layerData,external,0,27,11
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,90,157,37

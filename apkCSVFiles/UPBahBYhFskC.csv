@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,1
+bindService,com/android/vending/billing/util/IabHelper,null,external,0,0,0
+bindService,com/android/vending/billing/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,0,4,0
+startActivity,com/chartboost/sdk/Networking/CBURLOpener,android.intent.action.VIEW,external,32,87,13
+startActivity,com/facebook/android/b,com.facebook.katana,external,32,87,19
+startActivityForResult,com/facebook/android/b,com.facebook.katana,external,32,87,19
+startActivity,com/facebook/android/d$a,android.intent.action.VIEW,external,32,87,19
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,67,155,22
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,67,155,22
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,67,155,22
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,70,155,22
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,70,172,23
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,70,172,23
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,82,204,25
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,86,213,31
+startActivity,com/kimberlydev/libs/Reference$1,android.intent.action.VIEW,external,101,227,43
+startActivity,com/kimberlydev/libs/ScoreBoard$1,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,101,227,43
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,external,196,618,50
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,196,618,59
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,196,618,59
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,external,196,618,75
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,198,620,88
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,198,620,88
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,198,622,104
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,198,622,127
+startActivity,com/sibforce/revmodule/A$2,android.intent.action.VIEW,external,202,874,134
+startActivity,com/sibforce/revmodule/A$4,android.intent.action.VIEW,external,202,874,135
+startService,com/sibforce/revmodule/A,null,external,202,874,135

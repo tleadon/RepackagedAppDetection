@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[com.android.vending.BILLING]-[com.android.vending.CHECK_LICENSE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,2,0,3
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,2,0,3
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,32,5
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,18,41,11
+startActivity,com/inmobi/activity/LauncherActivity,com/inmobi/activity/AdCreativeTesting,external,107,58,31
+startActivity,com/inmobi/activity/LauncherActivity,com/inmobi/activity/InMobiAdActivity,external,107,58,32
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,android.intent.action.DIAL,external,107,58,32
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,com/inmobi/androidsdk/IMBrowserActivity,external,107,58,32
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,android.intent.action.VIEW,external,107,58,32
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,com/inmobi/androidsdk/IMBrowserActivity,external,107,58,32
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,android.intent.action.VIEW,external,107,58,32
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$1,android.intent.action.VIEW,external,107,58,32
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView$12,android.intent.action.VIEW,external,107,58,34
+startActivity,com/inmobi/androidsdk/ai/container/IMWebView,com/inmobi/androidsdk/IMBrowserActivity,external,110,58,43
+startActivity,com/inmobi/androidsdk/ai/controller/JSUtilityController,android.intent.action.CALL,external,121,158,44
+startActivity,com/inmobi/androidsdk/ai/controller/JSUtilityController,android.intent.action.VIEW,external,121,158,44
+startActivity,com/inmobi/androidsdk/ai/controller/JSUtilityController,android.intent.action.SEND,external,121,158,44
+startActivity,com/inmobi/androidsdk/ai/controller/JSUtilityController,android.intent.action.VIEW,external,121,158,44
+startActivity,com/inmobi/androidsdk/impl/IMClickProcessingTask,com/inmobi/androidsdk/IMBrowserActivity,external,126,162,53
+startActivity,com/inmobi/androidsdk/impl/IMClickProcessingTask,android.intent.action.SENDTO,external,126,162,53
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,195,260,81
+startActivity,jp/adlantis/android/AdlantisAdViewContainer,android.intent.action.VIEW,external,244,266,102
+startActivity,jp/co/cyberagent/d,android.intent.action.VIEW,external,275,290,109
+startActivity,jp/co/imobile/android/ai,android.intent.action.VIEW,external,275,323,116
+startActivity,jp/maru/mrd/IconLoader$URLOpenerImpl,null,external,314,390,121
+startActivity,mediba/ad/sdk/android/openx/MasAdClickWebview$MedibaWebViewClient,android.intent.action.VIEW,external,314,392,134
+startActivity,mediba/ad/sdk/android/openx/MasAdView$6,mediba/ad/sdk/android/openx/MasAdClickWebview,external,314,392,134
+startActivity,mediba/ad/sdk/android/openx/MasAdView$8,android.intent.action.VIEW,external,314,392,134
+startActivity,mediba/ad/sdk/android/openx/MasAdView$AndroidBridge,mediba/ad/sdk/android/openx/MasAdClickWebview,external,314,394,134
+startActivity,mediba/ad/sdk/android/openx/MasAdView$AndroidBridge,android.intent.action.VIEW,external,314,394,134
+startActivity,mediba/ad/sdk/android/openx/MasAdView$AndroidBridge,android.intent.action.VIEW,external,314,394,134
+startActivity,mediba/ad/sdk/android/openx/MasAdView$MedibaWebViewClient,mediba/ad/sdk/android/openx/MasAdClickWebview,external,314,458,134
+startActivity,mediba/ad/sdk/android/openx/MasAdView,mediba/ad/sdk/android/openx/MasVideoView,external,325,470,134
+startActivity,net/nend/android/NendHelper,android.intent.action.VIEW,external,341,491,137

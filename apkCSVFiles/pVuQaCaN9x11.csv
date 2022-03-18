@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,30,43,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,30,43,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,30,43,0
+startService,com/appbrain/a/ac,com/appbrain/AppBrainService,external,30,43,0
+startActivity,com/appbrain/a/ay,android.intent.action.VIEW,external,30,44,7
+startActivity,com/appbrain/a/ba,null,external,30,44,9
+startActivity,com/appbrain/a/ba,android.intent.action.VIEW,external,30,44,9
+startActivity,com/appbrain/a/ba,android.intent.action.VIEW,external,30,44,9
+startService,com/appbrain/a/bi,com/appbrain/AppBrainService,external,35,44,9
+startService,com/appbrain/a/bi,com/appbrain/AppBrainService,external,35,44,9
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,44,87,14
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,44,87,14
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,44,87,14
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,44,87,14
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,58,89,18
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,61,94,20
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,83,163,59

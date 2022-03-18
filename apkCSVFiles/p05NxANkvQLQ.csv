@@ -1,0 +1,51 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.VIBRATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.INTERNET]-[android.permission.RECEIVE_SMS]-[android.permission.RECORD_AUDIO]-[android.permission.RECORD_VIDEO]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_CONTACTS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.BROADCAST_STICKY]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.VIBRATE]-,0,1
+startActivity,com/parse/oauth/OAuth1FlowDialog$OAuth1WebViewClient,android.intent.action.VIEW,external,33,254,3
+startService,com/parse/ParseBroadcastReceiver,null,external,33,407,3
+startService,com/parse/ParseTestUtils,null,external,82,718,4
+startService,com/parse/ParseTestUtils,null,external,82,739,4
+startService,com/parse/PushService$1,null,external,82,846,4
+startService,com/parse/PushService$1,null,external,82,846,4
+startService,com/parse/PushService,null,internal,82,846,4
+startService,com/parse/PushService,null,internal,82,846,4
+startService,com/parse/PushService,com/parse/PushService,internal,82,846,4
+startService,com/parse/PushService,com/parse/PushService,internal,82,846,4
+sendBroadcast,com/parse/StandardPushCallback,action,external,94,891,4
+bindService,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+bindService,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startActivity,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startActivity,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startActivity,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startActivity,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startService,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startService,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+bindService,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+bindService,org/apache/cordova/api/LegacyContext,null,external,94,913,4
+startActivity,org/apache/cordova/CameraLauncher,Get Picture,external,106,966,4
+startActivityForResult,org/apache/cordova/CameraLauncher,Get Picture,external,106,966,4
+startActivity,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,108,988,4
+startActivityForResult,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,108,988,4
+startActivity,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,108,988,4
+startActivityForResult,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,108,988,4
+startActivity,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,108,992,4
+startActivityForResult,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,108,992,4
+startActivity,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,108,992,4
+startActivityForResult,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,108,992,4
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,137,1034,11
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,137,1034,11
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,155,1038,22
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,155,1038,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,155,1039,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,155,1039,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,155,1039,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,155,1039,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,155,1039,22
+startActivity,org/apache/cordova/DroidGap,null,external,160,1068,34
+startActivityForResult,org/apache/cordova/DroidGap,null,external,160,1068,34
+startActivity,org/apache/cordova/InAppBrowser$InAppBrowserClient,android.intent.action.DIAL,external,215,1518,38
+startActivity,org/apache/cordova/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,215,1518,38
+startActivity,org/apache/cordova/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,215,1518,38
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.DIAL,external,215,1518,38
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.VIEW,external,215,1518,38

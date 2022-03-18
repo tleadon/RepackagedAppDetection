@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,0,2,25
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,0,2,25
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,12,84,28
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,12,84,28
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,12,84,28

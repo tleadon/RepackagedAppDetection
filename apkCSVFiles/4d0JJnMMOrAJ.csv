@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,15,10,5
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,15,10,5
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,15,10,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,20,10,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,20,10,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,20,10,5
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,30,21,5
+startActivity,com/google/android/gms/dynamic/a$5,null,external,30,35,8
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,30,37,8
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,30,37,8
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,30,37,8
+startActivity,com/google/android/gms/internal/bh,Open GMSG did not contain a URL.,external,42,37,12
+startActivity,com/google/android/gms/internal/bk,com.google.android.gms.ads.AdActivity,external,42,37,12
+startActivity,com/google/android/gms/internal/cw$a,null,external,60,46,13
+startActivity,com/google/android/gms/internal/cw$a,null,external,60,46,13
+startActivity,com/google/android/gms/internal/cw,android.intent.action.VIEW,external,60,46,13
+startActivity,com/google/android/gms/internal/du,null,external,60,53,21
+startActivityForResult,com/google/android/gms/internal/du,null,external,60,53,21
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,60,54,21
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,60,54,21
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,60,54,21
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,60,54,21
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,60,54,21
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,138,95,57
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,138,95,57
+startActivity,com/handrush/scene/MainMenuScene$3,android.intent.action.SEND,external,162,95,58
+startActivity,com/handrush/tiledmap/ADboard,android.intent.action.VIEW,external,162,95,58
+startActivity,com/handrush/tiledmap/ADboard,android.intent.action.VIEW,external,162,95,58
+startActivity,com/handrush/tiledmap/ADboard,android.intent.action.VIEW,external,162,95,58
+startActivity,com/handrush/tiledmap/ADboard,android.intent.action.VIEW,external,162,95,58
+startActivity,com/handrush/tiledmap/ADboard,android.intent.action.VIEW,external,162,95,58
+startActivity,com/handrush/tiledmap/ADboard,android.intent.action.VIEW,external,162,95,58
+startActivity,org/andengine/util/BetaUtils$1,null,external,184,337,89
+startActivity,org/andengine/util/BetaUtils$2,null,external,184,337,90

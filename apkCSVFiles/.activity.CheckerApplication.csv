@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/checkers/checkers/activity/am,com/doodlemobile/gamecenter/GameCenterActivity,external,31,22,12
+startActivityForResult,com/checkers/checkers/activity/am,com/doodlemobile/gamecenter/GameCenterActivity,external,31,22,12
+startActivity,com/checkers/checkers/activity/am,com/doodlemobile/gamecenter/GameCenterActivity,external,31,22,12
+startActivityForResult,com/checkers/checkers/activity/am,com/doodlemobile/gamecenter/GameCenterActivity,external,31,22,12
+startActivity,com/checkers/checkers/activity/b,android.intent.action.VIEW,external,31,22,13
+startActivity,com/checkers/checkers/activity/c,android.intent.action.VIEW,external,31,22,14
+startActivity,com/checkers/checkers/activity/e,android.intent.action.VIEW,external,31,24,16
+startActivity,com/doodlemobile/gamecenter/ah,com/doodlemobile/gamecenter/FeatureViewActivity,external,35,37,48
+startActivity,com/doodlemobile/gamecenter/ai,com/doodlemobile/gamecenter/GameCenterActivity,external,35,37,49
+startActivity,com/doodlemobile/gamecenter/ak,com/doodlemobile/gamecenter/GameCenterActivity,external,35,37,51
+startActivity,com/doodlemobile/gamecenter/al,com/doodlemobile/gamecenter/GameCenterActivity,external,35,37,52
+startActivity,com/doodlemobile/gamecenter/aw,null,external,35,37,53
+startActivity,com/doodlemobile/gamecenter/b,null,external,35,66,54
+startActivity,com/doodlemobile/gamecenter/be,android.intent.action.GET_CONTENT,external,35,68,56
+startActivityForResult,com/doodlemobile/gamecenter/be,android.intent.action.GET_CONTENT,external,35,68,56
+startActivity,com/doodlemobile/gamecenter/bf,android.media.action.IMAGE_CAPTURE,external,35,68,57
+startActivityForResult,com/doodlemobile/gamecenter/bf,android.media.action.IMAGE_CAPTURE,external,35,68,57
+startActivity,com/doodlemobile/gamecenter/m,null,external,48,84,66
+startActivity,com/doodlemobile/gamecenter/ProfileActivity,com.android.camera.action.CROP,internal,48,85,66
+startActivityForResult,com/doodlemobile/gamecenter/ProfileActivity,com.android.camera.action.CROP,internal,48,85,66
+startActivity,com/doodlemobile/gamecenter/w,android.intent.action.VIEW,external,48,85,67

@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.READ_PHONE_STATE]-,0,1
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection$1,null,external,0,13,0
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection,null,external,0,13,0
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+bindService,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,0,14,1
+startActivity,com/prime31/FacebookPlugin$3,com/prime31/FacebookProxyActivity,external,0,184,1
+startActivity,com/qualcomm/QCARUnityPlayer/QCARPlayerProxyActivity,orientation,external,4,214,7
+bindService,com/unity3d/player/a/e,null,external,4,230,14
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,49,238,16
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,55,256,30

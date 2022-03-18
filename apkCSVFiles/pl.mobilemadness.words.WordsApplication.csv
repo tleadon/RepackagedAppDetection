@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.VIBRATE]-,0,0
+startActivity,com/facebook/android/e$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,2,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,2,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,34,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,43,8
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,148,133,21
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,148,133,21
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,148,133,21
+bindService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,148,133,21
+bindService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,148,133,21
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,162,146,31
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,162,146,31
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,162,146,31
+startActivityForResult,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,162,146,31
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,162,221,36
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,162,221,45
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,162,221,45
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,external,162,221,61
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,162,221,80
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,162,221,80
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,164,225,96
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,164,227,119
+startActivity,org/cocos2dx/lib/Cocos2dxActivity,android.intent.action.VIEW,external,168,475,126
+startActivity,org/cocos2dx/lib/Cocos2dxActivity,com/scoreloop/client/android/ui/EntryScreenActivity,external,168,475,126

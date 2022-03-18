@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,6,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,6,1
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,17,31,5
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,17,31,5
+startActivity,com/heyzap/sdk/PreMarketDialog$1,android.intent.action.VIEW,external,17,31,10
+bindService,com/unity3d/player/a/e,null,external,17,41,11
+startActivity,com/unity3d/player/UnityPlayer$9,null,external,21,55,24
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,60,82,33

@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-[android.permission.SEND_SMS]-[android.permission.READ_CONTACTS]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_APN_SETTINGS]-,1,0
+startActivity,cn/emagsoftware/gamebilling/activity/BillingActivity$1$2,null,external,0,0,2
+startActivity,cn/emagsoftware/gamebilling/activity/GameExitFinalActivity$1,cn/emagsoftware/gamebilling/activity/GameOpenActivity,external,0,4,11
+startActivity,cn/emagsoftware/gamebilling/api/GameInterface,ExitDirectly,external,0,4,15
+startActivity,cn/emagsoftware/gamebilling/api/GameInterface,cn/emagsoftware/gamebilling/activity/GameExitActivity,external,0,4,15
+startActivity,cn/emagsoftware/gamebilling/api/GameInterface,android.intent.action.VIEW,external,8,10,15
+startActivity,cn/emagsoftware/gamebilling/api/GameInterface,index,external,16,10,15
+startActivity,cn/emagsoftware/sdk/util/Util$7,android.settings.WIRELESS_SETTINGS,external,32,80,33
+startActivity,cn/emagsoftware/sdk/util/Util,android.intent.action.MAIN,external,40,165,33
+startActivity,st/STA,android.intent.action.VIEW,external,40,199,43
+startActivity,st/UCPay,com/uc/paymentsdk/payment/PaymentsActivity,external,40,199,47
+startActivityForResult,st/UCPay,com/uc/paymentsdk/payment/PaymentsActivity,external,40,199,47

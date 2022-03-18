@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.VIBRATE]-,0,0
+startActivity,com/clapfootgames/laserwars/Application$RunLinkToURL,android.intent.action.VIEW,external,0,0,1
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,38,74,8
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,38,74,8
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,38,74,8
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,41,74,8

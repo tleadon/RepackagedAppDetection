@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.INTERNET]-[android.permission.RECORD_AUDIO]-[android.permission.WAKE_LOCK]-,1,0
+startActivity,com/ustwo/mouthoff/Splash$1,com/ustwo/mouthoff/MouthOff,external,30,23,1
+startActivity,com/ustwo/mouthoff/view/AppInfoView,android.intent.action.SEND,external,30,28,3
+startActivity,com/ustwo/mouthoff/widget/URLDialogButton,android.intent.action.VIEW,external,30,30,28

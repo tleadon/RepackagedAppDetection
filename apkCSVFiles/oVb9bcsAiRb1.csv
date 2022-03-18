@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_TASKS]-[android.permission.ACCESS_WIFI_STATE]-,1,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,4,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,4,4
+startActivity,com/axl/d/p,android.intent.action.VIEW,external,0,27,9
+startActivity,com/axl/d/r,android.intent.action.VIEW,external,0,27,9
+startActivity,com/axl/runsantarun/v1/MainActivity,android.intent.action.SEND,external,0,27,9
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,41,74,15
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,41,77,15
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,41,77,15
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,41,77,15
+bindService,com/google/analytics/tracking/android/e,null,external,41,77,15
+startActivity,com/google/analytics/tracking/android/n,null,external,41,77,15
+bindService,com/umeng/common/net/a$b,null,external,80,124,19
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,80,124,19
+startActivity,com/umeng/common/net/d$b,android.intent.action.VIEW,external,104,133,19
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,112,207,19
+startActivity,com/umeng/common/util/h,null,external,118,339,19
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,118,339,19
+startActivity,org/andengine/d/a/b,android.intent.action.VIEW,external,125,341,22

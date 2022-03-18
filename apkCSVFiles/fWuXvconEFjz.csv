@@ -1,0 +1,41 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/tapjoy/mraid/controller/Display,android.intent.action.VIEW,external,36,204,21
+startActivity,com/tapjoy/mraid/controller/Display,android.intent.action.VIEW,external,36,204,21
+startActivity,com/tapjoy/mraid/controller/Utility,android.intent.action.CALL,external,67,204,22
+startActivity,com/tapjoy/mraid/controller/Utility,android.intent.action.INSERT,external,67,204,22
+startActivity,com/tapjoy/mraid/controller/Utility,android.intent.action.SEND,external,67,204,22
+startActivity,com/tapjoy/mraid/controller/Utility,android.intent.action.VIEW,external,67,204,22
+startActivity,com/tapjoy/mraid/view/MraidView$4,android.intent.action.DIAL,external,78,213,32
+startActivity,com/tapjoy/mraid/view/MraidView$4,android.intent.action.VIEW,external,78,213,32
+startActivity,com/tapjoy/mraid/view/MraidView$4,android.intent.action.VIEW,external,78,213,32
+startActivity,com/tapjoy/mraid/view/MraidView$4,android.intent.action.VIEW,external,78,213,32
+startActivity,com/tapjoy/mraid/view/MraidView,com/tapjoy/mraid/view/Browser,external,78,213,38
+startActivity,com/tapjoy/mraid/view/MraidView,android.intent.action.VIEW,external,78,213,38
+startActivity,com/tapjoy/mraid/view/MraidView,com/tapjoy/mraid/view/ActionHandler,external,78,213,38
+startActivity,com/tapjoy/mraid/view/MraidView,com/tapjoy/mraid/view/ActionHandler,external,78,213,38
+startActivity,com/tapjoy/TapjoyDailyRewardAd,com/tapjoy/TapjoyDailyRewardAdWebView,internal,94,215,39
+startActivity,com/tapjoy/TapjoyDisplayAd$GetBannerAdTask$1,android.intent.action.VIEW,external,94,215,40
+startActivity,com/tapjoy/TapjoyFullScreenAd,com/tapjoy/TapjoyFeaturedAppWebView,internal,94,215,40
+startActivity,com/tapjoy/TapjoyFullScreenAd,com/tapjoy/TapjoyFullScreenAdWebView,internal,94,215,40
+startActivity,com/tapjoy/TapjoyVideo,com/tapjoy/TapjoyVideoView,internal,102,378,40
+startActivity,com/tapjoy/TapjoyVideoView,com/tapjoy/TJAdUnitView,internal,102,378,43
+startActivityForResult,com/tapjoy/TapjoyVideoView,com/tapjoy/TJAdUnitView,internal,102,378,43
+startActivity,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TJAdUnitView,external,133,395,49
+startActivityForResult,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TJAdUnitView,external,133,395,49
+startActivity,com/tapjoy/TJAdUnitJSBridge,android.intent.action.VIEW,external,133,395,49
+startActivity,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TapjoyVideoView,external,133,395,49
+startActivityForResult,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TapjoyVideoView,external,133,395,49
+startActivity,com/tapjoy/TJAdUnitJSBridge,com/tapjoy/TapjoyVideoView,external,147,395,49
+startActivity,com/tapjoy/TJAdUnitJSBridge,android.intent.action.SEND,external,147,399,49
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,147,410,57
+startActivityForResult,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,147,410,57
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,147,410,57
+startActivity,com/tapjoy/TJEvent,com/tapjoy/TapjoyFeaturedAppWebView,external,147,410,57
+bindService,com/unity3d/player/a/e,null,external,147,420,57
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,192,428,59
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,198,446,73

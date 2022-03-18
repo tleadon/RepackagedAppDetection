@@ -1,0 +1,42 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/applovin/impl/adview/ab,com/applovin/adview/AppLovinInterstitialActivity,external,0,2,2
+startActivity,com/applovin/impl/adview/r,android.intent.action.VIEW,external,0,2,4
+startActivity,com/applovin/impl/adview/r,android.intent.action.VIEW,external,0,2,4
+startActivity,com/applovin/impl/adview/r,android.intent.action.VIEW,external,0,2,4
+startActivity,com/applovin/impl/sdk/y,com/applovin/adview/AppLovinConfirmationActivity,external,10,71,6
+bindService,com/appnext/appnextsdk/Appnext$13,com/appnext/appnextsdk/DownloadService,external,17,75,6
+startService,com/appnext/appnextsdk/Appnext$13,com/appnext/appnextsdk/DownloadService,external,17,75,6
+startActivity,com/appnext/appnextsdk/Appnext$13,android.intent.action.VIEW,external,17,75,6
+bindService,com/appnext/appnextsdk/Appnext$Click1,com/appnext/appnextsdk/DownloadService,external,39,77,31
+startService,com/appnext/appnextsdk/Appnext$Click1,com/appnext/appnextsdk/DownloadService,external,39,77,31
+bindService,com/appnext/appnextsdk/Appnext$Click1,com/appnext/appnextsdk/DownloadService,external,39,77,31
+startService,com/appnext/appnextsdk/Appnext$Click1,com/appnext/appnextsdk/DownloadService,external,39,77,31
+startActivity,com/appnext/appnextsdk/Appnext$Click1,android.intent.action.VIEW,external,39,77,31
+startActivity,com/appnext/appnextsdk/Appnext$Click1,android.intent.action.VIEW,external,39,77,31
+startActivity,com/appnext/appnextsdk/Appnext$DownloadReceiver,android.intent.action.VIEW,external,39,85,31
+startActivity,com/appnext/appnextsdk/Appnext$DownloadReceiver,android.intent.action.VIEW,external,39,88,31
+startActivity,com/appnext/appnextsdk/Appnext,android.intent.action.VIEW,external,114,144,33
+startActivity,com/appnext/appnextsdk/Appnext,com/appnext/appnextsdk/PopupActivity,external,118,144,34
+bindService,com/appnext/appnextsdk/Appnext,com/appnext/appnextsdk/PopupActivity,external,118,144,34
+sendBroadcast,com/appnext/appnextsdk/c,lgeWapService.prov.persister.INSTALL_BROWSER,external,132,167,38
+sendBroadcast,com/appnext/appnextsdk/d,android.intent.action.OMADM_BROWSER_SET_HOMEPAGE,external,132,167,38
+sendBroadcast,com/appnext/appnextsdk/d,android.intent.action.OMADM_BROWSER_SET_HOMEPAGE,external,132,167,38
+startActivity,com/appnext/appnextsdk/DownloadService$1,null,external,132,167,38
+sendBroadcast,com/appnext/appnextsdk/e,android.intent.action.CSC_UPDATE_HOMEURL,external,132,191,38
+sendBroadcast,com/appnext/appnextsdk/f,null,external,132,192,38
+startActivity,com/appnext/appnextsdk/unity/AppnextUnityPlugin$Click1,android.intent.action.VIEW,external,202,331,62
+startActivity,com/appnext/appnextsdk/unity/AppnextUnityPlugin$Click1,android.intent.action.VIEW,external,202,331,62
+startActivity,com/appnext/appnextsdk/unity/AppnextUnityPlugin,android.intent.action.VIEW,external,224,392,64
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,264,416,68
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,288,444,73
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,288,444,73
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,294,527,80
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,294,527,80
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,306,559,82
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,310,568,88
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,325,584,125
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,325,584,125
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,329,666,128
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,329,666,128
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,329,666,128

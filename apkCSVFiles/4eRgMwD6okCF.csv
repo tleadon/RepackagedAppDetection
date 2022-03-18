@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+bindService,com/umeng/common/net/a$b,null,external,70,102,24
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,102,24
+startActivity,com/umeng/common/net/d$b,android.intent.action.VIEW,external,94,111,24
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,102,185,24
+startActivity,com/umeng/common/util/h,null,external,108,317,24
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,108,317,24
+startActivity,org/coolreader/CoolReader$27,android.intent.action.VIEW,external,108,317,25
+startActivity,org/coolreader/CoolReader,colordict.intent.action.SEARCH,external,108,318,26
+startActivity,org/coolreader/CoolReader,android.intent.action.VIEW,external,108,318,26
+startActivityForResult,org/coolreader/CoolReader,android.intent.action.VIEW,external,108,318,26
+startService,org/coolreader/CoolReader,android.intent.action.VIEW,external,108,324,26
+startActivity,org/coolreader/CoolReader,android.intent.action.VIEW,external,108,324,27
+startActivity,org/coolreader/CoolReader,android.intent.action.SEND,external,108,324,27
+startActivity,org/coolreader/crengine/AboutDialog,android.intent.action.VIEW,external,108,324,29
+startActivity,org/coolreader/crengine/BaseActivity,android.intent.action.MAIN,external,108,408,34
+startService,org/coolreader/crengine/BaseActivity,android.intent.action.MAIN,external,108,408,34
+startActivity,org/coolreader/crengine/CRRootView$1,android.intent.action.VIEW,external,108,457,124
+bindService,org/coolreader/db/CRDBServiceAccessor,org/coolreader/db/CRDBService,external,162,1400,319
+bindService,org/coolreader/db/CRDBServiceAccessor,org/coolreader/db/CRDBService,external,162,1402,319
+startService,org/coolreader/donations/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,210,1405,319
+startService,org/coolreader/donations/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,210,1405,319
+startService,org/coolreader/donations/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,210,1405,319
+bindService,org/coolreader/donations/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,210,1405,319
+bindService,org/coolreader/donations/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,210,1405,319
+bindService,org/coolreader/sync/SyncServiceAccessor,org/coolreader/sync/SyncService,external,239,1597,319
+bindService,org/coolreader/sync/SyncServiceAccessor,org/coolreader/sync/SyncService,external,239,1600,319
+startService,org/koekak/android/ebookdownloader/SonyBookSelector,com.sony.drbd.ebook.mediascanner.MediaScannerService,external,241,1620,319
+sendBroadcast,org/koekak/android/ebookdownloader/SonyBookSelector,android.intent.action.book_selected,external,241,1620,319

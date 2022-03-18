@@ -1,0 +1,32 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/ansca/corona/Controller$12,com/ansca/corona/purchasing/StoreActivity,external,0,31,7
+startActivity,com/ansca/corona/Controller,android.intent.action.VIEW,external,11,38,9
+startActivity,com/ansca/corona/CoronaActivity,android.media.action.IMAGE_CAPTURE,external,19,161,16
+startActivityForResult,com/ansca/corona/CoronaActivity,android.media.action.IMAGE_CAPTURE,external,19,161,16
+startActivity,com/ansca/corona/CoronaActivity,com/ansca/corona/CameraActivity,external,19,163,16
+startActivityForResult,com/ansca/corona/CoronaActivity,com/ansca/corona/CameraActivity,external,19,163,16
+startActivity,com/ansca/corona/CoronaActivity,android.intent.action.GET_CONTENT,external,19,163,16
+startActivityForResult,com/ansca/corona/CoronaActivity,android.intent.action.GET_CONTENT,external,19,163,16
+startActivity,com/ansca/corona/CoronaActivity,android.intent.action.GET_CONTENT,external,19,163,16
+startActivityForResult,com/ansca/corona/CoronaActivity,android.intent.action.GET_CONTENT,external,19,163,16
+startActivity,com/ansca/corona/CoronaActivity,android.intent.action.GET_CONTENT,external,19,163,16
+startActivityForResult,com/ansca/corona/CoronaActivity,android.intent.action.GET_CONTENT,external,19,163,16
+startActivity,com/ansca/corona/CoronaEnvironment,com/ansca/corona/CoronaActivity,external,19,217,19
+startActivity,com/ansca/corona/MediaManager$3,com/ansca/corona/VideoActivity,external,111,585,26
+startService,com/ansca/corona/notifications/GoogleCloudMessagingServices$RegisterOperation,sender,external,155,681,26
+startActivity,com/ansca/corona/notifications/StatusBarBroadcastReceiver,com/ansca/corona/CoronaActivity,internal,155,763,26
+bindService,com/ansca/corona/purchasing/GoogleStoreConnection,null,external,155,778,27
+bindService,com/ansca/corona/purchasing/GoogleStoreConnection,com.android.vending.billing.MarketBillingService.BIND,external,155,778,28
+startActivity,com/ansca/corona/purchasing/StoreActivity,com.bn.sdk.shop.details,internal,155,778,29
+startActivityForResult,com/ansca/corona/purchasing/StoreActivity,com.bn.sdk.shop.details,internal,155,778,29
+startService,com/ansca/corona/SystemStartupBroadcastReceiver,com/ansca/corona/CoronaService,external,163,778,29
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,172,892,31
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,172,892,31
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,172,893,32
+bindService,com/google/android/vending/licensing/LicenseChecker,null,external,203,952,33
+bindService,com/google/android/vending/licensing/LicenseChecker,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,203,954,33
+startActivity,com/tapfortap/AdView,com/tapfortap/TapForTapActivity,external,226,1035,34
+startActivity,com/tapfortap/DefaultWebActivityHelper,com/tapfortap/TapForTapActivity,external,226,1112,34
+startActivity,com/tapfortap/TapForTap,com/tapfortap/TapForTapActivity,external,252,1329,35
+startActivity,com/tapfortap/Utils,android.intent.action.VIEW,external,252,1329,35

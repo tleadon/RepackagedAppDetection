@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,0
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,34,25,3
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,34,42,4
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,34,42,4
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,46,74,6
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,50,83,12
+startActivity,com/prime31/GoogleIABPlugin$3,com/prime31/GoogleIABProxyActivity,external,80,97,24
+bindService,com/prime31/GoogleIABPlugin,null,external,80,97,24
+bindService,com/prime31/util/IabHelper,null,external,80,97,24
+bindService,com/prime31/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,80,101,24
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,86,158,51

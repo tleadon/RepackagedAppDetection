@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECORD_AUDIO]-,0,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,23,9,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,23,9,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,23,9,0
+startActivity,com/appbrain/a/ai,android.intent.action.VIEW,external,23,10,0
+startActivity,com/appbrain/a/ak,null,external,23,10,2
+startActivity,com/appbrain/a/ak,android.intent.action.VIEW,external,28,10,2
+startActivity,com/appbrain/a/ak,android.intent.action.VIEW,external,28,10,2
+startService,com/appbrain/a/aw,com/appbrain/AppBrainService,external,28,10,2
+startService,com/appbrain/a/aw,com/appbrain/AppBrainService,external,28,10,2
+startService,com/appbrain/a/q,com/appbrain/AppBrainService,external,37,12,2
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,37,55,15
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,37,55,15
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,37,55,15
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,37,55,15
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,51,57,19
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,53,62,21
+startActivity,com/tapfortap/AdView,com/tapfortap/TapForTapActivity,external,69,88,34
+startActivity,com/tapfortap/DefaultWebActivityHelper,com/tapfortap/TapForTapActivity,external,69,165,34
+startActivity,com/tapfortap/TapForTap,com/tapfortap/TapForTapActivity,external,95,382,35
+startActivity,com/tapfortap/Utils,android.intent.action.VIEW,external,100,382,35
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,146,422,60

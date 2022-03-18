@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+startActivity,com/cooguo/advideo/az,android.intent.action.VIEW,external,3,20,8
+startActivity,com/cooguo/advideo/VideoAdsManager,com/cooguo/advideo/VideoAdsListActivity,external,67,444,23
+startActivity,com/cooguo/advideo/VideoAdsView,android.intent.action.VIEW,external,67,444,25
+startActivity,com/cooguo/advideo/VideoAdsView,android.intent.action.DIAL,external,67,444,25
+startActivity,com/cooguo/advideo/VideoAdsView,android.intent.action.SENDTO,external,67,444,25
+startActivity,com/cooguo/advideo/VideoAdsView,android.intent.action.VIEW,external,67,444,25
+startActivity,com/gamefang/common/CodeActivity,com/glu/android/glyder2_free/glyder2,external,72,444,31
+startActivity,com/gamefang/common/CodeActivity,com/gamefang/common/CodeActivity,external,72,444,31
+startActivity,com/glu/android/GameLet,android.intent.action.VIEW,external,78,509,42
+startActivity,com/google/ads/GoogleAdView$AdWebViewClient,android.intent.action.VIEW,external,80,935,55
+startActivity,com/kuttl/ad/a,android.intent.action.VIEW,external,100,1039,55
+startActivity,com/kuttl/ad/a,android.intent.action.VIEW,external,100,1131,55
+startActivity,com/kuttl/ad/aa,android.intent.action.SENDTO,external,116,1175,56
+startActivity,com/kuttl/ad/aa,android.intent.action.DIAL,external,116,1175,56
+startActivity,com/kuttl/ad/aa,android.intent.action.VIEW,external,116,1175,56
+startActivity,com/kuttl/ad/aa,android.intent.action.VIEW,external,116,1175,56
+startActivity,com/kuttl/ad/aa,android.intent.action.SEND,external,116,1175,56
+startActivity,com/kuttl/ad/BoutiqueActivity,,external,125,1175,57
+startActivity,com/kuttl/ad/BoutiqueActivity,,external,125,1175,57
+startService,com/kuttl/ad/MainReceiver,null,external,132,1193,59
+startActivity,com/kuttl/ad/r,android.intent.action.VIEW,external,144,1223,59
+startActivity,com/kuttl/ad/s,com/kuttl/ad/BoutiqueActivity,external,144,1223,59
+startActivity,com/umeng/common/b/g,null,external,166,1285,62
+startActivity,com/umeng/common/b/g,android.intent.action.VIEW,external,166,1285,62
+bindService,com/umeng/common/net/a$b,null,external,188,1295,62
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,188,1295,62
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,212,1298,62

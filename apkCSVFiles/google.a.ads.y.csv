@@ -1,0 +1,45 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SYSTEM_ALERT_WINDOW]-,0,0
+startActivity,au$a$3,android.intent.action.SEND,external,4,11,3
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,12,25,9
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,33,53,14
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,33,53,14
+startActivity,com/google/ads/AdActivity$a,com/google/ads/AdActivity,external,39,136,21
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,39,136,22
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,39,136,23
+startActivity,com/startapp/android/publish/a/a,com/startapp/android/publish/AppWallActivity,external,51,136,26
+startActivity,com/startapp/android/publish/a/a,com/startapp/android/publish/AppWallActivity,external,51,136,26
+sendBroadcast,com/startapp/android/publish/AppWallActivity$5,com.startapp.android.publish.DISMISS_OVERLAY,external,51,136,27
+startActivity,com/startapp/android/publish/AppWallActivity,android.intent.action.VIEW,external,51,136,27
+sendBroadcast,com/startapp/android/publish/AppWallActivity,com.startapp.android.HideDisplayBroadcastListener,external,51,138,27
+startActivity,com/startapp/android/publish/AppWallDelegateActivity$a,android.intent.action.VIEW,external,51,138,27
+startActivity,com/startapp/android/publish/b,com/startapp/android/publish/list3d/List3DActivity,external,51,143,27
+startActivity,com/startapp/android/publish/b,com/startapp/android/publish/list3d/List3DActivity,external,55,143,27
+startActivity,com/startapp/android/publish/banner/banner3d/Banner3D,android.intent.action.VIEW,external,55,143,29
+startActivity,com/startapp/android/publish/banner/bannerstandard/BannerStandard$MyWebViewClient,android.intent.action.VIEW,external,55,143,30
+startActivity,com/startapp/android/publish/d/l$a$1,android.intent.action.VIEW,external,57,208,30
+startActivity,com/startapp/android/publish/d/l$a,android.intent.action.VIEW,external,57,208,30
+startActivity,com/startapp/android/publish/d$b,android.intent.action.VIEW,external,57,210,31
+sendBroadcast,com/startapp/android/publish/d,com.startapp.android.publish.DISMISS_ACTIVITY,external,57,210,31
+startActivity,com/startapp/android/publish/HtmlAd,com/startapp/android/publish/AppWallActivity,external,61,211,31
+startActivity,com/startapp/android/publish/HtmlAd,com/startapp/android/publish/AppWallActivity,external,61,213,31
+sendBroadcast,com/startapp/android/publish/list3d/c,com.startapp.android.Activity3DGetValues,external,61,213,33
+startActivity,com/startapp/android/publish/list3d/g$5,android.intent.action.VIEW,external,61,213,37
+startActivity,com/startapp/android/publish/list3d/g$b,android.intent.action.VIEW,external,61,213,37
+startActivity,com/startapp/android/publish/list3d/List3DActivity$2,android.intent.action.VIEW,external,61,216,41
+sendBroadcast,com/startapp/android/publish/list3d/List3DActivity$4,android.intent.action.CLOSE_SYSTEM_DIALOGS,external,61,216,42
+startActivity,com/startapp/android/publish/list3d/List3DActivity$a$1,android.intent.action.VIEW,external,61,216,42
+startActivity,com/startapp/android/publish/list3d/List3DActivity$a,android.intent.action.VIEW,external,61,216,42
+sendBroadcast,com/startapp/android/publish/list3d/List3DActivity,com.startapp.android.HideDisplayBroadcastListener,internal,61,216,42
+sendBroadcast,com/startapp/android/publish/StartAppAd,com.startapp.android.CloseAdActivity,external,63,216,42
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,63,295,42
+startActivity,com/umeng/fb/ui/SendFeedback$b,com/umeng/fb/ui/FeedbackConversations,external,68,297,54
+startActivity,dl,android.intent.action.VIEW,external,116,340,60
+sendBroadcast,eg,postFeedbackFinished,external,129,364,60
+sendBroadcast,eh,RetrieveReplyBroadcast,external,129,364,60
+sendBroadcast,ei,postFeedbackFinished,external,129,364,60
+startActivity,et,com/umeng/fb/ui/SendFeedback,external,133,364,63
+startActivity,et,com/umeng/fb/ui/FeedbackConversations,external,133,364,63
+startActivity,et,com/umeng/fb/ui/FeedbackConversation,external,133,364,63
+startActivity,fw,android.intent.action.VIEW,external,145,366,69
+startActivity,google/a/ads/k,android.intent.action.VIEW,external,145,366,81

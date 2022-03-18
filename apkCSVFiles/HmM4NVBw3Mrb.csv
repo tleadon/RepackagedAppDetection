@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/appspresso/core/runtime/view/CustomSchemeWebViewClientListener,android.intent.action.VIEW,external,25,504,36
+startActivity,com/appspresso/core/runtime/view/CustomSchemeWebViewClientListener,android.intent.action.VIEW,external,25,504,36
+startActivityIfNeeded,com/appspresso/core/runtime/view/CustomSchemeWebViewClientListener,android.intent.action.VIEW,external,25,504,36
+startActivity,com/appspresso/screw/net/MailUtils,android.intent.action.SEND_MULTIPLE,external,38,573,61

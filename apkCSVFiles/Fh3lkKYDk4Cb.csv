@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-,1,0
+bindService,com/a/a/a/a/a,null,external,0,2,0
+bindService,com/a/a/a/a/a,com/a/a/a/d,external,0,2,0
+bindService,com/a/a/a/a/a,com/a/a/a/d,external,0,2,0
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,0,31,0
+startService,com/android/util/counter/CounterReceiver,com/test/httputil/HttpUtilService,internal,0,31,0
+bindService,com/android/vending/licensing/h,null,external,64,52,2
+bindService,com/android/vending/licensing/h,com/android/vending/licensing/ILicensingService,external,64,52,2
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,64,56,2
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,64,56,2
+startActivity,com/openfeint/internal/d,android.intent.action.PICK,external,176,156,4
+startActivityForResult,com/openfeint/internal/d,android.intent.action.PICK,external,176,156,4
+startActivity,com/openfeint/internal/k,com/openfeint/internal/ui/IntroFlow,external,186,330,4
+startActivity,com/openfeint/internal/o,null,external,186,330,4
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,204,463,5
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,204,463,5
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,206,463,6
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,206,463,6
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,206,463,6
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,206,463,6
+startActivity,com/oyatsukai/core/therunactivity,android.intent.action.VIEW,external,210,493,40
+startActivity,com/oyatsukai/core/therunactivity,android.intent.action.VIEW,external,210,493,40
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,373,674,46
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,373,674,46
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,373,674,46

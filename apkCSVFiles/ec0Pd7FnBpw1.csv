@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,0,0
+startActivity,com/flurry/android/FlurryAds,adSpaceName,external,107,84,4
+startActivity,com/flurry/android/FlurryFullscreenTakeoverActivity,null,external,134,169,7
+startActivity,com/sponsorpay/sdk/android/publisher/OfferWebClient,android.intent.action.VIEW,external,148,973,33
+startActivity,com/sponsorpay/sdk/android/unity/SPUnityBrandEngageWrapper,com/sponsorpay/sdk/android/unity/SPWrapperActivity,external,148,983,33
+startActivity,com/sponsorpay/sdk/android/unity/SPUnityOfferWallWrapper$1,null,external,148,983,33
+startActivityForResult,com/sponsorpay/sdk/android/unity/SPUnityOfferWallWrapper$1,null,external,148,983,33
+startActivity,com/sponsorpay/sdk/android/unity/SPWrapperActivity,null,internal,148,983,33
+startActivityForResult,com/sponsorpay/sdk/android/unity/SPWrapperActivity,null,internal,148,983,33
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,182,1062,60

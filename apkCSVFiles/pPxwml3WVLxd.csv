@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.BILLING]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,com/flurry/android/aj,frameIndex,external,0,4,0
+startActivity,com/flurry/android/aq,com/flurry/android/FlurryFullscreenTakeoverActivity,external,0,5,3
+startActivity,com/flurry/android/be,com/flurry/android/FlurryFullscreenTakeoverActivity,external,7,35,4
+startActivity,com/flurry/android/be,com/flurry/android/FlurryFullscreenTakeoverActivity,external,7,35,4
+startActivity,com/flurry/android/c,com/flurry/android/FlurryFullscreenTakeoverActivity,external,7,41,4
+startActivity,com/flurry/android/GetAdAsyncTask,com/flurry/android/FlurryFullscreenTakeoverActivity,external,39,97,8
+startActivity,com/flurry/android/t,com/flurry/android/FlurryFullscreenTakeoverActivity,external,39,118,8
+startActivity,com/flurry/android/y,android.intent.action.VIEW,external,41,118,8
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,41,803,22
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,internal,41,803,22
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,internal,41,803,22
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,internal,41,803,22
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,55,805,26
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,57,810,28
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,112,946,52
+startActivity,com/heyzap/sdk/AchievementsFullOverlay,android.intent.action.VIEW,external,119,954,63
+startActivity,com/heyzap/sdk/ads/AdUnit,android.intent.action.VIEW,external,119,956,64
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,119,958,90
+startActivity,com/heyzap/sdk/HeyzapDialog,android.intent.action.CLOSE_SYSTEM_DIALOGS,external,119,967,93
+startActivity,com/heyzap/sdk/HeyzapLib$5,android.intent.action.MAIN,external,119,967,94
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,119,967,94
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,119,967,94
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,119,967,94
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,119,967,94
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,119,967,94
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,119,967,94
+startActivity,com/heyzap/sdk/LeaderboardFullOverlay,android.intent.action.VIEW,external,119,973,108
+startActivity,com/heyzap/sdk/LeaderboardInGameOverlay$1,android.intent.action.VIEW,external,119,973,115
+startActivity,com/iopixel/rateme/RateMe$1$1,android.intent.action.VIEW,external,122,979,153
+startActivity,com/prime31/GoogleIABPlugin$3,com/prime31/GoogleIABProxyActivity,external,122,979,155
+bindService,com/prime31/GoogleIABPlugin,null,external,122,979,155
+bindService,com/prime31/util/IabHelper,null,external,122,979,155
+bindService,com/prime31/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,122,983,155
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,175,1028,177

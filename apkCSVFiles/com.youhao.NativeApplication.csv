@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECORD_AUDIO]-[android.permission.CAMERA]-,1,0
+sendBroadcast,com/tencent/mm/sdk/channel/MMessage,_mmessage_sdkVersion,external,4,45,0
+startActivity,com/tencent/mm/sdk/channel/MMessageAct,_mmessage_sdkVersion,external,4,45,0
+startActivity,com/tencent/mm/sdk/openapi/WXApiImplV10,null,external,22,45,0
+startActivity,com/tencent/mm/sdk/openapi/WXApiImplV10,null,external,22,45,0
+startActivity,com/tencent/mm/sdk/platformtools/NetStatusUtil,/,external,69,95,0
+startActivity,com/tencent/mm/sdk/platformtools/NetStatusUtil,/,external,73,104,0
+startActivity,com/tencent/mm/sdk/platformtools/NetStatusUtil,/,external,73,104,0
+startActivity,com/tencent/mm/sdk/platformtools/NetStatusUtil,/,external,73,104,0
+startActivity,com/tencent/mm/sdk/platformtools/NetStatusUtil,android.settings.WIFI_IP_SETTINGS,external,73,104,0
+startActivity,com/tencent/mm/sdk/platformtools/Util,android.intent.action.VIEW,external,117,144,1
+startActivity,com/tencent/mm/sdk/platformtools/Util,android.intent.action.VIEW,external,131,147,1
+startActivity,com/tencent/mm/sdk/platformtools/Util,android.intent.action.GET_CONTENT,external,131,172,1
+startActivityForResult,com/tencent/mm/sdk/platformtools/Util,android.intent.action.GET_CONTENT,external,131,172,1
+startActivity,com/tencent/mm/sdk/plugin/MMPluginAPIImpl,com.tencent.mm,external,131,172,1
+startActivity,com/tencent/mm/sdk/plugin/MMPluginOAuth,com.tencent.mm,external,137,172,1
+startActivity,com/youhao/KKDownloadManager,android.intent.action.VIEW,external,145,176,1
+startActivity,com/youhao/KKImagePicker,android.intent.action.GET_CONTENT,external,147,176,20
+startActivityForResult,com/youhao/KKImagePicker,android.intent.action.GET_CONTENT,external,147,176,20
+startActivity,com/youhao/KKImagePicker,android.media.action.IMAGE_CAPTURE,external,147,180,20
+startActivityForResult,com/youhao/KKImagePicker,android.media.action.IMAGE_CAPTURE,external,147,180,20
+startActivity,com/youhao/KKShareDialog,android.intent.action.SEND,external,147,184,27
+startActivityForResult,com/youhao/KKShareDialog,android.intent.action.SEND,external,147,184,27
+startActivity,com/youhao/KKWebView,com/youhao/WebViewActivity,external,147,184,27
+startActivity,com/youhao/NativeActivity,android.intent.action.VIEW,external,147,188,27
+startActivity,com/youhao/NativeActivity,android.intent.action.VIEW,external,147,188,27
+startActivity,com/youhao/NativeActivity,android.intent.action.VIEW,external,147,188,27
+startActivity,com/youhao/NativeActivity,android.intent.action.MAIN,external,147,188,27
+startActivity,com/youhao/NativeApplication,android.settings.WIFI_SETTINGS,internal,157,188,27
+startService,com/youhao/NotificationService$2,com/youhao/NotificationService,external,157,188,27
+startActivity,com/youhao/NotificationService,com/youhao/NotificationService,internal,157,188,28
+bindService,com/youhao/util/IabHelper,null,external,157,188,29
+bindService,com/youhao/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,157,192,29

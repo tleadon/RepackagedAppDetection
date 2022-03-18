@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,1,0
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,35,66,3
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,35,66,3
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,35,66,3
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,38,66,3
+startActivity,com/gamesalad/common/GSPlayerActivity,android.intent.action.VIEW,external,50,168,4
+startActivity,com/gamesalad/common/GSPlayerActivity,com/gamesalad/common/plugins/KeyboardInputActivity,external,50,174,4
+startActivityForResult,com/gamesalad/common/GSPlayerActivity,com/gamesalad/common/plugins/KeyboardInputActivity,external,50,174,4

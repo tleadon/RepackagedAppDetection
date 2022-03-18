@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,0,0,0
+sendBroadcast,com/common/StarterActivity,com.cstrike.openit,external,0,0,0
+startActivity,com/common/StarterActivity,android.intent.action.MAIN,external,0,0,0
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,0,0,0
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,0,0,0
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,0,0,0
+bindService,com/umeng/common/net/a$b,null,external,63,176,4
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,63,176,4
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,87,179,4
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,87,258,4
+startActivity,com/umeng/common/util/g,null,external,101,374,4
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,101,374,4
+startActivity,net/fishlabs/burningfgeiresvfrtb4/DemoRenderer,android.intent.action.VIEW,external,101,468,13

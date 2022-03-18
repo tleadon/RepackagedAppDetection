@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.SEND_SMS]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SEND_SMS]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.UNINSTALL_SHORTCUT]-,1,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,null,external,0,50,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,53,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+sendBroadcast,com/wiyun/sdk/a$1,c.w.self,external,44,193,44
+sendBroadcast,com/wiyun/sdk/a$1,c.w.self,external,49,218,44
+sendBroadcast,com/wiyun/sdk/a$1,c.w.self,external,50,224,44
+sendBroadcast,com/wiyun/sdk/activity/CommonDialog,cmdlg_act_cancel,internal,57,239,44
+sendBroadcast,com/wiyun/sdk/activity/CommonDialog,cmdlg_act_ok,internal,57,239,44
+sendBroadcast,com/wiyun/sdk/activity/SimpleBrowserActivity,sba_act_cancel,internal,57,241,53
+sendBroadcast,com/wiyun/sdk/activity/SimpleBrowserActivity,sba_act_ok,internal,57,241,53
+sendBroadcast,com/wiyun/sdk/b/b,c.w.pdlg,external,57,243,71
+startActivity,com/wiyun/sdk/b/b,com/wiyun/sdk/activity/ProgressDialog,external,57,243,71

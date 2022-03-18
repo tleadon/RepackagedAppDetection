@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.READ_LOGS]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-,0,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,6,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,6,1
+startService,com/James/DroidVibration/AutoStart,com/James/DroidVibration/CallVibrateService,external,12,6,2
+startActivity,com/James/DroidVibration/CallVibrateService,com/James/DroidVibration/FakeActivity,internal,13,6,4
+startService,com/James/DroidVibration/CallVibrateSetting,com/James/DroidVibration/CallVibrateService,external,23,6,4
+startActivity,com/James/DroidVibration/k,com/James/DroidVibration/CallVibrateLimitedCallSetting,external,23,6,7
+startActivity,com/James/DroidVibration/l,android.intent.action.VIEW,external,23,6,8
+startActivity,com/James/DroidVibration/m,android.intent.action.VIEW,external,23,6,9

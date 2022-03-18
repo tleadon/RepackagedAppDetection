@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,30,111,13
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,30,111,13
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,42,143,15
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,46,152,21
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,100,294,45
+startActivity,com/heyzap/sdk/AchievementsFullOverlay,android.intent.action.VIEW,external,107,302,56
+startActivity,com/heyzap/sdk/ads/AdUnit,android.intent.action.VIEW,external,107,304,57
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,107,304,75
+startActivity,com/heyzap/sdk/HeyzapDialog,android.intent.action.CLOSE_SYSTEM_DIALOGS,external,107,313,78
+startActivity,com/heyzap/sdk/HeyzapLib$5,android.intent.action.MAIN,external,107,313,79
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,107,313,79
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,107,313,79
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,107,313,79
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,107,313,79
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,107,313,79
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,107,313,79
+startActivity,com/heyzap/sdk/LeaderboardFullOverlay,android.intent.action.VIEW,external,107,313,93
+startActivity,com/heyzap/sdk/LeaderboardInGameOverlay$1,android.intent.action.VIEW,external,107,313,100
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,116,374,164

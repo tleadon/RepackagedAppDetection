@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,1,1
+startActivity,com/adwhirl/AdWhirlLayout,android.intent.action.VIEW,external,10,9,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,41,32,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,41,32,1
+startActivity,org/haxe/nme/GameActivity,android.intent.action.VIEW,external,120,75,5

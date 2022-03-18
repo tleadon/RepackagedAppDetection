@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.CHECK_LICENSE]-,0,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/beintoo/vgood/BeintooRecomBanner,android.intent.action.VIEW,external,170,965,156
+startActivity,com/beintoo/vgood/BeintooRecomBannerHTML$5$1,android.intent.action.VIEW,external,170,965,156
+startActivity,com/beintoo/vgood/BeintooRecomDialog,android.intent.action.VIEW,external,170,971,157
+startActivity,com/beintoo/vgood/BeintooRecomDialogHTML$2$1,android.intent.action.VIEW,external,170,971,157
+startActivity,com/beintoo/vgood/BeintooRecomDialogHTML,android.intent.action.VIEW,external,170,971,159
+startActivity,com/crittercism/app/Crittercism$2,com/crittercism/NotificationActivity,external,170,971,178
+startService,com/crittercism/app/Crittercism,com.crittercism.service.CrittercismService,external,170,971,178
+bindService,com/crittercism/app/Crittercism,com.crittercism.service.CrittercismService,external,170,971,178
+bindService,com/crittercism/app/Crittercism,com.crittercism.service.CrittercismService,external,170,1034,178
+startService,com/crittercism/service/BReceiver,com/crittercism/service/CrittercismService,external,170,1034,180
+startActivity,com/deonn/games/ad2/AppRater$1,android.intent.action.VIEW,external,187,1079,213
+startActivity,com/deonn/games/ad2/AsteroidAndroid$14$1,android.intent.action.VIEW,external,187,1079,218
+startActivity,com/deonn/games/ad2/AsteroidAndroid$3$1,android.intent.action.VIEW,external,187,1079,220
+startActivity,com/deonn/games/ad2/AsteroidAndroid$7,android.intent.action.VIEW,external,187,1079,221
+startActivity,com/deonn/games/ad2/AsteroidAndroid,android.intent.action.SEND,external,187,1079,221
+startActivity,com/deonn/games/ad2/AsteroidAndroid,com/deonn/plus/RegisterActivity,external,187,1079,221
+startActivity,com/deonn/plus/RegisterActivity$4,android.intent.action.VIEW,external,189,1079,224
+startActivity,com/deonn/plus/RegisterActivity$8,android.intent.action.VIEW,external,189,1079,228

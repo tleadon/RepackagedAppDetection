@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/applifier/impact/android/ApplifierImpact,android.intent.action.VIEW,external,0,14,1
+startActivity,com/applifier/impact/android/ApplifierImpact,android.intent.action.VIEW,external,0,14,1
+startActivity,com/applifier/impact/android/ApplifierImpact,com/applifier/impact/android/view/ApplifierImpactFullscreenActivity,external,0,14,1
+startActivity,com/applifier/impact/android/webapp/ApplifierImpactWebBridge,android.intent.action.VIEW,external,21,167,18
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,21,202,27
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,45,229,32
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,45,229,32
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,51,279,39
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,51,279,39
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,51,279,39
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,51,279,39
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,65,281,43
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,68,286,45
+startActivity,com/retrodreamer/IceCreamJump/android/GameShared,android.intent.action.VIEW,external,84,317,57
+startActivity,com/retrodreamer/IceCreamJump/android/GameShared,android.intent.action.VIEW,external,84,317,57

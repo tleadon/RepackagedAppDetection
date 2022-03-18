@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,org/renpy/android/Action,android.intent.action.SEND,external,0,0,0
+startService,org/renpy/android/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,0,24,0
+startService,org/renpy/android/billing/BillingReceiver,com.example.subscriptions.GET_PURCHASE_INFORMATION,external,0,24,0
+startService,org/renpy/android/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,0,24,0
+bindService,org/renpy/android/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,0,24,0
+bindService,org/renpy/android/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,0,24,0
+startActivity,org/renpy/android/ProjectChooser,org.renpy.LAUNCH,external,28,94,1
+startService,org/renpy/android/PythonActivity,org/renpy/android/PythonService,external,28,112,1
+startActivity,org/renpy/android/SDLSurfaceView,android.intent.action.VIEW,external,28,197,8

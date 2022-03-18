@@ -1,0 +1,45 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+sendBroadcast,com/artofbytes/gpg/android/ConnectionResolver,android.intent.action.SEND,external,0,0,0
+sendBroadcast,com/artofbytes/gpg/android/ConnectionResolver,android.intent.action.SEND,external,0,0,0
+startActivity,com/artofbytes/gpg/android/GamesScope,null,external,0,0,0
+startActivity,com/artofbytes/gpg/android/GamesScope,null,external,0,0,0
+startActivity,com/artofbytes/gpg/android/GamesScope,null,external,0,0,0
+startActivity,com/artofbytes/gpg/android/ProxyActivity,android.intent.action.SEND,external,0,1,0
+sendBroadcast,com/artofbytes/gpg/android/ProxyActivity,GpgProxyActivityResult,external,0,1,0
+startActivity,com/artofbytes/gpg/android/ProxyActivity,GpgProxyActivityRequestCode,external,0,1,0
+startActivityForResult,com/artofbytes/gpg/android/ProxyActivity,GpgProxyActivityRequestCode,external,0,1,0
+startActivity,com/artofbytes/gpg/android/ProxyActivity,GpgProxyActivityRequestCode,external,0,1,0
+startActivity,com/artofbytes/gpg/android/Scope,null,external,0,1,0
+startActivityForResult,com/artofbytes/gpg/android/Scope,null,external,0,1,0
+startActivity,com/artofbytes/gpg/android/Scope,com/artofbytes/gpg/android/ConnectionResolver,external,0,1,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,1,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,1,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,33,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,42,8
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,31,56,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,31,56,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,31,56,20
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,41,68,20
+startActivity,com/google/android/gms/dynamic/a$5,null,external,41,70,23
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,41,72,23
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,41,72,23
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,41,72,23
+startActivity,com/google/android/gms/internal/i,null,external,73,80,26
+startActivityForResult,com/google/android/gms/internal/i,null,external,73,80,26
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,73,81,26
+startService,com/google/android/gms/internal/l,com.google.android.gms,external,73,81,26
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,73,81,26
+startService,com/google/android/gms/internal/l,com.google.android.gms,external,73,81,26
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,73,81,26
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,100,90,60
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,100,90,60
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,115,90,61
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,115,90,61
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,115,90,61
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,115,90,61
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,115,90,61
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,115,90,61
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,115,90,61
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,115,90,61
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,161,130,86

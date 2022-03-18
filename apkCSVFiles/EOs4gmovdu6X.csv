@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startActivity,com/balloonisland/hfxw/OpeningActivity$1,com/balloonisland/hfxw/StarGems,external,0,3,0
+startActivity,com/balloonisland/hfxw/StarGems$1$1,android.intent.action.VIEW,external,0,28,1
+startActivity,com/balloonisland/hfxw/StarGems$1$1,android.intent.action.VIEW,external,0,28,1
+startActivity,com/balloonisland/hfxw/StarGems$1,android.intent.action.VIEW,external,0,28,2
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection$1,null,external,19,63,2
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection,null,external,19,63,2
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,19,63,2
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,19,63,2
+bindService,com/facebook/android/Facebook,com.facebook.katana,external,19,63,2
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,19,64,3
+startActivity,com/mobfox/sdk/MobFoxView,com/mobfox/sdk/InAppWebView,external,24,119,9
+startActivity,com/mobfox/sdk/MobFoxView,android.intent.action.VIEW,external,24,119,9
+startActivity,com/mobfox/video/sdk/MobFoxAdManager,com/mobfox/video/sdk/MobFoxRichMediaActivity,external,80,224,12
+startActivityForResult,com/mobfox/video/sdk/MobFoxAdManager,com/mobfox/video/sdk/MobFoxRichMediaActivity,external,80,224,12
+startActivity,com/mobfox/video/sdk/MobFoxRichMediaActivity$6,com/mobfox/video/sdk/MobFoxRichMediaActivity,external,80,224,31
+startActivity,com/mobfox/video/sdk/MobFoxRichMediaActivity,com/mobfox/video/sdk/MobFoxRichMediaActivity,external,80,224,31
+startActivity,com/mobfox/video/sdk/MobFoxRichMediaActivity,com/mobfox/video/sdk/MobFoxRichMediaActivity,external,80,224,35
+sendBroadcast,com/mobfox/video/sdk/MobFoxVideoView,com.android.music.musicservicecommand,external,80,224,40
+startActivity,com/mobfox/video/sdk/MobFoxWebFrame,android.intent.action.VIEW,external,80,224,41
+startActivity,com/mobfox/video/sdk/MobFoxWebViewClient,android.intent.action.VIEW,external,80,224,44
+startActivity,com/mobfox/video/sdk/MobFoxWebViewClient,android.intent.action.VIEW,external,80,224,44
+startActivity,com/mobfox/video/sdk/MobFoxWebViewClient,com/mobfox/video/sdk/MobFoxRichMediaActivity,external,80,224,44
+startActivity,com/mobfox/video/sdk/NavIcon,android.intent.action.VIEW,external,80,235,45
+startActivity,com/mobfox/video/sdk/NavIcon,android.intent.action.VIEW,external,80,235,45
+startActivity,com/mobfox/video/sdk/NavIcon,android.intent.action.VIEW,external,80,235,45

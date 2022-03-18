@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.CHANGE_CONFIGURATION]-[android.permission.WAKE_LOCK]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,com/mapower/dialog/ConnectionAlertDialog$1,android.settings.WIRELESS_SETTINGS,external,2,64,19
+startService,com/mapower/receiver/ConnectivityReceiver,com.mapower.service.WifiDasService.DO_CHECK_CONNECTION,external,2,148,47
+startActivity,com/mapower/wifidas/pad/Main$6,android.settings.WIRELESS_SETTINGS,external,8,456,52
+startActivity,com/mapower/wifidas/pad/Main,android.intent.action.MAIN,external,8,473,53
+startActivity,com/mapower/wifidas/pad/PadList,android.intent.action.VIEW,external,8,528,68
+startActivity,com/mapower/wifidas/pad/QueueList,android.intent.action.VIEW,external,8,553,85
+startActivity,com/mapower/wifidas/pad/StartPage$1,com/mapower/wifidas/pad/Main,external,8,561,110
+startActivity,com/mapower/wifidas/pad/WiFiList$AsyncTaskDownload,android.intent.action.VIEW,external,8,900,116
+startActivity,com/mapower/wifidas/pad/WiFiList,android.intent.action.VIEW,external,8,900,116

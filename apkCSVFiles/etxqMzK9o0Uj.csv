@@ -1,0 +1,43 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_TASKS]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/prime31/EtceteraPlugin$10,com/prime31/WebViewActivity,external,31,55,20
+startActivity,com/prime31/EtceteraPlugin$11,android.intent.action.SEND,external,31,60,20
+startActivity,com/prime31/EtceteraPlugin$12,android.intent.action.VIEW,external,31,60,20
+startActivity,com/prime31/EtceteraPlugin$13,com/prime31/EtceteraProxyActivity,external,31,60,20
+startActivity,com/prime31/EtceteraPlugin$14,com/prime31/EtceteraProxyActivity,external,31,62,20
+startActivity,com/prime31/EtceteraPlugin$15,com/prime31/EtceteraProxyActivity,external,31,62,20
+startActivity,com/prime31/EtceteraPlugin$2,com/prime31/P31VideoPlayerActivity,external,33,130,20
+startActivity,com/prime31/EtceteraPlugin$25$1,android.intent.action.VIEW,external,33,130,21
+startActivity,com/prime31/EtceteraPlugin$25$1,android.intent.action.VIEW,external,33,130,21
+startActivity,com/prime31/EtceteraPlugin$9,com/prime31/WebViewActivity,external,33,130,31
+startActivity,com/prime31/EtceteraProxyActivity,image/*,internal,47,262,31
+startActivityForResult,com/prime31/EtceteraProxyActivity,image/*,internal,47,262,31
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,47,266,31
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,47,266,31
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.VIDEO_CAPTURE,internal,47,267,31
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.VIDEO_CAPTURE,internal,47,267,31
+startActivity,com/prime31/FUActivity$1,android.media.action.IMAGE_CAPTURE,external,47,267,32
+startActivityForResult,com/prime31/FUActivity$1,android.media.action.IMAGE_CAPTURE,external,47,267,32
+startActivity,com/prime31/FUActivity$1,android.media.action.IMAGE_CAPTURE,external,47,267,32
+startActivityForResult,com/prime31/FUActivity$1,android.media.action.IMAGE_CAPTURE,external,47,267,32
+startActivity,com/prime31/FUActivity$1,android.intent.action.PICK,external,47,267,32
+startActivityForResult,com/prime31/FUActivity$1,android.intent.action.PICK,external,47,267,32
+startActivity,com/prime31/PlayGameServicesPlugin$12,null,external,49,278,35
+startActivityForResult,com/prime31/PlayGameServicesPlugin$12,null,external,49,278,35
+startActivity,com/prime31/PlayGameServicesPlugin$16,null,external,49,278,35
+startActivityForResult,com/prime31/PlayGameServicesPlugin$16,null,external,49,278,35
+startActivity,com/prime31/PlayGameServicesPlugin$17,null,external,49,278,35
+startActivityForResult,com/prime31/PlayGameServicesPlugin$17,null,external,49,278,35
+startActivity,com/prime31/PlayGameServicesPlugin$9,null,external,49,292,35
+startActivityForResult,com/prime31/PlayGameServicesPlugin$9,null,external,49,292,35
+startActivity,com/prime31/RealtimeMultiplayer$1,null,external,49,292,35
+startActivityForResult,com/prime31/RealtimeMultiplayer$1,null,external,49,292,35
+startActivity,com/prime31/RealtimeMultiplayer$3,null,external,49,292,35
+startActivityForResult,com/prime31/RealtimeMultiplayer$3,null,external,49,292,35
+startActivity,com/prime31/RealtimeMultiplayer$5,null,external,49,292,35
+startActivityForResult,com/prime31/RealtimeMultiplayer$5,null,external,49,292,35
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,95,334,61

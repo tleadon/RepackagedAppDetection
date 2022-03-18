@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_CONTACTS]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.VIBRATE]-[android.permission.VIBRATE]-,0,0
+startActivity,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivityForResult,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,2,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,13,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,13,5
+startActivity,com/admob/android/ads/q,null,external,33,13,14
+startActivity,com/bunnyGames/SharkShooterRevised/Game$3$2,com/scoreloop/client/android/ui/EntryScreenActivity,external,33,93,34
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,33,93,39
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,33,93,39
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,45,125,41
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,49,134,47
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,90,249,66
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,90,249,73
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,90,249,73
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,90,249,87
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,android.intent.action.GET_CONTENT,internal,90,250,104
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,android.intent.action.GET_CONTENT,internal,90,250,104
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,90,250,104
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,90,250,104
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,92,253,119
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,92,253,137
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,114,563,167
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,114,563,168

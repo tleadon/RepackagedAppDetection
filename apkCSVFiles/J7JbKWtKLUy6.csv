@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+bindService,com/amazon/ags/client/KindleFireIPCProxy,null,external,0,1,0
+bindService,com/amazon/ags/client/KindleFireIPCProxy,null,external,0,1,0
+startActivity,com/amazon/ags/html5/javascript/NativeKindleFireStateCallHandler,com.amazon.ags.app.AMAZON_GAMES_SETTINGS,external,29,562,3
+startActivity,com/amazon/ags/html5/overlay/OverlayManager,com/amazon/ags/html5/overlay/GameCircleUserInterface,external,29,562,3
+startActivity,com/amazon/ags/html5/util/BrowserUtil,android.intent.action.VIEW,external,29,562,6
+startActivity,com/amazon/ags/html5/util/EmailUtil,android.intent.action.SEND,external,29,562,6
+startActivity,com/amazon/identity/auth/device/authorization/AuthorizationHelper,android.intent.action.VIEW,external,210,595,6
+startActivity,com/amazon/identity/auth/device/authorization/MAPAuthzDialog$MAPAuthzWebViewClient,android.intent.action.VIEW,external,210,595,6
+bindService,com/amazon/identity/auth/device/authorization/ThirdPartyServiceHelper,null,external,210,595,12
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,372,1115,68
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,372,1115,68
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,372,1115,68
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,375,1115,68
+startActivity,com/gamesalad/common/GSPlayerActivity$1,com/gamesalad/common/DisplayErrorActivity,external,381,1222,70
+startActivity,com/gamesalad/common/GSPlayerActivity,android.intent.action.VIEW,external,387,1224,71
+startActivity,com/gamesalad/common/GSPlayerActivity,com/gamesalad/common/plugins/KeyboardInputActivity,external,387,1230,71
+startActivityForResult,com/gamesalad/common/GSPlayerActivity,com/gamesalad/common/plugins/KeyboardInputActivity,external,387,1230,71
+startActivity,com/tencent/webnet/al,android.intent.action.VIEW,external,607,1342,84
+startActivity,com/tencent/webnet/JavaScript,null,external,693,1513,90
+startActivity,com/tencent/webnet/WebNetInterface,com/tencent/webnet/WebNetMain,external,698,1547,92

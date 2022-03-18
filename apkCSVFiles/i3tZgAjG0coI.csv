@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+startActivity,com/paster/adapter/DetailAdapter$1,path,external,0,0,2
+startActivity,com/paster/learnen/LearanEnActivity,com/paster/learnen/StartupActivity,external,2,31,2
+startActivity,com/paster/learnen/MainActivity$2,com/paster/learnen/DetailActivity,external,2,31,3
+startActivity,com/paster/learnen/OffLineMainActivity$2,com/paster/learnen/OfflineDetailActivity,external,2,31,6
+startActivity,com/paster/learnen/StartupActivity$1,android.settings.WIRELESS_SETTINGS,external,2,31,10
+startActivity,com/paster/learnen/StartupActivity$2,com/paster/learnen/OffLineMainActivity,external,2,31,12
+startActivity,com/paster/learnen/StartupActivity,com/paster/learnen/MainActivity,internal,2,31,13
+bindService,com/umeng/common/net/a$b,null,external,47,192,20
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,47,192,20
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,71,195,20
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,71,274,20
+startActivity,com/umeng/common/util/g,null,external,85,390,20
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,85,390,20

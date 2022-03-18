@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/directtap/DirectTapAd,android.intent.action.VIEW,external,0,40,0
+startActivity,com/directtap/p,android.intent.action.VIEW,external,7,58,2
+startActivity,com/directtap/p,android.intent.action.VIEW,external,7,58,2
+startActivity,com/metaps/f,android.intent.action.VIEW,external,19,74,6
+startActivity,com/metaps/f,android.intent.action.VIEW,external,19,74,6
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,32,128,32
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,32,128,32
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,36,210,35
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,36,210,35
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,36,210,35
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,86,265,60
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAdListProvider,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,86,269,65
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,92,269,69
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,92,269,69
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,92,269,69
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,92,269,69
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,92,269,69
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,android.intent.action.VIEW,external,92,269,69
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatPopupAdLoader$3,jp/basicinc/gamefeat/android/sdk/view/GameFeatPopupActivity,external,92,269,69
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatPopupAdLoader$4,jp/basicinc/gamefeat/android/sdk/view/GameFeatPopupActivity,external,92,270,69
+startActivity,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity$2,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,114,347,71
+startActivity,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity$2,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,114,347,73
+startActivity,me/kiip/internal/l/a$a$2,android.intent.action.SEND,external,141,1064,96
+startActivity,me/kiip/internal/l/a$a$2,android.intent.action.VIEW,external,141,1064,96
+startActivity,me/kiip/internal/l/e$1,android.intent.action.VIEW,external,141,1066,101
+startActivity,me/kiip/internal/l/e$1,android.intent.action.VIEW,external,141,1066,101
+startActivity,net/nend/android/NendHelper,android.intent.action.VIEW,external,167,1078,120

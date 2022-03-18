@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CAMERA]-,0,0
+startActivity,com/addispatch/socialsharing_plugin/SocialSharing_Activity,android.intent.action.SEND,external,0,0,0
+startActivity,com/addispatch/socialsharing_plugin/SocialSharing_Activity,android.intent.action.SEND,external,0,5,0
+startActivity,com/flurry/android/FlurryAds,adSpaceName,external,101,70,4
+startActivity,com/flurry/android/FlurryFullscreenTakeoverActivity,null,external,135,138,5
+startActivity,com/prime31/EtceteraPlugin$10,com/prime31/WebViewActivity,external,139,840,21
+startActivity,com/prime31/EtceteraPlugin$11,android.intent.action.SEND,external,139,845,21
+startActivity,com/prime31/EtceteraPlugin$12,android.intent.action.VIEW,external,139,845,21
+startActivity,com/prime31/EtceteraPlugin$13,com/prime31/EtceteraProxyActivity,external,139,845,21
+startActivity,com/prime31/EtceteraPlugin$14,com/prime31/EtceteraProxyActivity,external,139,847,21
+startActivity,com/prime31/EtceteraPlugin$15,com/prime31/EtceteraProxyActivity,external,139,847,21
+startActivity,com/prime31/EtceteraPlugin$2,com/prime31/P31VideoPlayerActivity,external,139,847,21
+startActivity,com/prime31/EtceteraPlugin$23$1,android.intent.action.VIEW,external,139,847,22
+startActivity,com/prime31/EtceteraPlugin$23$1,android.intent.action.VIEW,external,139,847,22
+startActivity,com/prime31/EtceteraPlugin$9,com/prime31/WebViewActivity,external,139,847,32
+startActivity,com/prime31/EtceteraProxyActivity,image/*,internal,151,959,32
+startActivityForResult,com/prime31/EtceteraProxyActivity,image/*,internal,151,959,32
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,151,963,32
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,151,963,32
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.VIDEO_CAPTURE,internal,151,964,32
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.VIDEO_CAPTURE,internal,151,964,32
+startActivity,com/qualcomm/QCARUnityPlayer/QCARPlayerProxyActivity,orientation,external,155,1005,42
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,161,1097,76

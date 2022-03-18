@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.RESTART_PACKAGES]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.BLUETOOTH_ADMIN]-[android.permission.WRITE_SECURE_SETTINGS]-[android.permission.BLUETOOTH]-[android.permission.INTERNET]-[android.permission.BATTERY_STATS]-[com.android.vending.CHECK_LICENSE]-,1,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,431,55
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,433,55
+startActivity,com/j/kernelmanager/DiskManager,android.intent.action.VIEW,external,12,697,72

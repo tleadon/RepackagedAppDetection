@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/ad_stir/ad/BaseAdView$7,android.intent.action.VIEW,external,0,0,0
+startActivity,com/ad_stir/rtb/RTBView$6,android.intent.action.VIEW,external,33,31,2
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,33,226,2
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,33,226,2
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,45,258,4
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,49,267,10
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,internal,70,336,49
+startActivity,jp/adlantis/android/AdlantisAdViewContainer,android.intent.action.VIEW,external,119,342,70
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAdListProvider,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,145,366,82
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,151,366,82
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,151,366,82
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,151,366,82
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatOverlayActivity,external,151,366,82
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,android.intent.action.VIEW,external,151,366,82
+startActivity,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity$2,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,173,443,84
+startActivity,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity$2,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,173,443,86
+startActivity,jp/basicinc/gamefeat/ranking/android/sdk/controller/GFRankingController,jp/basicinc/gamefeat/ranking/android/sdk/activity/GFRankingActivity,external,179,470,94
+startActivity,jp/co/imobile/android/aq,android.intent.action.VIEW,external,189,521,96
+startActivity,jp/live_aid/aid/AdController,null,external,211,574,105
+startActivity,net/nend/android/NendHelper,android.intent.action.VIEW,external,244,643,129

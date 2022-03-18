@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,1,1
+startActivity,com/freedomrecyle/carunblock/aa,com/freedomrecyle/carunblock/CoverActivity,external,0,0,2
+startActivity,com/freedomrecyle/carunblock/Crazy2Activity,com/freedomrecyle/carunblock/NewGameActivity,external,19,0,8
+startActivity,com/freedomrecyle/carunblock/Crazy2Activity,com/freedomrecyle/carunblock/SelectCrazyActivity,external,19,0,10
+startActivity,com/freedomrecyle/carunblock/CrazyActivity,com/freedomrecyle/carunblock/NewGameActivity,external,19,0,13
+startActivity,com/freedomrecyle/carunblock/CrazyActivity,com/freedomrecyle/carunblock/SelectCrazyActivity,external,19,0,15
+startActivity,com/freedomrecyle/carunblock/e,com/freedomrecyle/carunblock/More,external,19,0,19
+startActivity,com/freedomrecyle/carunblock/Easy2Activity,com/freedomrecyle/carunblock/NewGameActivity,external,19,0,20
+startActivity,com/freedomrecyle/carunblock/Easy2Activity,com/freedomrecyle/carunblock/SelectEasyActivity,external,19,0,22
+startActivity,com/freedomrecyle/carunblock/EasyActivity,com/freedomrecyle/carunblock/NewGameActivity,external,19,0,25
+startActivity,com/freedomrecyle/carunblock/EasyActivity,com/freedomrecyle/carunblock/SelectEasyActivity,external,19,0,27
+startActivity,com/freedomrecyle/carunblock/f,android.intent.action.VIEW,external,19,0,30
+startActivity,com/freedomrecyle/carunblock/Hard2Activity,com/freedomrecyle/carunblock/NewGameActivity,external,19,0,33
+startActivity,com/freedomrecyle/carunblock/Hard2Activity,com/freedomrecyle/carunblock/SelectHardActivity,external,19,0,35
+startActivity,com/freedomrecyle/carunblock/HardActivity,com/freedomrecyle/carunblock/NewGameActivity,external,19,0,38
+startActivity,com/freedomrecyle/carunblock/HardActivity,com/freedomrecyle/carunblock/SelectHardActivity,external,19,0,40
+startActivity,com/freedomrecyle/carunblock/Normal2Activity,com/freedomrecyle/carunblock/NewGameActivity,external,19,0,53
+startActivity,com/freedomrecyle/carunblock/Normal2Activity,com/freedomrecyle/carunblock/SelectNormalActivity,external,19,0,55
+startActivity,com/freedomrecyle/carunblock/NormalActivity,com/freedomrecyle/carunblock/NewGameActivity,external,19,0,58
+startActivity,com/freedomrecyle/carunblock/NormalActivity,com/freedomrecyle/carunblock/SelectNormalActivity,external,19,0,60
+startActivity,com/freedomrecyle/carunblock/SelectActivity,com/freedomrecyle/carunblock/CoverActivity,external,19,0,69
+startActivity,com/freedomrecyle/carunblock/SelectCrazyActivity,com/freedomrecyle/carunblock/SelectActivity,external,19,0,73
+startActivity,com/freedomrecyle/carunblock/SelectEasyActivity,com/freedomrecyle/carunblock/SelectActivity,external,19,0,77
+startActivity,com/freedomrecyle/carunblock/SelectHardActivity,com/freedomrecyle/carunblock/SelectActivity,external,19,0,81
+startActivity,com/freedomrecyle/carunblock/SelectNormalActivity,com/freedomrecyle/carunblock/SelectActivity,external,19,0,85
+startActivity,com/freedomrecyle/carunblock/x,com/freedomrecyle/carunblock/SelectActivity,external,19,0,95
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,19,0,97
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,19,0,98
+startActivity,com/madhouse/android/ads/$,null,external,31,0,100

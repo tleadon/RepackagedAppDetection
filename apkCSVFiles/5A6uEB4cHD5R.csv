@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.KILL_BACKGROUND_PROCESSES]-[android.permission.ACCESS_SUPERUSER]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.CHECK_LICENSE]-,1,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/smartprojects/RAMOptimization/AboutActivity$1,android.intent.action.SEND,external,0,14,1
+startService,com/smartprojects/RAMOptimization/BootReceiver,com/smartprojects/RAMOptimization/CleanDropCachesService,external,0,33,2
+startActivity,com/smartprojects/RAMOptimization/MainActivity$1,android.intent.action.VIEW,external,0,46,3
+startService,com/smartprojects/RAMOptimization/MainActivity$10$15,com/smartprojects/RAMOptimization/CleanDropCachesService,external,0,46,17
+startActivity,com/smartprojects/RAMOptimization/MainActivity$13,com/smartprojects/RAMOptimization/MemoryInfoActivity,external,0,46,47
+startActivity,com/smartprojects/RAMOptimization/MainActivity$17,android.intent.action.VIEW,external,0,52,66
+startActivity,com/smartprojects/RAMOptimization/MainActivity$19,android.intent.action.VIEW,external,0,52,68
+startActivity,com/smartprojects/RAMOptimization/MainActivity$20,android.intent.action.VIEW,external,0,52,70
+startActivity,com/smartprojects/RAMOptimization/MainActivity$22,android.intent.action.VIEW,external,0,52,72
+startActivity,com/smartprojects/RAMOptimization/MainActivity$25,android.intent.action.VIEW,external,0,52,75
+startService,com/smartprojects/RAMOptimization/MainActivity,com/smartprojects/RAMOptimization/CleanDropCachesService,external,0,71,108
+startService,com/smartprojects/RAMOptimization/MainActivity,com/smartprojects/RAMOptimization/CleanDropCachesService,external,9,114,108
+startService,com/smartprojects/RAMOptimization/MainActivity,com/smartprojects/RAMOptimization/CleanDropCachesService,external,9,114,108
+startService,com/smartprojects/RAMOptimization/MainActivity,com/smartprojects/RAMOptimization/CleanDropCachesService,external,9,114,108
+startService,com/smartprojects/RAMOptimization/MainActivity,com/smartprojects/RAMOptimization/CleanDropCachesService,external,9,114,108
+startActivity,com/smartprojects/RAMOptimization/MainActivity,com/smartprojects/RAMOptimization/AboutActivity,external,9,114,110
+startService,com/smartprojects/RAMOptimization/WidgetMainProvider,com/smartprojects/RAMOptimization/WidgetService,external,25,162,112
+startService,com/smartprojects/RAMOptimization/WidgetMainProvider,com/smartprojects/RAMOptimization/WidgetService,external,25,162,112
+startActivity,com/stericson/RootTools/internal/RootToolsInternalMethods,android.intent.action.VIEW,external,34,594,112
+startActivityForResult,com/stericson/RootTools/internal/RootToolsInternalMethods,android.intent.action.VIEW,external,34,594,112
+startActivity,com/stericson/RootTools/internal/RootToolsInternalMethods,android.intent.action.VIEW,external,34,594,112
+startActivity,com/stericson/RootTools/internal/RootToolsInternalMethods,android.intent.action.VIEW,external,34,594,112
+startActivityForResult,com/stericson/RootTools/internal/RootToolsInternalMethods,android.intent.action.VIEW,external,34,594,112
+startActivity,com/stericson/RootTools/internal/RootToolsInternalMethods,android.intent.action.VIEW,external,34,594,112

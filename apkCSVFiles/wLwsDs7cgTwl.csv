@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-,1,0
+bindService,com/unity3d/player/a/e,null,external,0,10,0
+startActivity,com/unity3d/player/UnityPlayer$9,null,external,4,24,13
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,43,51,22

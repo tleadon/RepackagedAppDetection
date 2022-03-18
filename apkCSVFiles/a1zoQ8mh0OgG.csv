@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-,1,0
+startActivity,a/a/g,android.intent.action.VIEW,external,2,13,2
+startService,a/a/s,com/appbrain/AppBrainService,external,2,13,4
+startService,a/a/s,com/appbrain/AppBrainService,external,2,13,4
+startActivity,com/appbrain/AppBrainActivity,com/appbrain/AppBrainActivity,internal,24,63,8
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,24,63,14
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,24,63,15
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,24,63,15
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,24,63,15
+startActivity,com/heuer/helidroid/Acceuil,com/heuer/helidroid/Opengl,external,46,69,16
+startActivityForResult,com/heuer/helidroid/Acceuil,com/heuer/helidroid/Opengl,external,46,69,16
+startActivity,com/heuer/helidroid/Acceuil,android.intent.action.SEND,external,46,69,17
+startActivity,com/heuer/helidroid/Acceuil,com/heuer/helidroid/Apropos,external,46,69,17
+startActivity,com/heuer/helidroid/DialoquePersoQuitrate,android.intent.action.VIEW,external,46,78,27
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,56,180,42
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,56,180,42
+startActivity,com/heyzap/sdk/PreMarketDialog$1,android.intent.action.VIEW,external,56,180,47
+startActivity,com/heyzap/sdk/WebViewDialog$HeyzapJavascriptBindings,android.intent.action.VIEW,external,56,180,48
+bindService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,56,180,48
+startService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,56,180,48
+startService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,56,180,48
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,56,180,48
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,56,180,48
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,56,180,48
+bindService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,56,180,48

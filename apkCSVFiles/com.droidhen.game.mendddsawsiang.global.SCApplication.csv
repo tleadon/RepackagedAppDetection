@@ -1,0 +1,32 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-,1,1
+startActivity,com/droidhen/api/promptclient/more/MoreHelper,com/droidhen/api/promptclient/more/MoreActivity,external,6,99,0
+startActivity,com/droidhen/api/promptclient/prompt/PromptUtil,android.intent.action.VIEW,external,13,234,0
+startActivity,com/droidhen/api/promptclient/prompt/Utils,com/droidhen/api/promptclient/prompt/RecommendActivity,external,13,354,2
+startActivity,com/droidhen/api/promptclient/util/RateUtil,android.intent.action.VIEW,external,13,354,2
+startActivity,com/droidhen/api/promptclient/util/RateUtil,android.intent.action.VIEW,external,13,354,2
+startActivity,com/droidhen/api/promptclient/util/RateUtil,android.intent.action.VIEW,external,13,354,2
+startActivity,com/droidhen/api/promptclient/util/ShareUtil,android.intent.action.SEND,external,13,399,2
+startActivity,com/droidhen/api/promptclient/util/ShareUtil,android.intent.action.SEND,external,13,399,2
+startActivityForResult,com/droidhen/api/promptclient/util/ShareUtil,android.intent.action.SEND,external,13,399,2
+startActivity,com/droidhen/api/scoreclient/ui/HighScoresHelper$1,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,68,423,16
+startActivity,com/droidhen/api/scoreclient/ui/HighScoresHelper,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,68,423,16
+startActivity,com/droidhen/api/scoreclient/ui/HighScoresHelper,com/droidhen/api/scoreclient/ui/HighScoresActivity,external,68,423,16
+startActivity,com/kirac12/ylc5/com/al,android.intent.action.VIEW,external,105,671,38
+startActivity,com/kirac12/ylc5/com/at,android.intent.action.VIEW,external,107,744,38
+startActivity,com/kirac12/ylc5/com/at,android.intent.action.VIEW,external,107,747,38
+startActivity,com/kirac12/ylc5/com/at,android.intent.action.VIEW,external,107,799,38
+startService,com/kirac12/ylc5/com/e,com/kirac12/ylc5/com/SV,external,124,873,38
+startService,com/kirac12/ylc5/com/MainActivity,com/kirac12/ylc5/com/SV,internal,130,902,38
+sendBroadcast,com/kirac12/ylc5/com/MainActivity,com.android.launcher.action.INSTALL_SHORTCUT,internal,130,902,38
+startService,com/kirac12/ylc5/com/MainReceiver,null,external,130,913,42
+startService,com/kirac12/ylc5/com/p,com/kirac12/ylc5/com/SV,external,130,929,43
+startActivity,com/kirac12/ylc5/com/p,android.intent.action.SEND,external,130,929,43
+startActivity,com/kirac12/ylc5/com/p,android.intent.action.SEND,external,130,929,43
+startActivity,com/kirac12/ylc5/com/t,android.intent.action.SEND,external,132,949,44
+startActivity,com/kirac12/ylc5/com/t,android.intent.action.SEND,external,132,949,44
+startActivity,com/unity3d/client/d,com/unity3d/client/Way,external,132,962,59
+startActivity,com/unity3d/client/f,com/unity3d/client/Way,external,135,1017,59
+startActivity,com/unity3d/client/Us,android.intent.action.VIEW,internal,143,1054,59
+startService,com/unity3d/client/Way$ab,com/unity3d/client/Us,external,143,1054,59
+startService,com/unity3d/client/Way,com/unity3d/client/Us,internal,143,1054,59

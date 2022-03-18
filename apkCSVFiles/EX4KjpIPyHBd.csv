@@ -1,0 +1,35 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SET_WALLPAPER]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,cn/domob/android/a/b,null,external,2,15,0
+startActivity,cn/domob/android/ads/e,android.intent.action.PACKAGE_ADDED,external,55,85,3
+startActivity,cn/domob/android/ads/g$1,null,external,55,85,4
+startActivity,cn/domob/android/ads/g,url,external,55,85,9
+startActivity,cn/domob/android/ads/g,url,external,55,85,9
+startActivity,cn/domob/android/ads/g,url,external,55,85,9
+startActivity,cn/domob/android/ads/o$11,android.intent.action.VIEW,external,55,86,19
+startActivity,cn/domob/android/ads/o$11,android.intent.action.VIEW,external,55,86,19
+startActivity,cn/domob/android/ads/o$11,android.intent.action.VIEW,external,55,86,19
+startActivity,cn/domob/android/ads/o$5,null,external,55,86,27
+startActivity,cn/domob/android/ads/o,android.intent.action.VIEW,external,55,103,28
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,internal,59,112,29
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,internal,59,112,30
+startActivity,com/guohead/sdk/adapters/CustomAdapter$3,null,external,74,112,31
+startActivity,com/guohead/sdk/adapters/CustomAdapter$4,null,external,74,112,32
+startActivity,com/guohead/sdk/GuoheAdLayout,android.intent.action.VIEW,external,85,170,38
+startActivity,com/lmmob/ad/sdk/d,com/lmmob/ad/sdk/LmMobAdWebView,external,123,203,41
+startActivity,com/lmmob/ad/sdk/j,com/lmmob/ad/sdk/LmMobFullImageActivity,external,123,203,41
+startActivity,com/lmmob/ad/sdk/k,android.intent.action.VIEW,external,123,207,41
+startActivity,com/madhouse/android/ads/$,null,external,132,237,51
+startActivity,com/mt/airad/IIIIlllIlllIIIII,android.intent.action.VIEW,external,150,268,97
+startActivity,com/mt/airad/IlllIllIlllIIIII,android.intent.action.VIEW,external,223,300,98
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,com/mt/airad/MultiAD,external,223,300,99
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,223,300,99
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,223,300,99
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,223,300,99
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,223,300,99
+startActivity,com/mt/airad/lIIllIIlIlIIIlll,android.intent.action.VIEW,external,223,300,99
+startActivity,com/til2012/Main$2,com/til2012/View_Img,external,223,338,106
+startActivityForResult,com/til2012/Main$2,com/til2012/View_Img,external,223,338,106
+startActivity,com/til2012/Main,android.intent.action.VIEW,external,223,356,112
+startActivity,com/til2012/PubActivity$1,android.intent.action.VIEW,external,223,374,113
+startActivity,com/til2012/PubActivity$1,android.intent.action.VIEW,external,223,374,113

@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[com.android.vending.BILLING]-,0,1
+startActivity,com/chartboost/sdk/CBWebViewClient,android.intent.action.VIEW,external,22,42,5
+startActivity,com/chartboost/sdk/ChartBoost,com/chartboost/sdk/CBDialogActivity,external,22,42,5
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,22,42,5
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.GET_PURCHASE_INFORMATION,external,22,42,5
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,22,42,5
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,22,42,5
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,22,42,5
+bindService,com/prime31/IABPlugin$1,com/prime31/billing/BillingService,external,26,48,5
+bindService,com/prime31/IABPlugin,null,external,26,48,5
+bindService,com/unity3d/player/a/e,null,external,26,58,5
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,71,66,7
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,77,84,21

@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,7,6
+startActivity,com/graphics/crystalclassics/ImageListActivity,com/graphics/crystalclassics/ImageTableActivity,external,32,21,20
+startActivity,com/graphics/crystalclassics/ImageTableActivity,com/graphics/crystalclassics/ImageViewActivity,external,32,21,21
+startActivity,com/mobfox/sdk/MobFoxView,com/mobfox/sdk/InAppWebView,external,33,21,28
+startActivity,com/mobfox/sdk/MobFoxView,android.intent.action.VIEW,external,33,21,28

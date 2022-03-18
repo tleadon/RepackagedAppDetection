@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/djinnworks/GameEngine/GameEngineMarketPlace,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,0,2
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,3
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,3
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,3
+startActivity,com/openfeint/internal/BaseActionInvoker,action,external,61,6,6
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,170,72,9
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,170,72,9
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,170,98,9
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,170,98,9
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,184,359,10
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,184,359,10
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,184,359,11
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,184,359,11
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,184,359,11
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,184,359,11

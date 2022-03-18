@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,27,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,27,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,30,77,13
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,30,77,13
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,42,109,15
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,46,118,21
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,100,260,45
+startActivity,com/heyzap/sdk/ads/AdUnit,android.intent.action.VIEW,external,107,266,46
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,107,266,64
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,153,306,91
+startActivity,com/vwrvfjdkvkaljd/ad,android.intent.action.VIEW,external,155,310,94
+startActivity,com/vwrvfjdkvkaljd/ad,android.intent.action.VIEW,external,155,310,94
+startActivity,com/vwrvfjdkvkaljd/ad,android.intent.action.VIEW,external,155,310,94
+startActivity,com/vwrvfjdkvkaljd/AdUtilityController,android.intent.action.CALL,external,202,445,94
+startActivity,com/vwrvfjdkvkaljd/AdUtilityController,android.intent.action.SEND,external,202,445,94
+startActivity,com/vwrvfjdkvkaljd/AdUtilityController,android.intent.action.VIEW,external,202,445,94
+startActivity,com/vwrvfjdkvkaljd/AdView,com/vwrvfjdkvkaljd/AdBrowser,external,202,465,97
+startActivity,com/vwrvfjdkvkaljd/AdView,android.intent.action.VIEW,external,202,465,97
+startActivity,com/vwrvfjdkvkaljd/AdView,com/vwrvfjdkvkaljd/AdActionHandler,external,202,465,97
+startActivity,com/vwrvfjdkvkaljd/AdView,com/vwrvfjdkvkaljd/AdActionHandler,external,202,465,97
+startActivity,com/vwrvfjdkvkaljd/Q,android.intent.action.DIAL,external,220,470,108
+startActivity,com/vwrvfjdkvkaljd/Q,android.intent.action.VIEW,external,220,470,108
+startActivity,com/vwrvfjdkvkaljd/Q,android.intent.action.VIEW,external,220,470,108
+startActivity,com/vwrvfjdkvkaljd/Q,android.intent.action.VIEW,external,220,470,108
+startActivity,com/vwrvfjdkvkaljd/z,android.intent.action.VIEW,external,220,501,115

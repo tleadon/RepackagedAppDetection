@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/abarakat/webview/IntentWebViewClient,android.intent.action.VIEW,external,23,45,0
+startActivity,com/abarakat/webview/IntentWebViewClient,android.intent.action.SEND,external,23,45,0
+startActivity,com/abarakat/webview/IntentWebViewClient,android.intent.action.VIEW,external,23,45,0
+startActivity,com/abarakat/webview/IntentWebViewClient,android.intent.action.VIEW,external,23,45,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,23,45,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,23,45,0
+startActivity,com/appbrain/a/a,com/appbrain/AppBrainActivity,external,23,45,0
+startActivity,com/appbrain/a/ai,android.intent.action.VIEW,external,23,46,0
+startActivity,com/appbrain/a/ak,null,external,23,46,2
+startActivity,com/appbrain/a/ak,android.intent.action.VIEW,external,28,46,2
+startActivity,com/appbrain/a/ak,android.intent.action.VIEW,external,28,46,2
+startService,com/appbrain/a/aw,com/appbrain/AppBrainService,external,28,46,2
+startService,com/appbrain/a/aw,com/appbrain/AppBrainService,external,28,46,2
+startService,com/appbrain/a/q,com/appbrain/AppBrainService,external,37,48,2
+startActivity,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,48,140,11
+startService,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,48,140,11
+startService,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,48,140,11
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/MobileCoreReport,external,48,140,11
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/InstallationTracker,external,48,140,11
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/InstallationTracker,external,48,143,11
+startActivity,com/ironsource/mobilcore/aN,android.intent.action.VIEW,external,60,189,14
+startActivity,com/ironsource/mobilcore/ay,null,external,66,239,27
+sendBroadcast,com/ironsource/mobilcore/G,com.ironsource.mcslidermenu.MCWidgetCallbackAction,external,66,241,29
+bindService,com/ironsource/mobilcore/h,null,external,66,241,31
+bindService,com/ironsource/mobilcore/h,null,external,66,241,31
+bindService,com/ironsource/mobilcore/h,com.google.android.gms.ads.identifier.service.START,external,66,241,31
+startService,com/ironsource/mobilcore/I,null,external,66,241,31
+startActivity,com/ironsource/mobilcore/J,android.intent.action.SENDTO,external,66,283,31
+startService,com/ironsource/mobilcore/MobileCore$1,com/ironsource/mobilcore/MobileCoreReport,external,66,290,37
+startService,com/ironsource/mobilcore/r,null,external,66,317,37
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,66,329,37
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,66,350,37
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,66,360,37
+startActivity,com/ironsource/mobilcore/T,android.intent.action.VIEW,external,66,360,37
+startActivity,com/ironsource/mobilcore/Y,null,external,70,407,39

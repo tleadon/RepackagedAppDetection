@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,1
+bindService,com/celticspear/matches/billing/util/IabHelper,null,external,0,0,0
+bindService,com/celticspear/matches/billing/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,0,4,0
+startActivity,com/celticspear/matches/game/QuitDialog,android.intent.action.VIEW,external,0,16,6
+startActivity,com/celticspear/matches/screen/TitleScreen$3,android.intent.action.VIEW,external,0,27,76
+startActivity,com/celticspear/matches/screen/TitleScreen$4,android.intent.action.VIEW,external,0,27,76
+startActivity,com/celticspear/usefulthings/CSpearSocial$1,android.intent.action.VIEW,external,0,37,96
+startActivity,com/celticspear/usefulthings/CSpearSocial$2,android.intent.action.VIEW,external,0,37,96
+startActivity,com/celticspear/usefulthings/CSpearSocial$3,android.intent.action.VIEW,external,0,37,96
+startActivity,com/celticspear/usefulthings/dialog/RateUsDialogFactory$3,android.intent.action.VIEW,external,0,37,99
+startActivity,com/directtap/p,android.intent.action.VIEW,external,7,105,103
+startActivity,com/directtap/p,android.intent.action.VIEW,external,7,105,103
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,14,112,103
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,14,112,103
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,14,112,103
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,14,112,103
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,28,114,107
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,30,119,109
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,241,293,133
+startActivity,com/heyzap/sdk/ads/AbstractActivity,android.intent.action.VIEW,external,248,297,134
+startActivity,com/heyzap/sdk/ads/IncentivizedAd$2,impression_id,external,248,308,162
+startActivity,com/heyzap/sdk/ads/InterstitialAd$2,impression_id,external,248,308,162
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,248,321,171
+startActivity,com/heyzap/sdk/ads/VideoAd$2,impression_id,external,248,341,171
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,266,518,201
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,266,518,202

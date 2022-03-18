@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.GET_TASKS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,0,13,0
+startService,com/android/util/counter/CounterReceiver,com/test/httputil/HttpUtilService,internal,0,13,0
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,64,24,2
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,64,24,2
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,217,196,2
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,217,196,2
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,217,196,2
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,244,360,27
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,244,360,28
+startActivity,org/jfedor/frozenbubble/FrozenBubble,sk.halmi.fbeditplus,internal,252,454,28
+startActivity,org/jfedor/frozenbubble/FrozenBubble,sk.halmi.fbeditplus,internal,252,454,28
+startActivity,org/jfedor/frozenbubble/FrozenBubble,android.intent.action.VIEW,internal,252,454,28

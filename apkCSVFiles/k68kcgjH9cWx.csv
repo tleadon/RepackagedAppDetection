@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/bradseay/tictactoe/Menu$1,com/bradseay/tictactoe/TicTacToe,external,0,6,1
+startActivity,com/bradseay/tictactoe/Menu,com/bradseay/tictactoe/TicTacToe,external,0,6,1
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,8,6
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,8,7

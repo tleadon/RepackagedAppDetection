@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_LOGS]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/mobclick/android/b,android.intent.action.VIEW,external,0,21,0
+startActivity,com/mobclick/android/MobclickAgent,com/mobclick/android/UmengFeedback,external,25,63,3
+startActivity,com/tencent/mobwin/core/g,android.intent.action.VIEW,external,102,94,7
+startActivity,com/tencent/mobwin/core/u,com/tencent/mobwin/MobinWINBrowserActivity,external,106,160,10
+startActivity,com/tencent/mobwin/core/u,android.intent.action.DIAL,external,108,160,10
+startActivity,com/tencent/mobwin/core/u,android.intent.action.SENDTO,external,110,160,10
+startActivity,com/tencent/mobwin/core/u,android.intent.action.VIEW,external,110,160,10
+startActivity,com/tencent/mobwin/core/u,android.intent.action.VIEW,external,110,160,10
+startActivity,com/tencent/mobwin/core/u,android.intent.action.VIEW,external,110,160,10
+startActivity,com/tencent/mobwin/core/u,com/tencent/mobwin/MobinWINBrowserActivity,external,110,160,10
+startActivity,com/tencent/mobwin/MobinWINBrowserActivity,android.intent.action.VIEW,external,110,182,17
+startActivity,com/tencent/mobwin/MobinWINBrowserActivity,android.intent.action.VIEW,external,110,182,17
+startActivity,com/tencent/mobwin/MobinWINBrowserActivity,android.intent.action.VIEW,external,110,182,17
+startActivity,com/tencent/mobwin/MobinWINBrowserActivity,android.intent.action.VIEW,external,110,182,17
+startActivity,org/easelife/ftp/ApkListActivity,android.intent.action.VIEW,external,110,698,33
+startActivityForResult,org/easelife/ftp/ApkListActivity,android.intent.action.VIEW,external,110,698,33
+startActivity,org/easelife/ftp/ApkListActivity,android.intent.action.DELETE,external,110,702,33
+startActivityForResult,org/easelife/ftp/ApkListActivity,android.intent.action.DELETE,external,110,702,33
+startActivity,org/easelife/ftp/ExplorerActivity,android.intent.action.VIEW,external,110,894,50
+startActivity,org/easelife/ftp/ExplorerActivity,android.intent.action.VIEW,external,110,926,60
+startActivity,org/easelife/ftp/HomeActivity$2,org/easelife/ftp/RecentUploadActivity,external,110,967,68
+startActivity,org/easelife/ftp/HomeActivity$3,android.intent.action.VIEW,external,110,967,68
+startActivity,org/easelife/ftp/HomeActivity,org/easelife/ftp/SettingActivity,external,110,1081,75
+startActivityForResult,org/easelife/ftp/HomeActivity,org/easelife/ftp/SettingActivity,external,110,1081,75
+startActivity,org/easelife/ftp/RecentUploadActivity,android.intent.action.VIEW,external,110,1106,82
+startActivity,org/easelife/ftp/util/FileUtil$1,android.intent.action.VIEW,external,110,1120,84

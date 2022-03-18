@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-,0,0
+startActivity,com/cmoshe/math/genius/trainer/DifficultyActivity,com/cmoshe/math/genius/trainer/Main,external,0,6,1
+startActivity,com/cmoshe/math/genius/trainer/DifficultyActivity,com/cmoshe/math/genius/trainer/GameActivity,external,0,6,1
+startActivity,com/cmoshe/math/genius/trainer/EndGameActivity$1,android.intent.action.VIEW,external,0,6,2
+startActivity,com/cmoshe/math/genius/trainer/EndGameActivity,com/cmoshe/math/genius/trainer/GameActivity,external,0,6,4
+startActivity,com/cmoshe/math/genius/trainer/EndGameActivity,com/cmoshe/math/genius/trainer/DifficultyActivity,external,0,6,4
+startActivity,com/cmoshe/math/genius/trainer/EndGameActivity,com/cmoshe/math/genius/trainer/Main,external,0,6,4
+startActivity,com/cmoshe/math/genius/trainer/GameActivity,com/cmoshe/math/genius/trainer/EndGameActivity,external,0,6,4
+startActivity,com/cmoshe/math/genius/trainer/InstructionsActivity$1,com/cmoshe/math/genius/trainer/Main,external,0,6,7
+startActivity,com/cmoshe/math/genius/trainer/SavedGamesActivity,com/cmoshe/math/genius/trainer/Main,external,0,6,12
+startActivity,com/cmoshe/math/genius/trainer/SavedGamesActivity,com/cmoshe/math/genius/trainer/GameActivity,external,0,6,12
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,6,12
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,6,13

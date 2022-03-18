@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-[android.permission.VIBRATE]-,0,0
+startActivity,android/support/v4/app/h,null,external,0,12,6
+startActivityForResult,android/support/v4/app/h,null,external,0,12,6
+startActivity,com/example/overlayimage/al,android.media.action.IMAGE_CAPTURE,external,6,238,18
+startActivityForResult,com/example/overlayimage/al,android.media.action.IMAGE_CAPTURE,external,6,238,18
+startActivity,com/example/overlayimage/an,android.intent.action.VIEW,external,6,238,20
+sendBroadcast,com/example/overlayimage/aq,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,6,263,21
+startActivity,com/example/overlayimage/ar,android.intent.action.VIEW,external,6,267,22
+startActivity,com/example/overlayimage/aw,android.intent.action.SEND,external,6,270,27
+startActivity,com/example/overlayimage/az,com/example/overlayimage/CustomTextOverlayPage,external,6,271,29
+startActivity,com/example/overlayimage/bi,com/example/overlayimage/FilterPage,external,6,272,38
+startActivity,com/example/overlayimage/f,com/example/overlayimage/SaveandShare,external,13,274,42
+startActivity,com/example/overlayimage/j,com/example/overlayimage/CustomTextOverlayPage,external,13,275,46
+startActivity,com/example/overlayimage/PhotoSelectionPage,com/example/overlayimage/ZoomPage,external,13,299,47
+startActivity,com/example/overlayimage/SaveandShare,android.intent.action.SEND,external,13,314,47
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,13,317,47
+startActivity,com/google/ads/b/ak,android.intent.action.SEND,external,15,354,51
+startActivity,com/google/ads/b/f,android.intent.action.VIEW,external,15,354,54
+startActivity,com/google/ads/b,com/google/ads/AdActivity,external,19,359,55

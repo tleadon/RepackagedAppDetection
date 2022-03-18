@@ -1,0 +1,41 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,null,external,0,50,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,53,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,94,27
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,4,94,27
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,126,29
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,135,35
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient$AnalyticsServiceConnection,null,external,35,421,47
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,35,421,47
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,35,421,47
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,35,421,47
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,35,421,47
+sendBroadcast,com/google/analytics/tracking/android/GANetworkReceiver,com.google.analytics.RADIO_POWERED,external,35,457,47
+startService,com/google/tagmanager/InstallReferrerReceiver,com/google/tagmanager/InstallReferrerService,external,129,586,48
+sendBroadcast,com/google/tagmanager/NetworkReceiver,com.google.analytics.RADIO_POWERED,external,131,591,48
+startActivity,com/google/tagmanager/PreviewActivity,null,external,186,593,48
+startActivity,com/jjm/android/quiz/activity/Categories,com/jjm/android/quiz/activity/Quiz,external,194,1004,49
+startActivity,com/jjm/android/quiz/activity/Categories,com/jjm/android/quiz/activity/About,external,194,1004,51
+startActivity,com/jjm/android/quiz/activity/Categories,com/jjm/android/quiz/activity/Settings,external,194,1004,51
+startActivity,com/jjm/android/quiz/activity/Quiz$2,com/jjm/android/quiz/activity/Quiz,external,194,1004,52

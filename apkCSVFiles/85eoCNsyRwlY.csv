@@ -1,0 +1,4 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-,0,0
+startActivity,com/admob/android/ads/Ad,android.intent.action.VIEW,external,0,8,0
+startActivity,com/dseffects/VirtualDog/VirtualDog$1,android.intent.action.VIEW,external,63,71,11

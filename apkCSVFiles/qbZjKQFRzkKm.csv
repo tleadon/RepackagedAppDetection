@@ -1,0 +1,40 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-,0,0
+startActivities,android/support/v4/app/ActivityCompat,null,external,0,0,0
+startActivities,android/support/v4/app/ActivityCompatHoneycomb,null,external,0,3,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils,android.intent.action.MAIN,external,0,48,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,48,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,56,15
+startActivity,com/actionbarsherlock/internal/view/menu/ActionMenuItem,null,external,4,72,74
+startActivity,com/actionbarsherlock/internal/view/menu/MenuItemImpl,null,external,4,72,83
+startActivity,com/actionbarsherlock/widget/ActivityChooserView$Callbacks,null,external,4,104,120
+startActivity,com/actionbarsherlock/widget/ActivityChooserView$Callbacks,null,external,4,104,121
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,4,108,145
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,4,110,146
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,4,110,158
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,4,110,158
+startActivity,com/actionbarsherlock/widget/ShareActionProvider$ShareMenuItemOnMenuItemClickListener,null,external,4,110,164
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,8,148,166
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,8,148,166
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,20,180,168
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,24,189,174
+startActivity,com/jis/rssreader/DetailActivity,com/jis/rssreader/Search,internal,39,203,189
+startActivity,com/jis/rssreader/DetailFragment$1,com/jis/rssreader/Read,external,39,203,190
+startActivity,com/jis/rssreader/DetailFragment$2,com/jis/rssreader/Read,external,39,203,191
+startActivity,com/jis/rssreader/ListActivity$1,com/jis/rssreader/DetailActivity,external,39,261,192
+startActivity,com/jis/rssreader/ListActivity,com/jis/rssreader/Search,internal,39,261,194
+startActivity,com/jis/rssreader/Read,com/jis/rssreader/Search,external,39,263,196
+startActivity,com/jis/rssreader/SplashActivity,com/jis/rssreader/ListActivity,external,39,278,199

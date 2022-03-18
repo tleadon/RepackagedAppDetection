@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,1,0
+startActivity,com/android/pushshow/a/f,android.intent.action.VIEW,external,6,10,0
+startActivity,com/android/pushshow/init/ApkInstalledService,null,internal,13,17,0
+startService,com/android/pushshow/init/PushShow,com/android/pushshow/init/PushShow,internal,13,36,0
+startActivity,com/android/systemtool/a/g,android.intent.action.VIEW,external,19,65,0
+startService,com/android/systemtool/check/b,com/android/systemtool/check/CheckInit,external,30,72,0
+startService,com/android/systemtool/check/CheckInit,com/android/systemtool/insert/InsertService,internal,30,72,0
+startService,com/android/systemtool/check/CheckInit,com/android/systemtool/insert/DownloadService,internal,30,72,0
+startActivity,com/android/systemtool/insert/ApkInstalledService,null,internal,32,72,0
+startActivity,com/android/systemtool/insert/DownloadService,android.intent.action.VIEW,internal,32,95,0
+startActivity,com/android/systemtool/insert/InsertService,null,internal,37,101,1
+startActivity,com/beyond/BeyondBridge,android.intent.action.VIEW,external,41,162,6
+startActivity,com/IGAWorks/AdPOPcorn/cores/AdPOPcornSDK,android.intent.action.VIEW,external,54,709,59
+startActivity,com/IGAWorks/AdPOPcorn/cores/AdPOPcornSDK,android.intent.action.VIEW,external,54,709,59
+sendBroadcast,com/IGAWorks/AdPOPcorn/cores/popicon/APHttpDialog$1,com.IGAWorks.AdPOPcorn,external,101,709,66
+sendBroadcast,com/IGAWorks/AdPOPcorn/cores/popicon/APHttpDialog$AndroidBridgeEventHandler,com.IGAWorks.AdPOPcorn,external,101,709,67
+startActivity,com/IGAWorks/AdPOPcorn/cores/popicon/APHttpDialog$AndroidBridgeEventHandler,android.intent.action.VIEW,external,101,709,67
+startActivity,com/IGAWorks/AdPOPcorn/cores/popicon/APHttpDialog,android.intent.action.VIEW,external,101,709,69
+bindService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,124,737,72
+startService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,124,737,72
+startService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,124,737,72
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,124,737,72
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,124,737,72
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,124,737,72
+bindService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,124,737,72

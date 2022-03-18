@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.VIBRATE]-,0,1
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,31,25,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,34,25,3
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,40,97,31

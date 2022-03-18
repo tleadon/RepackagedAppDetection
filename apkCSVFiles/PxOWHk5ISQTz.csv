@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/danielme/tipsandroid/gallery/MainActivity$1,android.intent.action.SEND,external,0,14,1
+startActivity,com/danielme/tipsandroid/gallery/MainActivity,android.intent.action.SEND,external,2,27,3
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,2,27,3
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,2,27,3
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,59,5
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,18,68,11

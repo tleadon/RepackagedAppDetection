@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,1,1
+bindService,com/unity3d/player/a/e,null,external,0,10,0
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,45,18,8
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,51,36,22

@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,0,0
+startActivity,onweb/gr/Arhaggelos/contact$1,android.intent.action.VIEW,external,4,1394,1
+sendBroadcast,onweb/gr/Arhaggelos/myPlayService,onweb/gr/Arhaggelos/finish,external,5,1396,2
+sendBroadcast,onweb/gr/Arhaggelos/myPlayService,onweb/gr/Arhaggelos/finish,external,5,1396,2
+sendBroadcast,onweb/gr/Arhaggelos/myPlayService,onweb/gr/Arhaggelos/finish,external,5,1396,2
+startActivity,onweb/gr/Arhaggelos/OnwebtemplateActivity$1,onweb/gr/Arhaggelos/Tabs,external,11,1396,2
+startService,onweb/gr/Arhaggelos/player,null,internal,12,1396,5

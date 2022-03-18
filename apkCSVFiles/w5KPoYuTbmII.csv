@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.INTERNET]-,0,0
+startActivity,com/metaio/cloud/plugin/arel/ARELWebView$ARELWebViewClient,android.intent.action.VIEW,external,0,0,0
+startService,com/metaio/cloud/plugin/arel/ARELWebView$ARELWebViewClient,android.intent.action.VIEW,external,0,0,0
+startActivity,com/metaio/cloud/plugin/data/CalendarHelper,android.intent.action.INSERT,external,0,2,2
+startActivity,com/metaio/cloud/plugin/data/CalendarHelper,android.intent.action.EDIT,external,0,2,2
+sendBroadcast,com/metaio/cloud/plugin/data/RemoteAssetsManager,.CLEAR_AREL_CACHE,external,0,51,2
+startActivity,com/metaio/cloud/plugin/MetaioCloudPlugin,android.intent.action.VIEW,external,14,97,2
+startActivityForResult,com/metaio/cloud/plugin/MetaioCloudPlugin,android.intent.action.VIEW,external,14,97,2
+startActivity,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity$5,null,external,30,211,6
+startActivityForResult,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity$5,null,external,30,211,6
+startActivity,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity$6,android.intent.action.VIEW,external,30,211,6
+startActivityForResult,com/metaio/cloud/plugin/view/MetaioCloudARViewActivity$6,android.intent.action.VIEW,external,30,211,6
+startActivity,com/metaio/sdk/ARELInterpreterAndroidJava$2,android.intent.action.VIEW,external,51,217,11
+startActivity,com/metaio/sdk/ARELInterpreterAndroidJava$ARELWebViewClient,android.intent.action.VIEW,external,51,217,11
+startService,com/metaio/sdk/ARELInterpreterAndroidJava$ARELWebViewClient,android.intent.action.VIEW,external,51,217,11
+startActivity,com/metaio/sdk/ARELInterpreterAndroidJava,android.intent.action.VIEW,external,51,225,11
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,213,384,49

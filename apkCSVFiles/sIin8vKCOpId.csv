@@ -1,0 +1,82 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.BROADCAST_STICKY]-,0,0
+startActivity,com/google/zxing/client/android/book/BrowseBookListener,android.intent.action.VIEW,external,53,2338,5
+startActivity,com/google/zxing/client/android/CaptureActivity$1,android.intent.action.VIEW,external,53,2345,8
+startActivity,com/google/zxing/client/android/CaptureActivity,com/google/zxing/client/android/HelpActivity,external,53,2347,8
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,53,2347,14
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,53,2347,14
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,53,2347,14
+startActivity,com/google/zxing/client/android/CaptureActivityHandler,android.intent.action.VIEW,external,53,2347,14
+startActivity,com/google/zxing/client/android/encode/EncodeActivity,android.intent.action.SEND,external,53,2374,15
+startActivity,com/google/zxing/client/android/HelpActivity$3,android.intent.action.VIEW,external,55,2402,19
+startActivity,com/google/zxing/client/android/HelpActivity$HelpClient,android.intent.action.VIEW,external,55,2402,19
+startActivity,com/google/zxing/client/android/history/HistoryClickListener,android.intent.action.SEND,external,63,2402,24
+startActivity,com/google/zxing/client/android/result/ResultHandler,android.intent.action.VIEW,external,105,2436,30
+startActivity,com/google/zxing/client/android/result/ResultHandler,android.intent.action.SEARCH,external,105,2436,30
+startActivity,com/google/zxing/client/android/result/supplement/SupplementalInfoRetriever$3,android.intent.action.VIEW,external,105,2442,32
+startActivity,com/google/zxing/client/android/share/ShareActivity$1,android.intent.action.PICK,external,107,2442,35
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$1,android.intent.action.PICK,external,107,2442,35
+startActivity,com/google/zxing/client/android/share/ShareActivity$2,android.intent.action.PICK,external,107,2442,36
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$2,android.intent.action.PICK,external,107,2442,36
+startActivity,com/google/zxing/client/android/share/ShareActivity$3,android.intent.action.PICK,external,107,2442,37
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$3,android.intent.action.PICK,external,107,2442,37
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.phonegap.plugins.barcodescanner.ENCODE,external,107,2442,39
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.phonegap.plugins.barcodescanner.ENCODE,external,112,2442,39
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.phonegap.plugins.barcodescanner.ENCODE,external,112,2442,39
+startActivity,com/google/zxing/client/android/wifi/Killer,null,external,112,2442,39
+startActivity,com/phonegap/plugins/barcodescanner/BarcodeScanner,com.phonegap.plugins.barcodescanner.ENCODE,external,114,2570,39
+startActivity,com/phonegap/plugins/barcodescanner/BarcodeScanner,com.phonegap.plugins.barcodescanner.SCAN,external,114,2570,39
+startActivityForResult,com/phonegap/plugins/barcodescanner/BarcodeScanner,com.phonegap.plugins.barcodescanner.SCAN,external,114,2570,39
+startService,com/phonegap/plugins/position/BackgroundPositionPlugin,com/phonegap/plugins/position/LocationService,external,122,2597,39
+bindService,com/phonegap/plugins/position/BackgroundPositionPlugin,com/phonegap/plugins/position/LocationService,external,122,2597,39
+bindService,com/phonegap/plugins/position/BackgroundPositionPlugin,com/phonegap/plugins/position/LocationService,external,122,2597,39
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,169,2597,40
+bindService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,169,2597,40
+bindService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,177,2597,40
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,177,2597,40
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,177,2597,40
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,177,2597,40
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,177,2597,40
+bindService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,177,2597,40
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic,null,external,177,2597,40
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic,null,external,177,2597,40
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic,null,external,177,2597,40
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic,null,external,177,2597,40
+bindService,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+bindService,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startActivity,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startActivity,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startActivity,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startActivity,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startService,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startService,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+bindService,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+bindService,org/apache/cordova/api/LegacyContext,null,external,177,2597,40
+startActivity,org/apache/cordova/CameraLauncher,Get Picture,external,187,2644,40
+startActivityForResult,org/apache/cordova/CameraLauncher,Get Picture,external,187,2644,40
+startActivity,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,191,2666,40
+startActivityForResult,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,191,2666,40
+startActivity,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,191,2666,40
+startActivityForResult,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,191,2666,40
+startActivity,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,191,2670,40
+startActivityForResult,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,191,2670,40
+startActivity,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,191,2670,40
+startActivityForResult,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,191,2670,40
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,220,2712,47
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,220,2712,47
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,238,2716,58
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,238,2716,58
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,238,2717,58
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,238,2717,58
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,238,2717,58
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,238,2717,58
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,238,2717,58
+startActivity,org/apache/cordova/DroidGap,null,external,243,2746,70
+startActivityForResult,org/apache/cordova/DroidGap,null,external,243,2746,70
+startActivity,org/apache/cordova/InAppBrowser$InAppBrowserClient,android.intent.action.DIAL,external,298,3204,74
+startActivity,org/apache/cordova/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,298,3204,74
+startActivity,org/apache/cordova/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,298,3204,74
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.DIAL,external,298,3204,74
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.VIEW,external,298,3204,74

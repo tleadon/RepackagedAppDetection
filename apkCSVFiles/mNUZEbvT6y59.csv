@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.READ_CONTACTS]-[android.permission.DISABLE_KEYGUARD]-[android.permission.VIBRATE]-[com.android.browser.permission.READ_HISTORY_BOOKMARKS]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.EXPAND_STATUS_BAR]-[android.permission.READ_CALL_LOG]-[android.permission.REORDER_TASKS]-[android.permission.GET_TASKS]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.READ_LOGS]-[android.permission.RECORD_AUDIO]-[android.permission.GET_ACCOUNTS]-[android.permission.SET_WALLPAPER]-,0,1
+startService,com/widdit/lockScreenShell/HomeBaseAPI,null,external,0,126,0
+startActivity,com/widdit/shell/terms/TermsAndConditionsActivityLauncher,com/widdit/shell/terms/TermsAndConditionsActivity,external,50,317,19
+startActivity,com/widdit/shell/terms/TermsAndConditionsActivityLauncher,com/widdit/shell/terms/TermsAndConditionsActivity,external,50,317,19
+startActivityForResult,com/widdit/shell/terms/TermsAndConditionsActivityLauncher,com/widdit/shell/terms/TermsAndConditionsActivity,external,50,317,19
+startActivity,com/widdit/shell/terms/TermsAndConditionsActivityLauncher,com/widdit/shell/terms/TermsAndConditionsActivity,external,50,317,19
+startActivity,com/widdit/shell/terms/TermsAndConditionsActivityLauncher,com/widdit/shell/terms/TermsAndConditionsActivity,external,50,317,19
+startActivity,com/widdit/shell/terms/TermsAndConditionsActivityLauncher,com/widdit/shell/terms/TermsAndConditionsActivity,external,50,317,19
+startActivity,com/widdit/shell/terms/TermsAndConditionsActivityLauncher,com/widdit/shell/terms/TermsAndConditionsActivity,external,50,317,19
+startService,com/widdit/thirdParty/android/gcm/GCMBaseIntentService,com.google.android.gcm.intent.RETRY,external,65,369,47
+startService,com/widdit/thirdParty/android/gcm/GCMRegistrar,sender,external,65,371,47

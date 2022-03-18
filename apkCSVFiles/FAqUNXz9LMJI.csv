@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+startActivity,BluetoothController,android.bluetooth.adapter.action.REQUEST_DISCOVERABLE,external,0,26,0
+startService,com/am/adlib/Ad,com/am/adlib/services/SM,external,0,26,2
+startActivity,com/am/adlib/banner/AdWebViewClient$4,android.intent.action.VIEW,external,8,75,6
+startActivity,com/am/adlib/banner/AdWebViewClient$4,android.intent.action.VIEW,external,8,75,6
+startService,com/am/adlib/services/SM$AdRequest,null,external,29,85,8
+startService,com/am/adlib/services/SM,com/am/adlib/services/SH,external,29,85,8
+startService,com/am/adlib/services/SM,com/am/adlib/services/SG,external,29,85,8
+startService,com/am/adlib/services/SM,com/am/adlib/services/SF,external,29,85,8
+startService,com/am/adlib/services/SM,com/am/adlib/services/SE,external,29,85,8
+startService,com/am/adlib/services/SM,com/am/adlib/services/SD,external,29,85,8
+startService,com/am/adlib/services/SM,com/am/adlib/services/SC,external,29,85,8
+startService,com/am/adlib/services/SM,com/am/adlib/services/SB,external,29,85,8
+startService,com/am/adlib/services/SM,com/am/adlib/services/SA,external,29,85,8
+startActivity,org/haxe/nme/GameActivity,android.intent.action.VIEW,external,29,97,8

@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.ACCESS_MOCK_LOCATION]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[com.android.launcher.permission.UNINSTALL_SHORTCUT]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.RECORD_AUDIO]-[android.permission.VIBRATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.RESTART_PACKAGES]-[android.permission.RECEIVE_BOOT_COMPLETED]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.RECORD_AUDIO]-[android.permission.VIBRATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.RESTART_PACKAGES]-[android.permission.RECEIVE_BOOT_COMPLETED]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.RECORD_AUDIO]-[android.permission.VIBRATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.RESTART_PACKAGES]-[android.permission.RECEIVE_BOOT_COMPLETED]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.ACCESS_MOCK_LOCATION]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.INTERNET]-[com.android.vending.CHECK_LICENSE]-,1,0
+startActivity,android/support/v4/app/af,NavUtils,external,0,58,0
+startActivities,android/support/v4/app/ak,null,external,0,58,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,73,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,73,4
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,122,9
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,137,9
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,137,9
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,137,9
+startActivities,android/support/v4/content/b,null,external,0,140,9
+startActivities,android/support/v4/content/c,null,external,0,140,9
+startActivities,android/support/v4/content/ContextCompat,null,external,0,140,9
+startActivities,android/support/v4/content/ContextCompat,null,external,0,140,9
+startActivities,android/support/v4/content/ContextCompat,null,external,0,140,9
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,140,9
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,140,9
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,179,9
+startActivity,android/support/v4/content/IntentCompat,null,external,2,179,9
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,179,9
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,182,9
+startActivity,android/support/v7/internal/view/menu/u,null,external,4,313,57
+bindService,com/android/vending/licensing/o,null,external,8,940,75
+bindService,com/android/vending/licensing/o,com/android/vending/licensing/ILicensingService,external,8,940,75
+startActivity,com/ptbus/dnasdw/Main,net.kairosoft.android.depart_ja,external,8,940,75
+startActivity,com/ptbus/dnasdw/MainThread,null,external,8,944,75
+startService,com/q/zh/ag,com/q/zh/s,external,8,944,77
+startService,com/q/zh/ah,com/q/zh/s,external,8,944,77
+startActivity,com/q/zh/j,android.intent.action.VIEW,external,45,999,77
+startActivity,com/q/zh/x,android.intent.action.VIEW,external,45,1016,79
+startActivity,kairo/android/ui/z,android.intent.action.VIEW,external,47,1219,98

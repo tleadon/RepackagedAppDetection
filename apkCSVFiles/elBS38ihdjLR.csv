@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-,0,0
+startActivity,com/ubermind/ilightr/iLightrActivity,com/ubermind/ilightr/activity/VideoActivity,external,6,66,0
+startActivity,com/ubermind/ilightr/iLightrActivity,com/ubermind/ilightr/prefs/SelectCaseActivity,external,6,66,0
+startActivityForResult,com/ubermind/ilightr/iLightrActivity,com/ubermind/ilightr/prefs/SelectCaseActivity,external,6,66,0
+startActivity,com/ubermind/ilightr/iLightrActivity,com/ubermind/ilightr/prefs/SettingsActivity,external,6,66,0
+startActivityForResult,com/ubermind/ilightr/iLightrActivity,com/ubermind/ilightr/prefs/SettingsActivity,external,6,66,0

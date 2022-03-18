@@ -1,0 +1,47 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivities,android/support/v4/app/ActivityCompat,null,external,0,0,0
+startActivities,android/support/v4/app/ActivityCompatHoneycomb,null,external,0,3,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils,android.intent.action.MAIN,external,0,48,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,48,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,56,11
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,60,24
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,4,60,24
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,92,26
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,101,32
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,41,170,74
+startActivity,jp/co/cayto/appc/sdk/android/AppC,jp/co/cayto/appc/sdk/android/AppCAgreementActivity,internal,88,174,90
+startActivity,jp/co/cayto/appc/sdk/android/AppC,jp/co/cayto/appc/sdk/android/AppCWebActivity,internal,88,174,90
+startActivity,jp/co/cayto/appc/sdk/android/AppCCutinView$2,jp/co/cayto/appc/sdk/android/AppCWebActivity,external,101,174,97
+startActivity,jp/co/cayto/appc/sdk/android/AppCMarqueeView,jp/co/cayto/appc/sdk/android/AppCWebActivity,external,101,174,104
+startActivity,jp/co/cayto/appc/sdk/android/AppCSimpleView$2,jp/co/cayto/appc/sdk/android/AppCWebActivity,external,101,174,107
+startActivity,jp/co/cayto/appc/sdk/android/AppCTowerView$3,jp/co/cayto/appc/sdk/android/AppCWebActivity,external,101,174,116
+startActivity,jp/co/cayto/appc/sdk/android/AppCTowerView$4,jp/co/cayto/appc/sdk/android/AppCWebActivity,external,101,174,119
+startActivity,jp/co/cayto/appc/sdk/android/AppCWebActivity$CustomWebViewClient,android.intent.action.VIEW,external,101,174,125
+startActivity,jp/co/cayto/appc/sdk/android/AppCWebActivity,jp/co/cayto/appc/sdk/android/AppCAgreementActivity,internal,101,174,125
+sendOrderedBroadcast,jp/co/cayto/appc/sdk/android/common/AppController$CreateGIDTask,jp.co.cayto.appc.sdk.android.remote.command.gid.set,external,101,174,125
+sendOrderedBroadcast,jp/co/cayto/appc/sdk/android/common/AppController,jp.co.cayto.appc.sdk.android.remote.command.gid.remove,external,101,174,125
+startService,jp/co/cayto/appc/sdk/android/common/AppController,jp/co/cayto/appc/sdk/android/background/IDService,external,105,174,125
+startActivity,null,null,null,0,0,0
+sendOrderedBroadcast,null,null,null,0,0,0
+sendOrderedBroadcast,jp/co/cayto/appc/sdk/android/view/AgreementDialog$4,jp.co.cayto.appc.sdk.android.remote.command.gid.remove,external,281,310,132
+sendOrderedBroadcast,jp/co/cayto/appc/sdk/android/view/AgreementDialog$4,jp.co.cayto.appc.sdk.android.remote.command.gid.remove,external,281,310,132
+startActivity,jp/co/cayto/appc/sdk/android/view/AppHorizontalScrollView$1,jp/co/cayto/appc/sdk/android/AppCAgreementActivity,external,281,310,138
+startActivity,jp/co/cayto/appc/sdk/android/view/CutinViewBasic$HttpResponseTask$1,android.intent.action.VIEW,external,286,310,145
+startActivity,jp/co/cayto/appc/sdk/android/view/CutinViewBasic$HttpResponseTask$2,android.intent.action.VIEW,external,286,310,146
+startActivity,jp/co/cayto/appc/sdk/android/view/CutinViewCube$EditIconInfoTask$1,android.intent.action.VIEW,external,286,310,152
+startActivity,jp/co/imobile/android/ai,android.intent.action.VIEW,external,286,310,157
+startActivity,net/nend/android/NendHelper,android.intent.action.VIEW,external,320,348,160

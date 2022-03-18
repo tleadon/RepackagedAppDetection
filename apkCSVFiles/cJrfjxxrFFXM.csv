@@ -1,0 +1,46 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,android/support/v4/app/Fragment,null,external,0,13,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,4
+startActivity,android/support/v4/app/Fragment,null,external,0,13,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,4
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,64,13
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,64,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,67,13
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,70,13
+startActivity,android/support/v4/content/IntentCompat,null,external,2,70,13
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,70,13
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,72,13
+startActivity,com/alrwabee/arwstandard/ArwGloble,android.intent.action.VIEW,external,24,232,36
+startActivity,com/alrwabee/arwstandard/ArwGloble,android.intent.action.VIEW,external,24,232,36
+startActivity,com/alrwabee/arwstandard/ArwGloble,android.intent.action.VIEW,external,24,232,36
+startActivity,com/alrwabee/arwstandard/ArwGloble,android.intent.action.VIEW,external,24,232,36
+startActivity,com/alrwabee/arwstandard/ArwGloble,android.intent.action.SEND,external,24,232,36
+startActivity,com/alrwabeeapp/wonders/AdapterParagraph$share_click,android.intent.action.SEND,external,24,232,39
+startActivity,com/alrwabeeapp/wonders/AdapterParagraph,android.intent.action.SEND,external,28,233,39
+startActivity,com/alrwabeeapp/wonders/AdapterParagraph,android.intent.action.SEND,external,28,233,39
+startActivity,com/alrwabeeapp/wonders/Main,com/alrwabeeapp/wonders/Setting,external,32,233,45
+startActivity,com/alrwabeeapp/wonders/Paragraph,com/alrwabeeapp/wonders/Paragraph,external,32,233,49
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,32,233,53
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,32,233,53
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,44,265,55
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,48,274,61
+bindService,com/google/android/vending/licensing/LicenseChecker,null,external,63,296,73
+bindService,com/google/android/vending/licensing/LicenseChecker,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,63,298,73
+startActivity,com/mhm/arbstandard/ArbAdapterMoreApp$1,android.intent.action.VIEW,external,63,349,75
+startActivity,com/mhm/arbstandard/ArbInternet,android.intent.action.VIEW,external,86,473,88
+startActivity,com/mhm/arbstandard/ArbInternet,android.intent.action.VIEW,external,86,473,88
+startActivity,com/mhm/arbstandard/ArbInternet,android.intent.action.SEND,external,86,473,88
+startActivity,com/mhm/arbstandard/ArbInternet,android.intent.action.SEND,external,86,473,88

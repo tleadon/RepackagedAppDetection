@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.simpson3d.OfferingAppTest.permission.C2D_MESSAGE]-[com.google.android.c2dm.permission.RECEIVE]-[android.permission.ACCESS_FINE_LOCATION]-,0,0
+startActivity,com/prime31/EtceteraPlugin$1,com/prime31/P31VideoPlayerActivity,external,0,109,0
+startActivity,com/prime31/EtceteraPlugin$10,android.intent.action.VIEW,external,0,109,0
+startActivity,com/prime31/EtceteraPlugin$11,com/prime31/EtceteraProxyActivity,external,0,109,0
+startActivity,com/prime31/EtceteraPlugin$12,com/prime31/EtceteraProxyActivity,external,0,109,0
+startActivity,com/prime31/EtceteraPlugin$20$1,android.intent.action.VIEW,external,0,109,1
+startActivity,com/prime31/EtceteraPlugin$8,com/prime31/WebViewActivity,external,0,109,11
+startActivity,com/prime31/EtceteraPlugin$9,android.intent.action.SEND,external,0,114,11
+startActivity,com/prime31/EtceteraProxyActivity,image/*,internal,6,190,11
+startActivityForResult,com/prime31/EtceteraProxyActivity,image/*,internal,6,190,11
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,6,193,11
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,6,193,11
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,59,238,39
+sendBroadcast,com/urbanairship/analytics/Analytics$AddEventTask,com.urbanairship.analytics.START,external,59,258,57
+startService,com/urbanairship/CoreReceiver,null,external,117,259,57
+sendBroadcast,com/urbanairship/CoreReceiver,com.urbanairship.push.NOTIFICATION_OPENED,external,117,259,57
+startService,com/urbanairship/iap/marketinterface/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,117,288,57
+startService,com/urbanairship/iap/marketinterface/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,117,288,57
+startService,com/urbanairship/iap/marketinterface/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,117,288,57
+bindService,com/urbanairship/iap/marketinterface/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,117,290,57
+bindService,com/urbanairship/iap/marketinterface/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,117,290,57
+startService,com/urbanairship/push/c2dm/C2DMPushManager$1,sender,external,117,301,57
+sendBroadcast,com/urbanairship/push/PushManager,com.urbanairship.push.NOTIFICATION_OPENED_PROXY.,external,119,438,64
+startService,com/urbanairship/push/PushManager,com.urbanairship.push.NOTIFICATION_OPENED_PROXY.,external,119,438,64
+startService,com/urbanairship/push/PushManager,com.urbanairship.push.NOTIFICATION_OPENED_PROXY.,external,119,438,64
+startService,com/urbanairship/push/PushManager,com/urbanairship/push/PushManager,external,119,438,64
+startService,com/urbanairship/push/PushManager,com/urbanairship/push/PushService,external,119,438,64
+sendBroadcast,com/urbanairship/push/PushManager,com.urbanairship.push.REGISTRATION_FINISHED,external,119,438,64
+sendBroadcast,com/urbanairship/push/PushManager,com.urbanairship.push.REGISTRATION_FINISHED,external,119,438,64

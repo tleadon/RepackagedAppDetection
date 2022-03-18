@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.GET_ACCOUNTS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+startActivity,com/ctugames/funny/TiredBirds,android.intent.action.VIEW,external,3,4,0
+bindService,com/ctugames/funny/util/IabHelper,null,external,3,4,0
+bindService,com/ctugames/funny/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,3,8,0
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection$1,null,external,3,23,8
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection,null,external,3,23,8
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,3,23,8
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,3,23,8
+bindService,com/facebook/android/Facebook,com.facebook.katana,external,3,23,8
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,3,27,9

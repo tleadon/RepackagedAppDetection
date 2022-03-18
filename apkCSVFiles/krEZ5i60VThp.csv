@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.READ_USER_DICTIONARY]-[android.permission.WRITE_USER_DICTIONARY]-,0,0
+startActivity,com/google/android/voiceime/ActivityHelper,android.speech.action.RECOGNIZE_SPEECH,external,0,0,2
+startActivityForResult,com/google/android/voiceime/ActivityHelper,android.speech.action.RECOGNIZE_SPEECH,external,0,0,2
+bindService,com/google/android/voiceime/ServiceBridge$1,null,external,0,0,2
+bindService,com/google/android/voiceime/ServiceBridge$ConnectionResponse,null,external,0,0,2
+bindService,com/google/android/voiceime/ServiceBridge,com/google/android/voiceime/ServiceHelper,external,0,0,2
+bindService,com/google/android/voiceime/ServiceBridge,com/google/android/voiceime/ServiceHelper,external,0,0,2
+startActivity,com/google/android/voiceime/ServiceHelper,com/google/android/voiceime/ActivityHelper,external,0,0,2
+startActivity,org/pocketworkstation/pckeyboard/Main$1,android.settings.INPUT_METHOD_SETTINGS,external,22,20,67
+startActivityForResult,org/pocketworkstation/pckeyboard/Main$1,android.settings.INPUT_METHOD_SETTINGS,external,22,20,67
+startActivity,org/pocketworkstation/pckeyboard/Main$3,org/pocketworkstation/pckeyboard/InputLanguageSelection,external,22,20,69
+startActivityForResult,org/pocketworkstation/pckeyboard/Main$3,org/pocketworkstation/pckeyboard/InputLanguageSelection,external,22,20,69
+startActivity,org/pocketworkstation/pckeyboard/Main$4,android.intent.action.VIEW,external,22,20,70

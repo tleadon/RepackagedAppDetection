@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/appsgeyser/sdk/ads/AdsLoader,android.intent.action.VIEW,external,15,5,1
+startActivity,com/appsgeyser/sdk/webwiewclient/PushWebViewClient,android.intent.action.VIEW,external,72,14,6
+startActivity,com/appsgeyser/sdk/webwiewclient/SimpleWebViewClient,android.intent.action.SEND,external,72,14,6
+startActivity,com/appsgeyser/sdk/webwiewclient/SimpleWebViewClient,android.intent.action.SENDTO,external,72,14,6
+startActivity,com/appsgeyser/sdk/webwiewclient/SimpleWebViewClient,android.intent.action.DIAL,external,72,14,6
+startActivity,com/appsgeyser/sdk/webwiewclient/SimpleWebViewClient,android.intent.action.VIEW,external,72,14,6
+startActivity,com/appsgeyser/sdk/webwiewclient/SimpleWebViewClient,android.intent.action.VIEW,external,72,14,6
+startService,com/google/android/c2dm/C2DMessaging,sender,external,72,14,6
+startService,com/google/android/gcm/GCMBaseIntentService,com.google.android.gcm.intent.RETRY,external,72,14,6
+startService,com/google/android/gcm/GCMRegistrar,sender,external,72,16,6
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,118,56,31

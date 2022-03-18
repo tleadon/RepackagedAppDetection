@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,1
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,1
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,1
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,13,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,7,6
+startActivity,com/pojasoft/GoParking/AboutDlg,com/pojasoft/GoParking/GameBoardActivity,external,30,21,11
+startActivity,com/pojasoft/GoParking/LevelLoaderActivity,com/pojasoft/GoParking/GameBoardActivity,external,30,21,15
+startActivity,com/pojasoft/GoParking/MainMenuActivity,com/pojasoft/GoParking/GameBoardActivity,external,30,21,15
+startActivity,com/pojasoft/GoParking/MainMenuActivity,com/pojasoft/GoParking/LevelLoaderActivity,external,30,21,15
+startActivity,com/pojasoft/GoParking/MainMenuActivity,com/pojasoft/GoParking/GameBoardActivity,external,30,21,15
+startActivity,com/pojasoft/GoParking/MainMenuActivity,com/pojasoft/GoParking/ScoresActivity,external,30,21,15
+startActivity,com/pojasoft/GoParking/MainMenuActivity,com/pojasoft/GoParking/AboutDlg,external,30,21,15
+startActivity,com/pojasoft/GoParking/o,android.intent.action.VIEW,external,30,21,19
+startActivity,com/pojasoft/GoParking/SpalshScreenActivity,com/pojasoft/GoParking/MainMenuActivity,external,30,21,19

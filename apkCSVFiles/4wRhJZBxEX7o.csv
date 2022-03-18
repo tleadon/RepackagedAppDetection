@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[com.android.browser.permission.READ_HISTORY_BOOKMARKS]-[com.android.browser.permission.WRITE_HISTORY_BOOKMARKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/cloudmosa/puffin/BrowserPageView$15,com/cloudmosa/puffin/CombinedTabActivity,external,31,39,16
+startActivity,com/cloudmosa/puffin/BrowserPageView$16,com/cloudmosa/puffin/SetHomePageActivity,external,31,39,17
+startActivity,com/cloudmosa/puffin/BrowserPageView$17,com/cloudmosa/puffin/SettingsActivity,external,31,39,18
+startActivity,com/cloudmosa/puffin/BrowserPageView$18,com/cloudmosa/puffin/SettingsActivity,external,31,39,19
+startActivity,com/cloudmosa/puffin/LemonActivity$16,android.intent.action.VIEW,external,38,65,37
+startActivity,com/cloudmosa/puffin/LemonActivity$19,android.intent.action.VIEW,external,38,65,39
+startActivity,com/cloudmosa/puffin/LemonActivity$MyLicenseCheckerCallback$3,android.intent.action.VIEW,external,46,65,51
+startActivity,com/cloudmosa/puffin/LemonActivity,com/cloudmosa/puffin/VideoPlayerActivity,external,46,65,53
+startActivity,com/cloudmosa/puffin/LemonActivity,com/cloudmosa/puffin/SettingsActivity,external,58,65,53
+startActivity,com/cloudmosa/puffin/LemonActivity,com/cloudmosa/puffin/SettingsActivity,external,58,65,57
+startActivity,com/cloudmosa/puffin/LemonActivity,com/cloudmosa/puffin/CombinedTabActivity,external,58,65,57
+startActivityForResult,com/cloudmosa/puffin/LemonActivity,com/cloudmosa/puffin/CombinedTabActivity,external,58,65,57

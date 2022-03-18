@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[KILL_BACKGROUND_PROCESSES]-[com.android.vending.BILLING]-[android.permission.READ_PHONE_STATE]-,1,0
+startService,com/alawar/Billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,0,0,0
+startService,com/alawar/Billing/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,0,0,0
+startService,com/alawar/Billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,0,0,0
+bindService,com/alawar/Billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,0,0
+bindService,com/alawar/Billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,0,0
+startActivity,com/alawar/Test,android.intent.action.VIEW,external,14,81,20
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,45,123,36
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,45,123,36
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,45,123,36
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,48,123,36

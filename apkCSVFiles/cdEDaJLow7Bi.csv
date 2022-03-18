@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/example/admob/admob,null,external,0,0,1
+startActivityForResult,com/example/admob/admob,null,external,0,0,1
+startActivity,com/example/admob/admob,null,external,0,0,1
+startActivityForResult,com/example/admob/admob,null,external,0,0,1
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,1,0,6
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,1,0,6
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,1,0,6
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,1,0,6
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,1,0,6
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,1,0,6
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,11,10,6
+startActivity,com/google/android/gms/dynamic/a$5,null,external,11,12,9
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,11,14,9
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,11,14,9
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,11,14,9
+startActivity,com/google/android/gms/internal/bc,Open GMSG did not contain a URL.,external,13,14,13
+startActivity,com/google/android/gms/internal/bf,com.google.android.gms.ads.AdActivity,external,13,14,13
+startActivity,com/google/android/gms/internal/cq,android.intent.action.VIEW,external,29,23,14
+startActivity,com/google/android/gms/internal/dc,null,external,29,30,22
+startActivityForResult,com/google/android/gms/internal/dc,null,external,29,30,22
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,29,31,22
+startService,com/google/android/gms/internal/df,com.google.android.gms,external,29,31,22
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,29,31,22
+startService,com/google/android/gms/internal/df,com.google.android.gms,external,29,31,22
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,29,31,22
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,85,64,58
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,85,64,58

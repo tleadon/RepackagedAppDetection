@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.SYSTEM_ALERT_WINDOW]-,0,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,3,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,3,4
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,12,5
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,12,6
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,11,42,7
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,15,51,13
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,66,100,18
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,66,103,18
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,66,103,18
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,66,103,18
+bindService,com/google/analytics/tracking/android/e,null,external,66,103,18
+startActivity,com/google/analytics/tracking/android/n,null,external,66,103,18
+startActivity,com/meishi/meinong/c/k,com/meishi/meinong/ui/MainActivity,external,204,117,23
+startActivity,com/meishi/meinong/c/n,android.intent.action.VIEW,external,204,127,25
+startActivity,com/meishi/meinong/receiver/CompleteReceiver,android.intent.action.VIEW,external,204,128,25
+startActivity,com/meishi/meinong/ui/a,com/meishi/meinong/ui/DetailActivity,external,206,128,26
+startActivity,com/meishi/meinong/ui/a,com/meishi/meinong/ui/MainActivity,external,206,128,26
+startActivity,com/meishi/meinong/ui/a,com/meishi/meinong/ui/MakeFlowActivity,external,206,128,26
+startActivity,com/meishi/meinong/ui/CateSortActivity,android.intent.action.VIEW,internal,206,145,27
+startActivity,com/meishi/meinong/ui/DetailActivity,com/meishi/meinong/ui/MakeFlowActivity,internal,206,145,29
+startActivity,com/meishi/meinong/ui/DetailActivity,com/meishi/meinong/ui/MainActivity,internal,206,145,29
+startActivity,com/meishi/meinong/ui/DetailActivity,com/meishi/meinong/ui/WebActivity,internal,206,148,30
+startActivity,com/meishi/meinong/ui/f,com/meishi/meinong/ui/AddActivity,external,206,148,32
+startActivity,com/meishi/meinong/ui/j,com/meishi/meinong/ui/DetailActivity,external,206,150,34
+startActivity,com/meishi/meinong/ui/MainActivity,com/meishi/meinong/ui/DetailActivity,internal,206,153,36
+startActivity,com/meishi/meinong/ui/MainActivity,com/meishi/meinong/ui/WebActivity,internal,206,153,41
+startActivity,com/meishi/meinong/ui/MakeFlowActivity,com/meishi/meinong/ui/WebActivity,internal,206,153,43
+startActivity,com/meishi/meinong/ui/SplashActivity,com/meishi/meinong/ui/MainActivity,external,206,153,48
+startActivity,com/meishi/meinong/ui/u,com/meishi/meinong/ui/DetailActivity,external,206,162,49
+startActivity,com/meishi/meinong/ui/u,com/meishi/meinong/ui/MainActivity,external,206,162,49
+startActivity,com/meishi/meinong/ui/u,com/meishi/meinong/ui/MakeFlowActivity,external,206,162,49

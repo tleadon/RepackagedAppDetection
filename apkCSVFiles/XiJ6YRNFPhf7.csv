@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CALL_PHONE]-[android.permission.ACTION_SEND]-[android.permission.ACTION_VIEW]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-,0,0
+bindService,com/orionswave/HomeActivity,null,internal,0,0,2
+startService,com/orionswave/HomeActivity,com/orionswave/PlayerService,internal,0,0,2
+bindService,com/orionswave/HomeActivity,com/orionswave/PlayerService,internal,0,0,2
+startActivity,com/orionswave/InfoActivity$1,android.intent.action.CALL,external,0,0,3
+startActivity,com/orionswave/InfoActivity$2,android.intent.action.SEND,external,0,0,4
+startActivity,com/orionswave/InfoActivity$3,android.intent.action.VIEW,external,0,0,5

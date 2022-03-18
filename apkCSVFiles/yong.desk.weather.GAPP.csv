@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_LOGS]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,2
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,0,2
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,4
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,10
+bindService,com/umeng/common/net/a$b,null,external,70,102,26
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,102,26
+startActivity,com/umeng/common/net/d$b,android.intent.action.VIEW,external,94,111,26
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,102,185,26
+startActivity,com/umeng/common/util/h,null,external,108,317,26
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,108,317,26
+sendBroadcast,com/weather/utils/YongUtil,yong/desk/weather/MainActivity,external,128,445,28
+startActivity,com/yong/gift/GiftActivity$2,android.intent.action.VIEW,external,138,494,29
+startActivity,yong/desk/weather/MainActivity$1,android.intent.action.VIEW,external,160,510,32
+startActivity,yong/desk/weather/MainActivity,yong/desk/weather/SetCityActivity,external,160,510,34
+startActivity,yong/desk/weather/MainActivity,yong/desk/weather/SetCityActivity,external,160,510,34
+startActivity,yong/desk/weather/MainActivity,android.intent.action.SEND,external,160,510,34
+startActivity,yong/desk/weather/MainActivity,yong/desk/weather/MainTopRightDialog,external,160,510,34
+startActivity,yong/desk/weather/MainActivity,yong/desk/weather/SetCityActivity,external,160,510,34
+startActivityForResult,yong/desk/weather/MainActivity,yong/desk/weather/SetCityActivity,external,160,510,34
+startActivity,yong/desk/weather/MainTopRightDialog$1,android.intent.action.VIEW,external,160,510,39
+startActivity,yong/desk/weather/MainTopRightDialog$2,yong/desk/weather/SettingActivity,external,160,510,40
+startActivity,yong/desk/weather/SetCityActivity$GPSLocationThread,android.settings.LOCATION_SOURCE_SETTINGS,external,163,510,41
+startActivityForResult,yong/desk/weather/SetCityActivity$GPSLocationThread,android.settings.LOCATION_SOURCE_SETTINGS,external,163,510,41
+startActivity,yong/desk/weather/SetCityActivity,yong/desk/weather/HelpActivity,external,174,510,43
+startActivity,yong/desk/weather/SettingActivity$5,yong/desk/weather/HelpActivity,external,174,510,48
+startActivity,yong/desk/weather/SettingActivity$6,com/yong/gift/GiftActivity,external,174,510,49
+startService,yong/desk/weather/view/WeatherWorkspace,yong/desk/weather/service/UpdateDeskWidgetService,external,174,510,53
+startService,yong/desk/weather/widget/WeatherWidget4x1,yong/desk/weather/service/UpdateWidgetService,internal,174,510,53
+startService,yong/desk/weather/widget/WeatherWidget4x2,yong/desk/weather/service/UpdateWidgetService,internal,174,510,53

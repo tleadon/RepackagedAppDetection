@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/prime31/EtceteraPlugin$10,com/prime31/WebViewActivity,external,31,55,20
+startActivity,com/prime31/EtceteraPlugin$11,android.intent.action.SEND,external,31,60,20
+startActivity,com/prime31/EtceteraPlugin$12,android.intent.action.VIEW,external,31,60,20
+startActivity,com/prime31/EtceteraPlugin$13,com/prime31/EtceteraProxyActivity,external,31,60,20
+startActivity,com/prime31/EtceteraPlugin$14,com/prime31/EtceteraProxyActivity,external,31,62,20
+startActivity,com/prime31/EtceteraPlugin$15,com/prime31/EtceteraProxyActivity,external,31,62,20
+startActivity,com/prime31/EtceteraPlugin$2,com/prime31/P31VideoPlayerActivity,external,31,62,20
+startActivity,com/prime31/EtceteraPlugin$23$1,android.intent.action.VIEW,external,31,62,21
+startActivity,com/prime31/EtceteraPlugin$23$1,android.intent.action.VIEW,external,31,62,21
+startActivity,com/prime31/EtceteraPlugin$9,com/prime31/WebViewActivity,external,31,62,31
+startActivity,com/prime31/EtceteraProxyActivity,image/*,external,43,174,31
+startActivityForResult,com/prime31/EtceteraProxyActivity,image/*,external,43,174,31
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,external,43,178,31
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,external,43,178,31
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.VIDEO_CAPTURE,external,43,179,31
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.VIDEO_CAPTURE,external,43,179,31

@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-[android.permission.READ_CONTACTS]-[android.permission.READ_PHONE_STATE]-,1,1
+startActivity,cn/domob/android/ads/DomobAdEngine,url,external,24,35,10
+startActivity,cn/domob/android/ads/DomobAdEngine,url,external,24,35,10
+startActivity,cn/domob/android/ads/DomobInApp$4,android.intent.action.VIEW,external,57,35,15
+startActivity,cn/domob/android/ads/DomobInApp$5,android.intent.action.VIEW,external,57,35,15
+startActivity,cn/domob/android/ads/DomobInApp$5,android.intent.action.VIEW,external,57,35,15
+startActivity,cn/domob/android/ads/DomobInApp$5,android.intent.action.VIEW,external,57,35,15
+startActivity,cn/domob/android/ads/DomobInApp,android.intent.action.VIEW,external,57,48,20
+startActivity,com/a/a/b,com.facebook.katana,external,59,88,20
+startActivityForResult,com/a/a/b,com.facebook.katana,external,59,88,20
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,59,88,20
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,59,90,20
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,59,90,21
+startActivity,com/quark/config/Puntuaciones,com/scoreloop/client/android/ui/EntryScreenActivity,external,67,90,21
+startActivity,com/quark/config/Puntuaciones,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,67,90,21
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,97,183,35
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,97,183,44
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,97,183,44
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,97,183,60
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,101,192,73
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,101,192,73
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,101,195,88
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,101,195,111
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,125,555,171
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,125,555,172

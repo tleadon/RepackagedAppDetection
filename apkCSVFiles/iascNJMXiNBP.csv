@@ -1,0 +1,3 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+startActivity,com/android/inputmethodcommon/InputMethodSettingsImpl$1,android.settings.INPUT_METHOD_SUBTYPE_SETTINGS,external,0,0,1

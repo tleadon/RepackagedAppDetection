@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-,0,1
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,1
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,1
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,1
+startActivity,com/google/ads/b,com/google/ads/AdActivity,external,0,0,1
+startActivity,com/google/ads/internal/b,android.intent.action.VIEW,external,5,0,2
+startActivity,com/google/ads/internal/z,android.intent.action.SEND,external,7,6,4
+startActivity,dmc/game/likeorage/ag,dmc/game/likeorage/Main,external,23,28,13
+startActivityForResult,dmc/game/likeorage/ag,dmc/game/likeorage/Main,external,23,28,13
+startActivity,dmc/game/likeorage/an,dmc/game/likeorage/LevelActivity,external,23,28,14
+startActivityForResult,dmc/game/likeorage/an,dmc/game/likeorage/LevelActivity,external,23,28,14
+startActivity,dmc/game/likeorage/Main,dmc/game/likeorage/SettingsActivity,external,23,28,29
+startActivityForResult,dmc/game/likeorage/Main,dmc/game/likeorage/SettingsActivity,external,23,28,29
+startActivity,dmc/game/likeorage/MenuMain,dmc/game/likeorage/Main,external,23,28,30
+startActivityForResult,dmc/game/likeorage/MenuMain,dmc/game/likeorage/Main,external,23,28,30
+startActivity,dmc/game/likeorage/MenuMain,dmc/game/likeorage/PackActivity,external,23,28,30
+startActivityForResult,dmc/game/likeorage/MenuMain,dmc/game/likeorage/PackActivity,external,23,28,30
+startActivity,dmc/game/likeorage/MenuMain,dmc/game/likeorage/RewardActivity,external,23,28,30
+startActivityForResult,dmc/game/likeorage/MenuMain,dmc/game/likeorage/RewardActivity,external,23,28,30
+startActivity,dmc/game/likeorage/MenuMain,dmc/game/likeorage/SettingsActivity,external,23,28,30
+startActivityForResult,dmc/game/likeorage/MenuMain,dmc/game/likeorage/SettingsActivity,external,23,28,30
+startActivity,dmc/game/likeorage/SettingsActivity,dmc/game/likeorage/ProfileActivity,external,26,28,57
+startActivityForResult,dmc/game/likeorage/SettingsActivity,dmc/game/likeorage/ProfileActivity,external,26,28,57
+startActivity,dmc/game/likeorage/SettingsActivity,dmc/game/likeorage/ResultActivity,external,26,28,57
+startActivityForResult,dmc/game/likeorage/SettingsActivity,dmc/game/likeorage/ResultActivity,external,26,28,57

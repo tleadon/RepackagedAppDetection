@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-,0,1
+startActivity,com/flurry/android/FlurryFullscreenTakeoverActivity,null,external,0,0,0
+startActivity,com/flurry/sdk/g$b,android.intent.action.VIEW,external,68,177,5
+startActivity,com/flurry/sdk/q,com/flurry/android/FlurryFullscreenTakeoverActivity,external,74,288,7
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,86,306,7
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,86,306,7
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,86,306,7
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,96,318,7
+startActivity,com/google/android/gms/dynamic/a$5,null,external,96,320,10
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,96,322,10
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,96,322,10
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,96,322,10
+startActivity,com/google/android/gms/internal/i,null,external,128,330,13
+startActivityForResult,com/google/android/gms/internal/i,null,external,128,330,13
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,128,331,13
+startService,com/google/android/gms/internal/l,com.google.android.gms,external,128,331,13
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,128,331,13
+startService,com/google/android/gms/internal/l,com.google.android.gms,external,128,331,13
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,128,331,13
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,155,340,47
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,155,340,47
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,155,340,48
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,155,340,48
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,155,340,48
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,155,340,48
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,155,340,48
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,155,340,48
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,155,340,48
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,155,340,48
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,201,380,73

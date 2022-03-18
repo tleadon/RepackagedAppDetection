@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,1,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixBrowser$1,android.intent.action.VIEW,external,72,256,19
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,android.intent.action.VIEW,external,72,256,22
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,url,external,72,256,22
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixVideoView$ButtonOnClickListener,android.intent.action.VIEW,external,72,256,24
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,72,256,41
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,72,256,41
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,android.intent.action.VIEW,external,72,256,41
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,cachedHTML,external,72,256,41
+startActivity,com/mobclix/android/sdk/MobclixCreative$HTMLPage$1,android.intent.action.VIEW,external,72,258,42
+startActivity,com/pommedeterresautee/angrybirdsseasonunlock/main$2,android.intent.action.VIEW,external,142,260,52

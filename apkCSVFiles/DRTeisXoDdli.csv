@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+startActivity,com/am/adlib/banner/AdWebViewClient$2,android.intent.action.VIEW,external,8,45,5
+startActivity,com/am/adlib/banner/AdWebViewClient$2,android.intent.action.VIEW,external,8,45,5
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_8,external,8,52,7
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_7,external,8,52,7
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_6,external,8,52,7
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_5,external,8,52,7
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_4,external,8,52,7
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_3,external,8,52,7
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_2,external,8,52,7
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_1,external,8,52,7
+startService,com/am/adlib/services/AdServiceManager,com/am/adlib/services/AdService_1,external,8,52,7
+startActivity,org/haxe/nme/GameActivity,android.intent.action.VIEW,external,8,64,7

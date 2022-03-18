@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-,1,0
+startActivity,com/panjie/makeupon/date,com/panjie/makeupon/main,internal,0,96,2
+startActivity,com/panjie/makeupon/date,com/panjie/makeupon/date1/Jb,internal,0,96,3
+startActivity,com/panjie/makeupon/date1/Jb,com/panjie/makeupon/date,internal,0,96,5
+startActivity,com/panjie/makeupon/date1/Jb2,com/panjie/makeupon/date,internal,0,96,7
+startActivity,com/panjie/makeupon/date1/Mm,com/panjie/makeupon/date,internal,0,96,9
+startActivity,com/panjie/makeupon/date1/Tm,com/panjie/makeupon/date,internal,0,96,11
+startActivity,com/panjie/makeupon/date1/Xyx,com/panjie/makeupon/date,internal,0,96,13
+startActivity,com/panjie/makeupon/life,com/panjie/makeupon/main,internal,0,96,15
+startActivity,com/panjie/makeupon/life,com/panjie/makeupon/life1/Hanguo1,internal,0,96,16
+startActivity,com/panjie/makeupon/life1/Dy,com/panjie/makeupon/life,internal,0,96,18
+startActivity,com/panjie/makeupon/life1/Hanguo1,com/panjie/makeupon/life,internal,0,96,20
+startActivity,com/panjie/makeupon/life1/Hanguo2,com/panjie/makeupon/life,internal,0,96,22
+startActivity,com/panjie/makeupon/life1/Hanguo3,com/panjie/makeupon/life,internal,0,96,24
+startActivity,com/panjie/makeupon/life1/Qt,com/panjie/makeupon/life,internal,0,96,26
+startActivity,com/panjie/makeupon/life1/Qx,com/panjie/makeupon/life,internal,0,96,28
+startActivity,com/panjie/makeupon/life1/Rc,com/panjie/makeupon/life,internal,0,96,30
+startActivity,com/panjie/makeupon/life1/Yg,com/panjie/makeupon/life,internal,0,96,32
+startActivity,com/panjie/makeupon/main$1,com/panjie/makeupon/work,external,0,96,33
+startActivity,com/panjie/makeupon/main,com/panjie/makeupon/Me,external,0,96,42
+startActivity,com/panjie/makeupon/main,android.intent.action.VIEW,external,0,96,43
+startActivity,com/panjie/makeupon/Me,com/panjie/makeupon/main,external,0,96,45
+startActivity,com/panjie/makeupon/party,com/panjie/makeupon/main,internal,0,96,47
+startActivity,com/panjie/makeupon/party,com/panjie/makeupon/party1/Shuaige,internal,0,96,48
+startActivity,com/panjie/makeupon/party1/Dianyan,com/panjie/makeupon/party,internal,0,96,50
+startActivity,com/panjie/makeupon/party1/Shangyao,com/panjie/makeupon/party,internal,0,96,52
+startActivity,com/panjie/makeupon/party1/Shuaige,com/panjie/makeupon/party,internal,0,96,54
+startActivity,com/panjie/makeupon/party1/Weiniang,com/panjie/makeupon/party,external,0,96,56
+startActivity,com/panjie/makeupon/party1/Xili,com/panjie/makeupon/party,internal,0,96,58
+startActivity,com/panjie/makeupon/party1/Zise,com/panjie/makeupon/party,internal,0,96,60
+startActivity,com/panjie/makeupon/party1/Zise2,com/panjie/makeupon/party,internal,0,96,62
+startActivity,com/panjie/makeupon/work,com/panjie/makeupon/main,internal,0,96,64
+startActivity,com/panjie/makeupon/work,com/panjie/makeupon/work1/Mr,internal,0,96,65
+startActivity,com/panjie/makeupon/work1/Jr,com/panjie/makeupon/work,internal,0,96,67
+startActivity,com/panjie/makeupon/work1/Mr,com/panjie/makeupon/work,internal,0,96,69
+startActivity,com/panjie/makeupon/work1/Zx,com/panjie/makeupon/work,internal,0,96,71

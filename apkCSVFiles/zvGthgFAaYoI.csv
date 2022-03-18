@@ -1,0 +1,4 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.SET_WALLPAPER]-,0,1
+startService,com/wooboo/swing/lover/Swing$1,com/wooboo/swing/lover/SwingService,external,63,59,9
+startService,com/wooboo/swing/lover/Swing$2,com/wooboo/swing/lover/SwingService,external,63,59,10

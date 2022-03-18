@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,1,0
+startActivity,cn/domob/android/ads/DomobAdEngine,url,external,24,17,10
+startActivity,cn/domob/android/ads/DomobAdEngine,url,external,24,17,10
+startActivity,cn/domob/android/ads/DomobInApp$4,android.intent.action.VIEW,external,57,17,15
+startActivity,cn/domob/android/ads/DomobInApp$5,android.intent.action.VIEW,external,57,17,15
+startActivity,cn/domob/android/ads/DomobInApp$5,android.intent.action.VIEW,external,57,17,15
+startActivity,cn/domob/android/ads/DomobInApp$5,android.intent.action.VIEW,external,57,17,15
+startActivity,cn/domob/android/ads/DomobInApp,android.intent.action.VIEW,external,57,30,20
+startActivity,com/chessquare/cchess/ui/BoardActivity,com/chessquare/cchess/ui/SettingsActivity,external,59,81,27
+startActivity,com/chessquare/cchess/ui/BoardActivity,com/chessquare/cchess/commonui/Help,external,59,81,27

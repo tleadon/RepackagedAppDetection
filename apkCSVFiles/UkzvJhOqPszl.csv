@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_TASKS]-,1,0
+startActivity,com/openfeint/internal/d,android.intent.action.PICK,external,157,183,2
+startActivityForResult,com/openfeint/internal/d,android.intent.action.PICK,external,157,183,2
+startActivity,com/openfeint/internal/k,com/openfeint/internal/ui/IntroFlow,external,159,208,2
+startActivity,com/openfeint/internal/o,null,external,159,208,2
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,185,306,3
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,185,306,3
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,185,306,4
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,185,306,4
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,185,306,4
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,185,306,4
+startActivity,de/hms/xconstruction/BuildAct,de/hms/xconstruction/ScoreExplorer,internal,187,520,44
+startActivityForResult,de/hms/xconstruction/BuildAct,de/hms/xconstruction/ScoreExplorer,internal,187,520,44
+startActivity,de/hms/xconstruction/BuildAct,de/hms/xconstruction/SimulationAct,internal,187,520,44
+startActivityForResult,de/hms/xconstruction/BuildAct,de/hms/xconstruction/SimulationAct,internal,187,520,44
+startActivity,de/hms/xconstruction/BuildAct,de/hms/xconstruction/PreferencesAct,internal,187,520,46
+startActivityForResult,de/hms/xconstruction/BuildAct,de/hms/xconstruction/PreferencesAct,internal,187,520,46
+startActivity,de/hms/xconstruction/CrossConstruct,android.intent.action.VIEW,external,187,526,47
+startActivity,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/BuildAct,external,187,526,47
+startActivityForResult,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/BuildAct,external,187,526,47
+startActivity,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/CrossConstruct,external,187,526,47
+startActivity,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/BuildAct,external,187,526,47
+startActivityForResult,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/BuildAct,external,187,526,47
+startActivity,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/PreferencesAct,external,187,526,49
+startActivityForResult,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/PreferencesAct,external,187,526,49
+startActivity,de/hms/xconstruction/LevelEditorAct,de/hms/xconstruction/BuildAct,external,187,618,59
+startActivityForResult,de/hms/xconstruction/LevelEditorAct,de/hms/xconstruction/BuildAct,external,187,618,59

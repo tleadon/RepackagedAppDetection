@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.DISABLE_KEYGUARD]-[com.android.vending.BILLING]-,1,0
+bindService,air/com/slixmedia/dik/AppEntry$4,null,external,0,0,2
+startActivity,air/com/slixmedia/dik/AppEntry,null,external,0,0,2
+bindService,air/com/slixmedia/dik/AppEntry,com.adobe.air.AIRServiceAction,external,0,0,2
+bindService,c/m/x/a/iab/d,null,external,0,4,29
+bindService,c/m/x/a/iab/d,com.android.vending.billing.InAppBillingService.BIND,external,0,4,29
+startActivity,com/adobe/air/AdobeAIR$1,android.intent.action.VIEW,external,0,8,29
+sendStickyBroadcast,com/adobe/air/AIRService,com.adobe.air.DownloadConfigComplete,external,0,10,37
+sendBroadcast,com/adobe/air/AndroidActivityWrapper,android.intent.action.MAIN,external,2,15,55
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,17,55
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,17,55
+startService,com/adobe/air/AndroidActivityWrapper,com.adobe.air.DownloadConfig,external,2,19,55
+startActivity,com/adobe/air/AndroidMediaManager,image/*,external,17,27,67
+startActivityForResult,com/adobe/air/AndroidMediaManager,image/*,external,17,27,67
+startActivity,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,28,80
+startActivityForResult,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,28,80
+startActivity,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,142,84
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,142,84
+startActivity,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,142,84
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,142,84
+bindService,com/adobe/flashplayer/HDMIUtils,com.motorola.intent.action.externaldisplaystate,external,78,320,103

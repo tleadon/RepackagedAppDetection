@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,0
+startActivity,com/tuan_listview/SplashScreenActivity$1,com/tuan_listview/tuan_listview,external,9,35,4
+startActivity,com/tuan_listview/switcher$1,com/tuan_listview/tuan_listview,external,9,35,5
+startActivity,com/tuan_listview/switcher$1,com/tuan_listview/tuan_listview,external,9,35,5
+startActivity,com/tuan_listview/tuan_listview,com/tuan_listview/FeedWebActivity,external,9,75,10
+startActivityForResult,com/tuan_listview/tuan_listview,com/tuan_listview/FeedWebActivity,external,9,75,10
+startActivity,com/tuan_listview/tuan_listview,com/tuan_listview/switcher,external,9,75,11
+startActivity,com/tuan_listview/tuan_listview,com/tuan_listview/switcher,external,9,75,11

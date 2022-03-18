@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.BILLING]-[android.permission.GET_ACCOUNTS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.READ_SETTINGS]-,1,1
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/facebook/android/b,com.facebook.katana,external,0,14,0
+startActivityForResult,com/facebook/android/b,com.facebook.katana,external,0,14,0
+startActivity,com/facebook/android/d$a,android.intent.action.VIEW,external,0,14,0
+startActivity,com/gotow/hexdefensee/AboutActivity$1,android.intent.action.VIEW,external,0,16,1
+startService,com/gotow/hexdefensee/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,internal,0,16,1
+startService,com/gotow/hexdefensee/billing/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,internal,0,16,1
+startService,com/gotow/hexdefensee/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,internal,0,16,1
+bindService,com/gotow/hexdefensee/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,16,1
+bindService,com/gotow/hexdefensee/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,16,1
+startActivity,com/gotow/hexdefensee/FancyLevelSelectionActivity$8,android.intent.action.VIEW,external,23,18,9
+startActivity,com/gotow/hexdefensee/GameActivity$2$1,android.intent.action.VIEW,external,23,18,12
+startActivity,com/gotow/hexdefensee/GameActivity,com/gotow/hexdefensee/LevelCompleteActivity,external,23,21,13
+startActivityForResult,com/gotow/hexdefensee/GameActivity,com/gotow/hexdefensee/LevelCompleteActivity,external,23,21,13
+startActivity,com/gotow/hexdefensee/GameActivity,com/gotow/hexdefensee/GameActivity,external,23,23,15
+startActivity,com/gotow/hexdefensee/LevelCompleteActivity,com/gotow/hexdefensee/GameActivity,external,25,43,25
+startActivityForResult,com/gotow/hexdefensee/LevelCompleteActivity,com/gotow/hexdefensee/GameActivity,external,25,43,25
+startActivity,com/gotow/hexdefensee/MainMenuActivity$1,com/gotow/hexdefensee/FancyLevelSelectionActivity,external,25,43,29
+startActivityForResult,com/gotow/hexdefensee/MainMenuActivity$1,com/gotow/hexdefensee/FancyLevelSelectionActivity,external,25,43,29
+startActivity,com/gotow/hexdefensee/MainMenuActivity$3,com/scoreloop/client/android/ui/EntryScreenActivity,external,25,43,31
+startActivity,com/gotow/hexdefensee/MainMenuActivity$4,android.intent.action.VIEW,external,25,43,32
+startActivity,com/gotow/hexdefensee/MainMenuActivity,com/gotow/hexdefensee/GameActivity,external,27,43,37
+startActivityForResult,com/gotow/hexdefensee/MainMenuActivity,com/gotow/hexdefensee/GameActivity,external,27,43,37
+startActivity,com/gotow/hexdefensee/MainMenuActivity,brightness_adjustment_enabled,external,27,43,37
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,122,214,50
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,122,214,59
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,122,214,59
+startActivity,com/scoreloop/client/android/ui/component/entry/EntryListActivity,com/gotow/hexdefensee/LeaderboardChooserActivity,internal,122,214,66
+startActivityForResult,com/scoreloop/client/android/ui/component/entry/EntryListActivity,com/gotow/hexdefensee/LeaderboardChooserActivity,internal,122,214,66
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,122,214,75
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,124,215,88
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,124,215,88
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,124,217,104
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,124,217,127

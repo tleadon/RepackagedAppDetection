@@ -1,0 +1,25 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,com/applovin/impl/adview/ah,com/applovin/adview/AppLovinInterstitialActivity,external,0,2,0
+startActivity,com/applovin/impl/adview/x,android.intent.action.VIEW,external,0,2,1
+startActivity,com/applovin/impl/adview/x,android.intent.action.VIEW,external,0,2,1
+startActivity,com/applovin/impl/adview/x,android.intent.action.VIEW,external,0,2,1
+startService,com/applovin/sdk/AppLovinBootReceiver,com/applovin/sdk/AppLovinService,external,14,115,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,15,117,1
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,15,117,1
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,27,149,3
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,31,158,9
+sendBroadcast,com/maxdroid/gilmore/gilmore,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,49,176,141
+startService,com/tapcontext/analytics/tcmetrics/TapContextAPI$PeopleImpl,sender,external,59,215,145
+startActivity,com/tapcontext/BannerAdView,android.intent.action.VIEW,external,93,229,145
+startActivity,com/tapcontext/BannerAdView,android.intent.action.VIEW,external,93,229,145
+startActivity,com/tapcontext/BannerAdView,android.intent.action.VIEW,external,93,229,145
+startActivity,com/tapcontext/MraidAdView$AdWebViewClient,android.intent.action.VIEW,external,135,279,149
+startActivity,com/tapcontext/MraidAdView,com.mopub.intent.extra.AD_CLICK_DATA,external,152,279,149
+startActivity,com/tapcontext/MraidAdView,android.intent.action.VIEW,external,152,279,149
+startActivity,com/tapcontext/MraidAdView,android.intent.action.VIEW,external,152,279,149
+startActivity,com/tapcontext/ScanAd$1,android.intent.action.VIEW,external,165,279,149
+startActivity,com/tapcontext/ScanAd$ScanJSInterface,android.intent.action.VIEW,external,165,279,150
+startService,com/tapcontext/TapContextReceiver,com/tapcontext/TapContextService,external,187,279,153
+startActivity,com/tapcontext/TapContextSDK$1,com/tapcontext/TapContextActivity,external,187,279,153
+startActivity,com/tapcontext/TapContextService$6,null,external,187,279,153

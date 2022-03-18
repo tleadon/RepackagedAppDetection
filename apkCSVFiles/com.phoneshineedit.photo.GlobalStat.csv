@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.CAMERA]-[android.permission.VIBRATE]-[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.SET_WALLPAPER]-,1,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,15,0
+startActivity,com/google/ads/AdActivity,Launching an intent from AdActivity: ,external,0,15,1
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,11,45,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,15,54,8
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient$AnalyticsServiceConnection,null,external,30,68,13
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,30,68,13
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,30,68,13
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,30,68,13
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,30,68,13
+startActivity,com/google/analytics/tracking/android/EasyTracker,null,external,30,71,13
+startActivity,com/phoneshine/common/MyMedia,com.android.camera.action.CROP,external,67,130,16
+startActivityForResult,com/phoneshine/common/MyMedia,com.android.camera.action.CROP,external,67,130,16
+startActivity,com/phoneshine/common/MyMedia,android.intent.action.PICK,external,77,147,16
+startActivityForResult,com/phoneshine/common/MyMedia,android.intent.action.PICK,external,77,147,16
+startActivity,com/phoneshine/common/MyMedia,android.media.action.IMAGE_CAPTURE,external,77,147,16
+startActivityForResult,com/phoneshine/common/MyMedia,android.media.action.IMAGE_CAPTURE,external,77,147,16
+sendBroadcast,com/phoneshineedit/photo/CollageContents,android.intent.action.MEDIA_MOUNTED,external,109,282,39
+startActivity,com/phoneshineedit/photo/CropImageActivity,com/phoneshineedit/photo/ModifyActivity,internal,109,288,40
+startActivity,com/phoneshineedit/photo/HomeActivity$3,com/phoneshineedit/photo/PhotoGalleryActivity,external,109,300,43
+startActivity,com/phoneshineedit/photo/HomeActivity$4,android.intent.action.VIEW,external,109,300,44
+startActivity,com/phoneshineedit/photo/HomeActivity$5,android.intent.action.VIEW,external,109,300,45
+startActivity,com/phoneshineedit/photo/HomeActivity$6,com/phoneshineedit/photo/ModifyActivity,external,109,300,45
+startActivityForResult,com/phoneshineedit/photo/HomeActivity$6,com/phoneshineedit/photo/ModifyActivity,external,109,300,45
+startActivity,com/phoneshineedit/photo/HomeActivity,com/phoneshineedit/photo/ModifyActivity,external,109,324,45
+startActivityForResult,com/phoneshineedit/photo/HomeActivity,com/phoneshineedit/photo/ModifyActivity,external,109,324,45
+startActivity,com/phoneshineedit/photo/HomeActivity,com/phoneshineedit/photo/CropImageActivity,external,109,324,45
+startActivityForResult,com/phoneshineedit/photo/HomeActivity,com/phoneshineedit/photo/CropImageActivity,external,109,324,45
+sendBroadcast,com/phoneshineedit/photo/HomeActivity,com.android.launcher.action.INSTALL_SHORTCUT,external,109,324,45
+startActivity,com/phoneshineedit/photo/ModifyActivity$7,android.intent.action.SEND,external,109,341,60
+startActivity,com/phoneshineedit/photo/PhotoGalleryActivity$2,com/phoneshineedit/photo/PhotoSelectActivity,external,109,361,67
+startActivityForResult,com/phoneshineedit/photo/PhotoGalleryActivity$2,com/phoneshineedit/photo/PhotoSelectActivity,external,109,361,67
+startActivity,com/phoneshineedit/photo/PhotoSelectActivity$PhotoAdapter$1,com/phoneshineedit/photo/CropImageActivity,external,109,365,70

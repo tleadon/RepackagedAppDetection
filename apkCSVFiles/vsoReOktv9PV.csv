@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_LOGS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[com.android.vending.CHECK_LICENSE]-,1,1
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/masshabit/squibble/MainButtonPanel,android.intent.action.VIEW,external,72,107,14
+startActivity,com/masshabit/squibble/UpsellScreen,android.intent.action.VIEW,external,72,116,25
+bindService,de/androidpit/licensing/AndroidPitLicenseChecker,de.androidpit.app.services.ILicenseService,external,72,116,26
+bindService,de/androidpit/licensing/AndroidPitLicenseChecker,de.androidpit.app.services.ILicenseService,external,72,116,26

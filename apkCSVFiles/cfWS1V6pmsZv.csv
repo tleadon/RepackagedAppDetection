@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,2,25,4
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,2,25,4
+startActivity,com/heyzap/sdk/PreMarketDialog$1,android.intent.action.VIEW,external,2,25,9
+startActivity,com/heyzap/sdk/WebViewDialog$HeyzapJavascriptBindings,android.intent.action.VIEW,external,2,25,10
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixBrowser$1,android.intent.action.VIEW,external,88,106,14
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,android.intent.action.VIEW,external,88,106,16
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,url,external,88,106,16
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixVideoView$ButtonOnClickListener,android.intent.action.VIEW,external,88,106,18
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,88,106,31
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,android.intent.action.VIEW,external,88,106,31
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,cachedHTML,external,88,106,31
+startActivity,com/mobclix/android/sdk/MobclixCreative$HTMLPage$1,android.intent.action.VIEW,external,88,106,31
+startActivity,com/naviarts/mahjonggde/MahjonggActivity,android.intent.action.VIEW,external,88,116,49
+startActivity,com/naviarts/mahjonggde/MahjonggActivity,com/naviarts/mahjonggde/HelpActivity,external,88,116,49
+startActivity,com/naviarts/mahjonggde/WelcomeDialog,android.intent.action.VIEW,external,88,116,56

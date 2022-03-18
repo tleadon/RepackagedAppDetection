@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.PERSISTENT_ACTIVITY]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,com/rhomobile/rhodes/alert/PopupActivity,com/rhomobile/rhodes/alert/PopupActivity,internal,0,2,1
+startActivity,com/rhomobile/rhodes/alert/PopupActivity,com/rhomobile/rhodes/alert/PopupActivity,internal,0,2,1
+startService,com/rhomobile/rhodes/BaseActivity,com/rhomobile/rhodes/RhodesService,external,0,4,1
+bindService,com/rhomobile/rhodes/BaseActivity,com/rhomobile/rhodes/RhodesService,external,0,6,1
+bindService,com/rhomobile/rhodes/BaseActivity,com/rhomobile/rhodes/RhodesService,external,0,6,1
+startActivity,com/rhomobile/rhodes/bluetooth/RhoBluetoothManagerNew$5,com/rhomobile/rhodes/bluetooth/RhoBluetoothDeviceListActivity,external,0,6,3
+startActivity,com/rhomobile/rhodes/bluetooth/RhoBluetoothManagerNew$6,android.bluetooth.adapter.action.REQUEST_DISCOVERABLE,external,0,6,3
+startActivity,com/rhomobile/rhodes/camera/Camera$Picture,com.rhomobile.rhodes.camera.callback,external,0,18,3
+startActivity,com/rhomobile/rhodes/datetime/DateTimePicker,com/rhomobile/rhodes/datetime/DateTimePickerScreen,internal,8,46,12
+startActivity,com/rhomobile/rhodes/mapview/MapView,com/rhomobile/rhodes/mapview/MapView,internal,161,213,48
+startService,com/rhomobile/rhodes/PushReceiver,com/rhomobile/rhodes/RhodesService,external,238,215,48
+startService,com/rhomobile/rhodes/PushReceiver,com/rhomobile/rhodes/RhodesService,external,238,215,48
+startService,com/rhomobile/rhodes/PushService,sender,external,238,215,48
+startActivity,com/rhomobile/rhodes/RhodesService$8$1,android.intent.action.VIEW,external,238,224,55
+startActivity,com/rhomobile/rhodes/RhodesService,com/rhomobile/rhodes/RhodesActivity,internal,238,235,55
+startActivity,com/rhomobile/rhodes/RhodesService,com/rhomobile/rhodes/RhodesActivity,internal,242,275,55
+startActivity,com/rhomobile/rhodes/RhodesService,&,internal,242,275,55
+startActivity,com/rhomobile/rhodes/RhodesService,android.intent.action.DELETE,internal,242,275,55
+startActivity,com/rhomobile/rhodes/RhodesService,com.rhomobile.rhodes.DownloadManager.ACTION_CANCEL_DOWNLOAD,internal,242,290,55
+startActivity,com/rhomobile/rhodes/RhodesService,com.rhomobile.rhodes.DownloadManager.ACTION_CANCEL_DOWNLOAD,internal,242,290,55
+startActivity,com/rhomobile/rhodes/signature/Signature$Picture,com.rhomobile.rhodes.signature.callback,external,242,297,60
+startActivity,com/rhomobile/rhodes/uri/ExternalHttpHandler,null,external,242,348,63
+startActivity,com/rhomobile/rhodes/uri/LocalFileHandler,null,external,242,352,63
+startActivity,com/rhomobile/rhodes/uri/MailUriHandler,null,external,242,352,63
+startActivity,com/rhomobile/rhodes/uri/SmsUriHandler,android.intent.action.SENDTO,external,242,352,63
+startActivity,com/rhomobile/rhodes/uri/TelUriHandler,android.intent.action.DIAL,external,242,352,63
+startActivity,com/rhomobile/rhodes/uri/VideoUriHandler,android.intent.action.VIEW,external,242,352,63

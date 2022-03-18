@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/appmk/book/scrollbook/ShowMatter,com/appmk/book/scrollbook/Catalog,external,25,35,12
+startActivityForResult,com/appmk/book/scrollbook/ShowMatter,com/appmk/book/scrollbook/Catalog,external,25,35,12
+startActivity,com/appmk/book/scrollbook/ShowMatter,com/appmk/book/scrollbook/Config,external,25,35,12
+startActivity,com/appmk/book/scrollbook/ShowMatter,com/appmk/book/scrollbook/Cover,external,25,35,12
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,25,92,18
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,25,92,19

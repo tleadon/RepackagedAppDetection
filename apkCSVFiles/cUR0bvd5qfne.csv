@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,1
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,11
+startActivity,com/casee/adsdk/AdClickListener,android.intent.action.VIEW,external,33,53,16
+startActivity,com/juduomi/JuduomiLayout,android.intent.action.VIEW,external,69,187,19
+startActivity,com/millennialmedia/android/MMAdView$3,android.intent.action.VIEW,external,106,216,19
+startActivity,com/millennialmedia/android/MMAdView,android.intent.action.VIEW,external,109,216,19
+startActivity,com/millennialmedia/android/MMAdView,com/millennialmedia/android/MMAdViewOverlayActivity,external,109,216,19
+startActivityForResult,com/millennialmedia/android/MMAdView,com/millennialmedia/android/MMAdViewOverlayActivity,external,109,216,19
+startActivity,com/tuan_listview/SplashScreenActivity$1,com/tuan_listview/tuan_listview,external,153,251,24
+startActivity,com/tuan_listview/switcher$1,com/tuan_listview/tuan_listview,external,153,251,25
+startActivity,com/tuan_listview/switcher$1,com/tuan_listview/tuan_listview,external,153,251,25
+startActivity,com/tuan_listview/tuan_listview$4,com/tuan_listview/switcher,external,153,251,31
+startActivity,com/tuan_listview/tuan_listview$TuanArrayAdapter$2,com/tuan_listview/FeedWebActivity,external,153,251,35
+startActivityForResult,com/tuan_listview/tuan_listview$TuanArrayAdapter$2,com/tuan_listview/FeedWebActivity,external,153,251,35
+startActivity,com/tuan_listview/tuan_listview,com/tuan_listview/FeedWebActivity,external,153,291,36
+startActivityForResult,com/tuan_listview/tuan_listview,com/tuan_listview/FeedWebActivity,external,153,291,36
+startActivity,com/tuan_listview/tuan_listview,com/tuan_listview/switcher,external,153,291,37
+startActivity,com/tuan_listview/tuan_listview,com/tuan_listview/switcher,external,153,291,37
+startActivity,com/wiyun/ad/a,android.intent.action.VIEW,external,153,291,37
+startActivity,com/wiyun/ad/a,android.intent.action.CALL,external,153,291,37
+startActivity,com/wiyun/ad/a,android.intent.action.SENDTO,external,153,291,37
+startActivity,com/wiyun/ad/a,android.intent.action.VIEW,external,153,291,37
+startActivity,com/wiyun/ad/a,android.intent.action.VIEW,external,153,291,37
+startActivity,com/wiyun/ad/AdView$2,android.intent.action.VIEW,external,153,291,45
+startActivity,net/youmi/android/c,com.uc.browser.intent.action.LOADURL,external,197,631,55
+startActivity,net/youmi/android/k,android.intent.action.VIEW,external,197,631,65
+startActivity,net/youmi/android/l,android.intent.action.VIEW,external,197,631,66

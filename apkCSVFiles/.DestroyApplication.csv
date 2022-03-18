@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,0
+startActivity,com/chartboost/sdk/CBWebViewClient,android.intent.action.VIEW,external,22,42,5
+startActivity,com/chartboost/sdk/ChartBoost,com/chartboost/sdk/CBDialogActivity,external,22,42,5
+startActivity,com/Fluchtpunkt/AppRater$1,android.intent.action.VIEW,external,22,48,6
+startService,com/Fluchtpunkt/Billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,22,48,8
+startService,com/Fluchtpunkt/Billing/BillingReceiver,com.Fluchtpunkt.Billing.GET_PURCHASE_INFORMATION,external,22,48,8
+startService,com/Fluchtpunkt/Billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,22,48,8
+bindService,com/Fluchtpunkt/Billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,22,48,8
+bindService,com/Fluchtpunkt/Billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,22,48,8
+startActivity,com/Fluchtpunkt/iDestroy/DestroyActivity,android.media.action.IMAGE_CAPTURE,external,24,89,10
+startActivityForResult,com/Fluchtpunkt/iDestroy/DestroyActivity,android.media.action.IMAGE_CAPTURE,external,24,89,10
+startActivity,com/Fluchtpunkt/iDestroy/DestroyActivity,android.intent.action.PICK,external,24,89,10
+startActivityForResult,com/Fluchtpunkt/iDestroy/DestroyActivity,android.intent.action.PICK,external,24,89,10
+startActivity,com/Fluchtpunkt/iDestroy/DestroyActivity,android.intent.action.SEND,external,31,97,16
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,48,108,21
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,48,108,22
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,48,108,22
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,48,108,22
+startActivity,com/tapjoy/TapjoyDisplayAd$2,android.intent.action.VIEW,external,75,114,24
+startActivity,com/tapjoy/TapjoyFeaturedApp,com/tapjoy/TapjoyFeaturedAppWebView,internal,75,122,24
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,75,122,24
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,75,122,24
+startActivity,com/tapjoy/TapjoyFeaturedAppWebView,com/tapjoy/TJCOffersWebView,internal,75,122,24
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,85,125,24
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,85,125,24
+startActivity,com/tapjoy/TJCOffersWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,85,125,25
+startActivity,com/tapjoy/TJCOffersWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,85,125,25

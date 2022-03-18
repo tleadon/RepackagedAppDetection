@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-,0,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,6,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,6,1
+startActivity,com/tekciz/tvshow/activity/main/tab/forus/ForUsActivity,android.intent.action.SEND,internal,8,40,16
+startActivity,com/tekciz/tvshow/activity/main/tab/listvideo/ListVideoActivity$2,android.intent.action.VIEW,external,8,40,19
+startActivity,com/tekciz/tvshow/activity/main/tab/newvideo/NewVideoActivity,android.intent.action.VIEW,external,8,40,22
+startActivity,com/tekciz/tvshow/activity/startup/SplashActivity$1,com/tekciz/tvshow/activity/main/MainActivity,external,8,40,23
+startActivity,com/tekciz/tvshow/activity/startup/SplashActivity$1,com/tekciz/tvshow/activity/main/MainActivity,external,8,40,23
+startActivity,com/tekciz/tvshow/activity/startup/SplashActivity$1,com/tekciz/tvshow/activity/main/MainActivity,external,8,40,23
+startActivity,com/tekciz/tvshow/activity/TabGroupActivity,null,external,8,40,23
+startActivity,com/tekciz/tvshow/activity/TabGroupActivity,null,external,8,40,29

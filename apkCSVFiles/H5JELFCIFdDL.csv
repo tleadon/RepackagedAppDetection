@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,10
+startActivity,com/mfavez/android/feedgoal/FeedItemActivity$2,android.intent.action.VIEW,external,88,61,17
+startActivity,com/mfavez/android/feedgoal/FeedItemActivity,com/mfavez/android/feedgoal/FeedWebActivity,external,88,61,24
+startActivity,com/mfavez/android/feedgoal/FeedItemActivity,com/mfavez/android/feedgoal/FeedItemActivity,external,88,61,26
+startActivity,com/mfavez/android/feedgoal/FeedItemActivity,com/mfavez/android/feedgoal/FeedItemActivity,external,88,61,26
+startActivity,com/mfavez/android/feedgoal/FeedItemActivity,android.intent.action.SEND,external,88,61,26
+startActivity,com/mfavez/android/feedgoal/FeedItemActivity,com/mfavez/android/feedgoal/FeedTabActivity,external,88,61,27
+startActivity,com/mfavez/android/feedgoal/FeedItemActivity,com/mfavez/android/feedgoal/FeedTabActivity,external,88,61,27
+startActivity,com/mfavez/android/feedgoal/FeedItemActivity,com/mfavez/android/feedgoal/FeedTabActivity,external,88,61,27
+startActivity,com/mfavez/android/feedgoal/FeedTabActivity,android.intent.action.SEND,external,88,61,36
+startActivity,com/mfavez/android/feedgoal/FeedTabActivity,com/mfavez/android/feedgoal/FeedWebActivity,external,88,61,37
+startActivityForResult,com/mfavez/android/feedgoal/FeedTabActivity,com/mfavez/android/feedgoal/FeedWebActivity,external,88,61,37
+startActivity,com/mfavez/android/feedgoal/FeedTabActivity,com/mfavez/android/feedgoal/FeedWebActivity,external,88,61,38
+startActivity,com/mfavez/android/feedgoal/FeedTabActivity,com/mfavez/android/feedgoal/FeedWebActivity,external,88,61,38
+startActivity,com/mfavez/android/feedgoal/FeedWebActivity,com/mfavez/android/feedgoal/FeedWebActivity,external,88,61,46
+startActivity,com/mfavez/android/feedgoal/FeedWebActivity,com/mfavez/android/feedgoal/FeedWebActivity,external,88,61,46
+startActivity,com/mfavez/android/feedgoal/FeedWebActivity,android.intent.action.SEND,external,88,61,46
+startActivity,com/mfavez/android/feedgoal/FeedWebActivity,com/mfavez/android/feedgoal/FeedTabActivity,external,88,61,51
+startActivity,com/mfavez/android/feedgoal/FeedWebActivity,com/mfavez/android/feedgoal/FeedTabActivity,external,88,61,51
+startActivity,com/mfavez/android/feedgoal/FeedWebActivity,com/mfavez/android/feedgoal/FeedTabActivity,external,88,61,51
+startActivity,com/mfavez/android/feedgoal/SplashScreenActivity$1,com/mfavez/android/feedgoal/FeedTabActivity,external,88,61,51
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixBrowser$1,android.intent.action.VIEW,external,234,226,51
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,android.intent.action.VIEW,external,234,226,54
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixOfferView$1,url,external,234,226,54
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixVideoView$ButtonOnClickListener,android.intent.action.VIEW,external,234,226,56
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,234,226,73
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,234,226,73
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,android.intent.action.VIEW,external,234,226,73
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,cachedHTML,external,234,226,73
+startActivity,com/mobclix/android/sdk/MobclixCreative$HTMLPage$1,android.intent.action.VIEW,external,234,228,74

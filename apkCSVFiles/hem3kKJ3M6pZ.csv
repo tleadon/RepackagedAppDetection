@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,1
+startActivity,com/a/a/g,com.facebook.katana,external,0,4,0
+startActivityForResult,com/a/a/g,com.facebook.katana,external,0,4,0
+startActivity,com/a/a/l,android.intent.action.VIEW,external,0,28,0
+startActivity,com/doodlemobile/gamecenter/DMTabHost$IntentContentStrategy,null,external,13,152,11
+startActivity,com/doodlemobile/gamecenter/FeatureView$1,null,external,91,233,16
+startActivity,com/doodlemobile/gamecenter/FeatureView$2,null,external,91,233,17
+startActivity,com/doodlemobile/gamecenter/GameCenterActivity,com.android.camera.action.CROP,internal,91,233,22
+startActivityForResult,com/doodlemobile/gamecenter/GameCenterActivity,com.android.camera.action.CROP,internal,91,233,22
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$1,com/doodlemobile/gamecenter/GameCenterActivity,external,91,233,29
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$2,com/doodlemobile/gamecenter/GameCenterActivity,external,91,233,30
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$3,com/doodlemobile/gamecenter/GameCenterActivity,external,91,233,31
+startActivity,com/doodlemobile/gamecenter/ProfileView,android.media.action.IMAGE_CAPTURE,external,91,234,38
+startActivityForResult,com/doodlemobile/gamecenter/ProfileView,android.media.action.IMAGE_CAPTURE,external,91,234,38
+startActivity,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,91,234,38
+startActivityForResult,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,91,234,38
+startActivity,com/doodlemobile/gamecenter/PromoteDialog$1,null,external,91,234,39
+startActivity,com/doodlemobile/gamecenter/UserInfoView$UserInfoAdapter$1,android.intent.action.VIEW,external,91,234,43
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,126,294,46
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,126,294,46
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,129,294,47
+startActivity,com/forthblue/diknkylzyl/a,com/doodlemobile/gamecenter/GameCenterActivity,external,129,311,47
+startActivityForResult,com/forthblue/diknkylzyl/a,com/doodlemobile/gamecenter/GameCenterActivity,external,129,311,47
+startActivity,com/forthblue/diknkylzyl/a,com/doodlemobile/gamecenter/GameCenterActivity,external,129,311,47
+startActivityForResult,com/forthblue/diknkylzyl/a,com/doodlemobile/gamecenter/GameCenterActivity,external,129,311,47

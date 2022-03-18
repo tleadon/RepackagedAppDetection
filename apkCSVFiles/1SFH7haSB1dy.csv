@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,1,0
+bindService,com/magmon/Almostx/GoogleBilling,com.android.vending.billing.InAppBillingService.BIND,external,4,27,0
+bindService,com/magmon/Almostx/GoogleBilling,com.android.vending.billing.InAppBillingService.BIND,external,4,27,0
+bindService,com/magmon/Almostx/GoogleBilling,com.android.vending.billing.InAppBillingService.BIND,external,4,27,0
+bindService,com/nhn/android/appstore/iap/payment/NIAPActivity,com.nhn.android.appstore.iap.service.NIAPService,external,4,27,0
+bindService,com/nhn/android/appstore/iap/payment/NIAPActivity,com.nhn.android.appstore.iap.service.NIAPService,external,4,27,0
+startActivity,com/nhn/android/appstore/iap/util/NIAPAlertDialog$1,android.intent.action.VIEW,external,4,29,1
+startActivity,com/nhn/android/appstore/iap/util/NIAPAlertDialog$3,android.intent.action.VIEW,external,4,29,3
+startActivity,com/skplanet/dodo/IapWeb$2,com.skt.skaf.A000Z00040,external,4,49,5
+startActivity,com/skplanet/dodo/IapWeb$3,android.intent.action.VIEW,external,4,49,5
+startActivity,com/skplanet/dodo/IapWeb$3,android.intent.action.VIEW,external,4,49,5
+bindService,com/skplanet/dodo/IapWeb,com.tmoney.action.TMONEY_INBILLING_SERVICE,external,4,49,5
+bindService,com/skplanet/dodo/IapWeb,com.tmoney.action.TMONEY_INBILLING_SERVICE,external,4,51,5
+sendBroadcast,com/skplanet/internal/dodo/dodo048,null,external,4,52,9
+startActivity,com/skplanet/internal/dodo/dodo048,null,external,4,52,9
+startActivity,com/skplanet/internal/dodo/dodo048,null,external,4,52,9
+startActivityForResult,com/skplanet/internal/dodo/dodo048,null,external,4,52,9
+startActivity,com/skplanet/internal/dodo/dodo048,null,external,8,71,9
+sendBroadcast,com/skplanet/internal/dodo/dodo048,null,external,8,71,9
+startActivity,com/skplanet/internal/dodo/dodo048,null,external,8,71,9
+startActivityForResult,com/skplanet/internal/dodo/dodo048,null,external,8,71,9
+startActivity,org/cocos2dx/lib/Cocos2dxActivity,android.intent.action.VIEW,external,12,141,10

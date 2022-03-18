@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.RECORD_AUDIO]-,1,1
+startService,ly/pp/justpianosysyrtiu/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,27,105,21
+startService,ly/pp/justpianosysyrtiu/BillingReceiver,com.cat.pianocnperfect.GET_PURCHASE_INFORMATION,external,27,105,21
+startService,ly/pp/justpianosysyrtiu/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,27,105,21
+bindService,ly/pp/justpianosysyrtiu/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,27,105,21
+bindService,ly/pp/justpianosysyrtiu/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,27,105,21
+startActivity,ly/pp/justpianosysyrtiu/cu,android.intent.action.VIEW,external,29,116,43
+startActivity,ly/pp/justpianosysyrtiu/cu,ly/pp/justpianosysyrtiu/AudioPlayerFloatingActivity,external,29,116,43
+startActivity,ly/pp/justpianosysyrtiu/da,android.intent.action.SEND,external,29,126,48
+startActivity,ly/pp/justpianosysyrtiu/do,android.intent.action.VIEW,external,29,128,57
+bindService,ly/pp/justpianosysyrtiu/DownloadMoreSongsActivity,ly/pp/justpianosysyrtiu/DownloadService,external,29,135,59
+bindService,ly/pp/justpianosysyrtiu/DownloadMoreSongsActivity,ly/pp/justpianosysyrtiu/DownloadService,external,29,135,59
+startActivity,ly/pp/justpianosysyrtiu/du,android.intent.action.VIEW,external,29,139,71
+startActivity,ly/pp/justpianosysyrtiu/dv,android.intent.action.SEND,external,29,139,72
+startActivity,ly/pp/justpianosysyrtiu/ed,ly/pp/justpianosysyrtiu/MainWindow,external,29,139,77
+startActivity,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/SongsListActivity,external,29,143,79
+startActivityForResult,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/SongsListActivity,external,29,143,79
+startActivity,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/FileManagerActivity,external,29,143,79
+startActivityForResult,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/FileManagerActivity,external,29,143,79
+startActivity,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/FileManagerActivity,external,29,143,79
+startActivityForResult,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/FileManagerActivity,external,29,143,79
+startActivity,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/HelpActivity,external,29,143,79
+startActivity,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/DownloadMoreSongsActivity,external,29,143,79
+startActivity,ly/pp/justpianosysyrtiu/LearnModeActivity,ly/pp/justpianosysyrtiu/Settings,external,29,143,79
+startActivity,ly/pp/justpianosysyrtiu/MainWindow,ly/pp/justpianosysyrtiu/HelpActivity,external,29,143,85
+startActivityForResult,ly/pp/justpianosysyrtiu/MainWindow,ly/pp/justpianosysyrtiu/HelpActivity,external,29,143,85
+startActivity,ly/pp/justpianosysyrtiu/MainWindow,ly/pp/justpianosysyrtiu/Settings,external,29,143,85
+startActivity,ly/pp/justpianosysyrtiu/MainWindow,ly/pp/justpianosysyrtiu/LearnModeActivity,external,29,143,85
+startActivity,ly/pp/justpianosysyrtiu/MainWindow,ly/pp/justpianosysyrtiu/RecordingsListActivity,external,29,143,85
+startActivityForResult,ly/pp/justpianosysyrtiu/MainWindow,ly/pp/justpianosysyrtiu/RecordingsListActivity,external,29,143,85
+startActivity,ly/pp/justpianosysyrtiu/MainWindow,android.intent.action.VIEW,external,29,143,85
+startActivity,ly/pp/justpianosysyrtiu/RecordingsListActivity,android.intent.action.VIEW,external,29,146,94
+startActivity,ly/pp/justpianosysyrtiu/RecordingsListActivity,ly/pp/justpianosysyrtiu/AudioPlayerFloatingActivity,external,29,146,94
+startActivity,ly/pp/justpianosysyrtiu/RecordingsListActivity,ly/pp/justpianosysyrtiu/FileManagerActivity,external,29,146,95
+startActivityForResult,ly/pp/justpianosysyrtiu/RecordingsListActivity,ly/pp/justpianosysyrtiu/FileManagerActivity,external,29,146,95
+startActivity,ly/pp/justpianosysyrtiu/SongsListActivity,ly/pp/justpianosysyrtiu/DownloadMoreSongsActivity,external,29,146,97

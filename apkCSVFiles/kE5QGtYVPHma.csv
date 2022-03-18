@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,1,0
+bindService,com/umeng/common/net/a$b,null,external,43,72,4
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,43,72,4
+startActivity,com/umeng/common/net/d$b,android.intent.action.VIEW,external,67,81,4
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,75,155,4
+startActivity,com/umeng/common/util/h,null,external,81,287,4
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,81,287,4

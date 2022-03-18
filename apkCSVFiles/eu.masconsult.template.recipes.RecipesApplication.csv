@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,android/support/v4/app/ae,NavUtils,external,4,23,0
+startActivities,android/support/v4/app/av,null,external,4,23,0
+startActivities,android/support/v4/app/av,null,external,4,23,0
+startActivity,android/support/v4/app/g,null,external,4,31,6
+startActivityForResult,android/support/v4/app/g,null,external,4,31,6
+startActivity,android/support/v7/internal/view/menu/t,null,external,4,55,35
+startActivity,android/support/v7/widget/SearchView,calling_package,external,8,93,62
+startActivity,android/support/v7/widget/SearchView,calling_package,external,8,94,62
+startActivity,android/support/v7/widget/SearchView,calling_package,external,8,94,68
+startActivity,android/support/v7/widget/SearchView,calling_package,external,8,94,68
+bindService,com/google/analytics/tracking/android/b,com.google.android.gms.analytics.service.START,external,46,276,73
+bindService,com/google/analytics/tracking/android/b,com.google.android.gms.analytics.service.START,external,46,276,73
+bindService,com/google/analytics/tracking/android/b,com.google.android.gms.analytics.service.START,external,46,276,73
+bindService,com/google/analytics/tracking/android/c,null,external,53,279,73
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,53,279,73
+sendBroadcast,com/google/analytics/tracking/android/v,com.google.analytics.RADIO_POWERED,external,53,295,73
+bindService,com/google/android/gms/ads/b/a,null,external,53,295,73
+bindService,com/google/android/gms/ads/b/a,null,external,53,295,73
+bindService,com/google/android/gms/ads/b/a,com.google.android.gms.ads.identifier.service.START,external,53,295,73
+startActivity,com/google/android/gms/internal/bx,android.intent.action.VIEW,external,53,300,73
+startActivity,com/google/android/gms/internal/ca,com.google.android.gms.ads.AdActivity,external,53,300,73
+startActivity,com/google/android/gms/internal/et,android.intent.action.VIEW,external,65,311,74
+startActivity,com/google/android/gms/internal/eu,null,external,65,311,76
+startActivity,com/google/android/gms/internal/eu,null,external,65,311,76
+bindService,com/google/android/gms/internal/gh,com.google.android.gms,external,65,319,81
+startService,com/google/android/gms/internal/gh,com.google.android.gms,external,65,319,81
+bindService,com/google/android/gms/internal/gh,com.google.android.gms,external,65,319,81
+startService,com/google/android/gms/internal/gh,com.google.android.gms,external,65,319,81
+bindService,com/google/android/gms/internal/gh,com.google.android.gms,external,65,319,81
+startService,com/robotoworks/mechanoid/ops/v,null,external,133,357,81
+startActivity,eu/masconsult/template/recipes/fragment/a,android.intent.action.SEND,external,147,369,81
+startService,eu/masconsult/template/recipes/RecipesApplication,null,internal,151,371,81
+startActivity,eu/masconsult/template/recipes/ui/RecipeItemListActivity,eu/masconsult/template/recipes/ui/RecipeItemDetailActivity,external,151,371,83
+startService,eu/masconsult/template/recipes/ui/RecipeItemListActivity,eu/masconsult/template/recipes/ui/RecipeItemDetailActivity,external,151,371,83
+startActivity,eu/masconsult/template/recipes/ui/SplashActivity,eu/masconsult/template/recipes/ui/RecipeItemListActivity,external,151,371,85

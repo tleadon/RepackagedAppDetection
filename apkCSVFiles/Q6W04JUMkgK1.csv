@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,33,505,26
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,33,505,26
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,33,506,26
+startActivity,ru/linkorn/dancingsanta/forms/CameraActivity$2,ru/linkorn/dancingsanta/MainActivity,external,33,536,27
+startActivity,ru/linkorn/dancingsanta/forms/CameraActivity,ru/linkorn/dancingsanta/MainActivity,external,33,536,31
+startActivity,ru/linkorn/dancingsanta/forms/CameraActivity,ru/linkorn/dancingsanta/forms/AboutBox,external,33,536,33
+startActivity,ru/linkorn/dancingsanta/MainActivity,ru/linkorn/dancingsanta/forms/AboutBox,external,33,536,39

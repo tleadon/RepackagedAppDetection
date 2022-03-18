@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_LOGS]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,0,13,0
+startService,com/android/util/counter/CounterReceiver,com/test/httputil/HttpUtilService,internal,0,13,0
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,64,24,2
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,64,24,2
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,64,24,4
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,64,24,5
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,64,24,5
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,64,24,5
+startService,com/jb/inAppBilling/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,83,30,6
+startService,com/jb/inAppBilling/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,83,30,6
+startService,com/jb/inAppBilling/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,83,30,6
+bindService,com/jb/inAppBilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,83,30,6
+bindService,com/jb/inAppBilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,83,30,6
+startActivity,com/jb/spikeBear/spikeBear,android.intent.action.VIEW,external,109,32,7
+startActivity,com/jb/spikeBear/spikeBear,android.intent.action.VIEW,external,109,32,7
+startActivity,com/jb/spikeBear/VideoPlay,com/jb/spikeBear/VideoPlay,external,109,32,9
+startActivity,com/jb/spikeBear/VideoPlay,com/jb/spikeBear/spikeBear,external,109,32,10
+startActivity,com/openfeint/internal/BaseActionInvoker,action,external,151,58,21
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,260,124,24
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,260,124,24
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,260,150,24
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,260,150,24
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,274,411,25
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,274,411,25
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,274,411,26
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,274,411,26
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,274,411,26
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,274,411,26
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,453,1033,35
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,453,1033,35
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,453,1033,35

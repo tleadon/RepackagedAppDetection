@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_TASKS]-[android.permission.WAKE_LOCK]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-,1,1
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,6,10,0
+startService,com/android/util/counter/CounterReceiver,com/test/httputil/HttpUtilService,internal,6,10,0
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,26,77,0
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,26,77,0
+bindService,com/xunlei/chess/chess,null,external,57,248,9
+bindService,com/xunlei/chess/chessBoard,null,external,57,248,22
+bindService,com/xunlei/chess/NetServer,com.android.thunder.XLGame.action.XLGameService,external,57,259,29
+bindService,com/xunlei/chess/NetServer,com.android.thunder.XLGame.action.XLGameService,external,57,259,29
+bindService,com/xunlei/chess/NetServer,com.android.thunder.XLGame.action.XLGameService,external,57,259,29

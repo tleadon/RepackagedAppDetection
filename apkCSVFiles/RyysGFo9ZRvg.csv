@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_TASKS]-,0,1
+startActivity,com/prime31/EtceteraPlugin$10,com/prime31/WebViewActivity,external,0,0,0
+startActivity,com/prime31/EtceteraPlugin$11,android.intent.action.SEND,external,0,5,0
+startActivity,com/prime31/EtceteraPlugin$12,android.intent.action.VIEW,external,0,5,0
+startActivity,com/prime31/EtceteraPlugin$13,com/prime31/EtceteraProxyActivity,external,0,5,0
+startActivity,com/prime31/EtceteraPlugin$14,com/prime31/EtceteraProxyActivity,external,0,7,0
+startActivity,com/prime31/EtceteraPlugin$15,com/prime31/EtceteraProxyActivity,external,0,7,0
+startActivity,com/prime31/EtceteraPlugin$2,com/prime31/P31VideoPlayerActivity,external,2,31,0
+startActivity,com/prime31/EtceteraPlugin$24$1,android.intent.action.VIEW,external,2,31,1
+startActivity,com/prime31/EtceteraPlugin$24$1,android.intent.action.VIEW,external,2,31,1
+startActivity,com/prime31/EtceteraPlugin$9,com/prime31/WebViewActivity,external,2,31,11
+startActivity,com/prime31/EtceteraProxyActivity,image/*,internal,16,158,11
+startActivityForResult,com/prime31/EtceteraProxyActivity,image/*,internal,16,158,11
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,16,162,11
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,16,162,11
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.VIDEO_CAPTURE,internal,16,163,11
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.VIDEO_CAPTURE,internal,16,163,11
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,16,177,40
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,16,177,40
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,28,259,43
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,28,259,43
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,28,259,43
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,38,329,70

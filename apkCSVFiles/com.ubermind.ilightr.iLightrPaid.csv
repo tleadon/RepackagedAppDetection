@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECORD_AUDIO]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.CHECK_LICENSE]-,1,1
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/ubermind/ilightr/activity/iLightrActivity$2,android.intent.action.VIEW,external,24,17,2
+startActivity,com/ubermind/ilightr/activity/iLightrActivityBase,com/ubermind/ilightr/activity/PictureOverlayActivity,external,26,17,2
+startActivityForResult,com/ubermind/ilightr/activity/iLightrActivityBase,com/ubermind/ilightr/activity/PictureOverlayActivity,external,26,17,2
+startActivity,com/ubermind/ilightr/activity/iLightrActivityBase,android.intent.action.PICK,external,26,17,2
+startActivityForResult,com/ubermind/ilightr/activity/iLightrActivityBase,android.intent.action.PICK,external,26,17,2
+startActivity,com/ubermind/ilightr/activity/iLightrActivityBase,com/ubermind/ilightr/prefs/SelectCaseActivity,external,26,17,3
+startActivityForResult,com/ubermind/ilightr/activity/iLightrActivityBase,com/ubermind/ilightr/prefs/SelectCaseActivity,external,26,17,3
+startActivity,com/ubermind/ilightr/activity/iLightrActivityBase,com/ubermind/ilightr/prefs/SettingsActivity,external,26,17,3
+startActivityForResult,com/ubermind/ilightr/activity/iLightrActivityBase,com/ubermind/ilightr/prefs/SettingsActivity,external,26,17,3
+startActivity,com/ubermind/ilightr/activity/SplashActivity$1,com/ubermind/ilightr/activity/iLightrActivity,external,26,17,7

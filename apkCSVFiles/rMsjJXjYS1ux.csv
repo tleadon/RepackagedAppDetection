@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[com.android.vending.BILLING]-,1,0
+startActivity,com/centurysoft/unitysmk/SecurePaymentHelper$2,android.intent.action.MAIN,external,0,35,0
+bindService,com/centurysoft/unitysmk/SecurePaymentHelper$3,null,external,0,35,0
+bindService,com/centurysoft/unitysmk/SecurePaymentHelper$3,null,external,0,35,0
+bindService,com/centurysoft/unitysmk/SecurePaymentHelper$3,null,external,0,35,0
+bindService,com/centurysoft/unitysmk/SecurePaymentHelper,com/shengpay/smk/ISFTCheckout,external,0,35,0
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,15,61,0
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.GET_PURCHASE_INFORMATION,external,15,61,0
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,15,61,0
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,15,61,0
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,15,61,0
+bindService,com/prime31/IABPlugin$1,com/prime31/billing/BillingService,external,15,63,0
+bindService,com/prime31/IABPlugin,null,external,15,63,0
+startActivity,com/shengpay/smk/ICheckoutCallback$Stub,null,external,15,63,0
+startActivity,com/shengpay/smk/ICheckoutCallback$Stub,null,external,15,63,0
+startActivity,com/shengpay/smk/SMKHelper$1,android.intent.action.VIEW,external,15,65,1
+bindService,com/unity3d/player/a/e,null,external,15,99,2
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,60,107,10
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,66,125,24

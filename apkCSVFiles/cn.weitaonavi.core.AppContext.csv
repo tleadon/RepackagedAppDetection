@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.READ_PHONE_STATE]-,0,1
+startActivity,android/support/v4/app/FragmentActivity,null,external,2,151,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,2,151,4
+startActivity,cn/weitaonavi/a/d,cn/weitaonavi/ui/TaoDetailActivity,external,2,180,6
+startActivity,cn/weitaonavi/ui/ai,cn/weitaonavi/ui/TaoDetailActivity,external,2,205,16
+startActivity,cn/weitaonavi/ui/bd,cn/weitaonavi/ui/TaoDetailActivity,external,2,205,27
+sendBroadcast,cn/weitaonavi/ui/HomeActivity,HOME,internal,2,205,30
+sendBroadcast,cn/weitaonavi/ui/HomeActivity,RANK,internal,2,205,30
+sendBroadcast,cn/weitaonavi/ui/HomeActivity,RANK,internal,2,205,30
+sendBroadcast,cn/weitaonavi/ui/HomeActivity,SELF,internal,2,205,30
+sendBroadcast,cn/weitaonavi/ui/HomeActivity,MORE,internal,2,205,30
+startActivity,cn/weitaonavi/ui/MainMoreActivity,cn/weitaonavi/ui/TaoLoginActivity,internal,2,205,31
+startActivity,cn/weitaonavi/ui/MainMoreActivity,cn/weitaonavi/ui/MoreFeedbackActivity,internal,2,205,31
+startActivity,cn/weitaonavi/ui/MainMoreActivity,cn/weitaonavi/ui/MoreAboutActivity,internal,2,205,31
+startActivity,cn/weitaonavi/ui/MainMyCenterActivity,cn/weitaonavi/ui/MyCenterDetailActivity,internal,2,205,32
+startActivity,cn/weitaonavi/ui/MainMyCenterActivity,cn/weitaonavi/ui/MyCenterDetailActivity,internal,2,205,32
+startActivity,cn/weitaonavi/ui/MainMyCenterActivity,cn/weitaonavi/ui/MyCenterDetailActivity,internal,2,205,32
+startActivity,cn/weitaonavi/ui/MainMyCenterActivity,cn/weitaonavi/ui/TaoLoginActivity,internal,2,205,32
+startActivity,cn/weitaonavi/ui/MainTypeActivity,cn/weitaonavi/ui/SearchActivity,internal,2,205,34
+startActivity,cn/weitaonavi/ui/n,cn/weitaonavi/ui/TaoDetailActivity,external,2,205,44
+startActivity,cn/weitaonavi/ui/s,cn/weitaonavi/ui/UserInfoActivity,external,2,205,45
+startActivity,cn/weitaonavi/ui/SearchActivity,cn/weitaonavi/ui/SearchUserActivity,internal,2,205,46
+startActivity,cn/weitaonavi/ui/StartActivity,cn/weitaonavi/ui/HomeActivity,external,2,205,51
+startActivity,cn/weitaonavi/ui/v,cn/weitaonavi/ui/TaoDetailActivity,external,8,205,61
+startActivity,cn/weitaonavi/util/a,android.intent.action.VIEW,external,8,242,61
+startActivity,cn/weitaonavi/util/e,android.intent.action.VIEW,external,8,262,64

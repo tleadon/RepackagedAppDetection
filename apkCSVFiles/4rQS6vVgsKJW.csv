@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_SETTINGS]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,13,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,4
+startActivity,android/support/v4/app/Fragment,null,external,0,13,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,4
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,64,13
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,64,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,67,13
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,70,13
+startActivity,android/support/v4/content/IntentCompat,null,external,2,70,13
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,70,13
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,72,13
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,197,41
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,4,197,41
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,229,43
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,238,49
+startActivity,com/WiFiBooster/MS/ExitActivity,android.intent.action.VIEW,external,35,252,61
+startActivity,com/WiFiBooster/MS/MainActivity,com/WiFiBooster/MS/Aboutme,internal,35,252,73
+startActivity,com/WiFiBooster/MS/MainActivity,android.intent.action.VIEW,internal,35,252,73
+startActivity,com/WiFiBooster/MS/MainActivity,com/WiFiBooster/MS/ExitActivity,internal,35,252,77
+sendBroadcast,com/WiFiBooster/MS/MainActivity,android.intent.action.AIRPLANE_MODE,internal,42,252,77
+sendBroadcast,com/WiFiBooster/MS/MainActivity,android.intent.action.AIRPLANE_MODE,internal,49,252,77
+startActivity,com/WiFiBooster/MS/Splashcreen$1,com/WiFiBooster/MS/MainActivity,external,51,252,77

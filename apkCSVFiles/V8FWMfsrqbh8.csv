@@ -1,0 +1,35 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.RECORD_AUDIO]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.CHECK_LICENSE]-,1,0
+bindService,com/android/vending/licensing/t,null,external,0,14,0
+bindService,com/android/vending/licensing/t,com/android/vending/licensing/ILicensingService,external,0,14,0
+startActivity,com/samalyse/tapemachine/a/x,com/samalyse/tapemachine/LicenseActivity,external,0,32,13
+startActivity,com/samalyse/tapemachine/a/x,android.intent.action.VIEW,external,0,32,13
+startActivity,com/samalyse/tapemachine/a/x,android.intent.action.VIEW,external,0,32,13
+startActivity,com/samalyse/tapemachine/a/x,android.intent.action.SEND,external,0,34,13
+startActivity,com/samalyse/tapemachine/ag,com/samalyse/tapemachine/StartActivity,external,0,36,15
+startActivity,com/samalyse/tapemachine/AudioActivity,android.intent.action.SEND,external,0,38,22
+startActivity,com/samalyse/tapemachine/bb,android.intent.action.VIEW,external,2,54,22
+startActivity,com/samalyse/tapemachine/bj,android.intent.action.VIEW,external,4,62,23
+startActivity,com/samalyse/tapemachine/bk,android.intent.action.VIEW,external,4,62,24
+startActivity,com/samalyse/tapemachine/bl,com/samalyse/tapemachine/StartActivity,external,4,62,25
+startActivity,com/samalyse/tapemachine/CodecManagerActivity,android.intent.action.VIEW,external,8,76,28
+startActivity,com/samalyse/tapemachine/CodecManagerActivity,android.intent.action.VIEW,external,8,76,28
+startActivity,com/samalyse/tapemachine/CodecManagerActivity,android.intent.action.VIEW,external,8,76,29
+startActivity,com/samalyse/tapemachine/CreditsActivity,com/samalyse/tapemachine/DynlibActivity,external,10,297,30
+startActivity,com/samalyse/tapemachine/CreditsActivity,android.intent.action.VIEW,external,10,297,30
+startActivity,com/samalyse/tapemachine/DocumentationActivity,com/samalyse/tapemachine/DocumentationActivity,external,10,300,31
+startActivity,com/samalyse/tapemachine/FileBrowserActivity,android.intent.action.GET_CONTENT,external,16,394,39
+startActivityForResult,com/samalyse/tapemachine/FileBrowserActivity,android.intent.action.GET_CONTENT,external,16,394,39
+startService,com/samalyse/tapemachine/k,com/samalyse/tapemachine/engine/IAudioService,external,16,394,40
+bindService,com/samalyse/tapemachine/k,com/samalyse/tapemachine/engine/IAudioService,external,16,394,40
+bindService,com/samalyse/tapemachine/k,com/samalyse/tapemachine/engine/IAudioService,external,16,394,40
+startActivity,com/samalyse/tapemachine/l,com/samalyse/tapemachine/CodecManagerActivity,external,16,394,41
+startActivity,com/samalyse/tapemachine/q,com/samalyse/tapemachine/DynlibActivity,external,16,394,42
+startActivity,com/samalyse/tapemachine/RecorderActivity,android.intent.action.VIEW,external,18,402,43
+startActivity,com/samalyse/tapemachine/RecorderActivity,com/samalyse/tapemachine/FileBrowserActivity,external,18,404,49
+startActivityForResult,com/samalyse/tapemachine/RecorderActivity,com/samalyse/tapemachine/FileBrowserActivity,external,18,404,49
+startActivity,com/samalyse/tapemachine/RecorderActivity,com/samalyse/tapemachine/SettingsActivity,external,18,404,49
+startActivityForResult,com/samalyse/tapemachine/RecorderActivity,com/samalyse/tapemachine/SettingsActivity,external,18,404,49
+startActivity,com/samalyse/tapemachine/RecorderActivity,com/samalyse/tapemachine/CreditsActivity,external,18,404,49
+startActivity,com/samalyse/tapemachine/StartActivity,com/samalyse/tapemachine/RecorderActivity,external,18,406,50
+startActivityForResult,com/samalyse/tapemachine/StartActivity,com/samalyse/tapemachine/RecorderActivity,external,18,406,50

@@ -1,0 +1,32 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_SUPERUSER]-[android.permission.WAKE_LOCK]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.REBOOT]-,1,1
+startActivity,android/support/v4/app/Fragment,null,external,0,8,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,8,2
+startActivity,android/support/v4/app/Fragment,null,external,0,8,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,8,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,11,9
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,11,9
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,11,9
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,11,9
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,11,9
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,11,9
+startActivity,com/actionbarsherlock/internal/view/menu/ActionMenuItem,null,external,0,38,51
+startActivity,com/actionbarsherlock/internal/view/menu/MenuItemImpl,null,external,0,38,60
+startActivity,eu/chainfire/supersu/AppDetailActivity,android.intent.action.MAIN,external,0,48,95
+startActivityForResult,eu/chainfire/supersu/AppDetailActivity,android.intent.action.MAIN,external,0,48,95
+startActivity,eu/chainfire/supersu/LogDetailActivity,android.intent.action.MAIN,external,0,152,108
+startActivityForResult,eu/chainfire/supersu/LogDetailActivity,android.intent.action.MAIN,external,0,152,108
+startActivity,eu/chainfire/supersu/MainActivity$Launch,android.intent.action.MAIN,external,0,179,124
+sendBroadcast,eu/chainfire/supersu/MainActivity,eu.chainfire.supersu.action.UPDATE,external,0,179,124
+startActivity,eu/chainfire/supersu/PINActivity,android.intent.action.MAIN,external,0,191,126
+startActivity,eu/chainfire/supersu/PINActivity,android.intent.action.MAIN,external,0,191,126
+startActivityForResult,eu/chainfire/supersu/PINActivity,android.intent.action.MAIN,external,0,191,126
+startActivity,eu/chainfire/supersu/PromptActivity,android.intent.action.MAIN,external,0,191,129
+startActivity,eu/chainfire/supersu/SettingsFragment$1,android.intent.action.VIEW,external,5,220,130
+startActivity,eu/chainfire/supersu/SettingsFragment$14,android.intent.action.VIEW,external,5,220,138
+startActivity,eu/chainfire/supersu/SettingsFragment$17,android.intent.action.VIEW,external,5,220,142
+startActivity,eu/chainfire/supersu/SettingsFragment$18,android.intent.action.VIEW,external,5,220,143
+startActivity,eu/chainfire/supersu/SettingsFragment$2,android.intent.action.VIEW,external,5,220,145
+startActivity,eu/chainfire/supersu/SettingsFragment$20,android.intent.action.VIEW,external,5,220,146
+startActivity,eu/chainfire/supersu/SettingsFragment$20,android.intent.action.VIEW,external,5,220,146
+startService,eu/chainfire/supersu/SuperUserIntentService,eu/chainfire/supersu/SuperUserIntentService,external,5,267,160

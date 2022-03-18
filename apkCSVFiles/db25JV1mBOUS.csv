@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.PROCESS_OUTGOING_CALLS]-[android.permission.READ_CONTACTS]-[android.permission.WAKE_LOCK]-[android.permission.DISABLE_KEYGUARD]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.VIBRATE]-,0,1
+startActivity,com/badlogic/gdx/backends/android/AndroidNet$1,android.intent.action.VIEW,external,0,101,13
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,1015,23
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,1015,23
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,1047,25
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,1056,31
+startActivity,com/tian/flycat/MainActivity$5,android.intent.action.VIEW,external,31,1124,58
+startActivity,com/tian/flycat/MainActivity$6,com/wscl/wallpapermarket/ui/AdListActivity,external,31,1124,58
+startService,com/tian/flycat/MainActivity,com/wscl/wallpapermarket/service/DownloadService,external,31,1124,61
+bindService,com/umeng/common/net/a$b,null,external,70,1163,71
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,1163,71
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,94,1166,71
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,94,1245,71
+startActivity,com/umeng/common/util/g,null,external,108,1361,71
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,108,1361,71
+startActivity,com/wscl/wallpapermarket/service/DownloadService,android.intent.action.VIEW,internal,121,1466,73
+startService,com/wscl/wallpapermarket/ui/AdListActivity,com/wscl/wallpapermarket/service/DownloadService,internal,186,1639,76
+startActivity,com/wscl/wallpapermarket/ui/RuiyouEndActivity$1,com/wscl/wallpapermarket/ui/AdListActivity,external,186,1639,78
+startService,com/wscl/wallpapermarket/ui/RuiyouEndActivity,com/wscl/wallpapermarket/service/DownloadService,external,186,1639,81
+startService,com/wscl/wallpapermarket/ui/RuiyouSDK,com/wscl/wallpapermarket/service/OnRunDownloadService,external,186,1639,81
+startActivity,com/wscl/wallpapermarket/ui/RuiyouStartActivity,android.intent.action.MAIN,external,186,1639,85
+startActivity,com/wscl/wallpapermarket/util/ManagetUtil,android.intent.action.VIEW,external,186,1687,85
+startActivity,com/wscl/wallpapermarket/util/ManagetUtil,android.intent.action.MAIN,external,186,1687,85

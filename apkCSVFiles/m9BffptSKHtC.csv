@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,0,0
+startActivity,com/crossfield/ranking/RankingActivity,com/crossfield/more/MoreActivity,internal,14,9,0
+startActivity,com/crossfield/result/ResultActivity,com/crossfield/more/MoreActivity,internal,14,9,1
+startActivity,com/crossfield/stickfightersplus/MainActivity,com/crossfield/title/TitleActivity,external,17,9,3
+startActivity,com/crossfield/stickfightersplus/MainActivity,com/crossfield/title/TitleActivity,external,17,9,3
+startActivity,com/crossfield/stickfightersplus/MainActivity,com/crossfield/stage/StageActivity,external,17,9,3
+startActivity,com/crossfield/stickfightersplus/MainActivity,com/crossfield/result/ResultActivity,external,17,9,3
+startActivity,com/crossfield/stickfightersplus/MainActivity,com/crossfield/ranking/RankingActivity,external,17,9,3
+startActivity,com/crossfield/title/TitleActivity,com/crossfield/more/MoreActivity,internal,17,9,3
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,17,9,7
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,17,9,8
+startActivity,jp/Adlantis/Android/AdlantisView$6,android.intent.action.VIEW,external,103,38,10

@@ -1,0 +1,32 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.SEND_SMS]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.SEND_SMS]-[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.CALL_PHONE]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[Android.permission.CHANGE_CONFIGURATION]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,adapter/AdaContext,android.intent.action.VIEW,external,0,47,18
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,0,232,18
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,0,232,18
+startActivity,com/appchina/pay/api/android/PayProxyActivity,com/appchina/pay/mobile/appchinasecservice/activity/PayActivity,external,9,232,22
+startActivityForResult,com/appchina/pay/api/android/PayProxyActivity,com/appchina/pay/mobile/appchinasecservice/activity/PayActivity,external,9,232,22
+startActivity,com/appchina/pay/mobile/appchinasecservice/a/g,android.intent.action.VIEW,external,9,242,23
+startActivity,com/appchina/pay/mobile/appchinasecservice/activity/a/b,android.intent.action.VIEW,external,9,242,25
+startActivity,com/appchina/pay/mobile/appchinasecservice/d/e,android.intent.action.VIEW,external,12,305,92
+startActivity,com/appchina/pay/mobile/appchinasecservice/payplugin/alipay/f,android.intent.action.MAIN,external,19,347,107
+bindService,com/appchina/pay/mobile/appchinasecservice/payplugin/alipay/g,null,external,19,347,107
+startActivity,com/appchina/pay/mobile/appchinasecservice/payplugin/alipay/l,android.intent.action.VIEW,external,19,366,109
+bindService,com/appchina/pay/mobile/appchinasecservice/payplugin/alipay/v,com/alipay/android/app/IAlixPay,external,19,375,111
+startActivity,com/npc/shenjiangyy/Application$1,com/appchina/pay/api/android/PayProxyActivity,external,33,458,141
+startActivityForResult,com/npc/shenjiangyy/Application$1,com/appchina/pay/api/android/PayProxyActivity,external,33,458,141
+startActivity,com/tenpay/android/service/DownloadDialog,android.intent.action.VIEW,external,52,587,143
+startActivity,com/tenpay/android/service/IRemoteServiceCallback$Stub,null,external,52,588,143
+startActivity,com/tenpay/android/service/IRemoteServiceCallback$Stub,null,external,52,588,143
+bindService,com/tenpay/android/service/TenpayServiceHelper$3,null,external,52,588,152
+bindService,com/tenpay/android/service/TenpayServiceHelper$4,null,external,52,588,152
+startActivity,com/tenpay/android/service/TenpayServiceHelper$5,android.intent.action.VIEW,external,52,588,153
+startActivity,com/tenpay/android/service/TenpayServiceHelper$7,android.intent.action.VIEW,external,52,588,155
+bindService,com/tenpay/android/service/TenpayServiceHelper,null,external,52,628,159
+bindService,com/tenpay/android/service/TenpayServiceHelper,com.tenpay.android.service.ITenpayService,external,52,628,159
+bindService,com/tenpay/android/service/TenpayServiceHelper,com.tenpay.android.service.ITenpayService,external,52,628,159
+bindService,com/tenpay/android/service/TenpayServiceHelper,com.tenpay.android.service.ITenpayService,external,52,628,159
+bindService,com/tenpay/android/service/TenpayServiceHelper,com.tenpay.android.service.ITenpayService,external,52,628,159
+bindService,com/tenpay/android/service/TenpayServiceHelper,com.tenpay.android.service.ITenpayService,external,52,628,159
+bindService,com/tenpay/android/service/TenpayServiceHelper,com.tenpay.android.service.ITenpayService,external,52,628,159
+bindService,com/tenpay/android/service/TenpayServiceHelper,com.tenpay.android.service.ITenpayService,external,52,628,159
+startActivity,com/unionpay/UPPayAssist/UPPayAssist,android.intent.action.VIEW,external,52,636,159

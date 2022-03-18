@@ -1,0 +1,38 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,11,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,15,41,8
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,30,55,20
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,30,55,20
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,30,55,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,30,55,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,30,55,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,30,55,20
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,40,65,20
+startActivity,com/google/android/gms/dynamic/a$5,null,external,40,67,23
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,40,69,23
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,40,69,23
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,40,69,23
+startActivity,com/google/android/gms/internal/bc,Open GMSG did not contain a URL.,external,42,69,27
+startActivity,com/google/android/gms/internal/bf,com.google.android.gms.ads.AdActivity,external,42,69,27
+startActivity,com/google/android/gms/internal/cq,android.intent.action.VIEW,external,58,78,28
+startActivity,com/google/android/gms/internal/dc,null,external,58,85,36
+startActivityForResult,com/google/android/gms/internal/dc,null,external,58,85,36
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,58,86,36
+startService,com/google/android/gms/internal/df,com.google.android.gms,external,58,86,36
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,58,86,36
+startService,com/google/android/gms/internal/df,com.google.android.gms,external,58,86,36
+bindService,com/google/android/gms/internal/df,com.google.android.gms,external,58,86,36
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,114,119,72
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,114,119,72
+startActivity,com/prime31/PlayGameServicesPlugin$12,null,external,114,119,73
+startActivityForResult,com/prime31/PlayGameServicesPlugin$12,null,external,114,119,73
+startActivity,com/prime31/PlayGameServicesPlugin$16,null,external,114,119,73
+startActivityForResult,com/prime31/PlayGameServicesPlugin$16,null,external,114,119,73
+startActivity,com/prime31/PlayGameServicesPlugin$17,null,external,114,119,73
+startActivityForResult,com/prime31/PlayGameServicesPlugin$17,null,external,114,119,73
+startActivity,com/prime31/PlayGameServicesPlugin$9,null,external,114,126,73
+startActivityForResult,com/prime31/PlayGameServicesPlugin$9,null,external,114,126,73
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,160,166,98

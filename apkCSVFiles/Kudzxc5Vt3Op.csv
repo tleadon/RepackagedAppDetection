@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.alarm.permission.SET_ALARM]-[android.permission.VIBRATE]-[com.android.vending.BILLING]-,0,0
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/a,jp/co/visualworks/android/apps/sleepingfriend/activities/SleepingFriendActivity,internal,0,0,1
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/ab,jp/co/visualworks/android/apps/sleepingfriend/activities/SleepingActivity,external,0,0,3
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/ae,jp/co/visualworks/android/apps/sleepingfriend/activities/alarmSelectSoundActivity,external,0,0,6
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/af,jp/co/visualworks/android/apps/sleepingfriend/activities/alarmSelectSnoozActivity,external,0,0,7
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/ao,jp/co/visualworks/android/apps/sleepingfriend/activities/alarmTimeActivity,external,0,7,19
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/b,android.intent.action.VIEW,internal,0,7,28
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/ba,android.intent.action.VIEW,external,0,7,29
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/e,android.intent.action.VIEW,external,0,7,36
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/MarketViewActivity,android.intent.action.VIEW,internal,0,12,40
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/o,jp/co/visualworks/android/apps/sleepingfriend/activities/SleepingFriendActivity,external,0,19,44
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/o,jp/co/visualworks/android/apps/sleepingfriend/activities/SleepingFriendActivity,external,0,19,44
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/SettingActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/SleepingFriendActivity,internal,0,19,50
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/SleepingFriendActivity,android.intent.action.MAIN,internal,0,19,54
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/SleepingFriendActivity,android.intent.action.MAIN,internal,0,19,55
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/activities/webviewActivity,null,internal,0,19,61
+startActivity,jp/co/visualworks/android/apps/sleepingfriend/AlarmReceiver/a,jp/co/visualworks/android/apps/sleepingfriend/activities/AlarmRingActivity,external,0,19,63
+startService,jp/co/visualworks/android/apps/sleepingfriend/appbilling/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,internal,0,19,63
+startService,jp/co/visualworks/android/apps/sleepingfriend/appbilling/BillingReceiver,com.mcondev1.dungeons.GET_PURCHASE_INFORMATION,internal,0,19,63
+startService,jp/co/visualworks/android/apps/sleepingfriend/appbilling/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,internal,0,19,63
+bindService,jp/co/visualworks/android/apps/sleepingfriend/appbilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,19,63
+bindService,jp/co/visualworks/android/apps/sleepingfriend/appbilling/BillingService,jp/co/visualworks/android/apps/sleepingfriend/appbilling/BillingService,internal,0,19,63

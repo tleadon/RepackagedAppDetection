@@ -1,0 +1,25 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-,1,1
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,54,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,54,4
+sendBroadcast,com/android/receiver/af,com.locktheworld.screen.start.theme.postsetting,external,0,147,19
+startActivity,com/android/receiver/g,com.locktheworld.screen.theme.detail,external,0,233,24
+startActivity,com/android/receiver/MainActivity,com.locktheworld.screen.theme.detail,internal,0,266,26
+startActivity,com/android/receiver/q,market://details?id=,external,2,270,26
+startActivity,com/android/receiver/r,android.intent.action.VIEW,external,2,280,26
+sendBroadcast,com/android/receiver/x,com.locktheworld.screen.start.theme.postsetting,external,2,296,28
+startActivity,com/android/receiver/z,android.media.action.IMAGE_CAPTURE,external,2,305,30
+startActivityForResult,com/android/receiver/z,android.media.action.IMAGE_CAPTURE,external,2,305,30
+startActivity,com/android/receiver/z,android.media.action.IMAGE_CAPTURE,external,2,305,30
+startActivityForResult,com/android/receiver/z,android.media.action.IMAGE_CAPTURE,external,2,305,30
+startActivity,com/android/receiver/z,android.intent.action.GET_CONTENT,external,2,305,30
+startActivityForResult,com/android/receiver/z,android.intent.action.GET_CONTENT,external,2,305,30
+sendBroadcast,com/android/receiver/z,com.locktheworld.screen.start.theme.postsetting,external,2,305,30
+bindService,com/google/analytics/tracking/android/b,com.google.android.gms.analytics.service.START,external,40,321,32
+bindService,com/google/analytics/tracking/android/b,com.google.android.gms.analytics.service.START,external,40,321,32
+bindService,com/google/analytics/tracking/android/b,com.google.android.gms.analytics.service.START,external,40,321,32
+bindService,com/google/analytics/tracking/android/c,null,external,47,324,32
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,47,324,32
+sendBroadcast,com/google/analytics/tracking/android/GANetworkReceiver,com.google.analytics.RADIO_POWERED,external,47,327,32
+startService,com/google/tagmanager/InstallReferrerReceiver,com/google/tagmanager/InstallReferrerService,external,47,396,32
+startActivity,com/google/tagmanager/PreviewActivity,null,external,47,396,32

@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/purplebrain/adbuddiz/sdk/AdBuddiz,com/purplebrain/adbuddiz/sdk/AdBuddizActivity,internal,35,66,20
+bindService,com/purplebrain/adbuddiz/sdk/util/device/i,com.google.android.gms.ads.identifier.service.START,external,45,66,22
+bindService,com/purplebrain/adbuddiz/sdk/util/device/i,com.google.android.gms.ads.identifier.service.START,external,45,66,22
+bindService,com/purplebrain/adbuddiz/sdk/util/device/i,com.google.android.gms.ads.identifier.service.START,external,45,66,22
+startActivity,com/purplebrain/adbuddiz/sdk/util/f,android.intent.action.VIEW,external,45,66,22
+startActivity,com/purplebrain/adbuddiz/sdk/util/f,android.intent.action.VIEW,external,45,66,22
+startActivity,com/purplebrain/adbuddiz/sdk/util/h,android.intent.action.VIEW,external,45,66,25

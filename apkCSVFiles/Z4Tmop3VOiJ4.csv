@@ -1,0 +1,45 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WRITE_INTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.RECEIVE_BOOT_COMPLETED]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.UNINSTALL_SHORTCUT]-,1,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/pic/instaart/MainActivity$1,gs/smart/imageeditor/SmartImageEditor,external,31,55,20
+startActivity,gs/smart/imageeditor/Editor$11,gs/smart/imageeditor/CropImage,external,45,82,37
+startActivity,gs/smart/imageeditor/Editor$12,gs/smart/imageeditor/RotateImage,external,45,82,38
+startActivity,gs/smart/imageeditor/Editor$13,gs/smart/imageeditor/ResizeImage,external,45,82,39
+startActivity,gs/smart/imageeditor/Editor$14,gs/smart/imageeditor/Watermark,external,45,82,40
+startActivity,gs/smart/imageeditor/Editor$17,gs/smart/imageeditor/Opacity,external,45,82,43
+startActivity,gs/smart/imageeditor/Editor$2,android.intent.action.SEND,external,45,82,46
+startActivity,gs/smart/imageeditor/Editor$20,gs/smart/imageeditor/Repair,external,45,82,47
+startActivity,gs/smart/imageeditor/Editor$21,gs/smart/imageeditor/LandscapeRepair,external,45,82,48
+startActivity,gs/smart/imageeditor/Editor$23,gs/smart/imageeditor/RedEyeRemover,external,45,82,50
+startActivity,gs/smart/imageeditor/Editor$24,gs/smart/imageeditor/ManualRedEyeRemove,external,45,82,51
+startActivity,gs/smart/imageeditor/Editor$26,gs/smart/imageeditor/Adjustment,external,45,82,53
+startActivity,gs/smart/imageeditor/Editor$27,gs/smart/imageeditor/Adjustment,external,45,82,54
+startActivity,gs/smart/imageeditor/Editor$28,gs/smart/imageeditor/Adjustment,external,45,82,55
+startActivity,gs/smart/imageeditor/Editor$29,gs/smart/imageeditor/Adjustment,external,45,82,56
+startActivity,gs/smart/imageeditor/Editor$30,gs/smart/imageeditor/Adjustment,external,45,82,58
+startActivity,gs/smart/imageeditor/Editor$4,gs/smart/imageeditor/TouchImageViewActivity,external,45,82,60
+startActivity,gs/smart/imageeditor/Editor$5,gs/smart/imageeditor/ImageEffects,external,45,82,61
+startActivity,gs/smart/imageeditor/Editor$6,gs/smart/imageeditor/Frames,external,45,82,62
+startActivity,gs/smart/imageeditor/Editor$7,gs/smart/imageeditor/Overlay,external,45,82,63
+startActivity,gs/smart/imageeditor/Editor$9,gs/smart/imageeditor/FlipImage,external,45,82,65
+sendBroadcast,gs/smart/imageeditor/Editor,android.intent.action.MEDIA_MOUNTED,internal,47,152,65
+sendBroadcast,gs/smart/imageeditor/Editor,android.intent.action.MEDIA_MOUNTED,internal,53,176,65
+sendBroadcast,gs/smart/imageeditor/GalleryManager$2$1,android.intent.action.MEDIA_MOUNTED,external,75,333,106
+startActivity,gs/smart/imageeditor/GalleryManager$2$1,android.intent.action.MEDIA_MOUNTED,external,75,333,106
+startActivity,gs/smart/imageeditor/GalleryManager$3,android.intent.action.SEND,external,75,333,110
+startActivity,gs/smart/imageeditor/GalleryOfEditImages,android.intent.action.VIEW,external,75,354,110
+startActivity,gs/smart/imageeditor/GalleryOfEditImages,android.intent.action.VIEW,external,75,354,110
+startActivity,gs/smart/imageeditor/SmartImageEditor$1,android.intent.action.PICK,external,146,438,210
+startActivityForResult,gs/smart/imageeditor/SmartImageEditor$1,android.intent.action.PICK,external,146,438,210
+startActivity,gs/smart/imageeditor/SmartImageEditor$2,android.media.action.IMAGE_CAPTURE,external,146,438,211
+startActivityForResult,gs/smart/imageeditor/SmartImageEditor$2,android.media.action.IMAGE_CAPTURE,external,146,438,211
+startActivity,gs/smart/imageeditor/SmartImageEditor$3,gs/smart/imageeditor/GalleryManager,external,146,449,212
+startActivity,gs/smart/imageeditor/SmartImageEditor$4,gs/smart/imageeditor/Editor,external,146,452,213
+startActivity,gs/smart/imageeditor/SmartImageEditor$5,gs/smart/imageeditor/Editor,external,146,452,214
+startActivity,gs/smart/imageeditor/SmartImageEditor$6,gs/smart/imageeditor/Editor,external,146,452,215
+startActivity,gs/smart/imageeditor/SmartImageEditor,gs/smart/imageeditor/Editor,internal,148,463,215
+startActivity,gs/smart/imageeditor/SmartImageEditor,gs/smart/imageeditor/Editor,internal,150,463,215
+startActivity,gs/smart/imageeditor/SmartImageEditor,gs/smart/imageeditor/Editor,internal,150,463,215

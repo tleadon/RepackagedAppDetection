@@ -1,0 +1,43 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,26,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,26,4
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,30,82,22
+startActivity,com/google/ads/b,com/google/ads/AdActivity,external,37,114,23
+startActivity,com/google/ads/internal/aj,android.intent.action.SEND,external,37,119,26
+startActivity,com/google/ads/internal/h,android.intent.action.VIEW,external,41,121,29
+bindService,com/google/android/youtube/player/internal/aq,null,external,48,138,35
+bindService,com/google/android/youtube/player/internal/aq,YouTubeClient,external,48,138,35
+bindService,com/google/android/youtube/player/internal/aq,YouTubeClient,external,48,138,35
+bindService,com/google/android/youtube/player/internal/au,null,external,48,138,35
+bindService,com/google/android/youtube/player/internal/y,null,external,48,140,35
+sendBroadcast,com/google/android/youtube/player/internal/y,null,external,54,162,55
+sendBroadcast,com/google/android/youtube/player/internal/y,null,external,54,162,55
+sendOrderedBroadcast,com/google/android/youtube/player/internal/y,null,external,54,162,55
+sendOrderedBroadcast,com/google/android/youtube/player/internal/y,null,external,54,162,55
+sendStickyBroadcast,com/google/android/youtube/player/internal/y,null,external,54,162,55
+sendStickyOrderedBroadcast,com/google/android/youtube/player/internal/y,null,external,54,162,55
+startActivities,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivity,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivity,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivityForResult,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivity,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivityFromChild,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivity,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivityFromFragment,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivity,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivityIfNeeded,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startService,com/google/android/youtube/player/internal/y,null,external,54,164,55
+bindService,com/google/android/youtube/player/internal/y,null,external,54,164,55
+startActivity,com/ielts/a,com/ielts/ListLessonActivity,external,54,164,58
+startActivity,com/ielts/b,android.intent.action.VIEW,external,54,164,59
+startActivity,com/ielts/c,com/ielts/ListLessonActivity,external,54,164,60
+startActivity,com/ielts/d,com/ielts/LearnActivity,external,54,164,61
+startActivity,com/ielts/MainActivity,com/ielts/ListCoursesActivity,external,54,164,63
+startActivity,com/ielts/MainActivity,com/ielts/ListCoursesActivity,external,54,164,63
+startActivity,com/ielts/MainActivity,com/ielts/ListCoursesActivity,external,54,164,63
+startActivity,com/ielts/MainActivity,com/ielts/ListCoursesActivity,external,54,164,63
+startActivity,com/ielts/MainActivity,com/ielts/ListCoursesActivity,external,54,164,63
+startActivity,com/ielts/MainActivity,com/ielts/ListCoursesActivity,external,54,164,63
+startActivity,com/ielts/MainActivity,com/ielts/FavoritesActivity,external,54,164,64
+startActivity,com/ielts/MainActivity,android.intent.action.VIEW,external,54,164,64

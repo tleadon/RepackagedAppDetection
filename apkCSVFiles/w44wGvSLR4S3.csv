@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/tapjoy/TapjoyDailyRewardAd,com/tapjoy/TapjoyDailyRewardAdWebView,external,52,55,21
+startActivity,com/tapjoy/TapjoyDisplayAd$GetBannerAdTask$1,com/tapjoy/TJCOffersWebView,external,52,55,21
+startActivity,com/tapjoy/TapjoyFullScreenAd,com/tapjoy/TapjoyFeaturedAppWebView,internal,52,55,21
+startActivity,com/tapjoy/TapjoyFullScreenAd,com/tapjoy/TapjoyFullScreenAdWebView,internal,52,55,21
+startActivity,com/tapjoy/TapjoyFullScreenAdWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,52,55,22
+startActivity,com/tapjoy/TapjoyFullScreenAdWebView,com/tapjoy/TJCOffersWebView,internal,52,55,22
+startActivity,com/tapjoy/TapjoyVideo,com/tapjoy/TapjoyVideoView,internal,56,228,22
+startActivity,com/tapjoy/TapjoyVideoView$1,android.intent.action.VIEW,external,56,228,22
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,56,228,28
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,internal,56,228,28
+startActivity,com/tapjoy/TJCOffersWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,56,228,29
+bindService,com/unity3d/player/a/e,null,external,56,238,33
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,101,246,35
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,107,264,49

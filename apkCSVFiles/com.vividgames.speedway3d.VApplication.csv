@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_ACCOUNTS]-[com.android.vending.BILLING]-[com.android.vending.CHECK_LICENSE]-,1,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/feelingk/iap/IAPActivity$6,android.intent.action.VIEW,external,5,134,121
+startActivity,com/feelingk/iap/IAPActivity$6,android.intent.action.VIEW,external,5,134,121
+startActivity,com/feelingk/iap/IAPActivity$6,android.intent.action.VIEW,external,5,134,121
+startActivity,com/feelingk/iap/IAPActivity$7,com.skt.skaf.A000Z00040,external,5,141,121
+startActivity,com/feelingk/iap/IAPActivity$7,com.skt.skaf.A000Z00040,external,5,145,121
+startActivity,com/feelingk/iap/IAPActivity$7,com/feelingk/iap/PwdActivity,external,5,152,122
+startActivityForResult,com/feelingk/iap/IAPActivity$7,com/feelingk/iap/PwdActivity,external,5,152,122
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,50,522,155
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,50,522,155
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,50,522,155
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,53,522,155
+startActivity,com/openfeint/internal/BaseActionInvoker,action,external,95,539,158
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,204,605,161
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,204,605,161
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,204,631,161
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,204,631,161
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,218,892,162
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,218,892,162
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,218,892,163
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,218,892,163
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,218,892,163
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,218,892,163
+startActivity,com/vividgames/engine/App,android.intent.action.VIEW,external,246,1354,178
+startActivity,com/vividgames/engine/App,android.intent.action.SEND,external,246,1354,178
+startService,com/vividgames/engine/inAppBilling/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,246,1369,189
+startService,com/vividgames/engine/inAppBilling/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,246,1369,189
+startService,com/vividgames/engine/inAppBilling/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,246,1369,189
+bindService,com/vividgames/engine/inAppBilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,246,1369,189
+bindService,com/vividgames/engine/inAppBilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,246,1369,189

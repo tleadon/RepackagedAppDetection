@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[com.android.vending.BILLING]-,0,0
+startActivity,com/kiurma/kreader/kiosk/KioskViewController,android.intent.action.VIEW,external,2,55,9
+startService,com/kiurma/kreader/store/inappbillings/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,60,215,20
+startService,com/kiurma/kreader/store/inappbillings/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,60,215,20
+startService,com/kiurma/kreader/store/inappbillings/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,60,215,20
+bindService,com/kiurma/kreader/store/inappbillings/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,60,215,20
+bindService,com/kiurma/kreader/store/inappbillings/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,60,215,20
+startActivity,com/kiurma/kreader/store/StoreActivity$1,org/ebookdroid/core/RecentActivity,external,60,217,21
+startActivity,com/kiurma/kreader/store/StoreActivity$2,android.intent.action.VIEW,external,60,217,22
+startActivity,com/kiurma/kreader/store/StoreActivity,org/ebookdroid/core/RecentActivity,internal,60,217,22
+startActivity,org/ebookdroid/core/BaseViewerActivity,android.intent.action.VIEW,external,88,579,74
+startActivity,org/ebookdroid/core/BaseViewerActivity,android.intent.action.VIEW,external,88,585,78
+startActivity,org/ebookdroid/core/BaseViewerActivity,android.intent.action.VIEW,external,88,585,78
+startActivity,org/ebookdroid/core/BaseViewerActivity,android.intent.action.SENDTO,external,88,585,78
+startActivity,org/ebookdroid/core/BaseViewerActivity,android.intent.action.VIEW,external,88,585,78
+startActivityForResult,org/ebookdroid/core/BaseViewerActivity,android.intent.action.VIEW,external,88,585,78
+startActivity,org/ebookdroid/core/BaseViewerActivity,org/ebookdroid/core/settings/SettingsActivity,external,88,585,78
+startActivity,org/ebookdroid/core/BaseViewerActivity,org/ebookdroid/core/settings/BookSettingsActivity,external,88,588,78
+startActivity,org/ebookdroid/core/BrowserActivity,org/ebookdroid/core/RecentActivity,external,88,602,78
+startActivity,org/ebookdroid/core/BrowserActivity,android.intent.action.VIEW,external,88,631,82
+startActivity,org/ebookdroid/core/BrowserActivity,org/ebookdroid/core/settings/SettingsActivity,external,88,631,82
+startActivity,org/ebookdroid/core/RecentActivity,com/kiurma/kreader/store/StoreActivity,external,88,831,93
+startActivity,org/ebookdroid/core/RecentActivity,org/ebookdroid/core/BrowserActivity,external,88,831,93
+startActivity,org/ebookdroid/core/RecentActivity,com/kiurma/kreader/store/StoreActivity,external,88,831,93
+startActivity,org/ebookdroid/core/RecentActivity,com/kiurma/kreader/store/StoreActivity,external,88,844,97
+startActivity,org/ebookdroid/core/RecentActivity,android.intent.action.VIEW,external,88,846,97
+startActivity,org/ebookdroid/core/RecentActivity,org/ebookdroid/core/settings/SettingsActivity,external,88,846,97
+startActivity,org/ebookdroid/core/views/RecentBooksView,org/ebookdroid/core/settings/BookSettingsActivity,external,283,967,114

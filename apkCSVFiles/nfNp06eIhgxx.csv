@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.GET_TASKS]-[android.permission.ACCESS_COARSE_LOCATION]-,0,0
+startActivity,cn/domob/android/a/b,null,external,0,8,0
+startActivity,cn/domob/android/ads/e,android.intent.action.PACKAGE_ADDED,external,83,95,5
+startActivity,cn/domob/android/ads/g$2,null,external,83,95,8
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/g,url,external,83,95,14
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,83,121,24
+startActivity,cn/domob/android/ads/p$5,null,external,83,121,32
+startActivity,cn/domob/android/ads/p,android.intent.action.VIEW,external,83,138,33
+startActivity,cn/domob/android/ads/v$6,cn/domob/android/ads/DomobActivity,external,88,138,38
+startActivity,it/erkatta/memodroid/version1/MainMenuActivity$StartActivityAfterAnimation,null,external,90,164,42
+startActivity,it/erkatta/memodroid/version1/ui/WinDialog$2,it/erkatta/memodroid/version1/ui/HighScoresActivity,external,113,164,49

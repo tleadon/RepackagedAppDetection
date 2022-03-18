@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-,1,0
+startActivity,com/redantz/game/jump/h/ag,android.intent.action.VIEW,external,4,18,1
+startActivity,com/redantz/game/jump/h/ak,android.intent.action.VIEW,external,4,22,1
+startActivity,com/redantz/game/jump/h/ap,android.intent.action.VIEW,external,4,22,1
+bindService,com/umeng/common/net/a$b,null,external,43,69,7
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,43,69,7
+startActivity,com/umeng/common/net/d$b,android.intent.action.VIEW,external,67,78,7
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,75,152,7
+startActivity,com/umeng/common/util/h,null,external,81,284,7
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,81,284,7
+startActivity,org/andengine/util/BetaUtils$1,null,external,96,428,36
+startActivity,org/andengine/util/BetaUtils$2,null,external,96,428,37

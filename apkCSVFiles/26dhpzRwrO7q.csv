@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.RESTART_PACKAGES]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.READ_SETTINGS]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.VIBRATE]-[android.permission.GET_TASKS]-,1,0
+startActivity,com/freedomrecyle/carunblock/c,com/freedomrecyle/carunblock/More,external,0,0,3
+startActivity,com/freedomrecyle/carunblock/Crazy2Activity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,8
+startActivity,com/freedomrecyle/carunblock/Crazy2Activity,com/freedomrecyle/carunblock/SelectCrazyActivity,internal,0,0,10
+startActivity,com/freedomrecyle/carunblock/CrazyActivity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,13
+startActivity,com/freedomrecyle/carunblock/CrazyActivity,com/freedomrecyle/carunblock/SelectCrazyActivity,internal,0,0,15
+startActivity,com/freedomrecyle/carunblock/d,android.intent.action.VIEW,external,0,0,18
+startActivity,com/freedomrecyle/carunblock/Easy2Activity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,20
+startActivity,com/freedomrecyle/carunblock/Easy2Activity,com/freedomrecyle/carunblock/SelectEasyActivity,internal,0,0,22
+startActivity,com/freedomrecyle/carunblock/Easy3Activity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,25
+startActivity,com/freedomrecyle/carunblock/Easy3Activity,com/freedomrecyle/carunblock/SelectEasyActivity,internal,0,0,27
+startActivity,com/freedomrecyle/carunblock/Easy4Activity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,30
+startActivity,com/freedomrecyle/carunblock/Easy4Activity,com/freedomrecyle/carunblock/SelectEasyActivity,internal,0,0,32
+startActivity,com/freedomrecyle/carunblock/EasyActivity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,35
+startActivity,com/freedomrecyle/carunblock/EasyActivity,com/freedomrecyle/carunblock/SelectEasyActivity,internal,0,0,37
+startActivity,com/freedomrecyle/carunblock/Hard2Activity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,43
+startActivity,com/freedomrecyle/carunblock/Hard2Activity,com/freedomrecyle/carunblock/SelectHardActivity,internal,0,0,45
+startActivity,com/freedomrecyle/carunblock/HardActivity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,48
+startActivity,com/freedomrecyle/carunblock/HardActivity,com/freedomrecyle/carunblock/SelectHardActivity,internal,0,0,50
+startActivity,com/freedomrecyle/carunblock/Normal2Activity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,63
+startActivity,com/freedomrecyle/carunblock/Normal2Activity,com/freedomrecyle/carunblock/SelectNormalActivity,internal,0,0,65
+startActivity,com/freedomrecyle/carunblock/Normal3Activity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,68
+startActivity,com/freedomrecyle/carunblock/Normal3Activity,com/freedomrecyle/carunblock/SelectNormalActivity,internal,0,0,70
+startActivity,com/freedomrecyle/carunblock/NormalActivity,com/freedomrecyle/carunblock/NewGameActivity,internal,0,0,73
+startActivity,com/freedomrecyle/carunblock/NormalActivity,com/freedomrecyle/carunblock/SelectNormalActivity,internal,0,0,75
+startActivity,com/freedomrecyle/carunblock/SelectActivity,com/freedomrecyle/carunblock/CoverActivity,internal,0,0,84
+startActivity,com/freedomrecyle/carunblock/SelectCrazyActivity,com/freedomrecyle/carunblock/SelectActivity,internal,0,0,88
+startActivity,com/freedomrecyle/carunblock/SelectEasyActivity,com/freedomrecyle/carunblock/SelectActivity,internal,0,0,92
+startActivity,com/freedomrecyle/carunblock/SelectHardActivity,com/freedomrecyle/carunblock/SelectActivity,internal,0,0,96
+startActivity,com/freedomrecyle/carunblock/SelectNormalActivity,com/freedomrecyle/carunblock/SelectActivity,internal,0,0,100
+startActivity,com/freedomrecyle/carunblock/x,com/freedomrecyle/carunblock/CoverActivity,external,0,0,110
+startActivity,com/freedomrecyle/carunblock/z,com/freedomrecyle/carunblock/SelectActivity,external,0,0,112

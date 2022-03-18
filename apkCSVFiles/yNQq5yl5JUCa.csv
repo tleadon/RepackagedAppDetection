@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_ACCOUNTS]-[android.permission.INTERNET]-,0,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,com/cooloy/StatisticsEX/About,com/cooloy/StatisticsEX/Feedback,external,33,91,20
+startActivity,com/cooloy/StatisticsEX/About,android.intent.action.VIEW,external,33,91,20
+startActivity,com/cooloy/StatisticsEX/EmailMean$1,android.intent.action.SEND,external,33,91,21
+startActivity,com/cooloy/StatisticsEX/EmailT$1,android.intent.action.SEND,external,33,91,22
+startActivity,com/cooloy/StatisticsEX/Feedback$1,android.intent.action.SEND,external,33,91,23
+startActivity,com/cooloy/StatisticsEX/Mean,com/cooloy/StatisticsEX/EmailMean,external,33,123,24
+startActivity,com/cooloy/StatisticsEX/PairedT,com/cooloy/StatisticsEX/EmailT,external,33,155,25
+startActivity,com/cooloy/StatisticsEX/StatisticsEX,com/cooloy/StatisticsEX/Mean,external,33,155,26
+startActivity,com/cooloy/StatisticsEX/StatisticsEX,com/cooloy/StatisticsEX/About,external,33,155,26
+startActivity,com/cooloy/StatisticsEX/StatisticsEX,com/cooloy/StatisticsEX/UnpairedT,external,33,155,26
+startActivity,com/cooloy/StatisticsEX/StatisticsEX,com/cooloy/StatisticsEX/PairedT,external,33,155,26
+startActivity,com/cooloy/StatisticsEX/StatisticsEX,com/cooloy/StatisticsEX/UpgradeAlert,external,33,155,26
+startActivity,com/cooloy/StatisticsEX/UnpairedT,com/cooloy/StatisticsEX/EmailT,external,33,187,27
+startActivity,com/cooloy/StatisticsEX/UpgradeAlert,android.intent.action.VIEW,external,33,187,28

@@ -1,0 +1,35 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,17,7,6
+startActivity,it/football/AppRater$1,android.intent.action.VIEW,external,181,24,19
+startActivity,it/football/Classifica$1,it/football/Ifootball,external,201,62,22
+startActivity,it/football/Classifica,it/football/Ifootball,internal,201,62,26
+startActivity,it/football/Credits,it/football/Gioco,internal,201,62,30
+startActivity,it/football/Gioco$10,null,external,216,66,31
+startActivity,it/football/Gioco$4,it/football/Credits,external,216,66,37
+startActivity,it/football/Gioco,it/football/Ifootball,internal,216,66,41
+startActivity,it/football/Gioco,it/football/Classifica,internal,216,66,41
+startActivity,it/football/Ifootball$1,null,external,216,66,45
+startActivity,it/football/Ifootball$4,it/football/Tutorial1,external,216,66,55
+startActivity,it/football/Ifootball$5,it/football/Credits,external,216,66,56
+startActivity,it/football/Ifootball$7,it/football/Classifica,external,216,66,58
+startActivity,it/football/Ifootball$8$1,android.intent.action.VIEW,external,216,66,60
+startActivity,it/football/Ifootball$8$2,it/football/Gioco,external,216,66,62
+startActivity,it/football/Ifootball$8,it/football/Gioco,external,216,66,63
+startActivity,it/football/Ifootball$9,android.intent.action.VIEW,external,216,66,64
+startActivity,it/football/Starter$1,it/football/Ifootball,external,220,102,68
+startActivity,it/football/Tutorial1$1,it/football/Ifootball,external,220,102,69
+startActivity,it/football/Tutorial1$2,it/football/Tutorial2,external,220,102,70
+startActivity,it/football/Tutorial1,it/football/Ifootball,internal,220,102,74
+startActivity,it/football/Tutorial2$1,it/football/Ifootball,external,220,102,75
+startActivity,it/football/Tutorial2$2,it/football/Tutorial3,external,220,102,76
+startActivity,it/football/Tutorial2$3,it/football/Tutorial1,external,220,102,77
+startActivity,it/football/Tutorial2,it/football/Tutorial1,internal,220,102,81
+startActivity,it/football/Tutorial3$1,it/football/Ifootball,external,220,102,82
+startActivity,it/football/Tutorial3$2,it/football/Tutorial2,external,220,102,83
+startActivity,it/football/Tutorial3,it/football/Tutorial2,external,220,102,87

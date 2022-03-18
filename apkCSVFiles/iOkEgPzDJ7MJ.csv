@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,cn/domob/android/a/b,null,external,2,66,12
+startActivity,cn/domob/android/ads/e,android.intent.action.PACKAGE_ADDED,external,85,153,17
+startActivity,cn/domob/android/ads/g$2,null,external,85,153,20
+startActivity,cn/domob/android/ads/g,url,external,85,153,26
+startActivity,cn/domob/android/ads/g,url,external,85,153,26
+startActivity,cn/domob/android/ads/g,url,external,85,153,26
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,85,179,36
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,85,179,36
+startActivity,cn/domob/android/ads/p$11,android.intent.action.VIEW,external,85,179,36
+startActivity,cn/domob/android/ads/p$5,null,external,85,179,44
+startActivity,cn/domob/android/ads/p,android.intent.action.VIEW,external,85,196,45
+startActivity,cn/domob/android/ads/v$6,cn/domob/android/ads/DomobActivity,external,90,196,50
+startActivity,com/idiom/korean/activity/FavoriteActivity$5,com/idiom/korean/activity/GroupActivity,external,92,222,56
+startActivity,com/idiom/korean/activity/GroupActivity$1,com/idiom/korean/activity/FavoriteActivity,external,92,222,58
+startActivity,com/idiom/korean/activity/GroupActivity$2,com/idiom/korean/activity/SettingActivity,external,92,222,59
+startActivity,com/idiom/korean/activity/GroupActivity$4,com/idiom/korean/activity/HelpActivity,external,92,222,61
+startActivity,com/idiom/korean/activity/IdiomActivity$6,com/idiom/korean/activity/FavoriteActivity,external,92,222,80

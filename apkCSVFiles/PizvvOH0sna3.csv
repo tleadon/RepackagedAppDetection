@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_CONTACTS]-,1,1
+startActivity,com/adwo/adsdk/E,android.intent.action.DIAL,external,19,22,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,22,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,22,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,22,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,22,24
+startActivity,com/adwo/adsdk/E,android.intent.action.DIAL,external,19,22,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,22,24
+startActivity,com/DeepSpaceFrontier/DeepSpaceFrontier,com/DeepSpaceFrontier/ScoreScreen,external,57,111,29
+startActivity,com/DeepSpaceFrontier/DeepSpaceFrontier,com/DeepSpaceFrontier/OutroActivity,external,57,111,29
+startActivity,com/DeepSpaceFrontier/DeepSpaceFrontier,com/DeepSpaceFrontier/ScoreScreen,external,57,111,29
+startActivity,com/DeepSpaceFrontier/DeepSpaceFrontier,com/DeepSpaceFrontier/OutroActivity,external,57,111,29
+startActivity,com/DeepSpaceFrontier/IntroActivity,com/DeepSpaceFrontier/Main,external,57,111,30
+startActivity,com/DeepSpaceFrontier/Main$1,com/scoreloop/client/android/ui/EntryScreenActivity,external,57,111,32
+startActivity,com/DeepSpaceFrontier/Main$3,com/DeepSpaceFrontier/DeepSpaceFrontier,external,57,111,36
+startActivity,com/DeepSpaceFrontier/Main$4,com/DeepSpaceFrontier/DeepSpaceFrontier,external,57,111,37
+startActivity,com/DeepSpaceFrontier/OutroActivity,com/DeepSpaceFrontier/ScoreScreen,external,57,111,41
+startActivity,com/DeepSpaceFrontier/ScoreScreen$1,com/DeepSpaceFrontier/DeepSpaceFrontier,external,57,111,43
+startActivity,com/DeepSpaceFrontier/ScoreScreen,com/scoreloop/client/android/ui/ShowResultOverlayActivity,external,57,111,45
+startActivity,com/facebook/android/b,com.facebook.katana,external,57,111,45
+startActivityForResult,com/facebook/android/b,com.facebook.katana,external,57,111,45
+startActivity,com/facebook/android/d$a,android.intent.action.VIEW,external,57,111,45
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,57,113,45
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,57,113,46
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,external,157,245,53
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,157,245,62
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,157,245,62
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,external,157,245,78
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,161,245,91
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,161,245,91
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,161,248,107
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,161,248,130

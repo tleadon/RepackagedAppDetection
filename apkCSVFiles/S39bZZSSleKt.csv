@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,39,122,12
+startActivity,com/heyzap/sdk/AchievementsFullOverlay,android.intent.action.VIEW,external,46,130,23
+startActivity,com/heyzap/sdk/ads/AdUnit,android.intent.action.VIEW,external,46,132,24
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,46,132,42
+startActivity,com/heyzap/sdk/HeyzapDialog,android.intent.action.CLOSE_SYSTEM_DIALOGS,external,46,141,45
+startActivity,com/heyzap/sdk/HeyzapLib$5,android.intent.action.MAIN,external,46,141,46
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,46,141,46
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,46,141,46
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,46,141,46
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,46,141,46
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,46,141,46
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.LeaderboardsReceiver,external,46,141,46
+startActivity,com/heyzap/sdk/LeaderboardFullOverlay,android.intent.action.VIEW,external,46,147,60
+startActivity,com/heyzap/sdk/LeaderboardInGameOverlay$1,android.intent.action.VIEW,external,46,147,67
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,55,208,131

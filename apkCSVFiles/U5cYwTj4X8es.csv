@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[com.demo.afdemo1.permission.C2D_MESSAGE]-[com.google.android.c2dm.permission.RECEIVE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.launcher.permission.UNINSTALL_SHORTCUT]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_FINE_LOCATION]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,13,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,4
+startActivity,android/support/v4/app/Fragment,null,external,0,13,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,4
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,64,13
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,64,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,67,13
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,70,13
+startActivity,android/support/v4/content/IntentCompat,null,external,2,70,13
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,70,13
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,72,13
+startActivity,com/appflood/AFListActivity$b$1,android.intent.action.VIEW,external,4,218,53
+startActivity,com/appflood/AppFlood,android.intent.action.VIEW,external,4,218,65
+startActivity,com/appflood/c/a$8,android.intent.action.VIEW,external,4,223,66
+startActivity,com/appflood/c/c$6,com/appflood/AFInterstitialActivity,external,4,223,70
+sendBroadcast,com/appflood/c/d,com.papayamobile.ACTION_GET_VIRTUAL_ID,external,4,225,70
+startActivity,com/appflood/d/e,null,external,19,285,70
+startActivity,com/appflood/d/e,null,external,19,285,70
+startActivity,com/appflood/e/e$3,android.intent.action.VIEW,external,19,285,72
+startActivity,com/check/imei/MainActivity$1,android.intent.action.VIEW,external,19,285,73

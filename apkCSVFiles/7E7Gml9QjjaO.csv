@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,1
+startActivity,com/applovin/impl/adview/ae,com/applovin/adview/AppLovinInterstitialActivity,external,0,2,0
+startActivity,com/applovin/impl/adview/u,android.intent.action.VIEW,external,0,2,1
+startActivity,com/applovin/impl/adview/u,android.intent.action.VIEW,external,0,2,1
+startActivity,com/applovin/impl/adview/u,android.intent.action.VIEW,external,0,2,1
+startService,com/applovin/sdk/AppLovinBootReceiver,com/applovin/sdk/AppLovinService,external,14,115,1
+startActivity,com/chartboost/sdk/CBWebViewClient,android.intent.action.VIEW,external,37,159,6
+startActivity,com/chartboost/sdk/ChartBoost,com/chartboost/sdk/CBDialogActivity,external,37,159,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,37,159,6
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,37,159,6
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,49,191,8
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,53,200,14
+startActivity,org/cocos2dx/lib/Cocos2dxActivity,android.intent.action.VIEW,external,68,214,26

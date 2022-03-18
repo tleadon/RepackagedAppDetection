@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,28,4
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,20,89,9
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,20,89,9
+bindService,com/google/android/gms/ads/a/a,null,external,26,175,16
+bindService,com/google/android/gms/ads/a/a,null,external,26,175,16
+bindService,com/google/android/gms/ads/a/a,com.google.android.gms.ads.identifier.service.START,external,26,175,16
+startActivity,com/google/android/gms/internal/ca,Open GMSG did not contain a URL.,external,26,180,18
+startActivity,com/google/android/gms/internal/cd,com.google.android.gms.ads.AdActivity,external,26,180,18
+startActivity,com/google/android/gms/internal/ew,android.intent.action.VIEW,external,38,191,19
+startActivity,com/google/android/gms/internal/ex,null,external,38,191,21
+startActivity,com/google/android/gms/internal/ex,null,external,38,191,21
+startActivity,com/google/android/gms/internal/gi,null,external,38,198,27
+startActivityForResult,com/google/android/gms/internal/gi,null,external,38,198,27
+bindService,com/google/android/gms/internal/gt,com.google.android.gms,external,38,199,27
+startService,com/google/android/gms/internal/gt,com.google.android.gms,external,38,199,27
+bindService,com/google/android/gms/internal/gt,com.google.android.gms,external,38,199,27
+startService,com/google/android/gms/internal/gt,com.google.android.gms,external,38,199,27
+bindService,com/google/android/gms/internal/gt,com.google.android.gms,external,38,199,27
+startActivity,com/google/android/gms/plus/c,null,external,55,219,27
+startActivityForResult,com/google/android/gms/plus/c,null,external,55,219,27
+startActivity,gm/rangeracer/ac,null,external,57,219,28
+startActivity,gm/rangeracer/ac,null,external,57,219,28
+startActivity,gm/rangeracer/ae,null,external,57,219,28
+startActivityForResult,gm/rangeracer/ae,null,external,57,219,28
+startActivity,gm/rangeracer/am,null,external,57,219,28
+startActivityForResult,gm/rangeracer/am,null,external,57,219,28
+startActivity,gm/rangeracer/q,null,external,57,371,30
+startActivity,gm/rangeracer/w,null,external,63,380,30
+startActivityForResult,gm/rangeracer/w,null,external,63,380,30

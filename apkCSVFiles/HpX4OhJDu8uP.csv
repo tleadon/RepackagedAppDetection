@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CLEAR_APP_CACHE]-,0,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,6,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,6,1
+startActivity,com/probcomp/advanceduninstaller/AboutDialog,android.intent.action.VIEW,external,15,6,2
+startActivity,com/probcomp/advanceduninstaller/AboutDialog,android.intent.action.VIEW,external,15,6,2
+startActivity,com/probcomp/advanceduninstaller/AdvancedUninstaller,null,external,15,71,12
+startActivity,com/probcomp/advanceduninstaller/AdvancedUninstaller,android.settings.APPLICATION_DETAILS_SETTINGS,external,15,71,12
+startActivity,com/probcomp/advanceduninstaller/AdvancedUninstaller,android.intent.action.VIEW,external,15,71,12
+startActivity,com/probcomp/advanceduninstaller/AdvancedUninstaller,android.intent.action.SEND,external,15,75,12
+startActivity,com/probcomp/advanceduninstaller/AdvancedUninstaller,android.intent.action.DELETE,external,15,75,12
+startActivity,com/probcomp/advanceduninstaller/AdvancedUninstaller,com/probcomp/advanceduninstaller/UninstallerPrefs,external,15,82,16
+startActivity,com/probcomp/advanceduninstaller/UninstallerPrefs$1,android.intent.action.SEND,external,15,140,17

@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.CHECK_LICENSE]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,37,110,47
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,81,117,63
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,81,117,63
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,107,218,64
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,107,228,64
+startService,com/unity3d/plugin/downloader/b/r,EPI,external,107,228,64
+startActivity,com/unity3d/plugin/downloader/b,android.settings.WIFI_SETTINGS,external,135,232,65
+bindService,com/unity3d/plugin/downloader/c/j,null,external,135,242,65
+bindService,com/unity3d/plugin/downloader/c/j,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,135,242,65

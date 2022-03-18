@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,0
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,24,27,6
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,24,27,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,30,77,13
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,30,77,13
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,42,109,15
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,46,118,21
+startActivity,com/prime31/GoogleIABPlugin$3,com/prime31/GoogleIABProxyActivity,external,61,132,33
+bindService,com/prime31/GoogleIABPlugin,null,external,61,132,33
+bindService,com/prime31/util/IabHelper,null,external,61,132,33
+bindService,com/prime31/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,61,136,33
+bindService,com/unity3d/player/a/e,null,external,61,148,33
+startActivity,com/unity3d/player/UnityPlayer$17,null,external,106,160,41
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,112,178,58

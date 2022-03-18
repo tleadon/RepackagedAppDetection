@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_SETTINGS]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.CHANGE_CONFIGURATION]-[android.permission.WAKE_LOCK]-[android.permission.CHANGE_WIFI_STATE]-,0,1
+startActivity,com/code/vnproapps/audiobook/MainBookActivity,com/code/vnproapps/HomeTab,external,0,0,2
+startActivity,com/code/vnproapps/AudiobookActivity,com/code/vnproapps/ListItem,internal,6,0,2
+startActivity,com/code/vnproapps/audiobooken/MainBookActivity,com/code/vnproapps/HomeTab,external,12,0,4
+startActivity,com/code/vnproapps/DownloadActivity,android.intent.action.MUSIC_PLAYER,internal,37,103,5
+startActivity,com/code/vnproapps/haiviet/MainBookActivity,com/code/vnproapps/HomeTab,external,37,140,7
+startActivity,com/code/vnproapps/ListCate,com/code/vnproapps/ListCate,internal,44,177,16
+startActivity,com/code/vnproapps/ListCate,com/code/vnproapps/ListItem,internal,44,177,16
+startActivity,com/code/vnproapps/ListCategory,com/code/vnproapps/HelpActivity,internal,44,177,19
+startActivity,com/code/vnproapps/ListCategory,com/code/vnproapps/ListItemByArtist,internal,44,177,20
+startActivity,com/code/vnproapps/ListItem,com/code/vnproapps/VideoPlayer,internal,48,185,28
+startActivity,com/code/vnproapps/ListItemByArtist,com/code/vnproapps/VideoPlayer,internal,48,185,32
+startActivity,com/code/vnproapps/ListitemHome,com/code/vnproapps/HelpActivity,internal,55,185,35
+startActivity,com/code/vnproapps/ListitemHome,com/code/vnproapps/VideoPlayer,internal,55,185,36
+startActivity,com/code/vnproapps/ListRootCate,com/code/vnproapps/ListCate,internal,55,197,42
+startActivity,com/code/vnproapps/ListRootCate,com/code/vnproapps/ListItem,internal,55,197,42
+startActivity,com/code/vnproapps/nametones/NameTonesActivity,com/code/vnproapps/HomeTab,external,58,197,42
+startActivity,com/code/vnproapps/ringtones/MainActivity,com/code/vnproapps/HomeTab,external,61,235,44
+startActivity,com/code/vnproapps/SearchActivity,com/code/vnproapps/VideoPlayer,internal,61,235,47
+startService,com/code/vnproapps/StreamingPlayer,com/code/vnproapps/WifiService,internal,65,243,54
+startActivity,com/code/vnproapps/VideoPlayer,com/code/vnproapps/RequireActivity,internal,65,243,55
+startActivity,com/code/vnproapps/VideoPlayer,android.intent.action.VIEW,internal,65,243,55
+startService,com/code/vnproapps/VideoPlayer,com/code/vnproapps/service/KeepAliveService,internal,65,243,55
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,65,243,55
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,65,243,55
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,65,243,55
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,65,243,55
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,79,245,59
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,81,250,61

@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.CHECK_LICENSE]-,0,0
+bindService,com/android/vending/licensing/aa,null,external,0,10,0
+bindService,com/android/vending/licensing/aa,com/android/vending/licensing/ILicensingService,external,0,10,0
+bindService,com/android/vending/licensing/ae,null,external,0,12,0
+bindService,com/android/vending/licensing/ae,com/android/vending/licensing/ILicensingService,external,0,12,0
+bindService,com/android/vending/licensing/ai,null,external,0,14,0
+bindService,com/android/vending/licensing/ai,com/android/vending/licensing/ILicensingService,external,0,14,0
+bindService,com/android/vending/licensing/am,null,external,0,16,0
+bindService,com/android/vending/licensing/am,com/android/vending/licensing/ILicensingService,external,0,16,0
+bindService,com/android/vending/licensing/o,null,external,0,94,0
+bindService,com/android/vending/licensing/o,com/android/vending/licensing/ILicensingService,external,0,94,0
+bindService,com/android/vending/licensing/s,null,external,0,96,0
+bindService,com/android/vending/licensing/s,com/android/vending/licensing/ILicensingService,external,0,96,0
+bindService,com/android/vending/licensing/w,null,external,0,98,0
+bindService,com/android/vending/licensing/w,com/android/vending/licensing/ILicensingService,external,0,98,0
+startActivity,com/eamobile/download/DownloadActivity,android.settings.NETWORK_OPERATOR_SETTINGS,external,22,344,0
+startActivity,com/eamobile/download/DownloadActivity,android.settings.MEMORY_CARD_SETTINGS,external,22,344,0
+startActivity,com/eamobile/download/DownloadActivity,android.settings.WIFI_SETTINGS,external,22,344,0
+startActivity,com/ideaworks3d/airplay/AirplayThread,http,external,52,476,30

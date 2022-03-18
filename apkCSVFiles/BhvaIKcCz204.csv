@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.DISABLE_KEYGUARD]-,1,1
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com/android/vending/licensing/ILicensingService,external,0,10,0
+startActivity,com/bight/android/game/GameLIB,android.intent.action.VIEW,external,0,14,8
+startActivity,com/bight/android/game/GameLIB,android.intent.action.VIEW,external,0,14,8
+startActivity,com/namconetworks/tp/BuyScreen$1,android.intent.action.VIEW,external,52,47,9
+startActivity,com/namconetworks/tp/BuyScreen$2,android.intent.action.VIEW,external,52,47,9
+startActivity,com/namconetworks/tp/MyLicenseChecker,com/namconetworks/tp/BuyScreen,external,56,47,15
+startActivity,com/namconetworks/tp/TnaWrestling,com/namconetworks/tp/DRMLicensing,external,68,49,15
+startActivity,com/namconetworks/tp/VZWLicense,android.intent.action.VIEW,external,68,49,16
+startService,com/verizon/vcast/apps/LicenseAuthenticator,com.gravitymobile.app.hornbill,external,89,49,16
+bindService,com/verizon/vcast/apps/LicenseAuthenticator,com.gravitymobile.app.hornbill,external,89,49,16
+bindService,com/verizon/vcast/apps/LicenseAuthenticator,com.gravitymobile.app.hornbill,external,89,49,16
+bindService,com/verizon/vcast/apps/LicenseAuthenticator,com.gravitymobile.app.hornbill,external,89,49,16

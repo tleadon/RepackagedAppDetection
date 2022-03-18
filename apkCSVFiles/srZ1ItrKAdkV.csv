@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_TASKS]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_COARSE_UPDATES]-,1,0
+startActivity,aj,android.intent.action.VIEW,external,15,60,4
+startActivity,ap,android.intent.action.VIEW,external,15,66,5
+startActivity,C,android.intent.action.VIEW,external,15,81,7
+startActivity,com/wiyun/engine/nodes/Director,android.intent.action.VIEW,external,25,106,10
+startActivity,com/wiyun/engine/utils/ImagePicker,com/wiyun/engine/utils/ImagePickerActivity,external,25,110,39
+startActivity,com/wiyun/engine/utils/ImagePicker,com/wiyun/engine/utils/ImagePickerActivity,external,25,110,39
+startActivity,com/wiyun/engine/utils/ImagePickerActivity,android.intent.action.GET_CONTENT,external,25,120,41
+startActivityForResult,com/wiyun/engine/utils/ImagePickerActivity,android.intent.action.GET_CONTENT,external,25,120,41
+sendBroadcast,com/wiyun/engine/utils/VideoPlayingActivity,null,external,25,134,41
+startActivity,com/wiyun/engine/utils/VideoPlayingActivity,null,external,25,134,41
+startActivity,v,android.intent.action.VIEW,external,25,159,62

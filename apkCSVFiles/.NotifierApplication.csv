@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_CALL_LOG]-[android.permission.READ_CONTACTS]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_SMS]-[android.permission.GET_ACCOUNTS]-[android.permission.READ_CALENDAR]-[android.permission.BATTERY_STATS]-[com.google.android.gm.permission.READ_CONTENT_PROVIDER]-[com.google.android.providers.talk.permission.READ_ONLY]-[com.fsck.k9.permission.READ_MESSAGES]-[com.kaitenmail.permission.READ_MESSAGES]-[com.kaitenmail.adsupported.permission.READ_MESSAGES]-[com.sec.android.provider.badge.permission.READ]-,0,0
+startActivity,android/support/v4/app/g,null,external,2,6,6
+startActivityForResult,android/support/v4/app/g,null,external,2,6,6
+startActivity,com/anddoes/notifier/az,null,external,40,29,13
+startActivity,com/anddoes/notifier/SettingsActivity,android.appwidget.action.APPWIDGET_CONFIGURE,external,42,29,34
+startActivityForResult,com/anddoes/notifier/SettingsActivity,android.appwidget.action.APPWIDGET_CONFIGURE,external,42,29,34
+startActivity,com/anddoes/notifier/SettingsActivity,android.appwidget.action.APPWIDGET_BIND,external,42,29,34
+startActivityForResult,com/anddoes/notifier/SettingsActivity,android.appwidget.action.APPWIDGET_BIND,external,42,29,34
+startActivity,com/anddoes/notifier/SettingsActivity,android.appwidget.action.APPWIDGET_PICK,external,42,29,34
+startActivityForResult,com/anddoes/notifier/SettingsActivity,android.appwidget.action.APPWIDGET_PICK,external,42,29,34
+startActivity,com/anddoes/notifier/SettingsActivity,com/anddoes/notifier/CalendarSettingsActivity,external,42,29,37
+startActivity,com/anddoes/notifier/SettingsActivity,com/anddoes/notifier/GmailSettingsActivity,external,42,29,37
+startActivity,com/anddoes/notifier/SettingsActivity,com/anddoes/notifier/K9MailSettingsActivity,external,42,29,37
+startActivity,com/anddoes/notifier/SettingsActivity,com/anddoes/notifier/KaitenMailSettingsActivity,external,42,29,37
+startActivity,com/anddoes/notifier/SettingsActivity,com/anddoes/notifier/KaitenMailFreeSettingsActivity,external,42,29,37
+startActivity,com/anddoes/notifier/SettingsActivity,com/anddoes/notifier/BatterySettingsActivity,external,42,29,37
+startActivity,com/anddoes/notifier/SettingsActivity,com/anddoes/notifier/GTalkSettingsActivity,external,42,29,37

@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-,1,0
+startActivity,com/Ina/adapter/MoreAppAdapter$1,android.intent.action.VIEW,external,4,25,1
+startActivity,com/Ina/adapter/MoreAppAdapter$1,android.intent.action.VIEW,external,4,25,1
+startActivity,com/Ina/Nomkc/MoreActivity$1,com/Ina/Nomkc/AboutActivity,external,10,25,14
+startActivity,com/Ina/Nomkc/MoreActivity$1,com/Ina/Nomkc/MoreAppActivity,external,10,25,14
+startActivity,com/Ina/Nomkc/MoreActivity$VertionTask$1,android.intent.action.VIEW,external,10,30,19
+startActivity,com/Ina/Nomkc/SmipleNotePad,com/Ina/Nomkc/NoteText,external,10,52,74
+startActivityForResult,com/Ina/Nomkc/SmipleNotePad,com/Ina/Nomkc/NoteText,external,10,52,74
+startActivity,com/Ina/Nomkc/SmipleNotePad,com/Ina/Nomkc/NoteText,external,10,52,74
+startActivityForResult,com/Ina/Nomkc/SmipleNotePad,com/Ina/Nomkc/NoteText,external,10,52,74
+startActivity,com/Ina/Nomkc/SmipleNotePad,com/Ina/Nomkc/MoreActivity,external,10,65,82

@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INSTALL_PACKAGES]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.SET_WALLPAPER]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,0,1
+startActivity,com/appexpand/myimage/AddShorcutEngine,null,external,0,0,0
+sendBroadcast,com/appexpand/myimage/AddShorcutEngine,android.intent.action.MAIN,external,0,0,0
+startActivity,com/appexpand/myimage/RecommandActivity$5,android.intent.action.VIEW,external,0,10,10
+startActivity,com/appexpand/myimage/Update$6$1,android.intent.action.VIEW,external,0,15,17
+startActivity,com/appexpand/myimage/Util$1,android.intent.action.VIEW,external,0,39,17
+startActivity,com/appexpand/myimage/Util$2$1,android.intent.action.VIEW,external,0,45,17
+startService,com/secneo/mp/api/receiver/MpReceiver,null,external,56,92,17
+startService,com/secneo/mp/api/service/MpService,com/secneo/mp/api/service/MpService,external,56,92,17
+startActivity,com/secneo/mp/api/view/MobileProxyActivity$ItemClickListener,android.intent.action.VIEW,external,76,102,27
+startActivity,com/secneo/mp/api/view/MobileProxyActivity$ItemClickListener,android.intent.action.VIEW,external,76,102,27
+startService,com/secneo/mp/api/view/MpMessage,com/secneo/mp/api/service/MpService,external,76,102,31
+startService,com/secneo/mp/api/view/MpMessage,com/secneo/mp/api/service/MpService,external,76,102,31
+startActivity,com/secneo/Update$6$1,android.intent.action.VIEW,external,103,245,42
+startService,com/winad/android/banner/ads/aj,com/winad/android/banner/push/MyService,external,116,319,48
+startActivity,com/winad/android/banner/ads/ak,android.intent.action.VIEW,external,116,319,48
+startActivity,com/winad/android/banner/ads/am,android.intent.action.VIEW,external,119,346,48
+startActivity,com/winad/android/banner/ads/ax,android.intent.action.SEND,external,119,355,49
+startActivity,com/winad/android/banner/ads/ax,android.intent.action.SENDTO,external,119,355,49
+startActivity,com/winad/android/banner/ads/ax,android.intent.action.DIAL,external,119,355,49
+startActivity,com/winad/android/banner/ads/ax,android.intent.action.VIEW,external,119,355,49
+startActivity,com/winad/android/banner/ads/ax,com/winad/android/banner/ads/VideoPlayerActivity,external,119,355,49
+startActivity,com/winad/android/banner/ads/bc,/,external,145,369,51
+startActivity,com/winad/android/banner/ads/h,null,external,153,369,51
+startService,com/winad/android/banner/push/BootReceiver,com/winad/android/banner/push/MyService,external,157,405,54
+startActivity,com/winad/android/banner/push/g,android.intent.action.VIEW,external,157,405,54

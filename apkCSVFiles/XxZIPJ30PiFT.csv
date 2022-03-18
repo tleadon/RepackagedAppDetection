@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.SEND_SMS]-[android.permission.INTERNET]-[android.permission.CALL_PHONE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.READ_SECURE_SETTINGS]-[android.permission.RECEIVE_MMS]-[android.permission.READ_MMS]-[android.permission.WRITE_MMS]-[android.permission.RECEIVE_WAP_PUSH]-,1,1
+startActivity,com/myy/sdk/acm/l,android.settings.SETTINGS,external,120,10,0
+startActivity,com/myy/sdk/acm/l,android.settings.WIRELESS_SETTINGS,external,120,10,0
+startActivity,com/myy/sdk/acm/MyyChargeRequest,com/myy/sdk/acm/MyyChargeRequest,external,120,10,0
+startActivityForResult,com/myy/sdk/acm/MyyChargeRequest,com/myy/sdk/acm/MyyChargeRequest,external,120,10,0
+startService,com/myy/sdk/acm/MyyChargeRequest,com/myy/sdk/core/SdkService,external,120,10,0
+startService,com/myy/sdk/acm/MyyChargeRequest,com/myy/sdk/core/SdkService,external,120,10,0
+sendBroadcast,com/myy/sdk/d/k,extra_MYY_WAP_SMS_CONTENT,external,388,56,1
+startService,com/myy/sdk/MyySdk,com/myy/sdk/core/SdkService,external,404,104,28

@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/appzaz/jewels/Jewels,com/appzaz/jewels/Menu,external,0,0,4
+startActivity,com/appzaz/jewels/Menu,mode,external,48,0,8
+startActivity,com/appzaz/jewels/Menu,android.intent.action.VIEW,external,48,0,8
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,48,0,10
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,48,0,10
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,59,32,12
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,63,41,18

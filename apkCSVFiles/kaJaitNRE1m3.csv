@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.GET_TASKS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.READ_LOGS]-[android.permission.READ_PHONE_STATE]-,0,0
+startService,com/skymobi/freesky/basic/FsSdkBasic,com/skymobi/freesky/service/FsSdkService,external,14,41,3
+sendBroadcast,com/skymobi/freesky/basic/i,FREESKY_SDK_MID_BROADCAST,external,14,43,3
+startActivity,com/skymobi/freesky/service/FsSdkService,android.intent.action.VIEW,internal,81,104,3
+startActivity,com/skymobi/pay/sdk/c,null,external,94,214,9
+sendBroadcast,com/skymobi/pay/sdk/g,exit_skypay_check_service,external,94,229,9
+sendBroadcast,com/skymobi/pay/sdk/i,set_apk_status,external,94,229,9
+startService,com/skymobi/pay/sdk/SkyPayNetworkReceiver,com/skymobi/pay/sdk/SkyPayCheckService,external,94,286,15
+sendBroadcast,com/skymobi/pay/sdk/SkyPayNetworkReceiver,exit_skypay_check_service,external,94,286,15
+bindService,com/skymobi/pay/sdk/SkyPayServer,com.skymobi.pay,external,94,286,15
+startService,com/skymobi/pay/sdk/SkyPayServer,com/skymobi/pay/sdk/SkyPayCheckService,external,94,286,15
+bindService,com/skymobi/pay/sdk/SkyPayServer,com/skymobi/pay/sdk/SkyPayCheckService,external,94,286,15
+startActivity,com/skymobi/pay/sdk/w,/,external,94,286,16
+sendBroadcast,com/skymobi/pay/sdk/y,update_percent_action,external,94,306,17
+startActivity,com/skymobi/pay/sdk/y,android.intent.action.VIEW,external,94,348,17
+startActivity,com/skymobi/pay/sdk/y,android.intent.action.DELETE,external,94,348,17
+startActivity,com/umeng/common/b/g,null,external,107,382,21
+startActivity,com/umeng/common/b/g,android.intent.action.VIEW,external,107,382,21
+bindService,com/umeng/common/net/a$b,null,external,129,392,21
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,129,392,21
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,153,395,21

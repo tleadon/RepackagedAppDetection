@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+startActivity,com/openfeint/internal/BaseActionInvoker,action,external,42,0,2
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,151,66,5
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,151,66,5
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,151,92,5
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,151,92,5
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,165,353,6
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,165,353,6
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,165,353,7
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,165,353,7
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,165,353,7
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,165,353,7

@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_FINE_LOCATION]-,0,1
+startActivity,net/liquidcompass/audio/AudioStreamer$11,android.intent.action.VIEW,external,0,6,0
+startActivityForResult,net/liquidcompass/audio/AudioStreamer$11,android.intent.action.VIEW,external,0,6,0
+startActivity,net/liquidcompass/audio/AudioStreamer$18,android.intent.action.VIEW,external,0,6,0
+startActivityForResult,net/liquidcompass/audio/AudioStreamer$18,android.intent.action.VIEW,external,0,6,0
+bindService,net/liquidcompass/metadata/ExitAppManager,net/liquidcompass/audio/AudioStreamer,external,0,123,3
+sendBroadcast,net/liquidcompass/root/RootBroadcastReceiver,net.liquidcompass.AUDIO_STARTED,external,3,123,3
+startActivity,net/liquidcompass/root/RootStub$MyWebViewClient,android.intent.action.VIEW,external,3,123,7
+startService,net/liquidcompass/root/RootStub,net/liquidcompass/audio/AudioStreamer,external,3,123,7
+bindService,net/liquidcompass/root/RootStub,net/liquidcompass/audio/AudioStreamer,external,3,123,7

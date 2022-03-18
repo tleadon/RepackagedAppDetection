@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,net/jaqpot/netcounter/activity/NetCounterActivity$1,android.intent.action.VIEW,external,0,0,2
+startActivity,net/jaqpot/netcounter/activity/NetCounterActivity$2,android.intent.action.VIEW,external,0,0,3
+startActivity,net/jaqpot/netcounter/activity/NetCounterActivity,net/jaqpot/netcounter/activity/BarGraphActivity,external,0,0,10
+startService,net/jaqpot/netcounter/activity/NetCounterActivity,net/jaqpot/netcounter/activity/BarGraphActivity,external,0,0,12
+startActivity,net/jaqpot/netcounter/activity/NetCounterActivity,net/jaqpot/netcounter/activity/NetCounterPreferences,external,0,0,12
+startService,net/jaqpot/netcounter/activity/NetCounterActivity,net/jaqpot/netcounter/activity/NetCounterPreferences,external,0,0,12
+startService,net/jaqpot/netcounter/activity/NetCounterActivity,net/jaqpot/netcounter/activity/NetCounterPreferences,external,0,0,12
+startService,net/jaqpot/netcounter/dialog/CounterAlertDialog$1$1,null,external,0,0,16
+startService,net/jaqpot/netcounter/dialog/CounterAlertDialog$2$1,null,external,0,0,16
+startService,net/jaqpot/netcounter/NetCounterApplication,net/jaqpot/netcounter/service/NetCounterService,external,104,42,28
+startService,net/jaqpot/netcounter/service/OnAlarmReceiver,net/jaqpot/netcounter/service/NetCounterService,external,104,42,28

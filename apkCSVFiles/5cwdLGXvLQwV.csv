@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,10
+sendBroadcast,com/mini/android/appmanager/AppActivity,android.intent.extra.shortcut.INTENT,external,33,33,29
+startActivity,com/mini/android/appmanager/AppActivity,android.intent.action.MAIN,external,33,33,29
+startActivity,com/mini/android/appmanager/AppActivity,android.intent.action.VIEW,external,33,33,29
+startActivityForResult,com/mini/android/appmanager/AppActivity,android.intent.action.VIEW,external,33,33,29
+startActivity,com/mini/android/appmanager/AppActivity,android.intent.action.VIEW,external,33,33,29
+startActivityForResult,com/mini/android/appmanager/AppActivity,android.intent.action.VIEW,external,33,33,29
+startActivity,com/mini/android/appmanager/AppActivity,android.intent.action.DELETE,external,33,33,29
+startActivityForResult,com/mini/android/appmanager/AppActivity,android.intent.action.DELETE,external,33,33,29
+startActivity,com/mini/android/appmanager/AppInHomeActivity,android.intent.action.VIEW,external,33,33,46
+startActivityForResult,com/mini/android/appmanager/AppInHomeActivity,android.intent.action.VIEW,external,33,33,46
+startActivity,com/mini/android/appmanager/AppInHomeActivity,com.android.settings,external,33,33,46
+startActivityForResult,com/mini/android/appmanager/AppInHomeActivity,com.android.settings,external,33,33,46
+startActivity,com/mini/android/appmanager/AppInHomeActivity,android.intent.action.DELETE,external,33,33,46
+startActivityForResult,com/mini/android/appmanager/AppInHomeActivity,android.intent.action.DELETE,external,33,33,46
+startActivity,com/mini/android/appmanager/Main$1,com/mini/android/appmanager/AppActivity,external,69,35,53
+startActivity,com/mini/android/appmanager/Main$8,android.intent.action.VIEW,external,69,35,58
+startActivity,com/mini/android/appmanager/Main$8,android.intent.action.VIEW,external,69,35,58
+startActivity,com/mini/android/appmanager/Main$8,android.intent.action.SEND,external,69,35,58
+startActivity,com/mini/android/appmanager/Main$9,android.intent.action.SEND,external,69,35,59
+startActivity,com/mini/android/appmanager/Main,com/mini/android/appmanager/NewFolderActivity,external,69,35,65
+startActivityForResult,com/mini/android/appmanager/Main,com/mini/android/appmanager/NewFolderActivity,external,69,35,65
+sendBroadcast,com/mini/android/appmanager/Main,android.intent.extra.shortcut.INTENT,external,69,35,65
+startActivity,com/mini/android/appmanager/Main,com/mini/android/appmanager/NewFolderActivity,external,69,40,65
+startActivityForResult,com/mini/android/appmanager/Main,com/mini/android/appmanager/NewFolderActivity,external,69,40,65

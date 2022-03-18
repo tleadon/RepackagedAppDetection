@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+startActivity,com/gipnetix/esp/MainActivity$13,android.intent.action.VIEW,external,4,10,4
+startActivity,com/gipnetix/esp/MainActivity$7,android.intent.action.VIEW,external,4,10,9
+startActivity,com/gipnetix/esp/MainActivity$9,android.intent.action.VIEW,external,4,10,11
+startActivity,com/gipnetix/esp/MainActivity,android.intent.action.VIEW,external,4,10,16
+startActivity,com/gipnetix/esp/MainActivity,android.intent.action.SEND,external,4,10,16
+bindService,com/gipnetix/esp/utils/IabHelper,null,external,4,13,19
+bindService,com/gipnetix/esp/utils/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,4,17,19
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,4,45,21
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,45,22
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,45,22
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,4,45,22
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient$AnalyticsServiceConnection,null,external,23,323,23
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,23,323,23
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,23,323,23
+bindService,com/google/analytics/tracking/android/AnalyticsGmsCoreClient,com.google.android.gms.analytics.service.START,external,23,323,23
+startService,com/google/analytics/tracking/android/CampaignTrackingReceiver,com/google/analytics/tracking/android/CampaignTrackingService,external,23,323,23
+sendBroadcast,com/google/analytics/tracking/android/GANetworkReceiver,com.google.analytics.RADIO_POWERED,external,23,359,23
+startService,com/google/tagmanager/InstallReferrerReceiver,com/google/tagmanager/InstallReferrerService,external,117,412,24
+sendBroadcast,com/google/tagmanager/NetworkReceiver,com.google.analytics.RADIO_POWERED,external,119,417,24
+startActivity,com/google/tagmanager/PreviewActivity,null,external,174,419,24
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,200,1007,49
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,200,1007,50

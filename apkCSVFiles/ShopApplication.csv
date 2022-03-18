@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.google.android.c2dm.permission.RECEIVE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WRITE_OWNER_DATA]-,0,1
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,56,11
+startService,florisoft/shopping/C2DMRegistrationReceiver,sender,internal,4,64,24
+startActivity,florisoft/shopping/DetailActivity,florisoft/shopping/DetailZoomActivity,internal,23,104,32
+startActivity,florisoft/shopping/MainActivity,florisoft/shopping/SplashActivity,internal,23,104,36
+startActivity,florisoft/shopping/ShopAppActivity,florisoft/shopping/DetailActivity,external,23,104,45
+startActivity,florisoft/shopping/SplashActivity,florisoft/shopping/MainActivity,external,27,104,51
+startActivity,florisoft/shopping/WinkelwagenFragment,florisoft/shopping/DetailActivity,external,27,104,53

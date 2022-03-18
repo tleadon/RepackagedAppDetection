@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_CONTACTS]-,0,0
+startActivity,com/DMHGaming/framework/impl/GLGame,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,0,291,2
+startActivity,com/DMHGaming/framework/impl/GLGame,com/scoreloop/client/android/ui/ProfileScreenActivity,external,0,291,2
+startActivity,com/facebook/android/e$a,android.intent.action.VIEW,external,0,291,5
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,293,5
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,293,5
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,293,5
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,293,5
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,295,9
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,300,11
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,149,390,24
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,149,390,24
+startService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,149,390,24
+bindService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,149,390,24
+bindService,com/scoreloop/client/android/core/paymentprovider/googlemarket/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,149,390,24
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,163,403,34
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,163,403,34
+startActivity,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,163,403,34
+startActivityForResult,com/scoreloop/client/android/core/ui/ProxyActivity,com/scoreloop/client/android/core/ui/ProxyActivity,internal,163,403,34
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,163,478,39
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,163,478,48
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,163,478,48
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,163,478,64
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,163,478,83
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,163,478,83
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,165,482,99
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,165,482,122

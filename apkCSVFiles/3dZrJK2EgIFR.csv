@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/miteksystems/ui/AmountEntryActivity,com/miteksystems/ui/CameraActivity,external,16,222,1
+startActivityForResult,com/miteksystems/ui/AmountEntryActivity,com/miteksystems/ui/CameraActivity,external,16,222,1
+sendBroadcast,com/miteksystems/ui/BaseActivity$Timer,com.miteksystems.ui.ACTION_LOGOUT,external,16,222,1
+startActivity,com/miteksystems/ui/BaseActivity$Timer,com/miteksystems/ui/LoginActivity,external,16,222,1
+startActivity,com/miteksystems/ui/BaseActivity,com/miteksystems/ui/PasswordActivity,external,16,222,3
+startActivity,com/miteksystems/ui/BaseActivity,com/miteksystems/ui/LoginActivity,external,16,222,3
+startActivity,com/miteksystems/ui/BaseActivity,com/miteksystems/ui/ShowTextActivity,external,16,222,3
+startActivity,com/miteksystems/ui/BaseActivity,com/miteksystems/ui/ShowTextActivity,external,16,222,3
+startActivity,com/miteksystems/ui/CameraActivity,com/miteksystems/ui/PreviewActivity,internal,16,223,5
+startActivity,com/miteksystems/ui/DataFieldsActivity,com/miteksystems/ui/DepositStatusActivity,internal,16,223,7
+startActivity,com/miteksystems/ui/DepositStatusActivity,com/miteksystems/ui/MainActivity,internal,16,223,8
+startActivity,com/miteksystems/ui/LoginActivity$1,android.intent.action.VIEW,external,16,223,9
+startActivity,com/miteksystems/ui/LoginActivity$Executer,com/miteksystems/ui/TermsActivity,external,16,223,9
+startActivity,com/miteksystems/ui/LoginActivity$Executer,com/miteksystems/ui/MainActivity,external,16,223,9
+sendBroadcast,com/miteksystems/ui/MainActivity$1,com.miteksystems.ui.ACTION_LOGOUT,external,24,223,16
+startActivity,com/miteksystems/ui/MainActivity$1,com/miteksystems/ui/LoginActivity,external,24,223,16
+startActivity,com/miteksystems/ui/MainActivity,com/miteksystems/ui/TransactionListActivity,internal,24,223,17
+startActivity,com/miteksystems/ui/MainActivity,com/miteksystems/ui/AmountEntryActivity,internal,24,223,17
+startActivity,com/miteksystems/ui/PasswordActivity$Executer,com/miteksystems/ui/LoginActivity,external,24,223,18
+startActivity,com/miteksystems/ui/PreviewActivity,com/miteksystems/ui/PreviewActivity,internal,30,223,19
+startActivity,com/miteksystems/ui/PreviewActivity,com/miteksystems/ui/CameraActivity,internal,30,223,20
+startActivity,com/miteksystems/ui/PreviewActivity,com/miteksystems/ui/CameraActivity,internal,30,223,20
+startActivity,com/miteksystems/ui/PreviewActivity,com/miteksystems/ui/DataFieldsActivity,internal,30,223,20
+startActivity,com/miteksystems/ui/PreviewActivity,com/miteksystems/ui/DepositStatusActivity,internal,30,223,20
+startActivity,com/miteksystems/ui/TermsActivity$Executer,com/miteksystems/ui/MainActivity,external,30,223,20
+startActivity,com/miteksystems/ui/TermsActivity,com/miteksystems/ui/LoginActivity,internal,30,223,21
+startActivity,com/miteksystems/ui/TermsActivity,android.intent.action.VIEW,internal,30,223,21
+startActivity,com/miteksystems/ui/TransactionListActivity$ListAdapter,com/miteksystems/ui/TransactionReviewActivity,external,30,223,22
+startActivity,com/miteksystems/ui/TransactionReviewActivity$Executer,com/miteksystems/ui/ShowImageActivity,external,30,223,25

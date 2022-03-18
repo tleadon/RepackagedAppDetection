@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.SEND_SMS]-[android.permission.RECEIVE_SMS]-[android.permission.READ_CONTACTS]-,0,0
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,11
+startActivity,com/joansoft/shareit/lite/ShareIt$6,android.intent.action.VIEW,external,76,159,24
+startActivity,com/joansoft/shareit/lite/ShareIt,android.intent.action.VIEW,external,76,167,24
+startActivity,com/joansoft/shareit/lite/ShareIt,android.intent.action.GET_CONTENT,external,78,179,25
+startActivityForResult,com/joansoft/shareit/lite/ShareIt,android.intent.action.GET_CONTENT,external,78,179,25
+startActivity,com/joansoft/shareit/lite/ShareIt,android.intent.action.PICK,external,78,179,25
+startActivityForResult,com/joansoft/shareit/lite/ShareIt,android.intent.action.PICK,external,78,179,25
+startActivity,com/joansoft/shareit/lite/ShareIt,com/joansoft/shareit/lite/FileActivity,external,78,179,25
+startActivityForResult,com/joansoft/shareit/lite/ShareIt,com/joansoft/shareit/lite/FileActivity,external,78,179,25
+startActivity,com/joansoft/shareit/lite/ShareIt,android.intent.action.GET_CONTENT,external,78,179,25
+startActivityForResult,com/joansoft/shareit/lite/ShareIt,android.intent.action.GET_CONTENT,external,78,179,25
+startActivity,com/joansoft/shareit/lite/ShareIt,android.intent.action.SEND,external,78,179,27
+startActivity,com/joansoft/shareit/lite/ShareIt,android.intent.action.SEND,external,78,181,27
+startActivity,com/joansoft/shareit/lite/VerifyActivy,com/joansoft/shareit/lite/ShareIt,external,86,235,28

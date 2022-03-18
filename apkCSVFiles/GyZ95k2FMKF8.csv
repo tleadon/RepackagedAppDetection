@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-,1,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,19,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,4,19,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,51,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,60,8
+startActivity,jp/maru/mrd/IconLoader$URLOpenerImpl,null,external,52,124,25
+startActivity,jp/shade/DGunsF/DGunsF$MessHdlr,android.intent.action.VIEW,external,52,144,40
+startActivity,jp/shade/DGunsF/DGunsF$MessHdlr,android.intent.action.VIEW,external,52,144,40
+startActivity,jp/shade/DGunsF/DGunsF$MessHdlr,android.intent.action.VIEW,external,52,144,40
+startActivity,jp/shade/DGunsF/DGunsF$MessHdlr,android.intent.action.VIEW,external,52,144,40

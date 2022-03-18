@@ -1,0 +1,47 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/chartboost/sdk/c/j,android.intent.action.VIEW,external,29,91,0
+startActivity,com/doodlejoy/a/a/f,android.intent.action.VIEW,external,29,91,16
+startActivity,com/doodlejoy/a/a/f,android.intent.action.VIEW,external,29,91,16
+startActivity,com/doodlejoy/a/a/f,android.intent.action.VIEW,external,29,91,16
+startActivity,com/doodlejoy/a/a/f,android.intent.action.VIEW,external,29,91,16
+startActivity,com/doodlejoy/a/a/f,android.intent.action.VIEW,external,29,91,16
+startActivity,com/doodlejoy/a/a/f,android.intent.action.VIEW,external,29,91,16
+startActivity,com/doodlejoy/a/b,image/*,external,31,95,16
+startActivityForResult,com/doodlejoy/a/b,image/*,external,31,95,16
+startActivity,com/doodlejoy/colorbook/gallery/ColorBookGalleryActivity,com/doodlejoy/colorbook/paintor/ColorBookPaintor,internal,31,103,18
+startActivity,com/doodlejoy/colorbook/gallery/ColorBookThumbnailActivity,com/doodlejoy/colorbook/gallery/ColorBookGalleryActivity,internal,31,103,18
+startActivity,com/doodlejoy/colorbook/preface/a,canvas_name,external,31,106,27
+startActivity,com/doodlejoy/colorbook/preface/a,com/doodlejoy/colorbook/contour_picker/CanvasPickerActivity,external,31,106,27
+startActivityForResult,com/doodlejoy/colorbook/preface/a,com/doodlejoy/colorbook/contour_picker/CanvasPickerActivity,external,31,106,27
+startActivity,com/doodlejoy/colorbook/preface/a,android.intent.action.PICK,external,31,106,27
+startActivityForResult,com/doodlejoy/colorbook/preface/a,android.intent.action.PICK,external,31,106,27
+startActivity,com/doodlejoy/studio/d/a/a,com/doodlejoy/studio/paintorcore/paintor/Paintor,external,31,160,42
+startActivity,com/doodlejoy/studio/d/a/a,com/doodlejoy/studio/paintorcore/paintor/Paintor,external,31,160,42
+startActivity,com/doodlejoy/studio/d/a/a,android.intent.action.PICK,external,31,160,42
+startActivityForResult,com/doodlejoy/studio/d/a/a,android.intent.action.PICK,external,31,160,42
+startActivity,com/doodlejoy/studio/paintorcore/gallery/a,android.intent.action.SEND,external,31,302,56
+startActivity,com/doodlejoy/studio/paintorcore/gallery/a,com/doodlejoy/studio/paintorcore/paintor/Paintor,external,31,302,56
+startActivity,com/doodlejoy/studio/paintorcore/gallery/h,com/doodlejoy/studio/paintorcore/gallery/a,external,31,302,62
+startActivity,com/doodlejoy/studio/paintorcore/paintor/Paintor,Brush Style,external,31,302,75
+startActivityForResult,com/doodlejoy/studio/paintorcore/paintor/Paintor,Brush Style,external,31,302,75
+startActivity,com/doodlejoy/studio/paintorcore/paintor/Paintor,com/doodlejoy/studio/advancecolorpicker/ColorPickerActivity,external,31,302,75
+startActivityForResult,com/doodlejoy/studio/paintorcore/paintor/Paintor,com/doodlejoy/studio/advancecolorpicker/ColorPickerActivity,external,31,302,75
+startActivity,com/doodlejoy/studio/paintorcore/paintor/Paintor,com/doodlejoy/studio/advancecolorpicker/ColorPickerActivity,external,31,302,75
+startActivityForResult,com/doodlejoy/studio/paintorcore/paintor/Paintor,com/doodlejoy/studio/advancecolorpicker/ColorPickerActivity,external,31,302,75
+startActivity,com/doodlejoy/studio/paintorcore/paintor/Paintor,android.intent.action.SEND,external,31,302,75
+startActivity,com/flurry/android/ai,android.intent.action.VIEW,external,31,303,89
+startActivity,com/flurry/android/ai,android.intent.action.VIEW,external,31,303,89
+startActivity,com/flurry/android/ai,android.intent.category.DEFAULT,external,34,303,89
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,internal,69,384,91
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,internal,69,384,91
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,internal,69,384,91
+startActivity,com/google/ads/b,com/google/ads/AdActivity,external,73,384,92
+startActivity,com/google/ads/internal/b,android.intent.action.VIEW,external,87,397,98
+startActivity,com/google/ads/internal/w,android.intent.action.SEND,external,90,403,100
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,129,413,102
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,129,413,102
+bindService,com/google/analytics/tracking/android/d,com.google.android.gms.analytics.service.START,external,129,413,102
+bindService,com/google/analytics/tracking/android/e,null,external,129,413,102
+startActivity,com/google/analytics/tracking/android/EasyTracker,null,external,129,413,102
+startService,com/google/analytics/tracking/android/l,com/google/analytics/tracking/android/CampaignTrackingService,external,129,439,102

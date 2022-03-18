@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.SET_WALLPAPER]-[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-,0,1
+startActivity,cn/txzh/girls/diff/ActivityMain$10,android.intent.action.VIEW,external,0,3,13
+startActivity,cn/txzh/girls/diff/ActivityMain$12,android.intent.action.VIEW,external,0,3,15
+startActivity,cn/txzh/girls/diff/ActivityMain$15,android.intent.action.VIEW,external,0,3,18
+startActivity,cn/txzh/girls/diff/ActivityMain$19,android.intent.action.VIEW,external,0,3,22
+startActivity,cn/txzh/girls/diff/ActivityMain$22,android.intent.action.VIEW,external,0,3,26
+startActivity,cn/txzh/girls/diff/HttpThread,null,external,27,5,36
+startActivity,cn/txzh/girls/diff/HttpThread,null,external,27,5,36
+startActivity,cn/txzh/girls/diff/HttpThread,null,external,27,5,36
+startActivity,cn/txzh/girls/diff/HttpThread,null,external,27,5,36
+startActivity,cn/txzh/girls/diff/HttpThread,cn/txzh/girls/diff/StartActivity,external,27,5,36
+startActivity,cn/txzh/girls/diff/HttpThread,cn/txzh/girls/diff/StartActivity,external,34,18,36
+startActivity,cn/txzh/girls/diff/HttpThread,cn/txzh/girls/diff/StartActivity,external,34,20,36
+startActivity,cn/txzh/girls/diff/HttpThread,cn/txzh/girls/diff/StartActivity,external,34,39,36
+startActivity,cn/txzh/girls/diff/HttpThread,cn/txzh/girls/diff/StartActivity,external,34,41,36
+startActivity,cn/txzh/girls/diff/HttpThread,cn/txzh/girls/diff/StartActivity,external,34,87,36
+startActivity,cn/txzh/girls/diff/MoreActivity$2,android.intent.action.VIEW,external,34,106,38
+startActivity,cn/txzh/girls/diff/MoreActivity$4,android.intent.action.VIEW,external,34,106,40
+startActivity,cn/txzh/girls/diff/MoreActivity,android.intent.action.MAIN,external,34,108,40
+startActivity,cn/txzh/girls/diff/StartActivity$1,cn/txzh/girls/diff/ActivityMain,external,34,153,42
+startActivity,cn/txzh/girls/diff/StartActivity$2,cn/txzh/girls/diff/MoreActivity,external,34,153,43
+startActivity,cn/txzh/girls/diff/StartActivity,cn/txzh/girls/diff/ActivityMain,external,34,153,45
+startActivity,cn/txzh/girls/diff/StartActivity,from,external,34,153,47
+startActivity,com/feedback/b/a,com/feedback/ui/SendFeedback,external,34,153,48
+startActivity,com/feedback/b/a,com/feedback/ui/FeedbackConversations,external,34,153,48
+startActivity,com/feedback/b/a,com/feedback/ui/FeedbackConversation,external,34,153,48
+sendBroadcast,com/feedback/c/a,postFeedbackFinished,external,38,153,49
+sendBroadcast,com/feedback/c/b,RetrieveReplyBroadcast,external,38,153,49
+sendBroadcast,com/feedback/c/c,postFeedbackFinished,external,38,153,49
+startActivity,com/feedback/ui/j,com/feedback/ui/FeedbackConversations,external,38,153,63
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,38,153,65
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,38,153,66
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,38,153,66
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,38,153,66
+startActivity,com/mobclick/android/g,android.intent.action.VIEW,external,86,202,67

@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,6,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,6,1
+startActivity,com/mmsdk/a/d$2,android.intent.action.DIAL,external,11,54,10
+startActivity,com/mmsdk/a/d$2,android.intent.action.SEND,external,11,54,10
+startActivity,com/mmsdk/a/d$2,android.intent.action.VIEW,external,11,54,10
+startActivity,com/mmsdk/a/d$6,android.intent.action.VIEW,external,11,58,12
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.DIAL,external,13,100,25
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.SEND,external,13,100,25
+startActivity,com/mmsdk/internal/CustomWebView$2,android.intent.action.VIEW,external,13,100,25
+startActivity,com/mmsdk/internal/CustomWebView$8,android.intent.action.VIEW,external,13,105,27
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.DIAL,external,13,113,37
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.SEND,external,13,113,37
+startActivity,com/mmsdk/internal/CustomWebViewBackup$2,android.intent.action.VIEW,external,13,113,37
+startActivity,com/mmsdk/internal/CustomWebViewBackup$8,android.intent.action.VIEW,external,13,118,39
+startActivity,com/teeterbird/crabgame/CrabGame$3,com/teeterbird/crabgame/CrabGameOverScreen,external,69,288,44
+startActivity,com/teeterbird/crabgame/CrabGameMenu$1,android.intent.action.VIEW,external,69,288,51
+startActivity,com/teeterbird/crabgame/CrabGameMenu$2,com/teeterbird/crabgame/CrabGame,external,69,288,51
+startActivity,com/teeterbird/crabgame/CrabGameOverScreen$1,android.intent.action.VIEW,external,69,288,51
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,87,416,76
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,87,416,77

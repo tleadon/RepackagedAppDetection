@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startService,net/luniks/android/inetify/ConnectivityActionReceiver,net/luniks/android/inetify/InetifyIntentService,external,34,0,0
+startService,net/luniks/android/inetify/ConnectivityActionReceiver,net/luniks/android/inetify/InetifyIntentService,external,34,0,0
+startService,net/luniks/android/inetify/ConnectivityActionReceiver,net/luniks/android/inetify/InetifyIntentService,external,34,0,0
+startActivity,net/luniks/android/inetify/Inetify,net/luniks/android/inetify/Help,external,107,0,9
+startActivity,net/luniks/android/inetify/Inetify,net/luniks/android/inetify/IgnoreList,external,107,0,9
+startActivity,net/luniks/android/inetify/Inetify,net/luniks/android/inetify/InfoDetail,external,107,0,9
+startActivity,net/luniks/android/inetify/Inetify,net/luniks/android/inetify/LocationList,external,107,0,9
+startActivity,net/luniks/android/inetify/Inetify,net/luniks/android/inetify/Settings,external,107,0,9
+startActivityForResult,net/luniks/android/inetify/Inetify,net/luniks/android/inetify/Settings,external,107,0,9
+startActivity,net/luniks/android/inetify/Inetify,net/luniks/android/inetify/Settings,external,107,0,11
+startActivityForResult,net/luniks/android/inetify/Inetify,net/luniks/android/inetify/Settings,external,107,0,11
+sendBroadcast,net/luniks/android/inetify/InetifyIntentService,net.luniks.android.inetify.UPDATE_TESTRESULT,external,107,0,11
+startActivity,net/luniks/android/inetify/InfoDetail,android.intent.action.VIEW,external,107,0,12
+startActivity,net/luniks/android/inetify/InfoDetail,android.settings.WIRELESS_SETTINGS,external,107,0,12
+startService,net/luniks/android/inetify/LocationAlarmReceiver,net/luniks/android/inetify/LocationIntentService,external,145,0,16
+startActivity,net/luniks/android/inetify/LocationList,net/luniks/android/inetify/LocationMapView,external,176,0,22
+startActivity,net/luniks/android/inetify/LocationList,net/luniks/android/inetify/LocationMapView,external,178,0,22
+sendBroadcast,net/luniks/android/inetify/LocationMapView$LocateTask,net.luniks.android.inetify.ADD_LOCATION,external,195,0,23

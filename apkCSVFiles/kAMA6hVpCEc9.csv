@@ -1,0 +1,40 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,base/I_Final$1,ui/V_Principal,external,0,0,12
+startActivity,base/I_Menu$1,ui/V_Principal,external,0,0,14
+startActivity,base/I_Mesa$5,base/I_Menu,external,2,0,17
+startActivity,base/I_Mesa$6,base/I_Configuracion,external,2,0,18
+startActivity,base/I_Mesa$7,base/I_Menu,external,2,0,19
+startActivity,base/I_Mesa,base/I_Final,external,2,0,21
+startActivity,base/I_Mesa,base/I_Configuracion,external,2,0,22
+startActivity,base/I_Mesa,base/I_Menu,external,2,0,22
+startActivity,base/I_Mesa,base/I_Menu,external,2,0,23
+startActivity,base/M_Mesa$11,base/M_Menu,external,19,0,41
+startActivity,base/M_Mesa$12,base/M_Configuracion,external,19,0,42
+startActivity,base/M_Mesa$9,base/M_Menu,external,19,0,51
+startActivity,base/M_Mesa,base/M_Configuracion,external,23,0,52
+startActivity,base/M_Mesa,base/M_Menu,external,23,0,52
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,23,0,52
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,23,0,52
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,35,32,54
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,39,41,60
+bindService,facebook/Facebook$TokenRefreshServiceConnection$1,null,external,54,64,72
+bindService,facebook/Facebook$TokenRefreshServiceConnection,null,external,54,64,72
+startActivity,facebook/Facebook,com.facebook.katana,external,59,64,72
+startActivityForResult,facebook/Facebook,com.facebook.katana,external,59,64,72
+bindService,facebook/Facebook,com.facebook.katana,external,59,64,72
+startActivity,facebook/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,59,68,73
+startActivity,log/CompartirPuntuacion,android.intent.action.SEND,external,59,98,73
+startActivity,ui/V_Dificultad,base/I_Mesa,external,59,98,80
+startActivity,ui/V_Multijugador,ui/V_Salon,external,63,98,102
+startActivity,ui/V_Principal$1,android.intent.action.VIEW,external,65,98,103
+startActivity,ui/V_Principal$2,ui/V_Dificultad,external,65,98,104
+startActivity,ui/V_Principal$3,ui/V_Salones,external,65,98,105
+startActivity,ui/V_Principal$4,ui/V_Puntuaciones,external,65,98,106
+startActivity,ui/V_Principal$5,ui/V_Reglas,external,65,98,107
+startActivity,ui/V_Principal,android.intent.action.VIEW,external,65,98,109
+startActivity,ui/V_Principal,android.intent.action.VIEW,external,65,98,109
+startActivity,ui/V_Puntuaciones$4,log/ShareOnFacebook,external,65,98,113
+startActivity,ui/V_Puntuaciones,android.intent.action.VIEW,external,69,98,113
+startActivity,ui/V_Salon,base/M_Mesa,external,73,98,123
+startActivity,ui/V_Salones$3,ui/V_Multijugador,external,73,98,127

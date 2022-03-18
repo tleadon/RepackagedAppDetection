@@ -1,0 +1,6 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.RESTART_PACKAGES]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.DISABLE_KEYGUARD]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_TASKS]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.RECEIVE_BOOT_COMPLETED]-,1,0
+startActivity,net/osaris/turbofly/glsurface/GLSurface$4,android.intent.action.VIEW,external,4,55,8
+startActivity,net/osaris/turbofly/glsurface/GLSurface$6,android.intent.action.VIEW,external,4,55,10
+startActivity,net/osaris/turbofly/Menu$1,android.intent.action.VIEW,external,4,55,24
+startActivity,net/osaris/turbofly/Menu,android.intent.action.VIEW,external,4,55,25

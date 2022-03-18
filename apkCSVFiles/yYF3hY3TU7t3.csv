@@ -1,0 +1,25 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.BILLING]-[com.android.vending.CHECK_LICENSE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,0,0,0
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,0,0,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,0,5,0
+startActivity,com/flurry/android/FlurryAds,adSpaceName,external,107,89,4
+startActivity,com/flurry/android/FlurryFullscreenTakeoverActivity,null,external,134,174,7
+startActivity,com/gamehouse/crosspromotion/implementation/gpn/DisplayController,com/gamehouse/crosspromotion/implementation/ads/interstitial/InterstitialActivity,external,142,965,25
+startActivity,com/gamehouse/crosspromotion/implementation/gpn/HtmlAdView,android.intent.action.VIEW,external,142,967,26
+startActivity,com/littleworlds/GoogleIABPlugin$3,com/littleworlds/GoogleIABProxyActivity,external,172,1015,28
+bindService,com/littleworlds/GoogleIABPlugin,null,external,172,1015,28
+bindService,com/littleworlds/util/IabHelper,null,external,172,1015,28
+bindService,com/littleworlds/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,172,1019,28
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,internal,178,1076,55
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,225,1083,71
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,225,1083,71
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,251,1184,72
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,251,1194,72
+startService,com/unity3d/plugin/downloader/b/r,EPI,external,251,1194,72
+startActivity,com/unity3d/plugin/downloader/b,android.settings.WIFI_SETTINGS,external,279,1198,73
+bindService,com/unity3d/plugin/downloader/c/j,null,external,279,1208,73
+bindService,com/unity3d/plugin/downloader/c/j,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,279,1208,73

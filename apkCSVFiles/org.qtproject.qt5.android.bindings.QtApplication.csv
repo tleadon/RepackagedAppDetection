@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.RECORD_AUDIO]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+bindService,org/qtproject/qt5/android/bindings/QtActivity$3$1$1,null,external,0,0,2
+startActivity,org/qtproject/qt5/android/bindings/QtActivity$4,android.intent.action.VIEW,external,0,0,3
+startActivityForResult,org/qtproject/qt5/android/bindings/QtActivity$4,android.intent.action.VIEW,external,0,0,3
+bindService,null,null,null,0,0,0
+startActivity,org/qtproject/qt5/android/QtNative,android.intent.action.VIEW,external,0,158,99

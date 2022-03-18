@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,external,0,13,0
+startService,com/android/util/counter/CounterReceiver,com/test/httputil/HttpUtilService,external,0,13,0
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,64,24,2
+sendBroadcast,com/common/StarterActivity,com.cstrike.openit,external,64,24,2
+startActivity,com/common/StarterActivity,android.intent.action.MAIN,external,64,24,2
+startActivity,com/ebadd/tdadv/Application$RunLinkToURL,android.intent.action.VIEW,external,64,24,2
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,67,69,2
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,67,69,2
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,67,69,2
+bindService,com/umeng/common/net/a$b,null,external,130,245,6
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,130,245,6
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,154,248,6
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,154,327,6
+startActivity,com/umeng/common/util/g,null,external,168,443,6
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,168,443,6
+startActivity,org/ormma/controller/OrmmaUtilityController,android.intent.action.CALL,external,215,743,16
+startActivity,org/ormma/controller/OrmmaUtilityController,android.intent.action.SEND,external,215,743,16
+startActivity,org/ormma/controller/OrmmaUtilityController,android.intent.action.VIEW,external,215,743,16
+startActivity,org/ormma/view/OrmmaView$3,android.intent.action.DIAL,external,215,752,22
+startActivity,org/ormma/view/OrmmaView$3,android.intent.action.VIEW,external,215,752,22
+startActivity,org/ormma/view/OrmmaView$3,android.intent.action.VIEW,external,215,752,23
+startActivity,org/ormma/view/OrmmaView$3,android.intent.action.VIEW,external,215,752,23
+startActivity,org/ormma/view/OrmmaView,android.intent.action.VIEW,external,215,773,28
+startActivity,org/ormma/view/OrmmaView,android.intent.action.VIEW,external,215,773,28
+startActivity,org/ormma/view/OrmmaView,org/ormma/view/OrmmaActionHandler,external,215,773,28
+startActivity,org/ormma/view/OrmmaView,org/ormma/view/OrmmaActionHandler,external,215,773,28

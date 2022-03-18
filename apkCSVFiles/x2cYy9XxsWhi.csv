@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.SET_WALLPAPER]-[android.permission.SET_WALLPAPER_HINTS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,11,0,5
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,11,0,5
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,11,0,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,16,0,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,16,0,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,16,0,5
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,26,10,5
+startActivity,com/google/android/gms/dynamic/a$5,null,external,26,24,10
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,26,26,10
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,26,26,10
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,26,26,10
+startActivity,com/google/android/gms/internal/bh,Open GMSG did not contain a URL.,external,38,26,14
+startActivity,com/google/android/gms/internal/bk,com.google.android.gms.ads.AdActivity,external,38,26,14
+startActivity,com/google/android/gms/internal/cv$a,null,external,56,35,15
+startActivity,com/google/android/gms/internal/cv$a,null,external,56,35,15
+startActivity,com/google/android/gms/internal/cv,android.intent.action.VIEW,external,56,35,15
+startActivity,com/google/android/gms/internal/di,null,external,56,42,23
+startActivityForResult,com/google/android/gms/internal/di,null,external,56,42,23
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,56,43,23
+startService,com/google/android/gms/internal/dm,com.google.android.gms,external,56,43,23
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,56,43,23
+startService,com/google/android/gms/internal/dm,com.google.android.gms,external,56,43,23
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,56,43,23
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,134,82,59
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,134,82,59
+startActivity,dog/pup/jig/GridviewActivity$1,id,external,134,82,61
+startActivity,dog/pup/jig/GridviewActivity,dog/pup/jig/JigdrawPuzzleMain,internal,134,82,63
+startActivity,dog/pup/jig/JigdrawPuzzleMain,dog/pup/jig/GridviewActivity,internal,134,82,69
+startActivity,dog/pup/jig/JigdrawPuzzleMain,dog/pup/jig/PreferSettingActivity,internal,134,82,69
+startActivityForResult,dog/pup/jig/JigdrawPuzzleMain,dog/pup/jig/PreferSettingActivity,internal,134,82,69
+startActivity,dog/pup/jig/splashscreen,dog/pup/jig/JigdrawPuzzleMain,external,134,82,74

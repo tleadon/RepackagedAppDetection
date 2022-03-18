@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[com.papaya.appflood.permission.C2D_MESSAGE]-[com.google.android.c2dm.permission.RECEIVE]-[com.android.launcher.permission.UNINSTALL_SHORTCUT]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startService,com/a/a/a/e,sender,external,0,0,0
+sendBroadcast,com/appflood/a,com.android.launcher.action.INSTALL_SHORTCUT,external,0,23,0
+startActivity,com/appflood/AFListActivity$b$1,android.intent.action.VIEW,external,0,23,12
+startActivity,com/appflood/AppFlood,android.intent.action.VIEW,external,0,23,22
+startActivity,com/appflood/AppFlood,com/appflood/AFInterstitialActivity,external,0,23,22
+sendBroadcast,com/appflood/c/a,com.android.launcher.action.UNINSTALL_SHORTCUT,external,0,28,22
+startActivity,com/appflood/d/a$8,android.intent.action.VIEW,external,0,28,23
+sendBroadcast,com/appflood/d/d,com.papayamobile.ACTION_GET_VIRTUAL_ID,external,0,30,29
+startService,com/appflood/d/d,com.papayamobile.ACTION_GET_VIRTUAL_ID,external,0,30,29
+startService,com/appflood/d/d,com.papayamobile.ACTION_GET_VIRTUAL_ID,external,0,30,29
+startActivity,com/appflood/e/e,null,external,15,119,29
+startActivity,com/appflood/e/e,null,external,15,119,29
+startActivity,com/appflood/f/e$3,android.intent.action.VIEW,external,15,119,31
+startActivity,com/appflood/notification/NotificationActivity,android.intent.action.VIEW,external,15,119,34
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,21,174,61

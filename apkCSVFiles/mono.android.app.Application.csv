@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,0,8,0
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,0,8,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,0,13,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,0,13,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,0,13,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,0,13,0
+startActivity,com/flurry/android/ac,android.intent.action.VIEW,external,2,13,0
+startActivity,com/flurry/android/ap,frameIndex,external,2,17,0
+startActivity,com/flurry/android/ax,com/flurry/android/FlurryFullscreenTakeoverActivity,external,2,18,3
+startActivity,com/flurry/android/bk,com/flurry/android/FlurryFullscreenTakeoverActivity,external,7,35,4
+startActivity,com/flurry/android/bo,com/flurry/android/FlurryFullscreenTakeoverActivity,external,9,48,4
+startActivity,com/flurry/android/bo,com/flurry/android/FlurryFullscreenTakeoverActivity,external,9,48,4
+startActivity,com/flurry/android/c,com/flurry/android/FlurryFullscreenTakeoverActivity,external,9,54,4
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,41,816,24
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,41,816,24
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,41,816,24
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,41,816,24
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,55,818,28
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,57,823,30

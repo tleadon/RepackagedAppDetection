@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,1,0
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,0,0,0
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,0,0,0
+startActivity,com/gippie/pay/alipay/MobileSecurePayer$2,android.intent.action.MAIN,external,4,13,0
+bindService,com/gippie/pay/alipay/MobileSecurePayer$3,null,external,4,13,0
+bindService,com/gippie/pay/alipay/MobileSecurePayer,com/alipay/android/app/IAlixPay,external,4,13,0
+startActivity,com/gippie/pay/alipay/MobileSecurePayHelper$3,android.intent.action.VIEW,external,4,13,1

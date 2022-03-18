@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,cn/domob/android/a/b,null,external,2,9,0
+startActivity,cn/domob/android/ads/e,android.intent.action.PACKAGE_ADDED,external,55,79,3
+startActivity,cn/domob/android/ads/g$1,null,external,55,79,4
+startActivity,cn/domob/android/ads/g,url,external,55,79,9
+startActivity,cn/domob/android/ads/g,url,external,55,79,9
+startActivity,cn/domob/android/ads/g,url,external,55,79,9
+startActivity,cn/domob/android/ads/o$11,android.intent.action.VIEW,external,55,80,19
+startActivity,cn/domob/android/ads/o$11,android.intent.action.VIEW,external,55,80,19
+startActivity,cn/domob/android/ads/o$11,android.intent.action.VIEW,external,55,80,19
+startActivity,cn/domob/android/ads/o$5,null,external,55,80,27
+startActivity,cn/domob/android/ads/o,android.intent.action.VIEW,external,55,97,28

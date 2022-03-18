@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.RECORD_AUDIO]-,1,0
+startService,com/cat/pianocgoerb/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,6,65,21
+startService,com/cat/pianocgoerb/BillingReceiver,com.cat.pianocnperfect.GET_PURCHASE_INFORMATION,external,6,65,21
+startService,com/cat/pianocgoerb/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,6,65,21
+bindService,com/cat/pianocgoerb/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,6,65,21
+bindService,com/cat/pianocgoerb/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,6,65,21
+startActivity,com/cat/pianocgoerb/cu,android.intent.action.VIEW,external,8,76,43
+startActivity,com/cat/pianocgoerb/cu,com/cat/pianocgoerb/AudioPlayerFloatingActivity,external,8,76,43
+startActivity,com/cat/pianocgoerb/da,android.intent.action.SEND,external,8,86,48
+startActivity,com/cat/pianocgoerb/do,android.intent.action.VIEW,external,8,88,57
+bindService,com/cat/pianocgoerb/DownloadMoreSongsActivity,com/cat/pianocgoerb/DownloadService,external,8,95,59
+bindService,com/cat/pianocgoerb/DownloadMoreSongsActivity,com/cat/pianocgoerb/DownloadService,external,8,95,59
+startActivity,com/cat/pianocgoerb/du,android.intent.action.VIEW,external,8,99,71
+startActivity,com/cat/pianocgoerb/dv,android.intent.action.SEND,external,8,99,72
+startActivity,com/cat/pianocgoerb/ed,com/cat/pianocgoerb/MainWindow,external,8,99,77
+startActivity,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/SongsListActivity,external,8,103,79
+startActivityForResult,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/SongsListActivity,external,8,103,79
+startActivity,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/FileManagerActivity,external,8,103,79
+startActivityForResult,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/FileManagerActivity,external,8,103,79
+startActivity,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/FileManagerActivity,external,8,103,79
+startActivityForResult,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/FileManagerActivity,external,8,103,79
+startActivity,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/HelpActivity,external,8,103,79
+startActivity,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/DownloadMoreSongsActivity,external,8,103,79
+startActivity,com/cat/pianocgoerb/LearnModeActivity,com/cat/pianocgoerb/Settings,external,8,103,79
+startActivity,com/cat/pianocgoerb/MainWindow,com/cat/pianocgoerb/HelpActivity,external,8,103,85
+startActivityForResult,com/cat/pianocgoerb/MainWindow,com/cat/pianocgoerb/HelpActivity,external,8,103,85
+startActivity,com/cat/pianocgoerb/MainWindow,com/cat/pianocgoerb/Settings,external,8,103,85
+startActivity,com/cat/pianocgoerb/MainWindow,com/cat/pianocgoerb/LearnModeActivity,external,8,103,85
+startActivity,com/cat/pianocgoerb/MainWindow,com/cat/pianocgoerb/RecordingsListActivity,external,8,103,85
+startActivityForResult,com/cat/pianocgoerb/MainWindow,com/cat/pianocgoerb/RecordingsListActivity,external,8,103,85
+startActivity,com/cat/pianocgoerb/MainWindow,android.intent.action.VIEW,external,8,103,85
+startActivity,com/cat/pianocgoerb/RecordingsListActivity,android.intent.action.VIEW,external,8,106,94
+startActivity,com/cat/pianocgoerb/RecordingsListActivity,com/cat/pianocgoerb/AudioPlayerFloatingActivity,external,8,106,94
+startActivity,com/cat/pianocgoerb/RecordingsListActivity,com/cat/pianocgoerb/FileManagerActivity,external,8,106,95
+startActivityForResult,com/cat/pianocgoerb/RecordingsListActivity,com/cat/pianocgoerb/FileManagerActivity,external,8,106,95
+startActivity,com/cat/pianocgoerb/SongsListActivity,com/cat/pianocgoerb/DownloadMoreSongsActivity,external,8,106,97

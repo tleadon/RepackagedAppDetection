@@ -1,0 +1,74 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,android/support/v4/app/Fragment,null,external,0,13,6
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,6
+startActivity,android/support/v4/app/Fragment,null,external,0,13,6
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,10
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,10
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,10
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,10
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,10
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,10
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,64,15
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,64,15
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,15
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,15
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,15
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,15
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,15
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,67,15
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,67,15
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,70,15
+startActivity,android/support/v4/content/IntentCompat,null,external,2,70,15
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,70,15
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,72,15
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,197,43
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,4,197,43
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,229,45
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,238,51
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,35,252,63
+bindService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,35,252,63
+bindService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,43,252,63
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,43,252,63
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,43,252,63
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,43,252,63
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,43,252,63
+bindService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic$ServiceDetails,Attempting to start service,external,43,252,63
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic,null,external,43,252,63
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic,null,external,43,252,63
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic,null,external,43,252,63
+startService,com/red_folder/phonegap/plugin/backgroundservice/BackgroundServicePluginLogic,null,external,43,252,63
+startActivity,org/apache/cordova/camera/CameraLauncher,Get Picture,external,55,1120,67
+startActivityForResult,org/apache/cordova/camera/CameraLauncher,Get Picture,external,55,1120,67
+startActivity,org/apache/cordova/camera/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,57,1142,67
+startActivityForResult,org/apache/cordova/camera/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,57,1142,67
+startActivity,org/apache/cordova/CordovaActivity,null,external,80,1166,79
+startActivityForResult,org/apache/cordova/CordovaActivity,null,external,80,1166,79
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,80,1166,86
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,80,1166,86
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,93,1249,98
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,93,1249,98
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,93,1249,98
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,1249,98
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,1249,98
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,1249,98
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,1249,98
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,93,1249,98
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.DIAL,external,171,1699,110
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,171,1699,110
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient,android.intent.action.VIEW,external,171,1699,110
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser,android.intent.action.DIAL,external,171,1699,110
+startActivity,org/apache/cordova/inappbrowser/InAppBrowser,android.intent.action.VIEW,external,171,1699,110
+startActivity,org/apache/cordova/mediacapture/Capture,android.provider.MediaStore.RECORD_SOUND,external,171,1725,110
+startActivityForResult,org/apache/cordova/mediacapture/Capture,android.provider.MediaStore.RECORD_SOUND,external,171,1725,110
+startActivity,org/apache/cordova/mediacapture/Capture,android.media.action.IMAGE_CAPTURE,external,171,1729,110
+startActivityForResult,org/apache/cordova/mediacapture/Capture,android.media.action.IMAGE_CAPTURE,external,171,1729,110
+startActivity,org/apache/cordova/mediacapture/Capture,android.media.action.VIDEO_CAPTURE,external,171,1729,110
+startActivityForResult,org/apache/cordova/mediacapture/Capture,android.media.action.VIDEO_CAPTURE,external,171,1729,110
+startActivity,org/apache/cordova/plugins/Appstore$1,android.intent.action.VIEW,external,183,1769,110
+startActivityForResult,org/apache/cordova/plugins/Appstore$1,android.intent.action.VIEW,external,183,1769,110
+startActivity,org/apache/cordova/plugins/HomeButton$1,android.intent.action.MAIN,external,183,1769,110
+startActivityForResult,org/apache/cordova/plugins/HomeButton$1,android.intent.action.MAIN,external,183,1769,110
+startActivity,org/apache/cordova/plugins/Share,android.intent.action.SEND,external,183,1769,110
+startActivityForResult,org/apache/cordova/plugins/Share,android.intent.action.SEND,external,183,1769,110

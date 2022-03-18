@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+startActivity,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivityForResult,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/dodur/android/ffcfty/GameActivity,com/scoreloop/client/android/ui/PostScoreOverlayActivity,external,0,2,97
+startActivityForResult,com/dodur/android/ffcfty/GameActivity,com/scoreloop/client/android/ui/PostScoreOverlayActivity,external,0,2,97
+startActivity,com/dodur/android/ffcfty/GameActivity,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,0,2,102
+startActivity,com/dodur/android/ffcfty/GameActivity,com/scoreloop/client/android/ui/AchievementsScreenActivity,external,0,2,102
+startActivity,com/dodur/android/ffcfty/GameActivity,com/dodur/android/ffcfty/HowToPlayActivity,external,0,2,102
+startActivity,com/dodur/android/ffcfty/GameActivity,com/scoreloop/client/android/ui/ShowResultOverlayActivity,external,0,2,105
+startActivityForResult,com/dodur/android/ffcfty/GameActivity,com/scoreloop/client/android/ui/ShowResultOverlayActivity,external,0,2,105
+startActivity,com/dodur/android/splash/GradualSplashActivity$1,null,external,0,2,105
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,34,120,112
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,34,120,121
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,34,120,121
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,34,120,137
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,38,129,150
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,38,129,150
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,38,132,165
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,38,132,188
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,60,448,220
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,60,448,221

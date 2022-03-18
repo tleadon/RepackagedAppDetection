@@ -1,0 +1,4 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,1,1
+startService,com/pocketappbuilders/cpuusagestatusbar/BootUpReceiver,com/pocketappbuilders/cpuusagestatusbar/CPUUsageStatusBar,external,0,0,0
+startService,com/pocketappbuilders/cpuusagestatusbar/CPUUsageStatusBarUI,com/pocketappbuilders/cpuusagestatusbar/CPUUsageStatusBar,external,0,65,5

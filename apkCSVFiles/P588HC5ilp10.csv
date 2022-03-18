@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_SETTINGS]-[com.android.vending.BILLING]-,0,0
+bindService,com/android/vending/licensing/aa,null,external,0,10,4
+bindService,com/android/vending/licensing/aa,com/android/vending/licensing/ILicensingService,external,0,10,4
+bindService,com/android/vending/licensing/ae,null,external,0,12,4
+bindService,com/android/vending/licensing/ae,com/android/vending/licensing/ILicensingService,external,0,12,4
+bindService,com/android/vending/licensing/ai,null,external,0,14,4
+bindService,com/android/vending/licensing/ai,com/android/vending/licensing/ILicensingService,external,0,14,4
+bindService,com/android/vending/licensing/am,null,external,0,16,4
+bindService,com/android/vending/licensing/am,com/android/vending/licensing/ILicensingService,external,0,16,4
+bindService,com/android/vending/licensing/o,null,external,0,94,4
+bindService,com/android/vending/licensing/o,com/android/vending/licensing/ILicensingService,external,0,94,4
+bindService,com/android/vending/licensing/s,null,external,0,96,4
+bindService,com/android/vending/licensing/s,com/android/vending/licensing/ILicensingService,external,0,96,4
+bindService,com/android/vending/licensing/w,null,external,0,98,4
+bindService,com/android/vending/licensing/w,com/android/vending/licensing/ILicensingService,external,0,98,4
+startActivity,com/ea/blast/SystemAndroidDelegate,android.intent.action.VIEW,external,62,112,14
+startService,com/ea/easp/mtx/market/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,76,189,34
+startService,com/ea/easp/mtx/market/BillingReceiver,com.ea.easp.mtx.market.GET_PURCHASE_INFORMATION,external,76,189,34
+startService,com/ea/easp/mtx/market/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,76,189,34
+bindService,com/ea/easp/mtx/market/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,76,189,34
+bindService,com/ea/easp/mtx/market/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,76,189,34
+startActivity,com/eamobile/download/DownloadActivityInternal,android.settings.NETWORK_OPERATOR_SETTINGS,external,96,449,51
+startActivity,com/eamobile/download/DownloadActivityInternal,android.settings.MEMORY_CARD_SETTINGS,external,96,449,51
+startActivity,com/eamobile/download/DownloadActivityInternal,android.settings.WIFI_SETTINGS,external,96,449,51
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,99,667,66
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,99,667,66
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,99,668,66
+startActivity,com/fiksu/asotracking/RatingPrompter$RatingClickListener,android.intent.action.VIEW,external,116,698,67
+startService,com/verizon/vcast/apps/LicenseAuthenticator,com.gravitymobile.app.hornbill,external,302,734,67
+bindService,com/verizon/vcast/apps/LicenseAuthenticator,com.gravitymobile.app.hornbill,external,302,734,67
+bindService,com/verizon/vcast/apps/LicenseAuthenticator,com.gravitymobile.app.hornbill,external,302,734,67
+bindService,com/verizon/vcast/apps/LicenseAuthenticator,com.gravitymobile.app.hornbill,external,302,734,67

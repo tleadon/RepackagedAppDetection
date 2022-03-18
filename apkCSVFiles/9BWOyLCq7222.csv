@@ -1,0 +1,35 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,30,111,13
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,30,111,13
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,42,143,15
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,46,152,21
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,61,166,33
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,61,166,33
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,61,166,33
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,71,178,33
+startActivity,com/google/android/gms/dynamic/a$5,null,external,71,180,36
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,71,182,36
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,71,182,36
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,71,182,36
+startActivity,com/google/android/gms/internal/i,null,external,103,190,39
+startActivityForResult,com/google/android/gms/internal/i,null,external,103,190,39
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,103,191,39
+startService,com/google/android/gms/internal/l,com.google.android.gms,external,103,191,39
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,103,191,39
+startService,com/google/android/gms/internal/l,com.google.android.gms,external,103,191,39
+bindService,com/google/android/gms/internal/l,com.google.android.gms,external,103,191,39
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,130,200,73
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,130,200,73
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,145,200,74
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,145,200,74
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,145,200,74
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,145,200,74
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,145,200,74
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,145,200,74
+startActivity,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,145,200,74
+startActivityForResult,com/nerdiacs/nerdgpgplugin/NerdGPG,com/nerdiacs/nerdgpgplugin/DummyActivity,external,145,200,74
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,151,255,101

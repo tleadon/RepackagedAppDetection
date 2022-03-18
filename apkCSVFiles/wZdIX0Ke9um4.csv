@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.VIBRATE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,24,61,6
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,24,61,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,30,147,13
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,30,147,13
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,42,179,15
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,46,188,21
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,67,257,60

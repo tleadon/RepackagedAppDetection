@@ -1,0 +1,13 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-,0,1
+startActivity,com/adwhirl/AdWhirlLayout,android.intent.action.VIEW,external,10,9,1
+startActivity,com/apk4biz/medicalnews/MainActivity$6,android.intent.action.VIEW,external,41,32,3
+startActivity,com/apk4biz/medicalnews/MainActivity,android.intent.action.SEND,external,41,32,5
+startActivity,com/apk4biz/medicalnews/MainActivity,android.intent.action.SEND,external,41,32,5
+startActivity,com/apk4biz/medicalnews/MainActivity,android.intent.action.VIEW,external,41,32,6
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,72,57,9
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,72,57,9
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,72,57,9
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,75,57,9
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,75,74,10
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,75,74,11

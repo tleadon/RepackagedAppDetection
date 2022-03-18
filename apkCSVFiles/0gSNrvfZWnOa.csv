@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.DISABLE_KEYGUARD]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.BILLING]-[com.amazon.permission.SET_FLAG_NOSOFTKEYS]-[android.permission.BROADCAST_STICKY]-,1,1
+startActivity,com/adobe/adms/measurement/ADMS_Measurement,null,external,8,4,0
+sendStickyBroadcast,com/adobe/air/AIRService,com.adobe.air.DownloadConfigComplete,external,21,49,8
+sendBroadcast,com/adobe/air/AndroidActivityWrapper,android.intent.action.MAIN,external,23,51,24
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,23,53,24
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,23,53,24
+startService,com/adobe/air/AndroidActivityWrapper,com.adobe.air.DownloadConfig,external,23,55,24
+startActivity,com/adobe/air/AndroidMediaManager,image/*,external,38,63,33
+startActivityForResult,com/adobe/air/AndroidMediaManager,image/*,external,38,63,33
+startActivity,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,38,63,46
+startActivityForResult,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,38,63,46
+startActivity,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,52,174,50
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,52,174,50
+startActivity,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,52,174,50
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,52,174,50
+startActivity,com/adobe/dmp/viewer/analytics/OmnitureAnalyticsTracker,null,external,99,347,69
+startActivity,com/adobe/dmp/viewer/bootstrapper/ActivityWrapper$WebViewClientWrapper,android.intent.action.VIEW,external,99,352,70
+startActivity,com/adobe/dmp/viewer/bootstrapper/ActivityWrapper,com/adobe/dmp/viewer/bootstrapper/VideoActivity,external,99,356,71
+startService,com/adobe/dmp/viewer/bootstrapper/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,101,356,71
+startService,com/adobe/dmp/viewer/bootstrapper/BillingReceiver,com.adobe.appentry.GET_PURCHASE_INFORMATION,external,101,356,71
+startService,com/adobe/dmp/viewer/bootstrapper/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,101,356,71
+bindService,com/adobe/dmp/viewer/bootstrapper/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,101,356,71
+bindService,com/adobe/dmp/viewer/bootstrapper/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,101,356,71
+bindService,com/adobe/flashplayer/HDMIUtils,com.motorola.intent.action.externaldisplaystate,external,101,375,71
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,101,375,71
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,101,375,71
+bindService,com/hoch5next/dps/smarthouse/aphone/AppEntry$4,null,external,101,397,73
+startActivity,com/hoch5next/dps/smarthouse/aphone/AppEntry,null,external,101,397,73
+bindService,com/hoch5next/dps/smarthouse/aphone/AppEntry,com.adobe.air.AIRServiceAction,external,101,397,73

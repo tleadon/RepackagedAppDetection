@@ -1,0 +1,4 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_SMS]-[android.permission.READ_CONTACTS]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-,0,0
+startActivity,com/wooboo/adlib_android/c,com/wooboo/adlib_android/FullActivity,external,0,6,21
+startActivity,com/wooboo/adlib_android/t,,external,220,291,42

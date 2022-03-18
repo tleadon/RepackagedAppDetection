@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-,0,0
+bindService,com/bda/controller/Controller,null,external,0,0,2
+startService,com/bda/controller/Controller,com/bda/controller/IControllerService,external,0,0,2
+bindService,com/bda/controller/Controller,com/bda/controller/IControllerService,external,0,0,2
+startActivity,org/acra/ErrorReporter,org/acra/CrashReportDialog,external,6,96,9
+startActivity,org/acra/sender/EmailIntentSender,android.intent.action.SEND,external,6,96,9
+startActivity,paulscode/android/mupen64plusae/input/InputMapActivity,paulscode/android/mupen64plusae/input/DiagnosticActivity,internal,19,288,43
+startActivity,paulscode/android/mupen64plusae/MainActivity$2,paulscode/android/mupen64plusae/MenuActivity,external,19,291,52
+startActivity,paulscode/android/mupen64plusae/MenuActivity$1,null,external,19,296,52
+startActivity,paulscode/android/mupen64plusae/MenuActivity,paulscode/android/mupen64plusae/MainActivity,internal,19,302,54
+startActivity,paulscode/android/mupen64plusae/MenuActivity,paulscode/android/mupen64plusae/MainActivity,internal,19,307,55
+startActivity,paulscode/android/mupen64plusae/PlayMenuActivity,paulscode/android/mupen64plusae/GameActivityXperiaPlay,internal,19,404,69
+startActivity,paulscode/android/mupen64plusae/PlayMenuActivity,paulscode/android/mupen64plusae/GameActivity,internal,19,404,70
+startActivity,paulscode/android/mupen64plusae/util/Utility,android.intent.action.VIEW,external,19,803,85

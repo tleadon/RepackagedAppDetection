@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CALL_PHONE]-[android.permission.SET_WALLPAPER]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,7,6
+startActivity,com/nandroid/photogallery/DashboardAppActivity,com/nandroid/photogallery/Main_Grid,external,32,21,18
+startActivity,com/nandroid/photogallery/DashboardAppActivity,com/nandroid/photogallery/infoActivity,external,32,21,18
+startActivity,com/nandroid/photogallery/DashboardAppActivity,com/nandroid/photogallery/HomeActivity,external,32,21,18
+startService,com/nandroid/photogallery/HomeActivity,com/nandroid/photogallery/MusicService,internal,32,21,28
+startService,com/nandroid/photogallery/HomeActivity,com/nandroid/photogallery/MusicService,internal,32,21,28
+startActivity,com/nandroid/photogallery/infoActivity$1,android.intent.action.SEND,external,32,21,29
+startActivity,com/nandroid/photogallery/infoActivity$2,android.intent.action.SEND,external,32,21,30
+startActivity,com/nandroid/photogallery/infoActivity$3,android.intent.action.VIEW,external,32,21,31
+startActivity,com/nandroid/photogallery/Main_Grid$2,com/nandroid/photogallery/ZoomView,external,32,21,33
+startActivity,com/nandroid/photogallery/SplashScreen$1$1,com/nandroid/photogallery/HomeActivity,external,32,21,34
+startActivity,com/nandroid/photogallery/ZoomView,android.intent.action.SEND,internal,32,33,36

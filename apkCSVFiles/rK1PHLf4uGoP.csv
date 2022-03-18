@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.INTERNET]-[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,0,0,0
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,0,0,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,0,5,0
+startActivity,com/chartboost/sdk/Networking/CBURLOpener,android.intent.action.VIEW,external,32,86,13
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,32,336,19
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.GET_PURCHASE_INFORMATION,external,32,336,19
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,32,336,19
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,32,336,19
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,32,336,19
+bindService,com/prime31/IABPlugin$1,com/prime31/billing/BillingService,external,36,342,19
+bindService,com/prime31/IABPlugin,null,external,36,342,19
+startActivity,com/tapjoy/TapjoyDailyRewardAd,com/tapjoy/TapjoyDailyRewardAdWebView,external,57,342,20
+startActivity,com/tapjoy/TapjoyDisplayAd$GetBannerAdTask$1,com/tapjoy/TJCOffersWebView,external,57,342,20
+startActivity,com/tapjoy/TapjoyFullScreenAd,com/tapjoy/TapjoyFeaturedAppWebView,external,57,342,20
+startActivity,com/tapjoy/TapjoyFullScreenAd,com/tapjoy/TapjoyFullScreenAdWebView,external,57,342,20
+startActivity,com/tapjoy/TapjoyFullScreenAdWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,57,342,21
+startActivity,com/tapjoy/TapjoyFullScreenAdWebView,com/tapjoy/TJCOffersWebView,external,57,342,21
+startActivity,com/tapjoy/TapjoyVideo,com/tapjoy/TapjoyVideoView,external,61,511,21
+startActivity,com/tapjoy/TapjoyVideoView$1,android.intent.action.VIEW,external,61,511,21
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,external,61,511,27
+startActivity,com/tapjoy/TJCOffers,com/tapjoy/TJCOffersWebView,external,61,511,27
+startActivity,com/tapjoy/TJCOffersWebView$TapjoyWebViewClient,android.intent.action.VIEW,external,61,511,28
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,114,554,54

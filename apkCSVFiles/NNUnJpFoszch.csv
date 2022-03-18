@@ -1,0 +1,33 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,17,7,6
+startActivity,com/housevillage/pokerfever/PokerfeverView$PokerfeverThread,android.intent.action.VIEW,external,33,21,21
+startActivity,com/housevillage/pokerfever/PokerfeverView$PokerfeverThread,android.intent.action.VIEW,external,33,21,21
+startActivity,com/housevillage/pokerfever/PokerfeverView$PokerfeverThread,android.intent.action.VIEW,external,33,21,21
+startActivity,com/housevillage/pokerfever/PokerfeverView$PokerfeverThread,android.intent.action.VIEW,external,33,21,21
+startActivity,com/mobclix/android/sdk/FetchRemoteConfig$1,android.intent.action.VIEW,external,33,161,26
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixBrowser$1,android.intent.action.VIEW,external,67,352,30
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity$MobclixVideoView$ButtonOnClickListener,android.intent.action.VIEW,external,67,352,36
+startActivity,com/mobclix/android/sdk/MobclixBrowserActivity,android.media.action.IMAGE_CAPTURE,external,69,362,53
+startActivityForResult,com/mobclix/android/sdk/MobclixBrowserActivity,android.media.action.IMAGE_CAPTURE,external,69,362,53
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,69,362,55
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,com/mobclix/android/sdk/MobclixBrowserActivity,external,69,362,55
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,android.intent.action.VIEW,external,69,362,55
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,android.intent.action.VIEW,external,69,362,55
+startActivity,com/mobclix/android/sdk/MobclixCreative$Action,cachedHTML,external,69,362,55
+startActivity,com/mobclix/android/sdk/MobclixFullScreenAdView,com/mobclix/android/sdk/MobclixBrowserActivity,external,69,364,73
+startActivity,com/mobclix/android/sdk/MobclixJavascriptInterface,com/mobclix/android/sdk/MobclixBrowserActivity,external,72,364,82
+startActivity,com/mobclix/android/sdk/MobclixJavascriptInterface,android.intent.action.VIEW,external,78,364,87
+startActivity,com/mobclix/android/sdk/MobclixJavascriptInterface,android.intent.action.VIEW,external,78,364,87
+startActivity,com/mobclix/android/sdk/MobclixJavascriptInterface,com/mobclix/android/sdk/MobclixBrowserActivity,external,78,364,88
+startActivity,com/mobclix/android/sdk/MobclixWebView$1,android.intent.action.VIEW,external,174,366,102
+startActivity,com/mobclix/android/sdk/MobclixWebView,com/mobclix/android/sdk/MobclixBrowserActivity,external,174,414,105
+startActivity,com/mobclix/android/sdk/MobclixWebViewClient,android.intent.action.VIEW,external,174,414,106
+startActivity,com/mobclix/android/sdk/MobclixWebViewClient,android.intent.action.VIEW,external,174,414,106
+startActivity,com/mobclix/android/sdk/MobclixWebViewClient,android.intent.action.VIEW,external,174,414,106
+startActivity,com/mobclix/android/sdk/MobclixWebViewClient,android.intent.action.VIEW,external,174,414,106

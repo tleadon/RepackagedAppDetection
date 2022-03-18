@@ -1,0 +1,38 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/phonegap/plugins/childBrowser/ChildBrowser,org/apache/cordova/DroidGap,external,0,3,4
+bindService,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+bindService,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startActivity,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startActivity,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startActivity,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startActivity,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startService,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startService,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+bindService,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+bindService,org/apache/cordova/api/LegacyContext,null,external,0,3,4
+startActivity,org/apache/cordova/CameraLauncher,Get Picture,external,10,53,4
+startActivityForResult,org/apache/cordova/CameraLauncher,Get Picture,external,10,53,4
+startActivity,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,14,72,4
+startActivityForResult,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,14,72,4
+startActivity,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,14,72,4
+startActivityForResult,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,14,72,4
+startActivity,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,14,76,4
+startActivityForResult,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,14,76,4
+startActivity,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,14,76,4
+startActivityForResult,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,14,76,4
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,43,118,11
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,43,118,11
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,61,122,22
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,61,122,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,61,122,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,61,122,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,61,122,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,61,122,22
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,61,122,22
+startActivity,org/apache/cordova/DroidGap,null,external,66,151,34
+startActivityForResult,org/apache/cordova/DroidGap,null,external,66,151,34
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.DIAL,external,121,597,38
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.VIEW,external,121,597,38

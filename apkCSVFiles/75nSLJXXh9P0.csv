@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+bindService,com/platoevolved/socialpluginunity/Facebook$TokenRefreshServiceConnection$1,null,external,30,124,13
+bindService,com/platoevolved/socialpluginunity/Facebook$TokenRefreshServiceConnection,null,external,30,124,13
+startActivity,com/platoevolved/socialpluginunity/Facebook,com.facebook.katana,external,30,124,13
+startActivityForResult,com/platoevolved/socialpluginunity/Facebook,com.facebook.katana,external,30,124,13
+bindService,com/platoevolved/socialpluginunity/Facebook,com.facebook.katana,external,30,124,13
+startActivity,com/platoevolved/socialpluginunity/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,30,128,13
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,30,160,38
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,30,160,38
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,34,242,41
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,34,242,41
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,34,242,41
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,internal,44,312,68

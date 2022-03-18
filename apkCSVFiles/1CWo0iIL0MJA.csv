@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,1
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection$1,null,external,0,13,0
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection,null,external,0,13,0
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+bindService,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,0,14,1
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,0,184,1
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.GET_PURCHASE_INFORMATION,external,0,184,1
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,0,184,1
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,184,1
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,184,1
+startActivity,com/prime31/EtceteraPlugin$1,com/prime31/P31VideoPlayerActivity,external,0,186,1
+startActivity,com/prime31/EtceteraPlugin$10,android.intent.action.VIEW,external,0,186,1
+startActivity,com/prime31/EtceteraPlugin$11,com/prime31/EtceteraProxyActivity,external,0,186,1
+startActivity,com/prime31/EtceteraPlugin$12,com/prime31/EtceteraProxyActivity,external,0,186,1
+startActivity,com/prime31/EtceteraPlugin$20$1,android.intent.action.VIEW,external,0,186,2
+startActivity,com/prime31/EtceteraPlugin$8,com/prime31/WebViewActivity,external,0,186,12
+startActivity,com/prime31/EtceteraPlugin$9,android.intent.action.SEND,external,0,186,12
+startActivity,com/prime31/EtceteraProxyActivity,image/*,internal,6,262,12
+startActivityForResult,com/prime31/EtceteraProxyActivity,image/*,internal,6,262,12
+startActivity,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,6,265,12
+startActivityForResult,com/prime31/EtceteraProxyActivity,android.media.action.IMAGE_CAPTURE,internal,6,265,12
+bindService,com/prime31/IABPlugin$1,com/prime31/billing/BillingService,external,6,270,12
+bindService,com/prime31/IABPlugin,null,external,6,270,12
+bindService,com/unity3d/player/a/e,null,external,6,282,15
+startActivity,com/unity3d/player/UnityPlayer$9,null,external,10,296,28
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,49,323,37

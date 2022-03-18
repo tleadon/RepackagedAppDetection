@@ -1,0 +1,46 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,55,20
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,55,20
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,55,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,55,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,55,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,55,20
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,56,65,20
+startActivity,com/google/android/gms/dynamic/a$5,null,external,56,79,25
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,56,81,25
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,56,81,25
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,56,81,25
+startActivity,com/google/android/gms/internal/bh,Open GMSG did not contain a URL.,external,68,81,29
+startActivity,com/google/android/gms/internal/bk,com.google.android.gms.ads.AdActivity,external,68,81,29
+startActivity,com/google/android/gms/internal/cv$a,null,external,86,90,30
+startActivity,com/google/android/gms/internal/cv$a,null,external,86,90,30
+startActivity,com/google/android/gms/internal/cv,android.intent.action.VIEW,external,86,90,30
+startActivity,com/google/android/gms/internal/di,null,external,86,97,38
+startActivityForResult,com/google/android/gms/internal/di,null,external,86,97,38
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,86,98,38
+startService,com/google/android/gms/internal/dm,com.google.android.gms,external,86,98,38
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,86,98,38
+startService,com/google/android/gms/internal/dm,com.google.android.gms,external,86,98,38
+bindService,com/google/android/gms/internal/dm,com.google.android.gms,external,86,98,38
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,164,137,74
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,164,137,74
+startActivity,com/prime31/PlayGameServicesPlugin$12,null,external,164,137,75
+startActivityForResult,com/prime31/PlayGameServicesPlugin$12,null,external,164,137,75
+startActivity,com/prime31/PlayGameServicesPlugin$16,null,external,164,137,75
+startActivityForResult,com/prime31/PlayGameServicesPlugin$16,null,external,164,137,75
+startActivity,com/prime31/PlayGameServicesPlugin$17,null,external,164,137,75
+startActivityForResult,com/prime31/PlayGameServicesPlugin$17,null,external,164,137,75
+startActivity,com/prime31/PlayGameServicesPlugin$9,null,external,164,151,75
+startActivityForResult,com/prime31/PlayGameServicesPlugin$9,null,external,164,151,75
+startActivity,com/prime31/RealtimeMultiplayer$1,null,external,164,151,75
+startActivityForResult,com/prime31/RealtimeMultiplayer$1,null,external,164,151,75
+startActivity,com/prime31/RealtimeMultiplayer$3,null,external,164,151,75
+startActivityForResult,com/prime31/RealtimeMultiplayer$3,null,external,164,151,75
+startActivity,com/prime31/RealtimeMultiplayer$5,null,external,164,151,75
+startActivityForResult,com/prime31/RealtimeMultiplayer$5,null,external,164,151,75
+sendBroadcast,com/ryanwebb/androidscreenshot/MainActivity$1,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,164,155,75

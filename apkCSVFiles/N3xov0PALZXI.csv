@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.CHECK_LICENSE]-,1,0
+bindService,com/android/vending/licensing/LicenseChecker,null,external,0,8,0
+bindService,com/android/vending/licensing/LicenseChecker,com.android.vending.licensing.ILicensingService,external,0,10,0
+startActivity,com/ideaworks3d/airplay/AirplayThread,http,external,30,39,17
+startActivity,com/playsoft/app/DownloadActivity,android.settings.NETWORK_OPERATOR_SETTINGS,external,48,61,36
+startActivity,com/playsoft/app/DownloadActivity,android.settings.WIFI_SETTINGS,external,48,61,36
+startActivityForResult,com/playsoft/app/DownloadActivity,android.settings.WIFI_SETTINGS,external,48,61,36
+startActivity,com/playsoft/app/DRMWrapper$1$1,android.intent.action.VIEW,external,54,112,37
+bindService,com/playsoft/app/SKTWrapper,null,external,56,130,38
+bindService,com/playsoft/app/SKTWrapper,com/skt/arm/aidl/IArmService,external,56,130,38

@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.RECORD_AUDIO]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.WAKE_LOCK]-[android.permission.SET_WALLPAPER]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_LOGS]-[android.permission.FLASHLIGHT]-[android.permission.VIBRATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_SETTINGS]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.UNINSTALL_SHORTCUT]-[com.android.launcher.permission.READ_SETTINGS]-[com.htc.launcher.permission.READ_SETTINGS]-[com.lge.launcher.permission.READ_SETTINGS]-[android.permission.MODIFY_AUDIO_SETTINGS]-[com.huawei.launcher3.permission.READ_SETTINGS]-[com.android.mylauncher.permission.READ_SETTINGS]-[telecom.mdesk.permission.READ_SETTINGS]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-,1,1
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,11,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,11,8
+startActivity,com/ucamera/uspycamon/as,android.intent.action.VIEW,external,25,573,13
+sendBroadcast,com/ucamera/uspycamon/CameraActivity,com.android.music.musicservicecommand,external,35,576,16
+startActivity,com/ucamera/uspycamon/hot/application/f,android.intent.action.VIEW,external,38,589,18
+startActivity,com/ucamera/uspycamon/SpyCamera,android.intent.action.VIEW,external,54,690,44
+startService,com/ucamera/uspycamon/SpyCamera,com/ucamera/uspycamon/UpdateService,external,54,690,44
+startActivity,com/ucamera/uspycamon/SpyCamera,com/ucamera/uspycamon/SpyCamSettingsActivity,external,54,690,44
+startActivity,com/ucamera/uspycamon/SpyCamera,com/ucamera/uspycamon/hot/application/HotAppActivity,external,54,690,45
+startActivity,com/ucamera/uspycamon/SpyCamSettingsActivity,com/ucamera/uspycamon/MyFullDialogActivity,external,56,691,52
+startActivity,com/ucamera/uspycamon/SpyCamSettingsActivity,com/ucamera/uspycamon/MyFullDialogActivity,external,56,691,53
+startActivity,com/ucamera/uspycamon/SpyCamSettingsActivity,android.intent.action.VIEW,external,56,691,54
+startActivity,com/umeng/common/a/a,null,external,69,762,58
+startActivity,com/umeng/common/a/a,android.intent.action.VIEW,external,69,762,58
+bindService,com/umeng/common/net/e,null,external,95,776,58
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,95,779,58
+bindService,com/umeng/common/net/m,com/umeng/common/net/DownloadingService,external,105,840,58
+startActivity,com/umeng/xp/controller/h,android.intent.action.VIEW,external,119,914,58
+startActivity,com/umeng/xp/view/ac,android.intent.action.VIEW,external,123,914,59
+startActivity,com/umeng/xp/view/am,android.intent.action.CALL,external,123,922,62
+startActivity,com/umeng/xp/view/y,android.intent.action.VIEW,external,123,922,83

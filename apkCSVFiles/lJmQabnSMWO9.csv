@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/bfsgooglegames/GameHelper$31,null,external,0,0,0
+startActivityForResult,com/bfsgooglegames/GameHelper$31,null,external,0,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,31,55,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,31,55,20
+bindService,com/google/android/gms/auth/GoogleAuthUtil,null,external,31,55,20
+sendBroadcast,com/google/android/gms/common/images/ImageManager,com.google.android.gms.common.images.LOAD_IMAGE,external,36,63,20
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,36,65,22
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,36,65,22
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,36,65,22
+startActivity,com/google/android/gms/internal/bb$5,null,external,36,69,23
+startActivity,com/google/android/gms/internal/dz$a,null,external,62,77,29
+startActivityForResult,com/google/android/gms/internal/dz$a,null,external,62,77,29
+startActivity,com/google/android/gms/internal/o,null,external,62,81,30
+startActivityForResult,com/google/android/gms/internal/o,null,external,62,81,30
+startService,com/google/android/gms/internal/q,null,external,62,81,30
+startService,com/google/android/gms/internal/q,null,external,62,81,30
+bindService,com/google/android/gms/internal/q,null,external,62,81,30
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,89,145,60

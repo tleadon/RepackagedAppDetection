@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[org.tint.permissions.services.ADDONS]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+bindService,com/umeng/common/net/a$b,null,external,70,102,24
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,70,102,24
+startActivity,com/umeng/common/net/d$b,android.intent.action.VIEW,external,94,111,24
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,102,185,24
+startActivity,com/umeng/common/util/h,null,external,108,317,24
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,108,317,24
+bindService,org/tint/addons/Addon,org.tint.intent.action.ADDON,external,108,317,24
+bindService,org/tint/addons/Addon,org.tint.intent.action.ADDON,external,108,317,24
+bindService,org/tint/addons/AddonManager,org.tint.intent.action.ADDON,external,108,317,24
+startActivity,org/tint/ui/activities/BookmarksActivity,org/tint/ui/activities/EditBookmarkActivity,internal,301,419,35
+startActivity,org/tint/ui/activities/TintBrowserActivity$7,android.intent.action.VIEW,external,307,419,44
+startActivity,org/tint/ui/activities/TintBrowserActivity,android.intent.action.VIEW_DOWNLOADS,external,307,421,45
+startActivity,org/tint/ui/activities/TintBrowserActivity,org/tint/ui/preferences/PreferencesActivity,external,309,421,51
+startActivity,org/tint/ui/components/CustomWebChromeClient,android.intent.action.GET_CONTENT,external,311,421,59
+startActivityForResult,org/tint/ui/components/CustomWebChromeClient,android.intent.action.GET_CONTENT,external,311,421,59
+startActivity,org/tint/ui/components/CustomWebViewClient,android.intent.action.VIEW,external,315,427,65
+startActivity,org/tint/ui/components/CustomWebViewClient,android.intent.action.VIEW,external,315,427,65
+startActivityIfNeeded,org/tint/ui/components/CustomWebViewClient,android.intent.action.VIEW,external,315,427,65
+startActivity,org/tint/ui/fragments/BookmarksFragment,org/tint/ui/activities/EditBookmarkActivity,external,323,427,76
+startActivity,org/tint/ui/managers/BaseUIManager,org/tint/ui/activities/EditBookmarkActivity,external,337,427,87
+startActivity,org/tint/ui/managers/BaseUIManager,org/tint/ui/activities/BookmarksActivity,external,337,427,88
+startActivityForResult,org/tint/ui/managers/BaseUIManager,org/tint/ui/activities/BookmarksActivity,external,337,427,88
+startActivity,org/tint/ui/preferences/AddonsFragment$1,android.intent.action.VIEW,external,337,427,132
+startActivity,org/tint/utils/ApplicationUtils,android.intent.action.SEND,external,351,443,186

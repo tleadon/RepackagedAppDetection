@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,1,0
+startActivity,com/moonage/iTraining/iTrainingTitle$4,com/moonage/iTraining/RecordActivity,external,29,0,6
+startActivity,com/moonage/iTraining/iTrainingTitle$5,com/moonage/iTraining/HelpActivity,external,29,0,7
+startActivity,com/moonage/iTraining/iTrainingTitle$startIntentHandler,com/moonage/iTraining/ResultActivity,external,29,0,7
+startActivity,com/moonage/iTraining/iTrainingTitle$startIntentHandler,com/moonage/iTraining/ResultActivity,external,29,0,7
+startActivity,com/moonage/iTraining/ResultActivity$1,com/moonage/iTraining/ReviseActivity,external,40,0,12
+startActivity,com/moonage/iTraining/SplashActivity$splashHandler,com/moonage/iTraining/iTrainingTitle,external,50,0,20

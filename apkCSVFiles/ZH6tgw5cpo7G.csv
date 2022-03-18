@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[com.android.vending.BILLING]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startActivity,android/support/v4/app/h,null,external,0,24,2
+startActivityForResult,android/support/v4/app/h,null,external,0,24,2
+startActivity,android/support/v4/app/h,null,external,0,24,2
+startActivityForResult,android/support/v4/app/h,null,external,0,24,2
+startActivity,android/support/v4/app/h,null,external,0,27,6
+startActivityForResult,android/support/v4/app/h,null,external,0,27,6
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,internal,0,56,7
+startActivity,com/common/StarterActivity,android.intent.action.MAIN,external,0,56,7
+startActivity,com/flurry/android/FlurryAds,adSpaceName,external,9,125,11
+startActivity,com/flurry/android/FlurryFullscreenTakeoverActivity,null,external,41,181,12
+startActivity,com/fungamesforfree/snipershooter/i/y,android.intent.action.VIEW,external,41,765,64
+bindService,com/fungamesforfree/snipershooter/n/f,null,external,41,774,64
+bindService,com/fungamesforfree/snipershooter/n/f,com.android.vending.billing.InAppBillingService.BIND,external,41,774,64
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,43,870,78
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,43,870,78
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,43,870,78
+bindService,com/umeng/common/net/a$b,null,external,106,1046,82
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,106,1046,82
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,130,1049,82
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,130,1128,82
+startActivity,com/umeng/common/util/g,null,external,144,1244,82
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,144,1244,82

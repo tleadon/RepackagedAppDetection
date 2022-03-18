@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startService,com/CFM/ELAN/ELANManager,com/CFM/ELAN/ELANAlarmCreator,external,0,0,0
+startService,com/CFM/ELAN/ELANManager,com/CFM/ELAN/ELANAlarmCreator,external,0,0,0
+startService,com/CFM/ELAN/ELANManager,com/CFM/ELAN/ELANAlarmCreator,external,0,0,0
+startService,com/CFM/ELAN/ELANManager,com/CFM/ELAN/ELANAlarmCreator,external,0,0,0
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,69,267,25
+startActivity,com/heyzap/sdk/ads/AbstractActivity,android.intent.action.VIEW,external,76,271,26
+startActivity,com/heyzap/sdk/ads/IncentivizedAd$2$1,impression_id,external,76,282,54
+startActivity,com/heyzap/sdk/ads/InterstitialAd$2$1,impression_id,external,76,282,54
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,76,295,63
+startActivity,com/heyzap/sdk/ads/VideoAd$2$1,impression_id,external,76,313,63
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,122,353,95

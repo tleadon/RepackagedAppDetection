@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,android/support/v4/app/h,null,external,0,15,7
+startActivityForResult,android/support/v4/app/h,null,external,0,15,7
+startActivity,org/pyload/android/client/AddLinksActivity,org/pyload/android/client/module/FileChooser,external,0,178,35
+startActivityForResult,org/pyload/android/client/AddLinksActivity,org/pyload/android/client/module/FileChooser,external,0,178,35
+startActivity,org/pyload/android/client/pyLoad,org/pyload/android/client/AddLinksActivity,external,0,226,52
+startActivityForResult,org/pyload/android/client/pyLoad,org/pyload/android/client/AddLinksActivity,external,0,226,52
+startActivity,org/pyload/android/client/pyLoad,org/pyload/android/client/Preferences,external,0,226,52
+startActivity,org/pyload/android/client/pyLoad,org/pyload/android/client/RemoteSettings,external,0,226,52
+startActivity,org/pyload/android/client/pyLoad,org/pyload/android/client/AddLinksActivity,external,0,226,52
+startActivityForResult,org/pyload/android/client/pyLoad,org/pyload/android/client/AddLinksActivity,external,0,226,52
+startActivity,org/pyload/android/client/pyLoad,org/pyload/android/client/AddLinksActivity,external,0,226,52
+startActivityForResult,org/pyload/android/client/pyLoad,org/pyload/android/client/AddLinksActivity,external,0,226,52
+startActivity,org/pyload/android/client/pyLoad,org/pyload/android/client/AddLinksActivity,external,0,226,52
+startActivityForResult,org/pyload/android/client/pyLoad,org/pyload/android/client/AddLinksActivity,external,0,226,52

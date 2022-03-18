@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_WIFI_STATE]-[android.permission.BLUETOOTH]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.UPDATE_DEVICE_STATS]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_WIFI_MULTICAST_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-,1,0
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,0,0,0
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,20,73,0
+startService,com/digitalchocolate/rollnycommon/AlljoynBridge,null,external,20,73,8
+startService,com/digitalchocolate/rollnycommon/AlljoynBridge,com/digitalchocolate/rollnycommon/AllJoynService,external,20,73,8
+startActivity,com/digitalchocolate/rollnycommon/IFAndroidHelper,android.settings.WIFI_SETTINGS,external,20,205,8

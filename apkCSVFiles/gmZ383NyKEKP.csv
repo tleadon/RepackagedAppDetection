@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.RECORD_AUDIO]-,1,0
+startService,com/cat/pwt/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,6,65,21
+startService,com/cat/pwt/BillingReceiver,com.cat.pianocnperfect.GET_PURCHASE_INFORMATION,external,6,65,21
+startService,com/cat/pwt/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,6,65,21
+bindService,com/cat/pwt/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,6,65,21
+bindService,com/cat/pwt/BillingService,com.android.vending.billing.MarketBillingService.BIND,external,6,65,21
+startActivity,com/cat/pwt/cu,android.intent.action.VIEW,external,8,76,43
+startActivity,com/cat/pwt/cu,com/cat/pwt/AudioPlayerFloatingActivity,external,8,76,43
+startActivity,com/cat/pwt/da,android.intent.action.SEND,external,8,86,48
+startActivity,com/cat/pwt/do,android.intent.action.VIEW,external,8,88,57
+bindService,com/cat/pwt/DownloadMoreSongsActivity,com/cat/pwt/DownloadService,external,8,95,59
+bindService,com/cat/pwt/DownloadMoreSongsActivity,com/cat/pwt/DownloadService,external,8,95,59
+startActivity,com/cat/pwt/du,android.intent.action.VIEW,external,8,99,71
+startActivity,com/cat/pwt/dv,android.intent.action.SEND,external,8,99,72
+startActivity,com/cat/pwt/ed,com/cat/pwt/MainWindow,external,8,99,77
+startActivity,com/cat/pwt/LearnModeActivity,com/cat/pwt/SongsListActivity,external,8,103,79
+startActivityForResult,com/cat/pwt/LearnModeActivity,com/cat/pwt/SongsListActivity,external,8,103,79
+startActivity,com/cat/pwt/LearnModeActivity,com/cat/pwt/FileManagerActivity,external,8,103,79
+startActivityForResult,com/cat/pwt/LearnModeActivity,com/cat/pwt/FileManagerActivity,external,8,103,79
+startActivity,com/cat/pwt/LearnModeActivity,com/cat/pwt/FileManagerActivity,external,8,103,79
+startActivityForResult,com/cat/pwt/LearnModeActivity,com/cat/pwt/FileManagerActivity,external,8,103,79
+startActivity,com/cat/pwt/LearnModeActivity,com/cat/pwt/HelpActivity,external,8,103,79
+startActivity,com/cat/pwt/LearnModeActivity,com/cat/pwt/DownloadMoreSongsActivity,external,8,103,79
+startActivity,com/cat/pwt/LearnModeActivity,com/cat/pwt/Settings,external,8,103,79
+startActivity,com/cat/pwt/MainWindow,com/cat/pwt/HelpActivity,external,8,103,85
+startActivityForResult,com/cat/pwt/MainWindow,com/cat/pwt/HelpActivity,external,8,103,85
+startActivity,com/cat/pwt/MainWindow,com/cat/pwt/Settings,external,8,103,85
+startActivity,com/cat/pwt/MainWindow,com/cat/pwt/LearnModeActivity,external,8,103,85
+startActivity,com/cat/pwt/MainWindow,com/cat/pwt/RecordingsListActivity,external,8,103,85
+startActivityForResult,com/cat/pwt/MainWindow,com/cat/pwt/RecordingsListActivity,external,8,103,85
+startActivity,com/cat/pwt/MainWindow,android.intent.action.VIEW,external,8,103,85
+startActivity,com/cat/pwt/RecordingsListActivity,android.intent.action.VIEW,external,8,106,94
+startActivity,com/cat/pwt/RecordingsListActivity,com/cat/pwt/AudioPlayerFloatingActivity,external,8,106,94
+startActivity,com/cat/pwt/RecordingsListActivity,com/cat/pwt/FileManagerActivity,external,8,106,95
+startActivityForResult,com/cat/pwt/RecordingsListActivity,com/cat/pwt/FileManagerActivity,external,8,106,95
+startActivity,com/cat/pwt/SongsListActivity,com/cat/pwt/DownloadMoreSongsActivity,external,8,106,97

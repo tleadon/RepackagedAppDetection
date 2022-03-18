@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.RECORD_AUDIO]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/sphereconsultinginc/plugins/recorder/Launcher,com/sphereconsultinginc/plugins/recorder/AudioRecActivity,external,0,4,0
+startActivityForResult,com/sphereconsultinginc/plugins/recorder/Launcher,com/sphereconsultinginc/plugins/recorder/AudioRecActivity,external,0,4,0
+startActivity,de/appplant/cordova/plugin/emailcomposer/EmailComposer$1,null,external,0,923,4
+startActivityForResult,de/appplant/cordova/plugin/emailcomposer/EmailComposer$1,null,external,0,923,4
+startActivity,org/apache/cordova/CordovaActivity,null,external,3,971,16
+startActivityForResult,org/apache/cordova/CordovaActivity,null,external,3,971,16
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,3,971,23
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,3,971,23
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,16,1054,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,16,1054,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,1054,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,1054,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,1054,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,1054,35
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,16,1054,35

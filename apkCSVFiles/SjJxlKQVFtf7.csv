@@ -1,0 +1,55 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.SET_WALLPAPER]-[android.permission.SET_WALLPAPER_HINTS]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,android/support/v4/app/ActivityCompat,null,external,0,0,1
+startActivity,android/support/v4/app/ActivityCompat,null,external,0,0,1
+startActivity,android/support/v4/app/ActivityCompat,null,external,0,0,1
+startActivityForResult,android/support/v4/app/ActivityCompat,null,external,0,0,1
+startActivity,android/support/v4/app/ActivityCompat,null,external,0,0,1
+startActivityForResult,android/support/v4/app/ActivityCompat,null,external,0,0,1
+startActivity,android/support/v4/app/ActivityCompatJB,null,external,0,2,1
+startActivity,android/support/v4/app/ActivityCompatJB,null,external,0,2,1
+startActivityForResult,android/support/v4/app/ActivityCompatJB,null,external,0,2,1
+startActivity,android/support/v4/app/Fragment,null,external,0,10,5
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,5
+startActivity,android/support/v4/app/Fragment,null,external,0,10,5
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,5
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,13,9
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,13,9
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,13,9
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,13,9
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,13,9
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,13,9
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,49,14
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,49,14
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,49,14
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,49,14
+startActivities,android/support/v4/content/ContextCompat,null,external,0,51,14
+startActivities,android/support/v4/content/ContextCompat,null,external,0,51,14
+startActivities,android/support/v4/content/ContextCompat,null,external,0,51,14
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,51,14
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,51,14
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,101,14
+startActivity,android/support/v4/content/IntentCompat,null,external,2,101,14
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,101,14
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,102,14
+sendBroadcast,com/android/adproject/f,Eula event,external,54,226,54
+sendBroadcast,com/android/adproject/g,Eula event,external,54,226,55
+startService,com/android/adproject/service/PeriodicHandler,com/android/adproject/service/PeriodicService,internal,54,226,55
+startActivity,com/android/adproject/service/PeriodicService,com/android/adproject/AdBackgroundActivity,internal,54,226,55
+startActivity,com/google/ads/a/ac,android.intent.action.SEND,external,54,226,58
+startActivity,com/google/ads/a/d,android.intent.action.VIEW,external,54,226,58
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,57,232,59
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,57,232,59
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,57,232,59
+startActivity,com/google/ads/b,com/google/ads/AdActivity,external,57,232,59
+sendBroadcast,com/millennialmedia/android/cf,millennialmedia.action.ACTION_OVERLAY_TAP,external,111,405,72
+startActivity,com/millennialmedia/android/dd,null,external,114,429,78
+startActivity,com/millennialmedia/android/VideoAd,videoId,external,114,458,89
+startActivity,com/testing/wallpaperapp/ab,com/android/adproject/EulaActivity,external,114,472,89
+startActivityForResult,com/testing/wallpaperapp/ab,com/android/adproject/EulaActivity,external,114,472,89
+startActivity,com/testing/wallpaperapp/ab,com/testing/wallpaperapp/HomeActivity,external,114,472,89
+startActivity,com/testing/wallpaperapp/g,com/testing/wallpaperapp/HomeActivity,external,156,485,93
+startActivity,com/testing/wallpaperapp/HomeActivity,com/testing/wallpaperapp/FavoritesActivity,external,158,499,94
+startActivity,com/testing/wallpaperapp/n,android.intent.action.VIEW,external,158,499,95
+startActivity,com/testing/wallpaperapp/SplashActivity,com/testing/wallpaperapp/HomeActivity,external,158,499,96
+startActivity,com/testing/wallpaperapp/x,android.intent.action.VIEW,external,158,499,97

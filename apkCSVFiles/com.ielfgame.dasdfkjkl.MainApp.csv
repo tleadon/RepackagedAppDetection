@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_TASKS]-,1,0
+startActivity,com/ielfgame/dasdfkjkl/b/e,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,0,0,0
+startActivity,com/ielfgame/dasdfkjkl/v,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,0,10,0
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,29,318,6
+startActivity,com/scoreloop/client/android/ui/component/base/d,android.intent.action.VIEW,external,29,318,9
+startActivity,com/scoreloop/client/android/ui/component/base/d,android.intent.action.VIEW,external,29,318,9
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,29,318,17
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,33,326,24
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,33,326,24
+startActivity,com/scoreloop/client/android/ui/framework/m,null,external,33,326,36
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,33,326,36

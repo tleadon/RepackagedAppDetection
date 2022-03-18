@@ -1,0 +1,17 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+startActivity,com/kuguo/ad/d,android.intent.action.VIEW,external,20,80,0
+startActivity,com/kuguo/ad/d,android.intent.action.VIEW,external,20,117,0
+startActivity,com/kuguo/ad/d,android.intent.action.VIEW,external,20,117,0
+startActivity,com/kuguo/ad/g,android.intent.action.SEND,external,20,121,1
+startService,com/kuguo/ad/MainReceiver,null,external,20,123,3
+startActivity,com/kuguo/ad/u,android.intent.action.VIEW,external,29,131,3
+startActivity,fishnoodle/aquarium/CustomizeActivity,image/*,external,44,141,16
+startActivityForResult,fishnoodle/aquarium/CustomizeActivity,image/*,external,44,141,16
+startActivity,fishnoodle/_engine/BaseUpsellActivity$ButtonUpgradeListener,android.intent.action.VIEW,external,44,141,32
+startActivity,fishnoodle/_engine/BaseUpsellActivity$ButtonWebListener,android.intent.action.VIEW,external,44,141,33
+startActivity,fishnoodle/_engine/BaseWallpaperSettingsActivity,image/*,external,44,141,44
+startActivityForResult,fishnoodle/_engine/BaseWallpaperSettingsActivity,image/*,external,44,141,44
+startActivity,fishnoodle/_engine/HowToActivity$ButtonTakeMeListener,android.service.wallpaper.LIVE_WALLPAPER_CHOOSER,external,44,161,60
+startActivity,fishnoodle/_engine/HowToActivity$ButtonUpgradeListener,android.intent.action.VIEW,external,44,161,61
+startActivity,fishnoodle/_engine/HowToNookActivity$ButtonTakeMeListener,com.bn.nook.CHANGE_WALLPAPER,external,44,161,80

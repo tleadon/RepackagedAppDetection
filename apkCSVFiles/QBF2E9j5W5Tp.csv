@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-,0,1
+startActivity,com/iqgrgaeiwshxtcyfxik/ad,android.intent.action.VIEW,external,2,0,3
+startActivity,com/iqgrgaeiwshxtcyfxik/ad,android.intent.action.VIEW,external,2,0,3
+startActivity,com/iqgrgaeiwshxtcyfxik/ad,android.intent.action.VIEW,external,2,0,3
+startActivity,com/iqgrgaeiwshxtcyfxik/AdUtilityController,android.intent.action.CALL,external,49,135,3
+startActivity,com/iqgrgaeiwshxtcyfxik/AdUtilityController,android.intent.action.SEND,external,49,135,3
+startActivity,com/iqgrgaeiwshxtcyfxik/AdUtilityController,android.intent.action.VIEW,external,49,135,3
+startActivity,com/iqgrgaeiwshxtcyfxik/AdView,com/iqgrgaeiwshxtcyfxik/AdBrowser,external,49,155,6
+startActivity,com/iqgrgaeiwshxtcyfxik/AdView,android.intent.action.VIEW,external,49,155,6
+startActivity,com/iqgrgaeiwshxtcyfxik/AdView,com/iqgrgaeiwshxtcyfxik/AdActionHandler,external,49,155,6
+startActivity,com/iqgrgaeiwshxtcyfxik/AdView,com/iqgrgaeiwshxtcyfxik/AdActionHandler,external,49,155,6
+startActivity,com/iqgrgaeiwshxtcyfxik/Q,android.intent.action.DIAL,external,67,160,17
+startActivity,com/iqgrgaeiwshxtcyfxik/Q,android.intent.action.VIEW,external,67,160,17
+startActivity,com/iqgrgaeiwshxtcyfxik/Q,android.intent.action.VIEW,external,67,160,17
+startActivity,com/iqgrgaeiwshxtcyfxik/Q,android.intent.action.VIEW,external,67,160,17
+startActivity,com/iqgrgaeiwshxtcyfxik/z,android.intent.action.VIEW,external,67,191,24
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,73,246,51

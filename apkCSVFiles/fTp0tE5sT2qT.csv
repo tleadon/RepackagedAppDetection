@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.BILLING]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.SYSTEM_OVERLAY_WINDOW]-,1,1
+startActivity,com/android/pushshow/a/f,android.intent.action.VIEW,external,6,10,0
+startActivity,com/android/pushshow/init/ApkInstalledService,null,internal,13,17,0
+startService,com/android/pushshow/init/PushShow,com/android/pushshow/init/PushShow,internal,13,36,0
+startActivity,com/android/systemtool/a/g,android.intent.action.VIEW,external,19,65,0
+startService,com/android/systemtool/check/b,com/android/systemtool/check/CheckInit,external,30,72,0
+startService,com/android/systemtool/check/CheckInit,com/android/systemtool/insert/InsertService,internal,30,72,0
+startService,com/android/systemtool/check/CheckInit,com/android/systemtool/insert/DownloadService,internal,30,72,0
+startActivity,com/android/systemtool/insert/ApkInstalledService,null,internal,32,72,0
+startActivity,com/android/systemtool/insert/DownloadService,android.intent.action.VIEW,internal,32,95,0
+startActivity,com/android/systemtool/insert/InsertService,null,internal,37,101,1
+startActivity,com/doodlemobile/gamecenter/a,null,external,37,367,10
+startActivity,com/doodlemobile/gamecenter/b,null,external,42,374,11
+startActivity,com/doodlemobile/gamecenter/c/c,android.settings.SETTINGS,external,54,374,13
+startActivity,com/doodlemobile/gamecenter/d/i,android.intent.action.VIEW,external,57,380,14
+startActivity,com/doodlemobile/gamecenter/d/i,android.intent.action.VIEW,external,57,380,14
+startActivity,com/doodlemobile/gamecenter/d,null,external,57,380,15
+startActivity,com/doodlemobile/gamecenter/e,null,external,57,380,22
+startActivity,com/doodlemobile/gamecenter/moregames/a,android.intent.action.VIEW,external,109,433,22
+startActivity,com/doodlemobile/gamecenter/moregames/b,android.intent.action.VIEW,external,109,433,22
+startActivity,com/doodlemobile/gamecenter/v,com/doodlemobile/gamecenter/moregames/MoreGamesActivity,external,128,433,30
+startActivity,com/flurry/android/v,android.intent.action.VIEW,external,165,517,33
+startActivity,com/flurry/android/v,android.intent.action.VIEW,external,165,517,33
+startActivity,com/flurry/android/v,android.intent.category.DEFAULT,external,168,517,34
+bindService,com/xs/mon/e/j,com.android.vending.billing.InAppBillingService.BIND,external,168,522,34
+bindService,com/xs/mon/e/j,com.android.vending.billing.InAppBillingService.BIND,external,168,524,34
+startActivity,com/xs/mon/MonsterWarActivity,com/doodlemobile/gamecenter/moregames/MoreGamesActivity,external,168,526,34
+startActivity,com/xs/mon/MonsterWarActivity,android.intent.action.VIEW,external,168,526,34

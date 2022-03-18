@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_LOGS]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/mine/videoplayer/VideoPlayerActivity$20,android.intent.action.VIEW,external,31,65,31
+startActivity,com/mine/videoplayer/VideoPlayerActivity$9,com/mine/videoplayer/VideoChooseActivity,external,31,68,37
+startActivityForResult,com/mine/videoplayer/VideoPlayerActivity$9,com/mine/videoplayer/VideoChooseActivity,external,31,68,37
+sendBroadcast,com/mine/videoplayer/VideoView,com.android.music.musicservicecommand,external,33,74,44
+bindService,com/umeng/common/net/a$b,null,external,72,122,53
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,72,122,53
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,96,125,53
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,96,204,53
+startActivity,com/umeng/common/util/g,null,external,110,320,53
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,110,320,53

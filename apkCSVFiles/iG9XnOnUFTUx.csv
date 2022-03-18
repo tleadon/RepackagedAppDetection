@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.vending.BILLING]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-,1,0
+startActivity,com/flurry/android/n,android.intent.action.VIEW,external,31,42,2
+startActivity,com/flurry/android/n,com.flurry.android.ACTION_CATALOG,external,31,42,2
+sendBroadcast,com/heyzap/sdk/HeyzapLib,com.heyzap.android.enableSDK,external,40,108,7
+startActivity,com/heyzap/sdk/HeyzapLib,android.intent.action.MAIN,external,40,108,7
+startActivity,com/heyzap/sdk/PreMarketDialog$1,android.intent.action.VIEW,external,40,108,12
+startActivity,com/heyzap/sdk/WebViewDialog$HeyzapJavascriptBindings,android.intent.action.VIEW,external,40,108,13
+startActivity,com/tgb/bg/jevcyxr/views/af,com/tgb/bg/jevcyxr/views/TGBMainGameActivity,external,40,115,25
+startActivity,com/tgb/bg/jevcyxr/views/aj,android.intent.action.VIEW,external,40,115,29
+startActivity,com/tgb/bg/jevcyxr/views/ak,android.intent.action.VIEW,external,40,115,30
+startActivity,com/tgb/bg/jevcyxr/views/b,android.intent.action.VIEW,external,40,115,31
+startActivity,com/tgb/bg/jevcyxr/views/d,android.intent.action.VIEW,external,40,115,33
+startActivity,com/tgb/bg/jevcyxr/views/h,android.intent.action.VIEW,external,40,115,36
+startActivity,com/tgb/bg/jevcyxr/views/LBAds,android.intent.action.VIEW,external,40,115,39
+startActivity,com/tgb/bg/jevcyxr/views/TGBMainGameActivity,com/tgb/bg/jevcyxr/views/LBAds,external,40,120,44
+startActivity,com/tgb/bg/jevcyxr/views/TGBMainMenu,android.intent.action.VIEW,external,40,120,49
+startActivity,com/tgb/bg/jevcyxr/views/TGBMainMenu,android.intent.action.VIEW,external,40,120,49
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,55,205,78
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,55,205,79

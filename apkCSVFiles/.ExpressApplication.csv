@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.INTERNET]-[android.permission.VIBRATE]-[android.permission.FLASHLIGHT]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CALL_PHONE]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_LOGS]-,0,1
+startActivity,com/Express/Activity/ExpressDeliveryMainActivity$1$1,android.intent.action.VIEW,external,0,3,6
+startActivity,com/Express/Activity/Splash$splashhandler,com/Express/Activity/ExpressDeliveryMainActivity,external,0,44,21
+startActivity,com/Express/Activity/Tabs/AboutUsActivity,android.intent.action.VIEW,external,0,44,22
+startActivity,com/Express/Activity/Tabs/AboutUsActivity,android.intent.action.VIEW,external,0,44,22
+startActivity,com/Express/Activity/Tabs/ExpressDeliverListsActivity$2$1,android.intent.action.CALL,external,0,44,23
+startActivity,com/Express/Activity/Tabs/ExpressDeliverListsActivity$3$1,android.intent.action.VIEW,external,0,44,25
+sendBroadcast,com/Express/Activity/Tabs/ExpressDeliverListsActivity$4,com.Express.search_ed,external,0,44,26
+startActivity,com/Express/Activity/Tabs/MoreActivity$1$1,android.intent.action.VIEW,external,0,47,29
+startActivity,com/Express/Activity/Tabs/MoreActivity,com/Express/Activity/FeedBackActivity,external,0,50,36
+startActivity,com/Express/Activity/Tabs/MoreActivity,android.intent.action.VIEW,external,0,50,36
+startActivity,com/Express/Activity/Tabs/MoreActivity,android.intent.action.VIEW,external,0,50,36
+startActivity,com/Express/Activity/Tabs/MyBillsActivity$3,com/Express/Activity/Tabs/SearchActivity,external,0,50,47
+startActivityForResult,com/Express/Activity/Tabs/MyBillsActivity$3,com/Express/Activity/Tabs/SearchActivity,external,0,50,47
+startActivity,com/Express/Activity/Tabs/MyBillsActivity,com/Express/Activity/Tabs/SearchActivity,external,0,50,58
+startActivityForResult,com/Express/Activity/Tabs/MyBillsActivity,com/Express/Activity/Tabs/SearchActivity,external,0,50,58
+startActivity,com/Express/Activity/Tabs/MyBillsActivity,com/Express/Activity/Tabs/SearchActivity,external,0,50,59
+startActivityForResult,com/Express/Activity/Tabs/MyBillsActivity,com/Express/Activity/Tabs/SearchActivity,external,0,50,59
+startActivity,com/Express/Activity/Tabs/SearchActivity,com/Express/Activity/ChooseDeliveryActivity,external,0,50,76
+startActivityForResult,com/Express/Activity/Tabs/SearchActivity,com/Express/Activity/ChooseDeliveryActivity,external,0,50,76
+startActivity,com/Express/Activity/Tabs/SearchActivity,com/Express/BarDecode/client/android/CaptureActivity,external,0,50,76
+startActivityForResult,com/Express/Activity/Tabs/SearchActivity,com/Express/BarDecode/client/android/CaptureActivity,external,0,50,76
+startActivity,com/Express/Activity/Tabs/SearchActivity,android.intent.action.VIEW,external,0,50,76
+startActivity,com/Express/BarDecode/client/android/CaptureActivityHandler,android.intent.action.VIEW,external,26,62,77
+startActivity,com/Express/Widget/TabHost$IntentContentStrategy,null,external,153,221,84
+startActivity,com/feedback/b/a,com/feedback/ui/SendFeedback,external,153,227,89
+startActivity,com/feedback/b/a,com/feedback/ui/SendFeedback,external,153,227,89
+startActivity,com/feedback/b/a,com/feedback/ui/FeedbackConversations,external,153,227,89
+startActivity,com/feedback/b/a,com/feedback/ui/FeedbackConversation,external,153,227,89
+sendBroadcast,com/feedback/c/a,postFeedbackFinished,external,157,227,90
+sendBroadcast,com/feedback/c/b,RetrieveReplyBroadcast,external,160,229,90
+sendBroadcast,com/feedback/c/c,postFeedbackFinished,external,160,229,90
+startActivity,com/feedback/ui/j,com/feedback/ui/FeedbackConversations,external,160,229,104
+startActivity,com/mobclick/android/b,android.intent.action.VIEW,external,160,281,104
+startActivity,com/mobclick/android/MobclickAgent,android.intent.action.VIEW,external,189,326,108

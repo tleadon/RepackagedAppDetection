@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_ACCOUNTS]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_PROFILE]-[android.permission.READ_CONTACTS]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/erkutaras/media/audio/fromurl/MainActivity$ListViewLoaderTask$1,com/erkutaras/media/audio/fromurl/StreamAudioFromUrlSampleActivity,external,25,8,3
+startActivity,com/erkutaras/media/audio/fromurl/PublicidadDialog$2,android.intent.action.VIEW,external,29,15,5
+startActivity,com/erkutaras/media/audio/fromurl/StreamAudioFromUrlSampleActivity,android.intent.action.VIEW_DOWNLOADS,external,34,38,17
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,34,38,17
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,34,38,17
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,46,70,19
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,50,79,25

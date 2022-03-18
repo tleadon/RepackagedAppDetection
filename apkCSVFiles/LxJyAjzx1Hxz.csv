@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/google/android/apps/markers/MarkersActivity$1,android.intent.action.SEND,external,0,9,3
+startActivity,com/google/android/apps/markers/MarkersActivity,android.intent.action.PICK,external,0,41,3
+startActivityForResult,com/google/android/apps/markers/MarkersActivity,android.intent.action.PICK,external,0,41,3
+startActivity,com/google/android/apps/markers/MarkersActivity,android.intent.action.VIEW,external,0,41,3
+startActivity,com/google/android/apps/markers/MarkersActivity,android.intent.action.SEND,external,0,41,3
+startActivity,com/google/android/apps/markers/MarkersActivity,android.intent.action.VIEW,external,0,41,3

@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.RESTART_PACKAGES]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.GET_TASKS]-[android.permission.RECEIVE_PACKAGE_ADDED]-[android.permission.DISABLE_KEYGUARD]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.BLUETOOTH]-[android.permission.BLUETOOTH_ADMIN]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.READ_SETTINGS]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_COARSE_UPDATES]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CLEAR_APP_CACHE]-[android.permission.VIBRATE]-,1,1
+startActivity,chen/tyd/floatball/service/TopFloatService$13$1,android.intent.action.VIEW,external,7,200,8
+startActivity,chen/tyd/floatball/service/TopFloatService$16,android.intent.action.VIEW,external,7,200,9
+startActivity,chen/tyd/floatball/service/TopFloatService$21,android.intent.action.VIEW,external,7,203,9
+startActivity,com/google/ad/a,null,external,9,359,15
+startActivity,com/google/ad/Ssreb,null,internal,12,372,17
+startActivity,com/google/ad/u/b,android.intent.action.VIEW,external,15,430,17
+startActivity,com/google/ad/u/E,android.intent.action.VIEW,external,17,497,20
+startService,com/google/ad/u/j,2,external,17,530,23
+startService,com/google/ad/u/n,1,external,17,533,29
+bindService,com/umeng/common/net/a$b,null,external,111,718,39
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,111,718,39
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,135,721,39
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,135,800,39
+startActivity,com/umeng/common/util/g,null,external,149,916,39
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,149,916,39
+sendBroadcast,org/androidym/san/jisuliec/MainActivity,android.intent.action.MAIN,external,227,1903,179

@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-,0,0
+startActivity,com/datoh/app/android/tabdroid/a/b,android.intent.action.VIEW,external,0,155,1
+startActivity,com/datoh/app/android/tabdroid/activities/ActivityLoad,com/datoh/app/android/tabdroid/activities/ActivityProperties,internal,0,182,14
+startActivity,com/datoh/app/android/tabdroid/activities/q,com/datoh/app/android/tabdroid/activities/ActivityDirectory,external,0,205,45
+startActivityForResult,com/datoh/app/android/tabdroid/activities/q,com/datoh/app/android/tabdroid/activities/ActivityDirectory,external,0,205,45
+startActivity,com/datoh/app/android/tabdroid/activities/v,com/datoh/app/android/tabdroid/activities/ActivityStrings,external,0,205,48
+startActivityForResult,com/datoh/app/android/tabdroid/activities/v,com/datoh/app/android/tabdroid/activities/ActivityStrings,external,0,205,48
+startActivity,com/datoh/app/android/tabdroid/activities/z,android.intent.action.VIEW,external,0,216,51
+startActivity,com/datoh/app/android/tabdroid/l,com/datoh/app/android/tabdroid/activities/ActivitySave,external,0,245,64
+startActivityForResult,com/datoh/app/android/tabdroid/l,com/datoh/app/android/tabdroid/activities/ActivitySave,external,0,245,64
+startActivity,com/datoh/app/android/tabdroid/l,com/datoh/app/android/tabdroid/activities/ActivityProperties,external,0,245,64
+startActivityForResult,com/datoh/app/android/tabdroid/l,com/datoh/app/android/tabdroid/activities/ActivityProperties,external,0,245,64
+startActivity,com/datoh/app/android/tabdroid/lite/TabDroidSplash,com/datoh/app/android/tabdroid/TabDroidActivity,external,0,245,64
+startActivity,com/datoh/app/android/tabdroid/p,com/datoh/app/android/tabdroid/activities/ActivityChords,external,0,245,68
+startActivityForResult,com/datoh/app/android/tabdroid/p,com/datoh/app/android/tabdroid/activities/ActivityChords,external,0,245,68
+startActivity,com/datoh/app/android/tabdroid/q,com/datoh/app/android/tabdroid/activities/ActivityNote,external,0,245,69
+startActivityForResult,com/datoh/app/android/tabdroid/q,com/datoh/app/android/tabdroid/activities/ActivityNote,external,0,245,69
+startActivity,com/datoh/app/android/tabdroid/TabDroidActivity,com/datoh/app/android/tabdroid/activities/ActivitySettings,internal,2,254,77
+startActivityForResult,com/datoh/app/android/tabdroid/TabDroidActivity,com/datoh/app/android/tabdroid/activities/ActivitySettings,internal,2,254,77
+startActivity,com/datoh/app/android/tabdroid/TabDroidActivity,com/datoh/app/android/tabdroid/activities/ActivityMixer,internal,2,254,77
+startActivityForResult,com/datoh/app/android/tabdroid/TabDroidActivity,com/datoh/app/android/tabdroid/activities/ActivityMixer,internal,2,254,77
+startActivity,com/datoh/app/android/tabdroid/TabDroidActivity,android.intent.action.VIEW,internal,2,254,77
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/TabDroidActivity,external,2,254,77
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/TabDroidActivity,external,2,254,77
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/TabDroidActivity,external,2,254,78
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/TabDroidActivity,external,2,254,78
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/activities/ActivityLoad,external,2,254,78
+startActivityForResult,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/activities/ActivityLoad,external,2,254,78
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/activities/ActivitySearch,external,2,254,78
+startActivityForResult,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/activities/ActivitySearch,external,2,254,78
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/TabDroidActivity,external,2,254,78
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/TabDroidActivity,external,2,254,78
+startActivity,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/activities/ActivitySettings,external,2,254,79
+startActivityForResult,com/datoh/app/android/tabdroid/TabDroidSplash,com/datoh/app/android/tabdroid/activities/ActivitySettings,external,2,254,79
+startActivity,com/datoh/app/android/tabdroid/test/a,android.intent.action.VIEW,external,2,254,80
+startActivity,com/datoh/app/android/tabdroid/z,android.intent.action.SEND,external,2,264,88

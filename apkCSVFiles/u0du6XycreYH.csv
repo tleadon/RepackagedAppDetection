@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,12,32,2
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,16,41,8
+startActivity,com/playstarz/mine/AppRater$1,android.intent.action.VIEW,external,31,66,46
+startActivity,com/playstarz/mine/DownloadManager,android.intent.action.VIEW,external,31,133,48
+startActivity,com/playstarz/mine/GameActivity,android.intent.action.VIEW,internal,31,135,50
+startActivity,com/playstarz/mine/GameActivity,com/playstarz/mine/MoreApp,internal,31,135,50
+startActivity,com/playstarz/mine/GameActivity,android.intent.action.VIEW,internal,31,135,50
+startActivity,com/playstarz/mine/SplashScreen$1,com/playstarz/mine/GameActivity,external,33,159,52
+sendBroadcast,com/playstarz/mine/SplashScreen,android.intent.extra.shortcut.INTENT,external,33,159,52
+startActivity,com/playstarz/mine/UpdateChecker,android.intent.action.VIEW,external,33,200,52

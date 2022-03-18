@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.WRITE_MEDIA_STORAGE]-[android.permission.CHANGE_WIFI_STATE]-,1,1
+startActivity,com/adfeiwo/ad/banner/c,android.intent.action.VIEW,external,40,23,1
+startActivity,com/adfeiwo/ad/banner/d,com/adfeiwo/ad/banner/WebViewActivity,external,40,42,2
+startActivity,com/adfeiwo/ad/banner/d,com/adfeiwo/ad/banner/WebViewActivity,external,40,42,2
+startActivity,com/adfeiwo/ad/banner/d,com/adfeiwo/ad/banner/WebViewActivity,external,40,42,2
+startActivity,com/adfeiwo/ad/banner/d,com/adfeiwo/ad/banner/WebViewActivity,external,40,42,2
+startActivity,com/adfeiwo/ad/banner/d,com/adfeiwo/ad/banner/WebViewActivity,external,40,42,2
+startActivity,com/adfeiwo/ad/banner/d,com/adfeiwo/ad/banner/WebViewActivity,external,40,42,2
+startActivity,com/adfeiwo/ad/banner/d,com.tencent.mm,external,40,42,2
+startActivity,com/adfeiwo/ad/banner/d,android.intent.action.VIEW,external,40,42,2
+startActivity,com/adfeiwo/ad/banner/WebViewActivity,android.intent.action.VIEW,internal,47,165,5
+startActivity,com/celliecraze/bubblebuster/AppRaterMain$1,android.intent.action.VIEW,external,47,165,10
+startActivity,com/celliecraze/bubblebuster/AppRaterShoot$1,android.intent.action.VIEW,external,47,165,13
+startActivity,com/celliecraze/bubblebuster/FrozenBubble$2,android.intent.action.VIEW,external,47,173,21
+startActivityForResult,com/celliecraze/bubblebuster/FrozenBubble$2,android.intent.action.VIEW,external,47,173,21
+startActivity,com/celliecraze/bubblebuster/FrozenBubble$3,android.intent.action.VIEW,external,47,173,22
+startActivityForResult,com/celliecraze/bubblebuster/FrozenBubble$3,android.intent.action.VIEW,external,47,173,22
+startActivity,com/celliecraze/bubblebuster/FrozenBubble,android.intent.action.VIEW,internal,47,173,24
+startActivity,com/celliecraze/bubblebuster/FrozenBubble,android.intent.action.VIEW,internal,47,173,24
+startActivity,com/celliecraze/bubblebuster/FrozenBubble,android.intent.action.VIEW,internal,47,173,24
+startActivity,com/celliecraze/bubblebuster/FrozenBubble,android.intent.action.VIEW,internal,47,173,24
+startActivity,com/celliecraze/bubblebuster/FrozenBubble,android.intent.action.SEND,internal,47,173,24
+startActivity,com/celliecraze/bubblebuster/SplashMe,com/celliecraze/bubblebuster/FrozenBubble,external,47,173,57
+startActivity,com/celliecraze/bubblebuster/SplashMe,com/adwo/adsdk/AdwoSplashAdActivity,external,47,173,57
+startActivityForResult,com/celliecraze/bubblebuster/SplashMe,com/adwo/adsdk/AdwoSplashAdActivity,external,47,173,57
+startActivity,com/celliecraze/bubblebuster/StatMe,com/celliecraze/bubblebuster/FrozenBubble,external,47,173,57
+startActivity,com/mobfox/sdk/MobFoxView,com/mobfox/sdk/InAppWebView,external,51,173,61
+startActivity,com/mobfox/sdk/MobFoxView,android.intent.action.VIEW,external,51,173,61
+startActivity,com/umeng/common/b/g,null,external,99,211,63
+startActivity,com/umeng/common/b/g,android.intent.action.VIEW,external,99,211,63
+bindService,com/umeng/common/net/a$b,null,external,121,221,63
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,121,221,63
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,145,224,63

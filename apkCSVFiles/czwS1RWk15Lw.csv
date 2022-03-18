@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[air.com.rryjw.ibook.iphoneddqzwy.permission.JPUSH_MESSAGE]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_COARSE_UPDATES]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.CHANGE_NETWORK_STATE]-,1,0
+bindService,air/com/rryjw/ibook/ipadjtclub/AppEntry$4,null,external,0,0,2
+startActivity,air/com/rryjw/ibook/ipadjtclub/AppEntry,null,external,0,0,2
+bindService,air/com/rryjw/ibook/ipadjtclub/AppEntry,com.adobe.air.AIRServiceAction,external,0,0,2
+startActivity,com/adobe/air/AdobeAIR$1,android.intent.action.VIEW,external,0,2,29
+sendStickyBroadcast,com/adobe/air/AIRService,com.adobe.air.DownloadConfigComplete,external,0,6,37
+sendBroadcast,com/adobe/air/AndroidActivityWrapper,android.intent.action.MAIN,external,2,11,55
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,13,55
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,13,55
+startService,com/adobe/air/AndroidActivityWrapper,com.adobe.air.DownloadConfig,external,2,15,55
+startActivity,com/adobe/air/AndroidMediaManager,image/*,external,17,23,67
+startActivityForResult,com/adobe/air/AndroidMediaManager,image/*,external,17,23,67
+startActivity,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,24,80
+startActivityForResult,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,24,80
+startActivity,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,138,84
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,138,84
+startActivity,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,138,84
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,138,84
+bindService,com/adobe/air/GamePreviewAppEntry$4,null,external,31,191,86
+startActivity,com/adobe/air/GamePreviewAppEntry,null,external,31,191,86
+bindService,com/adobe/air/GamePreviewAppEntry,com.adobe.air.AIRServiceAction,external,31,191,86
+bindService,com/adobe/flashplayer/HDMIUtils,com.motorola.intent.action.externaldisplaystate,external,78,318,132

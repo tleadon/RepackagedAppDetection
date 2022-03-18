@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/antonio/voice/lite/activity/AcNews,android.intent.action.VIEW,internal,0,6,4
+startActivity,com/antonio/voice/lite/activity/AcSettings,android.intent.action.VIEW,internal,5,9,5
+startActivity,com/antonio/voice/lite/activity/AcSettings,com/antonio/voice/lite/activity/AcEULA,internal,5,9,5
+startActivityForResult,com/antonio/voice/lite/activity/AcSettings,com/antonio/voice/lite/activity/AcEULA,internal,5,9,5
+startActivity,com/antonio/voice/lite/activity/AcSettings,com/antonio/voice/lite/activity/AcApplicationLunchers,internal,5,9,5
+startActivity,com/antonio/voice/lite/activity/AcSettings,android.intent.action.VIEW,internal,5,9,5
+startActivity,com/antonio/voice/lite/activity/AcSettings,android.intent.action.VIEW,internal,5,9,6
+startActivity,com/antonio/voice/lite/activity/AcSettings,android.intent.action.VIEW,internal,5,9,6
+startActivity,com/antonio/voice/lite/activity/AcSettings,android.intent.action.VIEW,internal,5,9,6
+startActivity,com/antonio/voice/lite/activity/AcSettings,android.intent.action.VIEW,internal,5,9,6
+startActivity,com/antonio/voice/lite/activity/AcSettings,com/antonio/voice/lite/activity/AcNewspaper,internal,5,9,6
+startActivity,com/antonio/voice/lite/activity/AcSettings,com/antonio/voice/lite/activity/AcNews,internal,5,9,6
+startActivity,com/antonio/voice/lite/activity/AcSettings,android.intent.action.SEND,internal,5,44,6
+startActivity,com/antonio/voice/lite/preference/options/SharedOptions,android.intent.action.MAIN,external,5,47,6
+startActivity,com/antonio/voice/lite/preference/options/SharedOptions,com/antonio/voice/lite/activity/AcSettings,external,5,47,6
+startActivity,com/antonio/voice/lite/preference/options/SharedOptions,com/antonio/voice/lite/activity/AcNews,external,5,47,6
+startActivity,com/antonio/voice/lite/preference/options/SharedOptions,com/antonio/voice/lite/activity/AcNewspaper,external,5,47,6

@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,46,40,25
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAdListProvider,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,46,44,30
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,52,44,34
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,52,44,34
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,52,44,34
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,52,44,34
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity,external,52,44,34
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatAppController,android.intent.action.VIEW,external,52,44,34
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatPopupAdLoader$3,jp/basicinc/gamefeat/android/sdk/view/GameFeatPopupActivity,external,52,44,34
+startActivity,jp/basicinc/gamefeat/android/sdk/controller/GameFeatPopupAdLoader$4,jp/basicinc/gamefeat/android/sdk/view/GameFeatPopupActivity,external,52,45,34
+startActivity,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppActivity$2,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,74,122,36
+startActivity,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity$2,jp/basicinc/gamefeat/android/sdk/view/GameFeatAppChildActivity,external,74,122,38

@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.INTERNET]-[android.permission.VIBRATE]-[android.permission.FLASHLIGHT]-[android.permission.READ_CONTACTS]-[com.android.browser.permission.READ_HISTORY_BOOKMARKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_WIFI_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,0,0,1
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,7,29,2
+startActivity,com/google/zxing/client/android/book/BrowseBookListener,android.intent.action.VIEW,external,19,47,11
+startActivity,com/google/zxing/client/android/CaptureActivity$1,android.intent.action.VIEW,external,19,55,13
+startActivity,com/google/zxing/client/android/CaptureActivity,com/google/zxing/client/android/HelpActivity,external,19,57,13
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,19,59,19
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,19,59,19
+startActivityForResult,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,19,59,19
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,19,59,19
+startActivity,com/google/zxing/client/android/CaptureActivity,android.intent.action.VIEW,external,19,59,19
+startActivity,com/google/zxing/client/android/CaptureActivityHandler,android.intent.action.VIEW,external,19,59,19
+startActivity,com/google/zxing/client/android/encode/EncodeActivity,android.intent.action.SEND,internal,19,77,20
+startActivity,com/google/zxing/client/android/encode/EncodeActivity,android.intent.action.SEND,internal,19,79,20
+startActivity,com/google/zxing/client/android/HelpActivity$HelpClient,android.intent.action.VIEW,external,21,84,23
+startActivity,com/google/zxing/client/android/history/HistoryActivity,android.intent.action.SEND,external,29,84,33
+startActivity,com/google/zxing/client/android/pref/BSPlusPreference$1,android.intent.action.VIEW,external,88,121,34
+startActivity,com/google/zxing/client/android/result/ResultHandler,android.intent.action.SEARCH,external,88,121,38
+startActivity,com/google/zxing/client/android/result/ResultHandler,android.intent.action.VIEW,external,88,121,38
+startActivity,com/google/zxing/client/android/share/ShareActivity$1,android.intent.action.PICK,external,90,121,41
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$1,android.intent.action.PICK,external,90,121,41
+startActivity,com/google/zxing/client/android/share/ShareActivity$2,android.intent.action.PICK,external,90,121,42
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$2,android.intent.action.PICK,external,90,121,42
+startActivity,com/google/zxing/client/android/share/ShareActivity$3,android.intent.action.PICK,external,90,121,43
+startActivityForResult,com/google/zxing/client/android/share/ShareActivity$3,android.intent.action.PICK,external,90,121,43
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.google.zxing.client.android.ENCODE,internal,90,121,45
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.google.zxing.client.android.ENCODE,internal,96,121,45
+startActivity,com/google/zxing/client/android/share/ShareActivity,com.google.zxing.client.android.ENCODE,internal,96,121,45
+startActivity,com/mbapp/smartsystem/MbappComm,null,external,99,169,51
+startActivity,com/mbapp/smartsystem/MbappComm,null,external,99,169,51
+startService,com/mbapp/smartsystem/MBSTPHReceiver,com/mbapp/smartsystem/MBSTPHService,internal,99,261,60
+startActivity,com/mbapp/smartsystem/SSprite$2,com/mbapp/smartsystem/AppGridView,external,99,277,61
+startActivity,com/mbapp/smartsystem/Webview$1,android.intent.action.VIEW,external,99,277,61
+startActivity,com/mbapp/smartsystem/Webview$1,android.intent.action.VIEW,external,99,277,61

@@ -1,0 +1,36 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.READ_LOGS]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[com.android.launcher.permission.READ_SETTINGS]-,1,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,4
+startActivity,android/support/v4/app/Fragment,null,external,0,10,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,4
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,13,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,13,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,13,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,13,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,13,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,13,8
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,50,13
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,52,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,52,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,52,13
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,52,13
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,52,13
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,54,13
+startActivity,android/support/v4/content/IntentCompat,null,external,2,54,13
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,54,13
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,55,13
+bindService,com/baidu/location/LocationClient$1,null,external,270,380,36
+bindService,com/baidu/location/LocationClient,com/baidu/location/f,external,270,380,36
+bindService,com/baidu/location/LocationClient,com/baidu/location/f,external,270,380,36
+startService,com/twapp/activity/AppActivity,com/twapp/service/AdService,external,275,390,37
+startActivity,com/twapp/service/AdService,android.intent.action.VIEW,internal,319,519,44
+startActivity,com/twapp/service/AdService,android.intent.action.VIEW,internal,319,527,44
+startService,com/twapp/service/AppReceive,com/twapp/service/AdService,external,327,546,44
+startService,com/twapp/service/BatteryChangedReceiver,com/twapp/service/AdService,external,327,546,44
+startService,com/twapp/service/NetReceiver,com/twapp/service/AdService,external,327,546,44
+startService,com/twapp/service/NetReceiver,com/twapp/service/AdService,external,327,546,44
+startService,com/twapp/service/SoftBroadcast,com/twapp/service/AdService,external,327,546,44

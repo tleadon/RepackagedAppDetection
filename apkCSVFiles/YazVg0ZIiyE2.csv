@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-,0,0
+startActivity,com/a/a/k,android.intent.action.VIEW,external,0,25,0
+startActivity,com/admob/android/ads/ar,null,external,0,36,0
+startActivity,com/admob/android/ads/bj,android.intent.action.VIEW,external,32,113,1
+startActivity,com/gemego/playtexasfree/as,android.intent.action.VIEW,external,40,113,31
+startActivity,com/gemego/playtexasfree/cj,android.intent.action.SEND,external,52,129,46
+startActivity,com/gemego/playtexasfree/cp,android.intent.action.VIEW,external,52,129,49
+startActivity,com/gemego/playtexasfree/cw,android.intent.action.VIEW,external,52,129,50
+startActivity,com/gemego/playtexasfree/ed,com/gemego/playtexasfree/PlayTexas,external,52,129,71
+startActivity,com/gemego/playtexasfree/ed,com/gemego/playtexasfree/PlayTexas,external,52,129,71
+startActivity,com/gemego/playtexasfree/ed,com/gemego/playtexasfree/PlayTexas,external,52,129,71
+startActivity,com/gemego/playtexasfree/ee,android.intent.action.VIEW,external,52,129,72
+startActivity,com/gemego/playtexasfree/es,android.intent.action.VIEW,external,61,146,75
+startActivity,com/gemego/playtexasfree/es,android.intent.action.VIEW,external,61,146,75
+startActivity,com/gemego/playtexasfree/es,android.intent.action.VIEW,external,61,146,75
+startActivity,com/gemego/playtexasfree/es,android.intent.action.VIEW,external,61,146,75
+startActivity,com/gemego/playtexasfree/PlayTexas,null,external,61,146,80
+startActivity,com/gemego/playtexasfree/PlayTexas,android.intent.action.VIEW,external,61,146,86
+startActivity,com/gemego/playtexasfree/PlayTexas,android.intent.action.VIEW,external,61,146,86
+startActivity,com/gemego/playtexasfree/PlayTexas,android.intent.action.VIEW,external,61,146,86
+startActivity,com/gemego/playtexasfree/u,android.intent.action.VIEW,external,61,146,88

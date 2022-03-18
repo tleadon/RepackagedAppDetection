@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,0,2
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,3
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,3
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,3
+startActivity,cz/kinst/jakub/clockq/AppRater$1,android.intent.action.VIEW,external,175,10,5
+startActivity,cz/kinst/jakub/clockq/AppRater$2,android.intent.action.VIEW,external,175,10,6
+startActivity,cz/kinst/jakub/clockq/ProDialog$2,android.intent.action.VIEW,external,175,10,14

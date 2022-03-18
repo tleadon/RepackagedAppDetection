@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.SEND_SMS]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.SEND_SMS]-[android.permission.INTERNET]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.CALL_PHONE]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[Android.permission.CHANGE_CONFIGURATION]-[android.permission.WAKE_LOCK]-,1,0
+startActivity,adapter/AdaContext,android.intent.action.VIEW,external,0,3,18
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,0,188,18
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,0,188,18
+bindService,com/npc/shenjiang/a/b$1,null,external,0,213,18
+bindService,com/npc/shenjiang/a/b,com/alipay/android/app/IAlixPay,external,0,213,18
+startActivity,com/npc/shenjiang/a/d$2,android.intent.action.VIEW,external,0,215,21
+startActivity,com/npc/shenjiang/a/e,android.intent.action.MAIN,external,0,227,22

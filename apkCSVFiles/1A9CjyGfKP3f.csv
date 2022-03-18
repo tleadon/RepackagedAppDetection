@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_PHONE_STATE]-,1,0
+startActivity,com/doodlemobile/gamecenter/DMTabHost$IntentContentStrategy,null,external,0,0,7
+startActivity,com/doodlemobile/gamecenter/featurescreen/FeatureScreenLayout,android.intent.action.VIEW,external,95,118,17
+startActivity,com/doodlemobile/gamecenter/featurescreen/FeatureScreenLayout,android.intent.action.VIEW,external,95,118,17
+startActivity,com/doodlemobile/gamecenter/FeatureView$1,null,external,95,133,18
+startActivity,com/doodlemobile/gamecenter/FeatureView$2,null,external,95,133,19
+startActivity,com/doodlemobile/gamecenter/FeatureView$3,null,external,95,133,20
+startActivity,com/doodlemobile/gamecenter/GameCenterActivity,com.android.camera.action.CROP,internal,95,133,25
+startActivityForResult,com/doodlemobile/gamecenter/GameCenterActivity,com.android.camera.action.CROP,internal,95,133,25
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$1,com/doodlemobile/gamecenter/GameCenterActivity,external,95,133,32
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$2,com/doodlemobile/gamecenter/GameCenterActivity,external,95,133,33
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$3,com/doodlemobile/gamecenter/GameCenterActivity,external,95,133,34
+startActivity,com/doodlemobile/gamecenter/GameTestActivity$6,com/doodlemobile/gamecenter/MoreGamesActivity,external,95,133,38
+startActivity,com/doodlemobile/gamecenter/MoreGamesActivity$5,android.settings.SETTINGS,external,95,147,43
+startActivity,com/doodlemobile/gamecenter/MoreGamesActivity,android.intent.action.VIEW,external,95,147,43
+startActivity,com/doodlemobile/gamecenter/MoreGamesLayout$5,android.settings.SETTINGS,external,95,147,47
+startActivity,com/doodlemobile/gamecenter/MoreGamesLayout,android.intent.action.VIEW,external,95,147,47
+startActivity,com/doodlemobile/gamecenter/ProfileView,null,external,115,161,51
+startActivityForResult,com/doodlemobile/gamecenter/ProfileView,null,external,115,161,51
+startActivity,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,115,161,51
+startActivityForResult,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,115,161,51
+startActivity,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,115,162,51
+startActivityForResult,com/doodlemobile/gamecenter/ProfileView,android.intent.action.GET_CONTENT,external,115,162,51
+startActivity,com/doodlemobile/gamecenter/PromoteDialog$1,null,external,115,162,52
+startActivity,com/doodlemobile/gamecenter/UserInfoView$UserInfoAdapter$1,android.intent.action.VIEW,external,115,162,56
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,115,199,56
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,115,199,56
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,115,200,56
+bindService,com/unity3d/player/a/e,null,external,150,281,57
+startActivity,com/unity3d/player/UnityPlayer$9,null,external,154,295,70
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,193,322,79
+startActivity,com/wordsmobile/Roller/RollerBall,android.intent.action.VIEW,external,193,328,96
+startActivity,com/wordsmobile/Roller/RollerBall,com/doodlemobile/gamecenter/GameCenterActivity,external,193,328,96
+startActivityForResult,com/wordsmobile/Roller/RollerBall,com/doodlemobile/gamecenter/GameCenterActivity,external,193,328,96
+startActivity,com/wordsmobile/Roller/RollerBall,com/doodlemobile/gamecenter/GameCenterActivity,external,193,328,96
+startActivityForResult,com/wordsmobile/Roller/RollerBall,com/doodlemobile/gamecenter/GameCenterActivity,external,193,328,96

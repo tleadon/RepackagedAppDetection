@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.BILLING]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.vending.CHECK_LICENSE]-,0,1
+startActivity,com/amazon/device/ads/AdController,intent:,external,0,0,0
+startActivity,com/amazon/device/ads/AdRenderer,android.intent.action.VIEW,external,30,3,0
+startActivity,com/amazon/device/ads/AmazonDeviceLauncher,null,external,35,3,0
+startActivity,com/amazon/device/ads/AmazonDeviceLauncher,android.intent.action.SEARCH,external,35,3,0
+startActivity,com/amazon/device/ads/HtmlRenderer$AdWebViewClient,android.intent.action.VIEW,external,50,31,0
+startActivity,com/amazon/device/ads/MraidBrowser$1,android.intent.action.VIEW,external,50,47,0
+startActivity,com/amazon/device/ads/MraidBrowserController,com/amazon/device/ads/AdActivity,external,50,47,5
+startActivity,com/amazon/device/ads/MraidDisplayController,com/amazon/device/ads/AdActivity,external,50,47,10
+startActivity,com/amazon/device/ads/MraidView$MraidWebViewClient,android.intent.action.VIEW,external,50,47,13
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,62,56,15
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,62,56,15
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,62,61,15
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,62,61,15
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,62,61,15
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,62,61,15
+bindService,com/example/android/trivialdrivesample/util/IabHelper,null,external,62,61,15
+bindService,com/example/android/trivialdrivesample/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,62,65,15
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,62,67,15
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,62,67,15
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,74,99,17
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,78,108,23
+startActivity,com/onevcat/unirate/UniRatePlugin,android.intent.action.VIEW,external,93,122,36
+startActivity,com/reignstudios/reignnative/EmailNative$1,android.intent.action.SEND,external,95,142,36
+startActivity,com/reignstudios/reignnative/MarketingNative$1,android.intent.action.VIEW,external,95,142,36
+startActivity,com/reignstudios/reignnative/StreamNative$2,android.intent.action.PICK,external,97,142,37
+startActivityForResult,com/reignstudios/reignnative/StreamNative$2,android.intent.action.PICK,external,97,142,37
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,145,182,62

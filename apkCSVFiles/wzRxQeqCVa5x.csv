@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.READ_CONTACTS]-[android.permission.CALL_PHONE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-,1,0
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,10
+startActivity,teq/qDial/AboutDialog$2,android.intent.action.VIEW,external,33,60,36
+startActivity,teq/qDial/AboutDialog$3,android.intent.action.VIEW,external,33,60,37
+sendBroadcast,teq/qDial/CallLogObserver,teq/qDial/WidgetProviderBase,external,40,115,37
+sendBroadcast,teq/qDial/ChooseWidgetActivityBase,teq/qDial/WidgetProviderBase,external,40,115,43
+startActivity,teq/qDial/ContactDetailsActivity$1,teq/qDial/QDialActivity,external,50,118,43
+startActivity,teq/qDial/ContactDetailsActivity,android.intent.action.VIEW,external,50,118,50
+startActivity,teq/qDial/ContactPhotoView,teq/qDial/ContactDetailsActivity,external,50,118,52
+startActivity,teq/qDial/ContactPhotoView,android.intent.action.CALL,external,50,118,52
+sendBroadcast,teq/qDial/CreateShortcutActivity,com.android.launcher.action.INSTALL_SHORTCUT,external,50,118,56
+sendBroadcast,teq/qDial/KeyRegister,teq.qDial.REGISTERKEYCALLBACK,external,50,127,58
+sendBroadcast,teq/qDial/PageView,teq/qDial/WidgetProviderBase,external,61,128,64
+startActivity,teq/qDial/PhoneNumberView,android.intent.action.SENDTO,external,61,128,66
+startActivity,teq/qDial/QDialActivity,android.intent.action.PICK,external,61,144,91
+startActivityForResult,teq/qDial/QDialActivity,android.intent.action.PICK,external,61,144,91
+startActivity,teq/qDial/QDialActivity,teq/qDial/CreateShortcutActivity,external,61,144,91
+startActivity,teq/qDial/UpgradeDialog$1,android.intent.action.VIEW,external,66,144,95
+startActivity,teq/qDial/UpgradeDialog$2,android.intent.action.VIEW,external,66,144,96

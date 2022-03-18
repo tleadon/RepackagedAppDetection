@@ -1,0 +1,63 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.VIBRATE]-[android.permission.ACCESS_COARSE_LOCATIO]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.RECEIVE_SMS]-[android.permission.RECORD_AUDIO]-[android.permission.MODIFY_AUDIO_SETTINGS]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_CONTACTS]-[android.permission.WRITE_EXTERNAL_STORAG]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.GET_ACCOUNTS]-[android.permission.BROADCAST_STICKY]-,0,1
+startActivity,android/support/v4/app/Fragment,null,external,0,13,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,4
+startActivity,android/support/v4/app/Fragment,null,external,0,13,4
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,13,4
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,17,8
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,NavUtils,external,0,64,13
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,64,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,13
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,64,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompat,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,67,13
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,67,13
+startActivity,android/support/v4/content/IntentCompat$IntentCompatImplHC,null,external,2,70,13
+startActivity,android/support/v4/content/IntentCompat,null,external,2,70,13
+startActivity,android/support/v4/content/IntentCompatHoneycomb,null,external,2,70,13
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,72,13
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,197,41
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,4,197,41
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,229,43
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,238,49
+bindService,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+bindService,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startActivity,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startActivity,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startActivity,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startActivity,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startActivityForResult,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startService,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startService,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+bindService,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+bindService,org/apache/cordova/api/LegacyContext,null,external,35,252,61
+startActivity,org/apache/cordova/CameraLauncher,Get Picture,external,45,302,61
+startActivityForResult,org/apache/cordova/CameraLauncher,Get Picture,external,45,302,61
+startActivity,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,49,321,61
+startActivityForResult,org/apache/cordova/CameraLauncher,android.media.action.IMAGE_CAPTURE,external,49,321,61
+startActivity,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,49,321,61
+startActivityForResult,org/apache/cordova/Capture,android.provider.MediaStore.RECORD_SOUND,external,49,321,61
+startActivity,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,49,325,61
+startActivityForResult,org/apache/cordova/Capture,android.media.action.IMAGE_CAPTURE,external,49,325,61
+startActivity,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,49,325,61
+startActivityForResult,org/apache/cordova/Capture,android.media.action.VIDEO_CAPTURE,external,49,325,61
+startActivity,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,78,367,68
+startActivityForResult,org/apache/cordova/CordovaChromeClient,android.intent.action.GET_CONTENT,external,78,367,68
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,96,369,79
+startActivity,org/apache/cordova/CordovaWebView,android.intent.action.VIEW,external,96,369,79
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.DIAL,external,96,369,79
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,96,369,79
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,96,369,79
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,96,369,79
+startActivity,org/apache/cordova/CordovaWebViewClient,android.intent.action.VIEW,external,96,369,79
+startActivity,org/apache/cordova/DroidGap,null,external,101,398,91
+startActivityForResult,org/apache/cordova/DroidGap,null,external,101,398,91
+startActivity,org/apache/cordova/InAppBrowser,android.intent.action.VIEW,external,156,819,95

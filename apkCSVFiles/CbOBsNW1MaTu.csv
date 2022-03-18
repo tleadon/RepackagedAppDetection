@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,0,1
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection$1,null,external,0,13,0
+bindService,com/facebook/android/Facebook$TokenRefreshServiceConnection,null,external,0,13,0
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+bindService,com/facebook/android/Facebook,com.facebook.katana,external,0,13,0
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,0,14,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,44,1
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,44,1
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,44,1
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,44,1
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,46,5
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,51,7
+startService,com/platoevolved/inappbilling/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,32,79,19
+startService,com/platoevolved/inappbilling/BillingReceiver,com.example.dungeons.GET_PURCHASE_INFORMATION,external,32,79,19
+startService,com/platoevolved/inappbilling/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,32,79,19
+bindService,com/platoevolved/inappbilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,32,79,19
+bindService,com/platoevolved/inappbilling/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,32,79,19
+bindService,com/unity3d/player/a/e,null,external,32,236,19
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,77,244,21
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,83,262,35

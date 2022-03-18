@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/onevcat/uniwebview/AndroidPlugin$2$1,android.intent.action.SENDTO,external,0,0,0
+startActivity,com/onevcat/uniwebview/UniWebChromeClient,com/onevcat/uniwebview/UniWebViewCustomViewActivity,external,0,0,0
+startActivity,com/onevcat/uniwebview/UniWebViewDialog$2,android.intent.action.GET_CONTENT,external,0,0,5
+startActivityForResult,com/onevcat/uniwebview/UniWebViewDialog$2,android.intent.action.GET_CONTENT,external,0,0,5
+startActivity,com/onevcat/uniwebview/UniWebViewDialog$2,android.intent.action.GET_CONTENT,external,0,0,5
+startActivityForResult,com/onevcat/uniwebview/UniWebViewDialog$2,android.intent.action.GET_CONTENT,external,0,0,5
+startActivity,com/onevcat/uniwebview/UniWebViewDialog$2,android.intent.action.GET_CONTENT,external,0,0,5
+startActivityForResult,com/onevcat/uniwebview/UniWebViewDialog$2,android.intent.action.GET_CONTENT,external,0,0,5
+startActivity,com/onevcat/uniwebview/UniWebViewDialog$3,android.intent.action.VIEW,external,0,0,5
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,46,40,36

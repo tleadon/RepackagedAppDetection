@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,,0,1
+startActivity,com/android/inputmethodcommon/InputMethodSettingsImpl$1,android.settings.INPUT_METHOD_SUBTYPE_SETTINGS,external,0,0,1
+sendBroadcast,com/apperhand/device/android/a/a/a,null,external,4,1,1
+sendBroadcast,com/apperhand/device/android/a/c,com.apperhand.action.show.eula,external,13,1,1
+sendBroadcast,com/apperhand/device/android/a/e,android.intent.extra.shortcut.INTENT,external,17,4,1
+startService,com/apperhand/device/android/AndroidSDKProvider,com/apperhand/device/android/AndroidSDKProvider,external,17,4,1
+startActivity,com/apperhand/device/android/AndroidSDKProvider,com/apperhand/device/android/EULAActivity,external,17,4,1

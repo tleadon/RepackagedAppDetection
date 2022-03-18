@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,1,1
+bindService,air/com/infofrontline/jacky/AppEntry$4,null,external,0,0,2
+startActivity,air/com/infofrontline/jacky/AppEntry,null,external,0,0,2
+bindService,air/com/infofrontline/jacky/AppEntry,com.adobe.air.AIRServiceAction,external,0,0,2
+sendStickyBroadcast,com/adobe/air/AIRService,com.adobe.air.DownloadConfigComplete,external,0,2,37
+sendBroadcast,com/adobe/air/AndroidActivityWrapper,android.intent.action.MAIN,external,2,4,53
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,6,53
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,6,53
+startService,com/adobe/air/AndroidActivityWrapper,com.adobe.air.DownloadConfig,external,2,8,53
+startActivity,com/adobe/air/AndroidMediaManager,image/*,external,17,16,62
+startActivityForResult,com/adobe/air/AndroidMediaManager,image/*,external,17,16,62
+startActivity,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,17,75
+startActivityForResult,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,17,75
+startActivity,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,131,79
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,131,79
+startActivity,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,131,79
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,131,79
+bindService,com/adobe/flashplayer/HDMIUtils,com.motorola.intent.action.externaldisplaystate,external,78,309,98

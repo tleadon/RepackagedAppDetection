@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-,1,0
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GameInstaller,com.gameloft.android.GAND.GloftHAWX.Hawx.Hawx,external,10,132,5
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GameInstaller,com.gameloft.android.GAND.GloftHAWX.Hawx.Hawx,external,16,138,5
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GLiveMain$20,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,external,24,141,30
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GLiveMain,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,external,33,141,47
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GLMediaPlayer,com/gameloft/android/GAND/GloftHAWX/Hawx/MyVideoView,external,33,176,47
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GLMediaPlayer,com/gameloft/android/GAND/GloftHAWX/Hawx/MyVideoView,external,33,176,47
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,android.intent.action.VIEW,external,33,284,47
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,com/gameloft/android/GAND/GloftHAWX/Hawx/GameInstaller,external,33,284,47
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/MyVideoView,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,external,33,288,58

@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,27,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,27,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,30,77,13
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,30,77,13
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,30,77,13
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,30,77,13
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,44,79,17
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,46,84,19
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,68,153,58

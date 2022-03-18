@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.USE_CREDENTIALS]-[com.google.android.apps.googlevoice.permission.SEND_SMS]-[android.permission.ACCOUNT_MANAGER]-[android.permission.SEND_SMS]-[android.permission.INTERNET]-[com.google.android.apps.googlevoice.permission.RECEIVE_SMS]-[android.permission.MANAGE_ACCOUNTS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.RECEIVE_SMS]-[android.permission.GET_ACCOUNTS]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/appinventor/components/runtime/ActivityStarter,null,external,70,668,0
+startActivityForResult,com/google/appinventor/components/runtime/ActivityStarter,null,external,70,668,0
+startActivity,com/google/appinventor/components/runtime/BarcodeScanner,com.google.zxing.client.android.SCAN,external,70,668,0
+startActivityForResult,com/google/appinventor/components/runtime/BarcodeScanner,com.google.zxing.client.android.SCAN,external,70,668,0
+startActivity,com/google/appinventor/components/runtime/Camcorder,android.media.action.VIDEO_CAPTURE,external,70,701,3
+startActivityForResult,com/google/appinventor/components/runtime/Camcorder,android.media.action.VIDEO_CAPTURE,external,70,701,3
+startActivity,com/google/appinventor/components/runtime/Camera,android.media.action.IMAGE_CAPTURE,external,72,709,3
+startActivityForResult,com/google/appinventor/components/runtime/Camera,android.media.action.IMAGE_CAPTURE,external,72,709,3
+startActivity,com/google/appinventor/components/runtime/Form,.,external,81,747,15
+startActivityForResult,com/google/appinventor/components/runtime/Form,.,external,81,747,15
+startActivity,com/google/appinventor/components/runtime/Picker,null,external,175,844,31
+startActivityForResult,com/google/appinventor/components/runtime/Picker,null,external,175,844,31
+startActivity,com/google/appinventor/components/runtime/SpeechRecognizer,android.speech.action.RECOGNIZE_SPEECH,external,175,854,31
+startActivityForResult,com/google/appinventor/components/runtime/SpeechRecognizer,android.speech.action.RECOGNIZE_SPEECH,external,175,854,31
+startActivity,com/google/appinventor/components/runtime/Twitter$1,android.intent.action.MAIN,external,183,908,31
+startActivityForResult,com/google/appinventor/components/runtime/Twitter$1,android.intent.action.MAIN,external,183,908,31
+startActivity,com/google/appinventor/components/runtime/util/AppInvHTTPD,android.intent.action.VIEW,external,194,938,33
+startActivity,com/google/appinventor/components/runtime/util/ExternalTextToSpeech,com.google.tts.makeBagel,external,215,985,34
+startActivityForResult,com/google/appinventor/components/runtime/util/ExternalTextToSpeech,com.google.tts.makeBagel,external,215,985,34
+startActivity,com/google/appinventor/components/runtime/util/PhoneCallUtil,android.intent.action.CALL,external,231,1293,44

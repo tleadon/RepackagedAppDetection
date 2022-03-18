@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-,1,1
+startActivity,com/amazon/inapp/purchasing/FailurePrompt,android.intent.action.VIEW,external,0,0,0
+startActivity,com/amazon/inapp/purchasing/KiwiPurchaseRequestCommandTask$1,null,external,0,0,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.appUserId,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.itemData,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchase,external,0,5,0
+startService,com/amazon/inapp/purchasing/SandboxRequestHandler,com.amazon.testclient.iap.purchaseUpdates,external,0,5,0
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,0,18,0
+startService,com/android/util/counter/CounterReceiver,com/test/httputil/HttpUtilService,internal,0,18,0
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,64,29,2
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,64,29,2
+startActivity,com/feelingtouch/pay/PayUtil,PARAM_CONTENT,external,76,56,10
+startActivity,com/feelingtouch/pay/PayUtil,android.intent.action.VIEW,external,76,56,10
+startActivity,com/feelingtouch/strikeforce/e/c$1,com/feelingtouch/strikeforce/SignupActivity,external,124,58,17
+startActivity,com/flurry/android/ao,android.intent.action.VIEW,external,136,116,24
+startActivity,com/flurry/android/ao,android.intent.action.VIEW,external,136,116,24
+startActivity,com/flurry/android/ao,android.intent.category.DEFAULT,external,139,116,24
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,329,363,28
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,329,363,28
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,329,363,28

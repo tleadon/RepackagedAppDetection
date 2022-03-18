@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[com.android.vending.CHECK_LICENSE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,46,69,25
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,46,69,25
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,72,170,26
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,72,180,26
+startService,com/unity3d/plugin/downloader/b/r,EPI,external,72,180,26
+startActivity,com/unity3d/plugin/downloader/b,android.settings.WIFI_SETTINGS,external,100,184,27
+bindService,com/unity3d/plugin/downloader/c/j,null,external,100,194,27
+bindService,com/unity3d/plugin/downloader/c/j,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,100,194,27

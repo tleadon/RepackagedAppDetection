@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-,0,0
+startActivity,com/am/ammob/activities/AdActivity$AdActivityWebViewClient,android.intent.action.VIEW,external,0,0,0
+startActivity,com/am/ammob/activities/AdActivity$AdActivityWebViewClient,android.intent.action.VIEW,external,0,0,0
+bindService,com/am/ammob/activities/AdActivity,com/am/pumper/services/FocusService,external,0,0,0
+bindService,com/am/ammob/activities/AdActivity,com/am/pumper/services/FocusService,external,0,0,0
+bindService,com/am/ammob/activities/AMIActivity,com/am/pumper/services/FocusService,external,0,4,1
+bindService,com/am/ammob/activities/AMIActivity,com/am/pumper/services/FocusService,external,0,4,1
+startActivity,com/am/ammob/ads/AMBaseWebView,banner_url,external,0,15,4
+startActivity,com/am/ammob/ads/AMBaseWebView,android.intent.action.VIEW,external,0,15,4
+startActivity,com/am/ammob/ads/AMBaseWebView,android.intent.action.VIEW,external,0,15,4
+startActivity,com/am/ammob/ads/AMBaseWebView,android.intent.action.VIEW,external,0,15,4
+startActivity,com/am/ammob/ads/banner/AMBanner$1,android.intent.action.VIEW,external,0,15,7
+startService,com/am/ammob/AMMob,>>> ,external,0,19,9
+bindService,com/am/ammob/AMMob,>>> ,external,0,19,9
+startService,com/am/ammob/services/BService,null,external,42,105,9
+startService,com/am/ammob/services/SManager$1,null,external,42,105,9
+sendBroadcast,com/am/ammob/services/SManager$1,layer_data,external,42,105,9
+startService,com/am/ammob/services/SManager$1,layer_data,external,42,105,9
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,88,166,34

@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-,0,0
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,11,0,5
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,11,0,5
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,11,0,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,16,0,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,16,0,5
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,16,0,5
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,26,11,5
+startActivity,com/google/android/gms/dynamic/a$5,null,external,26,25,8
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,26,27,8
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,26,27,8
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,26,27,8
+startActivity,com/google/android/gms/internal/bh,Open GMSG did not contain a URL.,external,38,27,12
+startActivity,com/google/android/gms/internal/bk,com.google.android.gms.ads.AdActivity,external,38,27,12
+startActivity,com/google/android/gms/internal/cw$a,null,external,56,36,13
+startActivity,com/google/android/gms/internal/cw$a,null,external,56,36,13
+startActivity,com/google/android/gms/internal/cw,android.intent.action.VIEW,external,56,36,13
+startActivity,com/google/android/gms/internal/du,null,external,56,43,21
+startActivityForResult,com/google/android/gms/internal/du,null,external,56,43,21
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,56,44,21
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,56,44,21
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,56,44,21
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,56,44,21
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,56,44,21
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,134,85,57
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,134,85,57
+startActivity,com/rainbow/piano/ADBoard10,android.intent.action.VIEW,external,134,85,58
+startActivity,com/rainbow/piano/ADBoard10,android.intent.action.VIEW,external,134,85,58
+startActivity,com/rainbow/piano/ADBoard10,android.intent.action.VIEW,external,134,85,58
+startActivity,com/rainbow/piano/ADBoard10,android.intent.action.VIEW,external,134,85,58
+startActivity,com/rainbow/piano/ADBoard10,android.intent.action.VIEW,external,134,85,58
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,152,222,83
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,152,222,84

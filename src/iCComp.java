@@ -3,6 +3,9 @@ public class iCComp {
     public String sourceComp;
     public String targetComp;
     public String typeComm;
+    public int userICount = 0;
+    public int androidAPICount = 0;
+    public int javaAPICount = 0;
 
     /*
     iCComp(String iCCName, String sourceComp, String targetComp, String typeComm){
@@ -47,6 +50,28 @@ public class iCComp {
         return typeComm;
     }
 
+    public void userICount(int userICount){
+        this.userICount = userICount;
+    }
+
+    public int getuserICount(){
+        return userICount;
+    }
+
+    public void androidAPICount(int androidAPICount){
+        this.androidAPICount = androidAPICount;
+    }
+
+    public int getandroidAPICount(){
+        return androidAPICount;
+    }
+    public void javaAPICount(int javaAPICount){
+        this.javaAPICount = javaAPICount;
+    }
+
+    public int getjavaAPICount(){
+        return javaAPICount;
+    }
 
     @Override
     public String toString() {
@@ -59,7 +84,7 @@ public class iCComp {
     }
 
     public String toCSVFormat() {
-        return getICCName() + "," + getSourceComp() + "," + getTargetComp() + "," + getTypeComm() + "\n";
+        return getICCName() + "," + getSourceComp() + "," + getTargetComp() + "," + getTypeComm() + "," + getandroidAPICount() + "," + getjavaAPICount() + "," + getuserICount() + "\n";
     }
     
     

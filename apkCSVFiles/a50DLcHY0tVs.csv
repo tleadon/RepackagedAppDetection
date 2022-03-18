@@ -1,0 +1,39 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,24,61,6
+startActivity,com/chartboost/sdk/impl/m,android.intent.action.VIEW,external,24,61,6
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,147,18
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,147,18
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,147,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,147,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,147,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,147,18
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,56,158,18
+startActivity,com/google/android/gms/dynamic/a$5,null,external,56,172,21
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,56,174,21
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,56,174,21
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,56,174,21
+startActivity,com/google/android/gms/internal/bh,Open GMSG did not contain a URL.,external,68,174,25
+startActivity,com/google/android/gms/internal/bk,com.google.android.gms.ads.AdActivity,external,68,174,25
+startActivity,com/google/android/gms/internal/cw$a,null,external,86,183,26
+startActivity,com/google/android/gms/internal/cw$a,null,external,86,183,26
+startActivity,com/google/android/gms/internal/cw,android.intent.action.VIEW,external,86,183,26
+startActivity,com/google/android/gms/internal/du,null,external,86,190,34
+startActivityForResult,com/google/android/gms/internal/du,null,external,86,190,34
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,191,34
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,191,34
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,191,34
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,191,34
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,191,34
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,164,232,70
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,164,232,70
+startActivity,com/heyzap/house/handler/ClickHandler,android.intent.action.VIEW,external,164,232,71
+bindService,com/heyzap/internal/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,224,446,100
+bindService,com/heyzap/internal/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,224,446,100
+bindService,com/heyzap/internal/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,224,446,100
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,226,498,100
+startActivity,com/heyzap/sdk/ads/IncentivizedAd$2,impression_id,external,233,502,106
+startActivity,com/heyzap/sdk/ads/InterstitialAd$3,impression_id,external,233,502,106
+startActivity,com/heyzap/sdk/ads/VideoAd$2,impression_id,external,233,502,106
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,279,542,132

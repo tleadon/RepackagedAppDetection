@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.BLUETOOTH]-[android.permission.BLUETOOTH_ADMIN]-[com.android.vending.CHECK_LICENSE]-[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/synergyit/ApplicationInterop/ApplicationInterop,null,external,0,0,0
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,internal,6,55,27
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,50,62,43
+bindService,com/unity3d/plugin/downloader/a/f,EMH,external,50,62,43
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,76,163,44
+startService,com/unity3d/plugin/downloader/b/p,EPI,external,76,173,44
+startService,com/unity3d/plugin/downloader/b/r,EPI,external,76,173,44
+startActivity,com/unity3d/plugin/downloader/b,android.settings.WIFI_SETTINGS,external,104,177,45
+bindService,com/unity3d/plugin/downloader/c/j,null,external,104,187,45
+bindService,com/unity3d/plugin/downloader/c/j,Y29tLmFuZHJvaWQudmVuZGluZy5saWNlbnNpbmcuSUxpY2Vuc2luZ1NlcnZpY2U=,external,104,187,45
+startActivity,us/dicepl/unitywrapper/Wrapper,android.bluetooth.adapter.action.REQUEST_ENABLE,external,104,232,49
+startActivityForResult,us/dicepl/unitywrapper/Wrapper,android.bluetooth.adapter.action.REQUEST_ENABLE,external,104,232,49

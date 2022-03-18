@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.GET_TASKS]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-,1,0
+startActivity,com/conans/forces/Coco,android.intent.action.MAIN,external,0,0,0
+startActivity,com/conans/forces/UmAct,nxt_name,external,0,0,0
+bindService,com/umeng/common/net/a$b,null,external,51,121,6
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,51,121,6
+startService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,51,121,6
+startActivity,com/umeng/common/net/d$c,android.intent.action.VIEW,external,75,130,6
+startActivity,com/umeng/common/net/f,android.intent.action.VIEW,external,83,212,6
+startActivity,com/umeng/common/util/h,null,external,89,344,6
+startActivity,com/umeng/common/util/h,android.intent.action.VIEW,external,89,344,6

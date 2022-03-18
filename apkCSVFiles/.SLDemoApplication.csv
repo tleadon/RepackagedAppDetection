@@ -1,0 +1,32 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/facebook/android/b,com.facebook.katana,external,0,0,0
+startActivityForResult,com/facebook/android/b,com.facebook.katana,external,0,0,0
+startActivity,com/facebook/android/d$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,2,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,2,1
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,2,1
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,2,1
+startActivity,com/mopower/game/zboss/d,android.intent.action.VIEW,external,23,12,13
+startActivity,com/mopower/game/zboss/f,android.intent.action.VIEW,external,23,12,15
+startActivity,com/mopower/game/zboss/g,?p=,external,23,12,16
+startActivity,com/mopower/game/zboss/GameIntro,com/mopower/game/zboss/MainActivity,external,23,12,17
+startActivity,com/mopower/game/zboss/GameOver,com/scoreloop/client/android/ui/ShowResultOverlayActivity,external,23,12,17
+startActivity,com/mopower/game/zboss/GameOver,com/mopower/game/zboss/GameIntro,external,23,12,18
+startActivity,com/mopower/game/zboss/j,com/mopower/game/zboss/GameOver,external,23,12,18
+startActivity,com/mopower/game/zboss/MenuActivity,null,external,23,12,28
+startActivity,com/mopower/game/zboss/MenuActivity,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,23,12,28
+startActivity,com/mopower/game/zboss/MenuActivity,com/mopower/game/zboss/AdSplash,external,23,12,28
+startActivity,com/mopower/game/zboss/MenuActivity,android.intent.action.SEND,external,23,12,28
+startActivity,com/mopower/game/zboss/MenuActivity,?p=,external,23,12,28
+startActivity,com/mopower/game/zboss/MenuActivity,com/mopower/game/zboss/AdSplash,external,23,12,30
+startActivity,com/mopower/game/zboss/p,android.intent.action.VIEW,external,23,12,34
+startActivity,com/mopower/game/zboss/u,com/mopower/game/zboss/MainActivity,external,23,83,38
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,116,268,44
+startActivity,com/scoreloop/client/android/ui/component/base/f,android.intent.action.VIEW,external,116,268,47
+startActivity,com/scoreloop/client/android/ui/component/base/f,android.intent.action.VIEW,external,116,268,47
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,116,268,55
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,116,269,63
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,116,269,63
+startActivity,com/scoreloop/client/android/ui/framework/ab,null,external,120,275,69
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,120,275,77

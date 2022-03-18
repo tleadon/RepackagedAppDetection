@@ -1,0 +1,35 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.UPDATE_DEVICE_STATS]-[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.RECORD_AUDIO]-,0,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,4,4
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,4,4
+startActivity,com/infraware/palaoo/SchemeReceiverActivity,com/infraware/palaoo/StartActivity,external,56,339,12
+startActivity,com/infraware/palaoo/StartActivity,com/palaoo/backpack/BPMainActivity,external,56,339,12
+startActivityForResult,com/infraware/palaoo/StartActivity,com/palaoo/backpack/BPMainActivity,external,56,339,12
+startActivity,com/infraware/palaoo/viewer/ActEPubViewer,android.intent.action.VIEW,internal,56,339,35
+startActivity,com/infraware/palaoo/viewer/SelectEventLayer,com/infraware/palaoo/viewer/ActMemo,external,56,359,122
+startActivityForResult,com/infraware/palaoo/viewer/SelectEventLayer,com/infraware/palaoo/viewer/ActMemo,external,56,359,122
+startActivity,com/infraware/palaoo/viewer/SelectEventLayer,com/infraware/palaoo/viewer/ActMemo,external,56,359,122
+startActivity,com/infraware/palaoo/viewer/SelectEventLayer,com/infraware/palaoo/viewer/ActMemo,external,56,359,123
+startActivityForResult,com/infraware/palaoo/viewer/SelectEventLayer,com/infraware/palaoo/viewer/ActMemo,external,56,359,123
+startActivity,com/palaoo/b/a/e,android.intent.action.VIEW,external,74,652,132
+startActivity,com/palaoo/b/a/l,android.intent.action.VIEW,external,74,652,132
+startActivity,com/palaoo/b/f,android.intent.action.SEND,external,74,675,132
+startActivityForResult,com/palaoo/b/f,android.intent.action.SEND,external,74,675,132
+startActivity,com/palaoo/backpack/a,android.intent.action.VIEW,external,77,685,132
+sendBroadcast,com/palaoo/backpack/BPCommonMainController,android.intent.extra.shortcut.INTENT,external,77,697,154
+startActivity,com/palaoo/backpack/BPMainActivity,android.intent.action.VIEW,internal,77,708,154
+startActivity,com/palaoo/backpack/BPMainActivity,com/palaoo/backpack/BPMainActivity,internal,77,708,155
+startActivity,com/palaoo/backpack/BPMainActivity,com/palaoo/backpack/BPMainActivity,internal,77,708,155
+startActivity,com/palaoo/backpack/d/c,android.intent.action.VIEW,external,77,723,164
+startActivity,com/palaoo/backpack/d/w,android.intent.action.VIEW,external,77,723,171
+startActivity,com/palaoo/backpack/phone/a,android.intent.action.VIEW,external,77,740,173
+startActivity,com/palaoo/backpack/phone/BPMainPhoneActivity,android.intent.action.VIEW,external,83,753,205
+startActivity,com/palaoo/backpack/phone/BPMainPhoneActivity,com/palaoo/backpack/phone/BPMainPhoneActivity,external,83,753,206
+startActivity,com/palaoo/backpack/phone/BPMainPhoneActivity,com/palaoo/backpack/phone/BPMainPhoneActivity,external,85,753,210
+startActivity,com/palaoo/backpack/util/ag,null,external,85,767,232
+startActivityForResult,com/palaoo/backpack/util/ag,null,external,85,767,232
+startActivity,com/palaoo/backpack/util/ah,null,external,85,767,232
+startActivityForResult,com/palaoo/backpack/util/ah,null,external,85,767,232
+startActivity,com/palaoo/backpack/util/z,android.intent.action.VIEW,external,85,853,242
+startActivity,com/palaoo/backpack/v,android.intent.action.VIEW,external,85,853,243
+startActivity,kr/co/infraware/MACH2/ac,android.intent.action.VIEW,external,94,883,250

@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/intsig/camdict/CaptureActivity$12,android.intent.action.VIEW,external,20,84,1
+startActivity,com/intsig/camdict/CaptureActivity$13,android.intent.action.VIEW,external,20,84,2
+startActivity,com/intsig/camdict/CaptureActivity$5,android.intent.action.VIEW,external,20,84,7
+startActivity,com/intsig/camdict/CaptureActivity$5,android.intent.action.VIEW,external,20,84,7
+startActivity,com/intsig/camdict/CaptureActivity$6,android.intent.action.SEND,external,20,84,8
+startActivity,com/intsig/camdict/CaptureActivity$JpegPictureCallback,capture,external,20,94,11
+startActivity,com/intsig/camdict/CaptureActivity,android.intent.action.SEND,external,26,124,13
+startActivity,com/intsig/camdict/CaptureActivity,com/intsig/camdict/HelpActivity,external,26,124,20
+startActivity,com/intsig/camdict/CaptureActivity,android.intent.action.VIEW,external,26,124,20
+startActivity,com/intsig/camdict/CaptureActivity,android.intent.action.VIEW,external,26,124,20
+startActivity,com/intsig/camdict/CaptureActivity,com/intsig/camdict/SettingActivity,external,26,124,20
+startActivity,com/intsig/camdict/CaptureActivity,com/intsig/camdict/HistroyActivity,external,26,124,20
+startActivity,com/intsig/camdict/HistroyActivity,android.intent.action.SEND,external,65,125,26
+startActivity,com/intsig/camdict/TranslateActivity,android.intent.action.SEND,external,75,129,49
+startActivity,com/intsig/camdict/TranslateActivity,com/intsig/camdict/HistroyActivity,external,77,134,53
+startActivityForResult,com/intsig/camdict/TranslateActivity,com/intsig/camdict/HistroyActivity,external,77,134,53
+startActivity,com/intsig/camdict/UpdateAppActivity,android.intent.action.VIEW,external,84,134,54
+startActivity,com/intsig/isad/IntsigAdView$1,android.intent.action.VIEW,external,84,154,60
+startActivity,com/intsig/isad/IntsigAdView$1,android.intent.action.VIEW,external,84,154,60
+startActivity,com/intsig/isad/TestAd$1,com/intsig/isad/SecondActivity,external,84,228,62
+startActivity,com/intsig/isad/TestAd$2,com/intsig/isad/SecondActivity,external,84,228,63
+startActivity,com/intsig/log/CustomExceptionHandler,android.intent.action.SENDTO,external,84,228,63
+startActivity,com/intsig/payment/ActivateActivity,android.intent.action.SENDTO,internal,84,228,69
+startActivity,com/intsig/payment/QueryLicenseActivity$1,com/intsig/payment/UnlockAppActivity,external,84,228,82
+startActivity,com/intsig/payment/UnlockAppActivity$1,com/intsig/payment/ActivateActivity,external,84,228,84
+startActivityForResult,com/intsig/payment/UnlockAppActivity$1,com/intsig/payment/ActivateActivity,external,84,228,84
+startActivity,com/intsig/payment/UnlockAppActivity$1,com/intsig/payment/ActivateActivity,external,84,228,84
+startActivityForResult,com/intsig/payment/UnlockAppActivity$1,com/intsig/payment/ActivateActivity,external,84,228,84
+startActivity,com/intsig/payment/UnlockAppActivity$1,com/intsig/payment/ActivateActivity,external,84,228,84
+startActivityForResult,com/intsig/payment/UnlockAppActivity$1,com/intsig/payment/ActivateActivity,external,84,228,84
+startActivity,com/intsig/payment/UnlockAppActivity,android.intent.action.SENDTO,internal,84,228,87
+startActivity,com/intsig/payment/UnlockAppActivity,android.intent.action.VIEW,internal,84,228,88
+startActivity,com/intsig/payment/UnlockAppActivity,com/intsig/payment/PaymentActivity,internal,84,228,88
+startActivityForResult,com/intsig/payment/UnlockAppActivity,com/intsig/payment/PaymentActivity,internal,84,228,88
+startActivity,com/intsig/payment/Util,com/intsig/payment/QueryLicenseActivity,external,84,228,92

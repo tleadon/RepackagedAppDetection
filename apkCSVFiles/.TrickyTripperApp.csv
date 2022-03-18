@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_CONTACTS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivities,android/support/v4/app/ActivityCompat,null,external,0,0,0
+startActivities,android/support/v4/app/ActivityCompatHoneycomb,null,external,0,2,0
+startActivity,android/support/v4/app/Fragment,null,external,0,7,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,7,2
+startActivity,android/support/v4/app/Fragment,null,external,0,7,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,7,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,10,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,10,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,10,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,10,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,10,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,10,6
+startActivity,android/support/v4/app/NavUtils,android.intent.action.MAIN,external,0,33,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,33,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,33,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,33,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,33,11
+startActivity,com/actionbarsherlock/internal/view/menu/ActionMenuItem,null,external,11,49,62
+startActivity,com/actionbarsherlock/internal/view/menu/MenuItemImpl,null,external,11,49,71
+startActivity,com/actionbarsherlock/widget/ActivityChooserView$Callbacks,null,external,11,75,109
+startActivity,com/actionbarsherlock/widget/ActivityChooserView$Callbacks,null,external,11,75,110
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,11,77,132
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,11,78,132
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,11,78,142
+startActivity,com/actionbarsherlock/widget/SearchView,calling_package,external,11,78,142
+startActivity,com/actionbarsherlock/widget/ShareActionProvider$ShareMenuItemOnMenuItemClickListener,null,external,11,78,148
+startActivity,de/koelle/christian/trickytripper/activities/p,de/koelle/christian/trickytripper/activities/DirectoryPickerActivity,external,19,226,222
+startActivityForResult,de/koelle/christian/trickytripper/activities/p,de/koelle/christian/trickytripper/activities/DirectoryPickerActivity,external,19,226,222
+startActivity,de/koelle/christian/trickytripper/activities/SaveToSdCardActivity,de/koelle/christian/trickytripper/activities/DirectoryPickerActivity,external,19,226,231
+startActivityForResult,de/koelle/christian/trickytripper/activities/SaveToSdCardActivity,de/koelle/christian/trickytripper/activities/DirectoryPickerActivity,external,19,226,231
+startActivity,de/koelle/christian/trickytripper/d/a/f,viewMode,external,19,228,239
+startActivity,de/koelle/christian/trickytripper/d/a/f,viewMode,external,19,228,239
+startActivityForResult,de/koelle/christian/trickytripper/d/a/f,viewMode,external,19,228,239
+startActivity,de/koelle/christian/trickytripper/i/a/d,android.intent.action.SEND_MULTIPLE,external,226,235,244
+startActivityForResult,de/koelle/christian/trickytripper/i/a/d,android.intent.action.SEND_MULTIPLE,external,226,235,244

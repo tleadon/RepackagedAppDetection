@@ -1,0 +1,32 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,28,6
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,111,18
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,111,18
+bindService,com/google/android/gms/ads/identifier/AdvertisingIdClient,com.google.android.gms.ads.identifier.service.START,external,41,111,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,111,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,111,18
+bindService,com/google/android/gms/auth/GoogleAuthUtil,com.google.android.gms,external,46,111,18
+sendBroadcast,com/google/android/gms/common/images/ImageManager$ImageReceiver,com.google.android.gms.common.images.LOAD_IMAGE,external,56,122,18
+startActivity,com/google/android/gms/dynamic/a$5,null,external,56,136,21
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.REGISTER,external,56,138,21
+startService,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.c2dm.intent.UNREGISTER,external,56,138,21
+sendOrderedBroadcast,com/google/android/gms/gcm/GoogleCloudMessaging,com.google.android.gcm.intent.SEND,external,56,138,21
+startActivity,com/google/android/gms/internal/bh,Open GMSG did not contain a URL.,external,68,138,25
+startActivity,com/google/android/gms/internal/bk,com.google.android.gms.ads.AdActivity,external,68,138,25
+startActivity,com/google/android/gms/internal/cw$a,null,external,86,147,26
+startActivity,com/google/android/gms/internal/cw$a,null,external,86,147,26
+startActivity,com/google/android/gms/internal/cw,android.intent.action.VIEW,external,86,147,26
+startActivity,com/google/android/gms/internal/du,null,external,86,154,34
+startActivityForResult,com/google/android/gms/internal/du,null,external,86,154,34
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,155,34
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,155,34
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,155,34
+startService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,155,34
+bindService,com/google/android/gms/internal/dy,com.google.android.gms,external,86,155,34
+startActivity,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,164,196,70
+startActivityForResult,com/google/android/gms/plus/PlusOneButton$DefaultOnPlusOneClickListener,null,external,164,196,70
+startActivity,com/google/example/games/pluginsupport/SignInHelperManager,com/google/example/games/pluginsupport/SignInHelperActivity,external,164,196,71
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,210,236,96

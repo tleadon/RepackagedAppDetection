@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.CAMERA]-[android.permission.DISABLE_KEYGUARD]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-,1,0
+bindService,air/com/oranginalplan/weaphonesww2/AppEntry$4,null,external,0,0,2
+startActivity,air/com/oranginalplan/weaphonesww2/AppEntry,null,external,0,0,2
+bindService,air/com/oranginalplan/weaphonesww2/AppEntry,com.adobe.air.AIRServiceAction,external,0,0,2
+sendStickyBroadcast,com/adobe/air/AIRService,com.adobe.air.DownloadConfigComplete,external,0,2,37
+sendBroadcast,com/adobe/air/AndroidActivityWrapper,android.intent.action.MAIN,external,2,4,55
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,6,55
+startActivity,com/adobe/air/AndroidActivityWrapper,com/adobe/air/RemoteDebuggerListenerDialog,external,2,6,55
+startService,com/adobe/air/AndroidActivityWrapper,com.adobe.air.DownloadConfig,external,2,8,55
+startActivity,com/adobe/air/AndroidMediaManager,image/*,external,17,16,67
+startActivityForResult,com/adobe/air/AndroidMediaManager,image/*,external,17,16,67
+startActivity,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,17,80
+startActivityForResult,com/adobe/air/AndroidWebView$1,android.intent.action.GET_CONTENT,external,17,17,80
+startActivity,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,131,84
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.IMAGE_CAPTURE,external,31,131,84
+startActivity,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,131,84
+startActivityForResult,com/adobe/air/CameraUI,android.media.action.VIDEO_CAPTURE,external,31,131,84
+bindService,com/adobe/flashplayer/HDMIUtils,com.motorola.intent.action.externaldisplaystate,external,78,309,103

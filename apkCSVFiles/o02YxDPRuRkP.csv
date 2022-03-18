@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.SEND_SMS]-[android.permission.READ_PHONE_STATE]-[android.permission.PROCESS_OUTGOING_CALLS]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.INSTALL_PACKAGES]-[android.permission.VIBRATE]-[android.permission.READ_CONTACTS]-[android.permission.WAKE_LOCK]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-[android.permission.GET_TASKS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_LOCATION_EXTRA_COMMANDS]-[android.permission.READ_PHONE_STATE]-[android.permission.CHANGE_CONFIGURATION]-,0,0
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,31,0,0
+startActivity,com/alipay/android/app/IRemoteServiceCallback$Stub,null,external,31,0,0
+startActivity,com/dingmeng/lenaosanguo/GameMainActivity,android.settings.WIRELESS_SETTINGS,internal,35,32,12
+startService,com/dingmeng/lenaosanguo/MainActivity$6,com/dingmeng/lenaosanguo/UpdateService,external,35,32,20
+startService,com/dingmeng/lenaosanguo/MainActivity$6,com/dingmeng/lenaosanguo/UpdateService,external,35,32,20
+startService,com/dingmeng/lenaosanguo/MainActivity$6,com/dingmeng/lenaosanguo/UpdateService,external,35,32,20
+startService,com/dingmeng/lenaosanguo/MainActivity$8,com/dingmeng/lenaosanguo/UpdateService,external,35,32,22
+startService,com/dingmeng/lenaosanguo/MainActivity$8,com/dingmeng/lenaosanguo/UpdateService,external,35,32,22
+startService,com/dingmeng/lenaosanguo/MainActivity$8,com/dingmeng/lenaosanguo/UpdateService,external,35,32,22
+startActivity,com/dingmeng/lenaosanguo/MainActivity,com/dingmeng/lenaosanguo/GameMainActivity,external,35,32,23
+startService,com/skymobi/freesky/basic/FsSdkBasic,com/skymobi/freesky/service/FsSdkService,external,73,268,27
+sendBroadcast,com/skymobi/freesky/basic/k,FREESKY_SDK_MID_BROADCAST,external,77,291,27
+startActivity,com/skymobi/freesky/service/FsSdkService,android.intent.action.VIEW,internal,144,364,27
+startActivity,com/skymobi/pay/sdk/c,null,external,157,498,33
+sendBroadcast,com/skymobi/pay/sdk/g,exit_skypay_check_service,external,157,513,33
+sendBroadcast,com/skymobi/pay/sdk/i,set_apk_status,external,157,513,33
+startService,com/skymobi/pay/sdk/SkyPayNetworkReceiver,com/skymobi/pay/sdk/SkyPayCheckService,external,157,573,39
+sendBroadcast,com/skymobi/pay/sdk/SkyPayNetworkReceiver,exit_skypay_check_service,external,157,573,39
+bindService,com/skymobi/pay/sdk/SkyPayServer,com.skymobi.pay,external,157,573,39
+startService,com/skymobi/pay/sdk/SkyPayServer,com/skymobi/pay/sdk/SkyPayCheckService,external,157,573,39
+bindService,com/skymobi/pay/sdk/SkyPayServer,com/skymobi/pay/sdk/SkyPayCheckService,external,157,573,39
+startActivity,com/skymobi/pay/sdk/w,/,external,157,573,40
+sendBroadcast,com/skymobi/pay/sdk/y,update_percent_action,external,157,593,41
+startActivity,com/skymobi/pay/sdk/y,android.intent.action.VIEW,external,157,637,41
+startActivity,com/skymobi/pay/sdk/y,android.intent.action.DELETE,external,157,637,41

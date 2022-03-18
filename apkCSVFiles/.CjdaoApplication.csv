@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/cjdao/trackback/FavoritesActivity,com/cjdao/trackback/DetailActivity,external,41,54,5
+startActivity,com/cjdao/trackback/HomeActivity,android.intent.action.PICK,external,41,54,6
+startActivityForResult,com/cjdao/trackback/HomeActivity,android.intent.action.PICK,external,41,54,6
+startActivity,com/cjdao/trackback/LandingActivity,android.intent.action.PICK,external,41,54,7
+startActivityForResult,com/cjdao/trackback/LandingActivity,android.intent.action.PICK,external,41,54,7
+startActivity,com/cjdao/trackback/SearchActivity,com/cjdao/trackback/DetailActivity,external,41,54,10
+startActivity,com/feedback/b/a,com/feedback/ui/SendFeedback,external,48,56,12
+startActivity,com/feedback/b/a,com/feedback/ui/SendFeedback,external,48,56,12
+startActivity,com/feedback/b/a,com/feedback/ui/FeedbackConversations,external,48,56,12
+startActivity,com/feedback/b/a,com/feedback/ui/FeedbackConversation,external,48,56,12
+sendBroadcast,com/feedback/c/a,postFeedbackFinished,external,52,56,13
+sendBroadcast,com/feedback/c/b,RetrieveReplyBroadcast,external,55,58,13
+sendBroadcast,com/feedback/c/c,postFeedbackFinished,external,55,58,13
+startActivity,com/feedback/ui/j,com/feedback/ui/FeedbackConversations,external,55,58,27
+startActivity,com/mobclick/android/b,android.intent.action.VIEW,external,55,77,27
+startActivity,com/mobclick/android/MobclickAgent,android.intent.action.VIEW,external,84,121,31

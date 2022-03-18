@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,1
+startActivity,de/hms/xconstruction/BuildAct,de/hms/xconstruction/SimulationAct,internal,4,15,28
+startActivityForResult,de/hms/xconstruction/BuildAct,de/hms/xconstruction/SimulationAct,internal,4,15,28
+startActivity,de/hms/xconstruction/BuildAct,de/hms/xconstruction/PreferencesAct,internal,4,15,30
+startActivityForResult,de/hms/xconstruction/BuildAct,de/hms/xconstruction/PreferencesAct,internal,4,15,30
+startActivity,de/hms/xconstruction/CrossConstruct,android.intent.action.VIEW,external,4,21,31
+startActivity,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/BuildAct,external,4,21,31
+startActivityForResult,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/BuildAct,external,4,21,31
+startActivity,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/CrossConstruct,external,4,21,31
+startActivity,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/BuildAct,external,4,21,31
+startActivityForResult,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/BuildAct,external,4,21,31
+startActivity,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/PreferencesAct,external,4,21,33
+startActivityForResult,de/hms/xconstruction/CrossConstruct,de/hms/xconstruction/PreferencesAct,external,4,21,33
+startActivity,de/hms/xconstruction/LevelEditorAct,de/hms/xconstruction/BuildAct,external,4,113,42
+startActivityForResult,de/hms/xconstruction/LevelEditorAct,de/hms/xconstruction/BuildAct,external,4,113,42

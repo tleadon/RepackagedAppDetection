@@ -1,0 +1,27 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,0
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,external,0,0,0
+startActivity,com/common/StarterActivity,android.intent.action.MAIN,external,0,0,0
+startActivity,com/dava/game/gamelogic/Basketball,com/freeverse/nba3dcewrvxdcsf/Scores,external,0,27,0
+startActivity,com/dava/game/gamelogic/BasketballRenderer,com/freeverse/nba3dcewrvxdcsf/IngameSettings,external,0,27,0
+startActivity,com/dava/game/gamelogic/GLSurfaceViewActivity,com/freeverse/nba3dcewrvxdcsf/Tutorial,external,0,27,3
+startActivityForResult,com/dava/game/gamelogic/GLSurfaceViewActivity,com/freeverse/nba3dcewrvxdcsf/Tutorial,external,0,27,3
+startActivity,com/freeverse/nba3dcewrvxdcsf/About$1,android.intent.action.VIEW,external,3,27,5
+startActivity,com/freeverse/nba3dcewrvxdcsf/IngameSettings$1,com/freeverse/nba3dcewrvxdcsf/MainMenu,external,3,27,9
+startActivity,com/freeverse/nba3dcewrvxdcsf/IngameSettings$2,com/freeverse/nba3dcewrvxdcsf/Tutorial,external,3,27,10
+startActivity,com/freeverse/nba3dcewrvxdcsf/MainMenu$1,com/freeverse/nba3dcewrvxdcsf/SelectPlayer,external,3,27,13
+startActivity,com/freeverse/nba3dcewrvxdcsf/MainMenu$2,com/freeverse/nba3dcewrvxdcsf/Settings,external,3,27,14
+startActivity,com/freeverse/nba3dcewrvxdcsf/MainMenu$3,com/freeverse/nba3dcewrvxdcsf/About,external,3,27,15
+startActivity,com/freeverse/nba3dcewrvxdcsf/MainMenu$4,android.intent.action.VIEW,external,3,27,16
+startActivity,com/freeverse/nba3dcewrvxdcsf/Scores$1,com/freeverse/nba3dcewrvxdcsf/MainMenu,external,3,29,17
+startActivity,com/freeverse/nba3dcewrvxdcsf/Scores,com/freeverse/nba3dcewrvxdcsf/SelectPlayer,external,3,29,20
+startActivity,com/freeverse/nba3dcewrvxdcsf/SelectPlayer$1,com/dava/game/gamelogic/GLSurfaceViewActivity,external,3,29,25
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,3,123,40
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,3,123,40
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,3,123,40
+bindService,com/umeng/common/net/a$b,null,external,66,299,44
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,66,299,44
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,90,302,44
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,90,381,44
+startActivity,com/umeng/common/util/g,null,external,104,497,44
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,104,497,44

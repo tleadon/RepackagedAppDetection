@@ -1,0 +1,7 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,cybird/meinandaao/bp,android.intent.action.VIEW,external,4,88,56
+startActivity,cybird/meinandaao/bu,android.intent.action.VIEW,external,4,88,60
+startActivity,cybird/meinandaao/bz,android.intent.action.VIEW,external,4,88,63
+startActivity,cybird/meinandaao/cc,android.intent.action.VIEW,external,4,88,65
+startActivity,cybird/meinandaao/cn,android.intent.action.VIEW,external,4,88,69

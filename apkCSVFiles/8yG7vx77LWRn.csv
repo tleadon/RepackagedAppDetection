@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-,1,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,com/OutlanderStudios/Equilibrium/EquilibriumActivity,null,external,37,109,29
+startActivityForResult,com/OutlanderStudios/Equilibrium/EquilibriumActivity,null,external,37,109,29
+sendBroadcast,com/paypal/android/b/e,FATAL_ERROR_ID,external,57,153,32
+sendBroadcast,com/paypal/android/b/e,FATAL_ERROR_ID,external,57,153,32
+sendBroadcast,com/paypal/android/b/e,FATAL_ERROR_ID,external,61,153,32
+sendBroadcast,com/paypal/android/b/e,FATAL_ERROR_ID,external,61,157,32
+sendBroadcast,com/paypal/android/b/e,FATAL_ERROR_ID,external,61,157,32
+sendBroadcast,com/paypal/android/b/f,CHANGE_STRING,external,70,162,32
+sendBroadcast,com/paypal/android/b/f,CHANGE_STRING,external,70,162,32
+bindService,com/unity3d/player/a/e,null,external,78,204,61
+startActivity,com/unity3d/player/UnityPlayer$9,null,external,82,218,74
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,121,245,83

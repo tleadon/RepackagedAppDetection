@@ -1,0 +1,5 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.SEND_SMS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.MOUNT_UNMOUNT_FILESYSTEMS]-,1,0
+sendBroadcast,com/fox/fish/GameScreen,com.fox.fish.mm.cost,external,12,53,9
+sendBroadcast,com/fox/fish/GameScreen,com.fox.fish.mm.cost,external,12,53,9
+startActivity,com/fox/fish/mpfx/foxMain,com/fox/fish/mpfx/DiaoyuActivity,external,12,53,23

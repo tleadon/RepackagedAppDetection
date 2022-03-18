@@ -1,0 +1,34 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,lysesoft/andftp/bj,lysesoft/andftp/FTPFileChooserActivity,external,0,976,22
+startActivity,lysesoft/andftp/bk,lysesoft/andftp/client/ftpdesign/FTPSettingsActivity,external,0,976,23
+startActivityForResult,lysesoft/andftp/bk,lysesoft/andftp/client/ftpdesign/FTPSettingsActivity,external,0,976,23
+startActivity,lysesoft/andftp/bl,lysesoft/andftp/client/ftpdesign/FTPSettingsActivity,external,0,976,24
+startActivityForResult,lysesoft/andftp/bl,lysesoft/andftp/client/ftpdesign/FTPSettingsActivity,external,0,976,24
+startActivity,lysesoft/andftp/bm,lysesoft/andftp/client/ftpdesign/FTPSettingsActivity,external,0,976,25
+startActivityForResult,lysesoft/andftp/bm,lysesoft/andftp/client/ftpdesign/FTPSettingsActivity,external,0,976,25
+startActivity,lysesoft/andftp/client/ftpdesign/e,android.intent.action.PICK,external,0,1026,33
+startActivityForResult,lysesoft/andftp/client/ftpdesign/e,android.intent.action.PICK,external,0,1026,33
+startActivity,lysesoft/andftp/e,lysesoft/andftp/LocalFileChooserActivity,external,0,1029,39
+bindService,lysesoft/andftp/FTPTransferActivity,null,external,0,1032,43
+bindService,lysesoft/andftp/FTPTransferActivity,lysesoft/andftp/FTPTransferService,external,0,1032,43
+startActivity,lysesoft/andftp/g,lysesoft/andftp/FTPTransferActivity,external,0,1038,44
+startActivityForResult,lysesoft/andftp/g,lysesoft/andftp/FTPTransferActivity,external,0,1038,44
+startService,lysesoft/andftp/n,null,external,0,1038,48
+startActivity,lysesoft/andftp/OptionsActivity,android.intent.action.VIEW,external,2,1052,48
+startActivityForResult,lysesoft/andftp/OptionsActivity,android.intent.action.VIEW,external,2,1052,48
+startActivity,lysesoft/andftp/q,lysesoft/andftp/FTPFileChooserActivity,external,2,1056,49
+startActivity,lysesoft/andftp/s,lysesoft/andftp/FTPTransferActivity,external,2,1056,51
+startActivityForResult,lysesoft/andftp/s,lysesoft/andftp/FTPTransferActivity,external,2,1056,51
+startActivity,lysesoft/andftp/SettingsActivity,lysesoft/andftp/OptionsActivity,external,2,1056,53
+startActivityForResult,lysesoft/andftp/SettingsActivity,lysesoft/andftp/OptionsActivity,external,2,1056,53
+startActivity,lysesoft/andftp/SettingsActivity,lysesoft/andftp/AboutActivity,external,2,1056,53
+startActivityForResult,lysesoft/andftp/SettingsActivity,lysesoft/andftp/AboutActivity,external,2,1056,53
+startActivity,lysesoft/andftp/SplashActivity,lysesoft/andftp/CrashReportActivity,external,2,1056,53
+startActivity,lysesoft/andftp/SplashActivity,lysesoft/andftp/SettingsActivity,external,2,1056,53
+startActivity,lysesoft/transfer/client/d/b,android.intent.action.SEND,external,2,1201,61
+startActivity,lysesoft/transfer/client/d/e,android.intent.action.VIEW,external,5,1204,64
+startActivity,lysesoft/transfer/client/filechooser/l,android.intent.action.VIEW,external,21,1344,88
+startActivityForResult,lysesoft/transfer/client/filechooser/l,android.intent.action.VIEW,external,21,1344,88
+startActivity,lysesoft/transfer/client/filechooser/l,android.intent.action.SEND,external,21,1347,88
+startActivityForResult,lysesoft/transfer/client/filechooser/l,android.intent.action.SEND,external,21,1347,88

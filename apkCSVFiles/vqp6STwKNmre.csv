@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.chillingo.termsunityplugin.TermsUnity]-[com.android.vending.BILLING]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/chillingo/libterms/TermsNDKWrapper,null,external,0,8,0
+startActivity,com/chillingo/libterms/TermsNDKWrapper,null,external,0,8,0
+startActivity,com/chillingo/libterms/TermsNDKWrapper,null,external,0,8,0
+startActivity,com/chillingo/libterms/TermsNDKWrapper,null,external,0,8,0
+startActivity,com/chillingo/libterms/ui/TermsActivity$7,android.intent.action.MAIN,external,0,8,8
+startActivity,com/chillingo/libterms/ui/TermsActivity,android.intent.action.MAIN,internal,0,8,8
+startActivity,com/chillingo/termsunityplugin/TermsUnity,null,external,0,8,8
+bindService,com/unity3d/player/a/e,null,external,0,18,8
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,45,26,16
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,internal,51,44,30
+startActivity,com/yagoda/IvpPlugin/JavaIvpPlugin$4,android.intent.action.VIEW,external,51,55,53
+bindService,com/yagoda/IvpPlugin/util/IabHelper,null,external,51,59,56
+bindService,com/yagoda/IvpPlugin/util/IabHelper,com.android.vending.billing.InAppBillingService.BIND,external,51,63,56

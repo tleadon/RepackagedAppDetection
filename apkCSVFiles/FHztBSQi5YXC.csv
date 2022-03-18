@@ -1,0 +1,11 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,1
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,internal,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,internal,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,internal,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,16,7,6
+bindService,com/unity3d/player/a/e,null,external,32,31,18
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,77,39,26
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,83,57,40

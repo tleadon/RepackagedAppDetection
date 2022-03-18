@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.VIBRATE]-,0,1
+startActivity,com/admob/android/ads/Ad$1,android.intent.action.VIEW,external,0,0,0
+startActivity,com/imgwerx/copycat/GameView$16,com/imgwerx/copycat/HighScores,external,49,138,15
+startActivity,com/imgwerx/copycat/GameView,com/imgwerx/copycat/Preferences,external,49,138,24
+startActivity,com/imgwerx/copycat/Info$2,android.intent.action.VIEW,external,49,138,27
+startActivity,com/imgwerx/copycat/MainMenu$1,com/imgwerx/copycat/GameView,external,49,138,28
+startActivity,com/imgwerx/copycat/MainMenu$2,com/imgwerx/copycat/Info,external,49,138,29
+startActivity,com/imgwerx/copycat/MainMenu$4,com/imgwerx/copycat/Preferences,external,49,138,31
+startActivity,com/imgwerx/copycat/MainMenu$5,com/imgwerx/copycat/HighScores,external,49,138,32

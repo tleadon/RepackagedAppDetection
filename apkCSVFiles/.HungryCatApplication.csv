@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.VIBRATE]-[com.android.vending.BILLING]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-,1,1
+startService,com/android/vending/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,internal,0,0,0
+startService,com/android/vending/billing/BillingReceiver,com.tuesdayquest.blacksmith.GET_PURCHASE_INFORMATION,internal,0,0,0
+startService,com/android/vending/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,internal,0,0,0
+bindService,com/android/vending/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,0,0
+bindService,com/android/vending/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,0,0,0
+startActivity,com/facebook/android/b,com.facebook.katana,external,26,2,0
+startActivityForResult,com/facebook/android/b,com.facebook.katana,external,26,2,0
+startActivity,com/facebook/android/d$a,android.intent.action.VIEW,external,26,2,0
+startActivity,com/tuesdayquest/axrdeyl/activity/MainActivity,com/tuesdayquest/axrdeyl/activity/MainActivity,external,125,170,13
+startActivity,com/tuesdayquest/axrdeyl/scene/MainMenuScene$5,android.intent.action.VIEW,external,125,170,25
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,143,347,78
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,143,347,79

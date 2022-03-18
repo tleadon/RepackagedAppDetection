@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.READ_LOGS]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.SEND_SMS]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.RECEIVE_SMS]-,0,0
+bindService,com/umeng/common/net/a$b,null,external,68,49,7
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,68,49,7
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,92,52,7
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,92,131,7
+startActivity,com/umeng/common/util/g,null,external,106,247,7
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,106,247,7
+sendBroadcast,com/umeng/fb/a/d,postFeedbackFinished,external,110,247,7
+sendBroadcast,com/umeng/fb/a/e,RetrieveReplyBroadcast,external,110,247,7
+sendBroadcast,com/umeng/fb/a/f,postFeedbackFinished,external,110,247,7
+startActivity,com/umeng/fb/ui/SendFeedback$b,com/umeng/fb/ui/FeedbackConversations,external,114,247,24
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/FeedbackConversation,external,118,247,24
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/FeedbackConversations,external,118,247,24
+startActivity,com/umeng/fb/util/ActivityStarter,com/umeng/fb/ui/SendFeedback,external,118,247,24

@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_TASKS]-,0,1
+startActivity,com/waps/aa,com/waps/OffersWebView,external,4,0,1
+startActivity,com/waps/ae,null,external,4,0,4
+startActivity,com/waps/AppConnect,android.intent.action.MAIN,external,12,33,5
+startActivity,com/waps/AppConnect,com/waps/OffersWebView,external,12,33,5
+startActivity,com/waps/AppConnect,com/waps/OffersWebView,external,12,33,5
+startActivity,com/waps/d,com/waps/OffersWebView,external,12,33,6
+startActivity,com/waps/o,android.intent.action.VIEW,external,15,65,7
+startActivity,com/waps/OffersWebView,android.intent.action.MAIN,external,23,116,7
+startActivity,com/waps/OffersWebView,android.intent.action.MAIN,external,23,116,7
+startActivity,com/waps/OffersWebView,+++++,external,23,116,7
+startActivity,com/waps/OffersWebView,+++++,external,23,116,7
+startActivity,com/waps/q,null,external,23,123,12
+startActivity,com/waps/s,null,external,35,126,13
+startActivity,com/waps/s,android.intent.action.VIEW,external,35,126,13
+startActivity,com/waps/s,com/waps/OffersWebView,external,35,126,13
+startActivity,com/waps/SDKUtils,null,external,39,126,13
+startActivity,com/waps/z,android.intent.action.VIEW,external,39,131,18

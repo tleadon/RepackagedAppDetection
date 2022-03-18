@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,0
+startActivity,com/chartboost/sdk/CBWebViewClient,android.intent.action.VIEW,external,22,42,5
+startActivity,com/chartboost/sdk/ChartBoost,com/chartboost/sdk/CBDialogActivity,external,22,42,5
+startActivity,com/djinnworks/framework/AppServices,android.intent.action.VIEW,external,22,42,12
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,22,42,12
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,22,42,12
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,22,42,12
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,22,42,12
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,36,44,16
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,38,49,18
+bindService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,54,63,30
+startService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,54,63,30
+startService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,54,63,30
+startService,net/robotmedia/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,54,63,30
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,54,63,30
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,54,63,30
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,54,63,30
+startService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,54,63,30
+bindService,net/robotmedia/billing/BillingService,net/robotmedia/billing/BillingService,internal,54,63,30

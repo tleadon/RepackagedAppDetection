@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.READ_PHONE_STATE]-,1,1
+startActivity,com/admob/android/ads/Ad$1,android.intent.action.VIEW,external,0,0,0
+startActivity,kr/mobilesoft/yxflash/FilesView$2,android.intent.action.VIEW,external,53,160,21
+startActivity,kr/mobilesoft/yxflash/FilesView$2,kr.mobilesoft.yxflash.PLAYER,external,53,160,21
+startActivity,kr/mobilesoft/yxflash/FilesView,kr.mobilesoft.yxflash.PLAYER,external,53,182,36
+startActivity,kr/mobilesoft/yxflash/PlaylistView$1,android.intent.action.VIEW,external,57,182,56
+startActivity,kr/mobilesoft/yxflash/PlaylistView$1,kr.mobilesoft.yxflash.PLAYER,external,57,182,56
+startActivity,kr/mobilesoft/yxflash/PlaylistView,kr.mobilesoft.yxflash.PLAYER,external,57,182,66
+startActivity,kr/mobilesoft/yxflash/RegisterView,android.intent.action.VIEW,external,57,182,69
+startActivity,kr/mobilesoft/yxflash/SettingsView$5,kr.mobilesoft.yxflash.yxflash,external,57,182,80
+startActivity,kr/mobilesoft/yxflash/StreamsView$1,android.intent.action.VIEW,external,57,182,82
+startActivity,kr/mobilesoft/yxflash/StreamsView$1,kr.mobilesoft.yxflash.PLAYER,external,57,182,82
+startActivity,kr/mobilesoft/yxflash/yxflash,kr.mobilesoft.yxflash.RegisterView,external,65,218,100

@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.SET_WALLPAPER]-[android.permission.VIBRATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,cn/txzh/girls/diff/ActivityMain$10,android.intent.action.VIEW,external,0,3,13
+startActivity,cn/txzh/girls/diff/ActivityMain$13,android.intent.action.VIEW,external,0,3,16
+startActivity,cn/txzh/girls/diff/StartActivity$1,cn/txzh/girls/diff/ActivityMain,external,27,3,25
+startActivity,cn/txzh/girls/diff/StartActivity$2,android.intent.action.VIEW,external,27,3,26
+startActivity,cn/txzh/girls/diff/StartActivity,cn/txzh/girls/diff/ActivityMain,external,27,3,28
+startActivity,com/feedback/b/a,com/feedback/ui/SendFeedback,external,27,3,31
+startActivity,com/feedback/b/a,com/feedback/ui/FeedbackConversations,external,27,3,31
+startActivity,com/feedback/b/a,com/feedback/ui/FeedbackConversation,external,27,3,31
+sendBroadcast,com/feedback/c/a,postFeedbackFinished,external,31,3,32
+sendBroadcast,com/feedback/c/b,RetrieveReplyBroadcast,external,31,3,32
+sendBroadcast,com/feedback/c/c,postFeedbackFinished,external,31,3,32
+startActivity,com/feedback/ui/j,com/feedback/ui/FeedbackConversations,external,31,3,46
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,internal,31,3,48
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,internal,31,3,49
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,internal,31,3,49
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,internal,31,3,49
+startActivity,com/mobclick/android/g,android.intent.action.VIEW,external,79,52,50

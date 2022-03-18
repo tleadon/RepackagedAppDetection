@@ -1,0 +1,25 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-,0,0
+startActivity,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,11,49,0
+startService,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,11,49,0
+startService,com/ironsource/mobilcore/aE,android.intent.action.VIEW,external,11,49,0
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/MobileCoreReport,external,11,49,0
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/InstallationTracker,external,11,49,0
+startService,com/ironsource/mobilcore/aE,com/ironsource/mobilcore/InstallationTracker,external,11,52,0
+startActivity,com/ironsource/mobilcore/aN,android.intent.action.VIEW,external,23,98,3
+startActivity,com/ironsource/mobilcore/ay,null,external,29,148,16
+sendBroadcast,com/ironsource/mobilcore/G,com.ironsource.mcslidermenu.MCWidgetCallbackAction,external,29,150,18
+bindService,com/ironsource/mobilcore/h,null,external,29,150,20
+bindService,com/ironsource/mobilcore/h,null,external,29,150,20
+bindService,com/ironsource/mobilcore/h,com.google.android.gms.ads.identifier.service.START,external,29,150,20
+startService,com/ironsource/mobilcore/I,null,internal,29,150,20
+startActivity,com/ironsource/mobilcore/J,android.intent.action.SENDTO,external,29,192,20
+startService,com/ironsource/mobilcore/MobileCore$1,com/ironsource/mobilcore/MobileCoreReport,external,29,199,26
+startService,com/ironsource/mobilcore/r,null,external,29,226,26
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,29,238,26
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,29,259,26
+startActivity,com/ironsource/mobilcore/s,android.intent.action.VIEW,external,29,269,26
+startActivity,com/ironsource/mobilcore/T,android.intent.action.VIEW,external,29,269,26
+startActivity,com/ironsource/mobilcore/Y,null,external,33,316,28
+startActivity,com/unity3d/player/PsmMainActivity,com/unity3d/player/PsmUnityActivity,external,77,451,35
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,79,497,55

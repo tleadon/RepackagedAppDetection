@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.WRITE_SETTINGS]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+sendBroadcast,com/companyname/Glasssmasher/Surface,android.intent.action.MEDIA_SCANNER_SCAN_FILE,external,0,20,4
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,30,4
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,30,4
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,30,4
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,4,30,4
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,18,32,8
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,20,37,10

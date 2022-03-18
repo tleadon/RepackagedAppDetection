@@ -1,0 +1,8 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+startActivity,com/appspresso/core/runtime/view/CustomSchemeWebViewClientListener,android.intent.action.VIEW,external,25,506,36
+startActivity,com/appspresso/core/runtime/view/CustomSchemeWebViewClientListener,android.intent.action.VIEW,external,25,506,36
+startActivityIfNeeded,com/appspresso/core/runtime/view/CustomSchemeWebViewClientListener,android.intent.action.VIEW,external,25,506,36
+startActivity,com/appspresso/screw/ui/UiUtils,android.intent.action.VIEW,external,25,516,84
+startActivity,com/appspresso/screw/ui/WebViewManager$UiWebViewClient,android.intent.action.DIAL,external,25,516,89
+startActivity,com/appspresso/screw/ui/WebViewManager$UiWebViewClient,android.intent.action.VIEW,external,25,516,89

@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/android/library/ShowSharingDialog,android.intent.action.SEND,external,7,10,7
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,7,10,7
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,7,10,7
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,19,42,9
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,23,51,15
+startActivity,com/shader/PhotosShaderActivity$1,android.intent.action.MAIN,external,38,91,28
+startActivity,robustAds/RobustAdsActivity$1,android.intent.action.VIEW,external,38,712,29
+startActivity,robustAds/RobustAdsActivity$1,android.intent.action.VIEW,external,38,712,29
+startActivity,robustAds/RobustAdsActivity$1,android.intent.action.VIEW,external,38,712,29
+startActivity,robustAds/RobustAdsActivity$1,android.intent.action.VIEW,external,38,712,29
+startActivity,robustAds/RobustAdsActivity,android.intent.action.VIEW,external,38,712,32
+startActivity,robustAds/RobustAdsActivity,android.intent.action.VIEW,external,38,712,32
+startActivity,robustAds/RobustAdsActivity,android.intent.action.VIEW,external,38,712,32
+startActivity,robustAds/RobustAdsActivity,android.intent.action.VIEW,external,38,712,32

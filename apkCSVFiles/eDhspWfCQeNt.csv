@@ -1,0 +1,22 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.CALL_PHONE]-[android.permission.ACCESS_FINE_LOCATION]-,0,0
+startActivity,com/tradestudio/AbstractActivity$2,com/tradestudio/login/LoginActivity,external,0,14,2
+startActivity,com/tradestudio/AbstractMapActivity$2,com/tradestudio/login/LoginActivity,external,0,14,4
+startActivity,com/tradestudio/account/AccountSummaryActivity,com/tradestudio/login/LoginActivity,internal,4,20,4
+startActivity,com/tradestudio/authorizetrade/AuthorizeTradeActivity$6,com/tradestudio/menu/MenuActivity,external,4,20,12
+startActivity,com/tradestudio/authorizetrade/AuthorizeTradeActivity,com/tradestudio/login/LoginActivity,external,4,20,12
+startActivity,com/tradestudio/findproducts/FindProductsActivity$3,com/tradestudio/findproducts/FindProductsActivity,external,14,20,18
+startActivity,com/tradestudio/findproducts/FindProductsActivity$4,com/tradestudio/ResultActivity,external,14,20,19
+startActivity,com/tradestudio/findproducts/FindProductsActivity,com/tradestudio/login/LoginActivity,internal,14,20,19
+startActivity,com/tradestudio/login/LoginActivity$2$1,com/tradestudio/menu/MenuActivity,external,14,20,21
+startActivity,com/tradestudio/login/LoginActivity$3,android.intent.action.DIAL,external,14,20,23
+startActivity,com/tradestudio/menu/MenuActivity$1,com/tradestudio/account/AccountSummaryActivity,external,27,20,25
+startActivity,com/tradestudio/menu/MenuActivity$2,com/tradestudio/findproducts/FindProductsActivity,external,27,20,26
+startActivity,com/tradestudio/menu/MenuActivity$3,com/tradestudio/WhatActivity,external,27,20,27
+startActivity,com/tradestudio/menu/MenuActivity$4,com/tradestudio/WhatActivity,external,27,20,28
+startActivity,com/tradestudio/menu/MenuActivity$5,com/tradestudio/authorizetrade/AuthorizeTradeActivity,external,27,20,29
+startActivity,com/tradestudio/menu/MenuActivity,com/tradestudio/login/LoginActivity,internal,27,20,29
+startActivity,com/tradestudio/ResultActivity$1,android.intent.action.VIEW,external,31,20,32
+startActivity,com/tradestudio/ResultActivity,com/tradestudio/login/LoginActivity,internal,33,20,32
+startActivity,com/tradestudio/WhatActivity$2,com/tradestudio/ResultActivity,external,45,20,33
+startActivity,com/tradestudio/WhatActivity,com/tradestudio/login/LoginActivity,internal,45,20,33

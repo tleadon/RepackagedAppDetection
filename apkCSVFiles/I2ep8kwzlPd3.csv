@@ -1,0 +1,16 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[ltd.pte.wavea.ressee.permission.C2D_MESSAGE]-[com.google.android.c2dm.permission.RECEIVE]-[android.permission.GET_ACCOUNTS]-[android.permission.WAKE_LOCK]-,1,0
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,6,5
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,6,5
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,4,39,11
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,39,12
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,4,39,12
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,4,39,12
+startService,com/google/android/gcm/a,sender,external,20,45,15
+startService,com/google/android/gcm/GCMBaseIntentService,null,external,20,47,15
+startActivity,it/partytrack/sdk/a/c,null,external,43,68,25
+startActivity,jp/adlantis/android/AdlantisAdViewContainer,android.intent.action.VIEW,external,55,103,25
+startActivity,jp/adlantis/android/AdlantisOptoutButton,android.intent.action.VIEW,external,55,103,28
+startActivity,jp/adlantis/android/bb,jp/adlantis/android/AdlantisInterstitialAdActivity,external,55,104,30
+startActivity,jp/adlantis/android/c/c,android.intent.action.VIEW,external,57,113,32
+startActivity,net/nend/android/x,android.intent.action.VIEW,external,100,157,44

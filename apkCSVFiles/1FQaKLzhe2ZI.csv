@@ -1,0 +1,28 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.GET_ACCOUNTS]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[com.android.vending.BILLING]-,0,0
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,35,72,3
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,35,72,3
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,35,72,3
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,38,72,3
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,38,89,4
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,38,89,5
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,162,155,8
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,162,155,8
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,162,178,8
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,162,178,8
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,176,439,10
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,176,439,10
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,176,439,11
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,176,439,11
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,176,439,11
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,176,439,11
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.RESPONSE_CODE,external,202,889,20
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.GET_PURCHASE_INFORMATION,external,202,889,20
+startService,com/prime31/billing/BillingReceiver,com.android.vending.billing.PURCHASE_STATE_CHANGED,external,202,889,20
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,202,889,20
+bindService,com/prime31/billing/BillingService,com.android.vending.billing.MarketBillingService.BIND,internal,202,889,20
+bindService,com/prime31/IABPlugin$1,com/prime31/billing/BillingService,external,202,904,20
+bindService,com/prime31/IABPlugin,null,external,202,904,20
+bindService,com/unity3d/player/a/e,null,external,202,914,20
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,247,922,28
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,253,940,42

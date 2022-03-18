@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[com.turner.copatoon.permission.C2D_MESSAGE]-[com.google.android.c2dm.permission.RECEIVE]-[android.permission.GET_ACCOUNTS]-[android.permission.VIBRATE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.WAKE_LOCK]-,0,0
+startActivities,android/support/v4/app/ActivityCompat,null,external,0,0,0
+startActivities,android/support/v4/app/ActivityCompatHoneycomb,null,external,0,3,0
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils,android.intent.action.MAIN,external,0,48,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,48,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,48,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,56,11
+startActivity,com/adobe/adms/measurement/ADMS_Measurement,null,external,19,115,24
+startService,com/google/android/gcm/GCMBaseIntentService,com.google.android.gcm.intent.RETRY,external,71,182,24
+startService,com/google/android/gcm/GCMRegistrar,sender,external,71,184,24
+startActivity,com/hibernum/OmnitureWrapper,null,external,71,184,24
+startActivity,com/hibernum/OmnitureWrapper,null,external,71,184,24
+startService,com/playhaven/android/push/GCMRegistrationRequest,sender,external,75,357,24
+startActivity,com/playhaven/android/push/PushReceiver,com/playhaven/android/push/PushReceiver,internal,75,357,24
+startActivity,com/playhaven/android/view/FullScreen,com/playhaven/android/view/FullScreen,external,75,369,24
+startActivity,com/playhaven/android/view/HTMLView$3,android.intent.action.VIEW,external,75,379,24
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,121,424,50

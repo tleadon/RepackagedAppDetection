@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.GET_TASKS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-,1,0
+startService,com/android/util/counter/CounterReceiver,com/android/util/counter/Counter,internal,0,0,0
+startService,com/common/EntryActivity,com/android/util/counter/Counter,external,20,67,0
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,38,183,25
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,38,183,26
+startActivity,org/jfedor/frozenbubble/FrozenBubble,sk.halmi.fbeditplus,internal,46,277,26
+startActivity,org/jfedor/frozenbubble/FrozenBubble,sk.halmi.fbeditplus,internal,46,277,26
+startActivity,org/jfedor/frozenbubble/FrozenBubble,android.intent.action.VIEW,internal,46,277,26

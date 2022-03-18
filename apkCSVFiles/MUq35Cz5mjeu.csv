@@ -1,0 +1,20 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,6,55,27
+startService,com/wpehswxksssisunspt/AdBootReceiver,com/wpehswxksssisunspt/AdBootReceiverService,external,53,178,46
+startActivity,com/wpehswxksssisunspt/AdUtilityController,android.intent.action.CALL,external,97,194,46
+startActivity,com/wpehswxksssisunspt/AdUtilityController,android.intent.action.SEND,external,97,194,46
+startActivity,com/wpehswxksssisunspt/AdUtilityController,android.intent.action.VIEW,external,97,194,46
+startActivity,com/wpehswxksssisunspt/AdView,com/wpehswxksssisunspt/AdBrowser,external,97,214,49
+startActivity,com/wpehswxksssisunspt/AdView,android.intent.action.VIEW,external,97,214,49
+startActivity,com/wpehswxksssisunspt/AdView,com/wpehswxksssisunspt/AdActionHandler,external,97,214,49
+startActivity,com/wpehswxksssisunspt/AdView,com/wpehswxksssisunspt/AdActionHandler,external,97,214,49
+startActivity,com/wpehswxksssisunspt/ae,android.intent.action.VIEW,external,99,216,49
+startActivity,com/wpehswxksssisunspt/ae,android.intent.action.VIEW,external,99,216,49
+startActivity,com/wpehswxksssisunspt/ae,android.intent.action.VIEW,external,99,216,49
+startActivity,com/wpehswxksssisunspt/R,android.intent.action.DIAL,external,117,221,60
+startActivity,com/wpehswxksssisunspt/R,android.intent.action.VIEW,external,117,221,60
+startActivity,com/wpehswxksssisunspt/R,android.intent.action.VIEW,external,117,221,60
+startActivity,com/wpehswxksssisunspt/R,android.intent.action.VIEW,external,117,221,60
+startService,com/wpehswxksssisunspt/ReEngagement,com/wpehswxksssisunspt/ReEngagementService,external,117,221,60
+startActivity,com/wpehswxksssisunspt/z,android.intent.action.VIEW,external,117,252,67

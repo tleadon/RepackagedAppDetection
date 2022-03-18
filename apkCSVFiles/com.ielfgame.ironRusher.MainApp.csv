@@ -1,0 +1,23 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.INTERNET]-[android.permission.WRITE_APN_SETTINGS]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.RECEIVE_SMS]-[android.permission.READ_SMS]-[android.permission.WRITE_SMS]-[android.permission.SEND_SMS]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RESTART_PACKAGES]-[android.permission.MODIFY_PHONE_STATE]-[android.permission.WRITE_SETTINGS]-[android.permission.INSTALL_PACKAGES]-[android.permission.DELETE_PACKAGES]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.RECEIVE_SMS]-[android.permission.SEND_SMS]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,1,1
+startActivity,com/a/a/b,com.facebook.katana,external,0,6,0
+startActivityForResult,com/a/a/b,com.facebook.katana,external,0,6,0
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,0,6,0
+startService,com/app/bg/Receiver,com/app/bg/Service,external,0,68,0
+startActivity,com/ielfgame/ironRusher/MainActivity$1$1,com/scoreloop/client/android/ui/LeaderboardsScreenActivity,external,0,83,14
+startActivity,com/nawi/android/billing/sdk/a,null,external,27,99,43
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,59,185,54
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,59,185,63
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,59,185,63
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,59,185,79
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,63,194,92
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,63,194,92
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,63,197,107
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,63,197,130
+startActivity,elfEngine/module/Redirect,android.intent.action.VIEW,external,67,486,176
+startActivity,elfEngine/module/Redirect,android.intent.action.VIEW,external,67,486,176
+startActivity,elfEngine/module/Redirect,android.intent.action.VIEW,external,67,486,176
+startActivity,elfEngine/module/Redirect,android.intent.action.VIEW,external,67,486,176
+startActivity,elfEngine/module/Redirect,android.intent.action.SEND,external,67,486,176
+startActivity,elfEngine/module/Redirect,android.intent.action.SEND,external,67,486,176
+sendBroadcast,elfEngine/module/shortcut/ShortCut,android.intent.extra.shortcut.INTENT,external,67,486,176

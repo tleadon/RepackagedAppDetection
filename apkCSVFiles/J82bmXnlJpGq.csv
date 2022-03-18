@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.READ_PHONE_STATE]-[android.permission.GET_TASKS]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,0
+startActivity,com/facebook/android/Facebook,com.facebook.katana,external,0,19,0
+startActivityForResult,com/facebook/android/Facebook,com.facebook.katana,external,0,19,0
+startActivity,com/facebook/android/FbDialog$FbWebViewClient,android.intent.action.VIEW,external,0,20,0
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,75,3
+startActivity,com/flurry/android/q,android.intent.action.VIEW,external,31,75,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,31,75,3
+startActivity,com/flurry/android/q,android.intent.category.DEFAULT,external,34,75,3
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,38,105,4
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,38,105,5
+startActivity,com/qualcomm/QCARUnityPlayer/QCARPlayerProxyActivity,orientation,external,57,275,11
+bindService,com/unity3d/player/a/e,null,external,57,291,18
+startActivity,com/unity3d/player/UnityPlayer$12,null,external,102,299,26
+startActivity,com/unity3d/player/UnityPlayer,android.intent.action.VIEW,external,108,317,40

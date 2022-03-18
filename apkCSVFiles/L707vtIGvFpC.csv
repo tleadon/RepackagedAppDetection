@@ -1,0 +1,21 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,0,0
+bindService,com/androidnative/billing/core/BillingHelper,null,external,0,11,0
+bindService,com/androidnative/billing/core/BillingHelper,com.android.vending.billing.InAppBillingService.BIND,external,0,15,0
+startActivity,com/androidnative/features/social/instagram/AnInstagram,android.intent.action.SEND,external,2,18,0
+startActivity,com/androidnative/features/social/twitter/ANTwitter,android.intent.action.VIEW,external,2,25,0
+startActivity,com/androidnative/gms/core/GameClientManager,null,external,2,31,0
+startActivityForResult,com/androidnative/gms/core/GameClientManager,null,external,2,31,0
+startActivity,com/androidnative/gms/core/GameClientManager,null,external,2,31,0
+startActivityForResult,com/androidnative/gms/core/GameClientManager,null,external,2,31,0
+startActivity,com/androidnative/gms/core/GameClientManager,null,external,2,31,0
+startActivityForResult,com/androidnative/gms/core/GameClientManager,null,external,2,31,0
+startActivity,com/androidnative/popups/PopUpsManager$2,android.intent.action.VIEW,external,2,31,2
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,2,31,3
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,26,59,8
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,26,59,8
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,32,142,15
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,internal,32,142,15
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,44,174,17
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,48,183,23
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,109,237,60

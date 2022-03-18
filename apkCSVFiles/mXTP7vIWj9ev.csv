@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.SET_WALLPAPER]-,0,0
+startActivity,com/admob/android/ads/d,null,external,33,0,1
+startActivity,com/admob/android/ads/view/AdMobWebView$a,android.intent.action.VIEW,external,33,33,10
+startActivity,org/sksamuel/sportsfanatics/feeds/articles/ArticleListActivity$2,android.intent.action.VIEW,external,33,110,15
+startActivity,org/sksamuel/sportsfanatics/feeds/RssFeedListActivity$2,org/sksamuel/sportsfanatics/feeds/articles/ArticleListActivity,external,33,110,16
+startActivity,org/sksamuel/sportsfanatics/podcasts/PodcastListActivity$2,org/sksamuel/sportsfanatics/podcasts/PodcastActivity,external,33,114,17
+startActivity,org/sksamuel/sportsfanatics/schedules/ScheduleListActivity$2,org/sksamuel/sportsfanatics/schedules/ScheduleActivity,external,33,119,18
+startActivity,org/sksamuel/sportsfanatics/Startup$1$1,org/sksamuel/sportsfanatics/HomeActivity,external,33,123,18

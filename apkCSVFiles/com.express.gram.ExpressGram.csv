@@ -1,0 +1,31 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,1
+startActivity,android/support/v4/app/C,NavUtils,external,0,13,0
+startActivity,android/support/v4/app/m,null,external,4,65,4
+startActivityForResult,android/support/v4/app/m,null,external,4,65,4
+startActivity,android/support/v4/content/c,null,external,4,96,5
+startActivity,com/express/gram/a/c,android.intent.action.VIEW,external,4,134,28
+startActivity,com/express/gram/a/c,android.intent.action.SEND,external,4,134,28
+sendBroadcast,com/express/gram/artwork/ExpressGramService,update_ui,external,40,170,30
+startActivity,com/express/gram/FinishGramActivity,android.intent.action.SEND,internal,40,226,58
+sendBroadcast,com/express/gram/FinishGramActivity,android.intent.action.MEDIA_MOUNTED,internal,40,227,58
+startActivity,com/express/gram/GramActivity,com/express/gram/ImagePicker,external,40,228,58
+startActivityForResult,com/express/gram/GramActivity,com/express/gram/ImagePicker,external,40,228,58
+startActivity,com/express/gram/GramActivity,com/express/gram/ArtworkActivity,external,40,228,59
+startActivityForResult,com/express/gram/GramActivity,com/express/gram/ArtworkActivity,external,40,228,59
+startService,com/express/gram/GramActivity,com/express/gram/artwork/ExpressGramService,external,40,228,59
+startActivity,com/express/gram/ImagePicker,android.media.action.IMAGE_CAPTURE,internal,40,238,59
+startActivityForResult,com/express/gram/ImagePicker,android.media.action.IMAGE_CAPTURE,internal,40,238,59
+startActivity,com/express/gram/ImagePicker,image/*,internal,40,238,59
+startActivityForResult,com/express/gram/ImagePicker,image/*,internal,40,238,59
+startActivity,com/express/gram/l,android.intent.action.VIEW,external,40,238,61
+startActivity,com/express/gram/w,com/express/gram/FinishGramActivity,external,40,238,65
+startActivityForResult,com/express/gram/w,com/express/gram/FinishGramActivity,external,40,238,65
+startActivity,com/flurry/android/FlurryFullscreenTakeoverActivity,null,external,40,238,65
+startActivity,com/flurry/android/monolithic/sdk/impl/bi,com/flurry/android/FlurryFullscreenTakeoverActivity,external,53,309,68
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,195,620,72
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,195,620,72
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,195,620,72
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,195,620,72
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,208,622,76
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,211,627,78

@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.GET_TASKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.READ_CONTACTS]-[android.permission.READ_PHONE_STATE]-[android.permission.WAKE_LOCK]-[android.permission.INTERNET]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.VIBRATE]-[android.permission.VIBRATE]-,0,1
+startActivity,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivityForResult,com/a/a/b,com.facebook.katana,external,0,0,0
+startActivity,com/a/a/d$a,android.intent.action.VIEW,external,0,0,0
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,2,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,13,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,13,5
+startActivity,com/admob/android/ads/q,null,external,33,13,14
+startActivity,com/kuguo/ad/af,android.intent.action.VIEW,external,51,145,19
+startActivity,com/kuguo/ad/af,android.intent.action.VIEW,external,51,145,19
+startActivity,com/kuguo/ad/ag,android.intent.action.SENDTO,external,51,152,21
+startActivity,com/kuguo/ad/ag,android.intent.action.DIAL,external,51,152,21
+startActivity,com/kuguo/ad/ag,android.intent.action.VIEW,external,51,152,21
+startActivity,com/kuguo/ad/ag,android.intent.action.VIEW,external,51,152,21
+startActivity,com/kuguo/ad/ag,android.intent.action.SEND,external,51,152,21
+startActivity,com/kuguo/ad/ai,\u6b63\u5728\u6253\u5f00,external,51,152,22
+startActivity,com/kuguo/ad/b,android.intent.action.VIEW,external,62,296,24
+startActivity,com/kuguo/ad/b,android.intent.action.VIEW,external,65,383,24
+startActivity,com/kuguo/ad/bn,com/kuguo/ad/BoutiqueActivity,external,87,473,24
+startActivity,com/kuguo/ad/KuguoAdsManager,com/kuguo/ad/BoutiqueActivity,external,89,544,31
+sendBroadcast,com/kuguo/ad/MainActivity,com.android.launcher.action.INSTALL_SHORTCUT,internal,89,546,31
+startService,com/kuguo/ad/MainReceiver,null,external,89,546,31
+startActivity,com/kuguo/ad/t,android.intent.action.VIEW,external,102,556,31
+startActivity,com/phundroid/duck/Game$3$2,com/scoreloop/client/android/ui/EntryScreenActivity,external,117,579,47
+startActivity,com/scoreloop/client/android/ui/component/achievement/AchievementListActivity,com/scoreloop/client/android/ui/component/post/PostOverlayActivity,internal,143,680,59
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,143,680,66
+startActivity,com/scoreloop/client/android/ui/component/base/PackageManager,android.intent.action.VIEW,external,143,680,66
+startActivity,com/scoreloop/client/android/ui/component/news/NewsListActivity,android.intent.action.VIEW,internal,143,680,80
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,android.intent.action.GET_CONTENT,internal,143,681,97
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,android.intent.action.GET_CONTENT,internal,143,681,97
+startActivity,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,143,681,97
+startActivityForResult,com/scoreloop/client/android/ui/component/profile/ProfileSettingsPictureListActivity,image/*,internal,143,681,97
+startActivity,com/scoreloop/client/android/ui/framework/ActivityHelper,null,external,145,684,112
+startActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,com/scoreloop/client/android/ui/framework/ScreenActivity,internal,145,684,130
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,167,994,160
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,167,994,161

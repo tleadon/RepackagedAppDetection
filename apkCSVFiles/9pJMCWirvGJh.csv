@@ -1,0 +1,19 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.CHANGE_CONFIGURATION]-[android.permission.INTERNET]-[com.android.vending.BILLING]-[com.android.browser.permission.READ_HISTORY_BOOKMARKS]-[com.android.browser.permission.WRITE_HISTORY_BOOKMARKS]-[android.permission.SYSTEM_ALERT_WINDOW]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/appmk/magazine/main/CoverActivity$2,android.intent.action.VIEW,external,37,0,7
+startActivity,com/appmk/magazine/main/MagazineActivity$13,com/appmk/magazine/main/SearchActivity,external,37,0,24
+startActivityForResult,com/appmk/magazine/main/MagazineActivity$13,com/appmk/magazine/main/SearchActivity,external,37,0,24
+startActivity,com/appmk/magazine/main/MagazineActivity$14,com/appmk/magazine/main/CoverActivity,external,37,0,25
+startActivity,com/appmk/magazine/main/MagazineActivity$9,com/appmk/magazine/main/BookMarkActivity,external,37,0,38
+startActivityForResult,com/appmk/magazine/main/MagazineActivity$9,com/appmk/magazine/main/BookMarkActivity,external,37,0,38
+startActivity,com/appmk/magazine/main/MagazineActivity,com/appmk/magazine/main/CoverActivity,external,37,0,38
+startActivity,com/appmk/magazine/main/MagazineActivity,android.intent.action.VIEW,external,37,10,38
+startActivity,com/appmk/magazine/main/MagazineActivity,com/appmk/magazine/main/VideoActivity,external,37,10,38
+startActivity,com/appmk/magazine/main/MagazineActivity,ytv://,external,37,10,38
+startActivity,com/appmk/magazine/main/MagazineActivity,android.intent.action.VIEW,external,37,10,38
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,37,171,48
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,37,171,48
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,37,171,48
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,37,171,48
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,51,173,52
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,53,178,54

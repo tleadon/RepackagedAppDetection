@@ -1,0 +1,9 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.VIBRATE]-[android.permission.GET_TASKS]-,1,1
+startActivity,com/tuhao/Zombiesmezlc/FirstActivity$1,com/tuhao/Zombiesmezlc/ZombocalypseActivity,external,4,13,1
+bindService,com/umeng/common/net/a$b,null,external,43,46,25
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,43,46,25
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,67,49,25
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,67,128,25
+startActivity,com/umeng/common/util/g,null,external,81,244,25
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,81,244,25

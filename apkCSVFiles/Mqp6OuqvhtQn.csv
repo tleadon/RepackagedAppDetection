@@ -1,0 +1,12 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.WRITE_EXTERNAL_STORAGE]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,0
+startActivity,com/game/JewelsStar/CCGameRenderer$1,com/game/JewelsStar/moregames/MoreGames,external,0,6,0
+startActivity,com/game/JewelsStar/moregames/MoreGames,android.intent.action.VIEW,external,0,25,28
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,25,62
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,25,63
+startActivity,com/kuguo/ad/d,android.intent.action.VIEW,external,35,105,63
+startActivity,com/kuguo/ad/d,android.intent.action.VIEW,external,35,142,63
+startActivity,com/kuguo/ad/d,android.intent.action.VIEW,external,35,142,63
+startActivity,com/kuguo/ad/g,android.intent.action.SEND,external,35,146,64
+startService,com/kuguo/ad/MainReceiver,null,external,35,148,66
+startActivity,com/kuguo/ad/u,android.intent.action.VIEW,external,44,156,66

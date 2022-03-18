@@ -1,0 +1,29 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-,1,1
+bindService,com/amazon/ags/client/KindleFireIPCProxy,null,external,0,1,0
+bindService,com/amazon/ags/client/KindleFireIPCProxy,null,external,0,1,0
+startActivity,com/amazon/ags/html5/javascript/NativeKindleFireStateCallHandler,com.amazon.ags.app.AMAZON_GAMES_SETTINGS,external,29,683,3
+startActivity,com/amazon/ags/html5/overlay/OverlayManager,com/amazon/ags/html5/overlay/GameCircleAlertUserInterface,external,29,683,3
+startActivity,com/amazon/ags/html5/overlay/OverlayManager,com/amazon/ags/html5/overlay/GameCircleUserInterface,external,29,683,3
+startActivity,com/amazon/ags/html5/util/BrowserUtil,android.intent.action.VIEW,external,29,683,6
+startActivity,com/amazon/ags/html5/util/EmailUtil,android.intent.action.SEND,external,29,683,6
+startActivity,com/amazon/identity/auth/device/authorization/AuthorizationHelper,android.intent.action.VIEW,external,214,716,6
+startActivity,com/amazon/identity/auth/device/authorization/MAPAuthzDialog$MAPAuthzWebViewClient,android.intent.action.VIEW,external,214,716,6
+bindService,com/amazon/identity/auth/device/authorization/ThirdPartyServiceHelper,null,external,214,716,12
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,376,1339,69
+startActivity,com/flurry/android/u,android.intent.action.VIEW,external,376,1339,69
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,376,1339,69
+startActivity,com/flurry/android/u,android.intent.category.DEFAULT,external,379,1339,69
+startActivity,com/gamesalad/common/GameRenderer,null,external,385,1455,71
+startActivity,com/gamesalad/common/GSPlayerActivity$1,com/gamesalad/common/DisplayErrorActivity,external,385,1470,71
+startActivity,com/gamesalad/common/GSPlayerActivity,android.intent.action.VIEW,external,394,1472,72
+startActivity,com/gamesalad/common/GSPlayerActivity,com/gamesalad/common/plugins/KeyboardInputActivity,external,394,1478,72
+startActivityForResult,com/gamesalad/common/GSPlayerActivity,com/gamesalad/common/plugins/KeyboardInputActivity,external,394,1478,72
+startActivity,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,614,1620,104
+startActivityForResult,com/revmob/ads/fullscreen/RevMobFullscreen,com/revmob/ads/fullscreen/FullscreenActivity,external,614,1620,104
+startActivity,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,618,1702,107
+startActivityForResult,com/revmob/internal/MarketAsyncManager$1,com/revmob/ads/fullscreen/FullscreenActivity,external,618,1702,107
+startActivity,com/revmob/internal/MarketAsyncManager,android.intent.action.VIEW,external,618,1702,107
+startActivity,com/tencent/webnet/al,android.intent.action.VIEW,external,622,1722,113
+startActivity,com/tencent/webnet/JavaScript,null,external,708,1893,119
+startActivity,com/tencent/webnet/WebNetInterface,com/tencent/webnet/WebNetMain,external,713,1927,121

@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.RESTART_PACKAGES]-[android.permission.SET_ORIENTATION]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.GET_TASKS]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-[android.permission.ACCESS_FINE_LOCATION]-,1,1
+startActivity,com/admob/android/ads/ad,android.intent.action.VIEW,external,0,0,4
+startActivity,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivityForResult,com/admob/android/ads/InterstitialAd,null,external,33,11,5
+startActivity,com/admob/android/ads/q,null,external,33,11,14
+startActivity,imoblife/applist/AppListActivity$4,android.intent.action.VIEW,external,91,150,29
+startActivity,imoblife/applist/AppListActivity$4,android.intent.action.VIEW,external,91,150,29
+startActivity,imoblife/applist/AppListActivity$ListViewItem$1$1,android.intent.action.VIEW,external,91,150,33
+startActivity,imoblife/applist/AppListActivity$ListViewItem$1$1,android.intent.action.VIEW,external,91,150,33
+startActivity,imoblife/applist/AppListActivity$ListViewItem$1$1,android.intent.action.VIEW,external,91,150,33
+startActivity,imoblife/applist/AppListActivity$ListViewItem$1$1,android.intent.action.VIEW,external,91,150,33
+startService,imoblife/memorybooster/lite/BootBroadcastReceiver,imoblife/memorybooster/lite/MemoryBoosterService,external,123,153,34
+startActivity,imoblife/memorybooster/lite/MainActivity$1$1$1$1,imoblife/memorybooster/lite/QuickBooster,external,152,153,34
+startActivity,imoblife/memorybooster/lite/MainActivity$2$1$1,imoblife/memorybooster/lite/QuickBooster,external,162,153,42
+startActivity,imoblife/memorybooster/lite/MainActivity$3,android.intent.action.VIEW,external,162,153,46
+startService,imoblife/memorybooster/lite/MainActivity,imoblife/memorybooster/lite/MemoryBoosterService,external,168,153,50
+startActivity,imoblife/memorybooster/lite/MainActivity,imoblife/memorybooster/lite/SettingsActivity,external,168,153,54
+startActivity,imoblife/memorybooster/lite/MainActivity,imoblife/memorybooster/lite/SystemInfo,external,168,153,54
+startActivity,imoblife/memorybooster/lite/MainActivity,imoblife/applist/AppListActivity,external,168,153,54
+startActivity,imoblife/memorybooster/lite/MainActivity,android.intent.action.VIEW,external,168,153,54
+startActivity,imoblife/memorybooster/lite/MemoryNotifitication$3,imoblife/memorybooster/lite/MainActivity,external,180,163,57
+startActivity,imoblife/memorybooster/lite/ProcessActivity$2$1,android.intent.action.VIEW,external,266,173,67
+startActivity,imoblife/memorybooster/lite/ProcessActivity$2$1,android.intent.action.VIEW,external,268,173,67
+startActivity,imoblife/memorybooster/lite/SettingsActivity$11,android.intent.action.VIEW,external,297,173,75
+startActivity,imoblife/memorybooster/lite/SettingsActivity$9,imoblife/memorybooster/lite/WhiteList,external,302,173,100

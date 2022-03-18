@@ -1,0 +1,15 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.WAKE_LOCK]-,0,0
+startService,com/everyplay/Everyplay/communication/upload/m,com/everyplay/Everyplay/communication/upload/EveryplayUploadService,external,8,306,5
+startActivity,com/everyplay/Everyplay/view/browser/d,android.intent.action.VIEW,external,23,329,27
+startActivity,com/everyplay/Everyplay/view/g,null,external,23,336,44
+startActivityForResult,com/everyplay/Everyplay/view/g,null,external,23,336,44
+startActivity,com/everyplay/Everyplay/view/g,null,external,23,336,44
+startActivity,com/everyplay/Everyplay/view/h,null,external,23,336,44
+startActivity,com/everyplay/Everyplay/view/v,android.intent.action.VIEW,internal,23,336,44
+startActivity,com/everyplay/Everyplay/view/v,android.intent.action.VIEW,internal,23,336,44
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,23,336,72
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,23,336,72
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,35,368,74
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,39,377,80
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,115,510,117

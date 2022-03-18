@@ -1,0 +1,46 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,1
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/Fragment,null,external,0,10,2
+startActivityFromFragment,android/support/v4/app/Fragment,null,external,0,10,2
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivityForResult,android/support/v4/app/FragmentActivity,null,external,0,14,6
+startActivity,android/support/v4/app/NavUtils$NavUtilsImplBase,null,external,0,50,11
+startActivity,android/support/v4/app/ShareCompat$IntentBuilder,android.intent.action.SEND,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivity,android/support/v4/app/TaskStackBuilder,null,external,0,50,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompat,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatHoneycomb,null,external,0,53,11
+startActivities,android/support/v4/content/ContextCompatJellybean,null,external,0,53,11
+sendBroadcast,android/support/v4/content/LocalBroadcastManager,null,external,4,58,11
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,4,94,27
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,4,94,27
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,16,126,29
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,20,135,35
+sendBroadcast,com/iship/qzRadio/expandlist$2,QZPLAYERSTATUS,external,35,193,49
+sendBroadcast,com/iship/qzRadio/expandlist$3,QZPLAYERSTATUS,external,35,193,50
+sendBroadcast,com/iship/qzRadio/fav$3,QZPLAYERSTATUS,external,35,197,60
+sendBroadcast,com/iship/qzRadio/fav$4,QZPLAYERSTATUS,external,35,197,61
+sendBroadcast,com/iship/qzRadio/NearestPlay$2,QZPLAYERSTATUS,external,55,201,72
+sendBroadcast,com/iship/qzRadio/NearestPlay$3,QZPLAYERSTATUS,external,55,201,73
+sendBroadcast,com/iship/qzRadio/player,QZPLAYERSTATUS,internal,55,216,83
+sendBroadcast,com/iship/qzRadio/player,QZPLAYERSTATUS,internal,55,232,83
+sendBroadcast,com/iship/qzRadio/player,QZPLAYERSTATUS,internal,55,239,83
+startService,com/iship/qzRadio/player,com/ishiptech/radio/notification/AppStatusService,internal,58,239,83
+sendBroadcast,com/iship/qzRadio/player,QZPLAYERSTATUS,internal,58,239,83
+sendBroadcast,com/iship/qzRadio/player,QZPLAYERSTATUS,internal,58,239,83
+sendBroadcast,com/iship/qzRadio/player,QZPLAYERSTATUS,internal,58,239,83
+sendBroadcast,com/iship/qzRadio/player,QZPLAYERSTATUS,internal,58,239,83
+sendBroadcast,com/iship/qzRadio/PlayerActivity$9,QZPLAYERSTATUS,external,58,239,91
+sendBroadcast,com/iship/qzRadio/PlayerActivity,QZPLAYERSTATUS,internal,58,243,92
+sendBroadcast,com/iship/qzRadio/searchlist$2,QZPLAYERSTATUS,external,58,243,105
+startActivity,com/ishiptech/radio/activity/BaseGroup,null,external,78,243,122

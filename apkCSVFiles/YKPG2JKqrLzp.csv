@@ -1,0 +1,30 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.READ_PHONE_STATE]-,0,0
+startActivity,com/chartboost/sdk/Chartboost,com/chartboost/sdk/CBImpressionActivity,external,0,0,1
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,27,6
+startActivity,com/chartboost/sdk/impl/n,android.intent.action.VIEW,external,24,27,6
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,30,77,13
+startActivity,com/google/ads/AdActivity,Tried to launch empty intent.,external,30,77,13
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,42,109,15
+startActivity,com/google/ads/internal/k$a$3,android.intent.action.SEND,external,46,118,21
+startActivity,com/heyzap/internal/Utils,android.intent.action.VIEW,external,100,260,45
+startActivity,com/heyzap/sdk/ads/AdUnit,android.intent.action.VIEW,external,107,266,46
+startActivity,com/heyzap/sdk/ads/Manager,android.intent.action.MAIN,external,107,266,64
+startService,com/jlxhzkhjovoqsmms/AdBootReceiver,com/jlxhzkhjovoqsmms/AdBootReceiverService,external,110,405,66
+startActivity,com/jlxhzkhjovoqsmms/AdController$AdShakeListener,\u000b\u000e\u000e\u0012\u0005\t\u000eN\u0003\u000e\u001e\u0005\u0004\u0014D\u0001\t\u0014\u0003\u000f\u0004N<)/7,external,113,410,81
+startActivity,com/jlxhzkhjovoqsmms/AdUtilityController,:^?B4Y?\u001e2^/U5DuQ8D2_5\u001e\u0018q\u0017|,external,169,426,83
+startActivity,com/jlxhzkhjovoqsmms/AdUtilityController,:^?B4Y?\u001e2^/U5DuQ8D2_5\u001e\u0008u\u0015t,external,169,426,83
+startActivity,com/jlxhzkhjovoqsmms/AdUtilityController,\u0003t\u0006h\rs\u00064\u000bt\u0016\u007f\u000cnL{\u0001n\u000bu\u000c44S\'M,external,169,426,83
+startActivity,com/jlxhzkhjovoqsmms/AdView$5,\'Y\,external,169,439,84
+startActivity,com/jlxhzkhjovoqsmms/AdView$5,\'Y\,external,169,439,84
+startActivity,com/jlxhzkhjovoqsmms/AdView$5,\'Y\,external,169,439,84
+startActivity,com/jlxhzkhjovoqsmms/AdView$5, +%7.,%k(+5 /1o$\,external,169,439,84
+startActivity,com/jlxhzkhjovoqsmms/AdView,com/jlxhzkhjovoqsmms/AdBrowser,external,169,483,88
+startActivity,com/jlxhzkhjovoqsmms/AdView,:^?B4Y?\u001e2^/U5DuQ8D2_5\u001e\ry\u001eg,external,169,483,88
+startActivity,com/jlxhzkhjovoqsmms/AdView,com/jlxhzkhjovoqsmms/AdActionHandler,external,169,483,88
+startActivity,com/jlxhzkhjovoqsmms/AdView,com/jlxhzkhjovoqsmms/AdActionHandler,external,169,483,88
+startActivity,com/jlxhzkhjovoqsmms/AdWebView$AdWebClient,s0v,}7vp{0f;|*<?q*{1|pD\u0017W\t,external,171,484,91
+startActivity,com/jlxhzkhjovoqsmms/AdWebView$AdWebClient,s0v,}7vp{0f;|*<?q*{1|pD\u0017W\t,external,171,484,91
+startActivity,com/jlxhzkhjovoqsmms/AdWebView$AdWebClient,s0v,}7vp{0f;|*<?q*{1|pD\u0017W\t,external,171,484,91
+startService,com/jlxhzkhjovoqsmms/ReEngagement,com/jlxhzkhjovoqsmms/ReEngagementService,external,171,484,91
+startActivity,com/unity3d/player/UnityPlayerProxyActivity,com/unity3d/player/UnityPlayerNativeActivity,external,217,524,116

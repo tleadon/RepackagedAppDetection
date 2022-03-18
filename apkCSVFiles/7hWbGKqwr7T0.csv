@@ -1,0 +1,10 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.CAMERA]-[android.permission.RESTART_PACKAGES]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.READ_PHONE_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_COARSE_LOCATION]-,1,0
+sendBroadcast,com/appenda/Appenda,com.appenda.INSTALL_INTENT,external,0,0,0
+startActivity,com/content/ugly/meter/FirstActiviy$2,android.media.action.IMAGE_CAPTURE,external,20,10,1
+startActivityForResult,com/content/ugly/meter/FirstActiviy$2,android.media.action.IMAGE_CAPTURE,external,20,10,1
+startActivity,com/content/ugly/meter/FirstActiviy$5,android.intent.action.VIEW,external,20,10,2
+startActivity,com/content/ugly/meter/FirstActiviy,com/content/ugly/meter/ScoreActivity,external,20,10,4
+startActivity,com/content/ugly/meter/ScoreActivity$3,com/content/ugly/meter/ShowCommentActivity,external,20,10,8
+startActivityForResult,com/content/ugly/meter/ScoreActivity$3,com/content/ugly/meter/ShowCommentActivity,external,20,10,8
+startActivity,com/content/ugly/meter/ShowCommentActivity$2,android.intent.action.VIEW,external,20,10,9

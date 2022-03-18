@@ -1,0 +1,18 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.CHANGE_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.CHANGE_NETWORK_STATE]-[android.permission.WAKE_LOCK]-[android.permission.READ_PHONE_STATE]-,1,1
+startActivity,com/adwo/adsdk/E,android.intent.action.DIAL,external,19,16,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,16,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,16,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,16,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,16,24
+startActivity,com/adwo/adsdk/E,android.intent.action.DIAL,external,19,16,24
+startActivity,com/adwo/adsdk/E,android.intent.action.VIEW,external,19,16,24
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GameInstaller,com.gameloft.android.GAND.GloftHAWX.Hawx.Hawx,external,67,237,34
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GameInstaller,com.gameloft.android.GAND.GloftHAWX.Hawx.Hawx,external,73,243,34
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GLiveMain$20,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,external,81,246,59
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GLiveMain,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,external,90,246,76
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GLMediaPlayer,com/gameloft/android/GAND/GloftHAWX/Hawx/MyVideoView,external,90,281,76
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/GLMediaPlayer,com/gameloft/android/GAND/GloftHAWX/Hawx/MyVideoView,external,90,281,76
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,android.intent.action.VIEW,external,90,389,76
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,com/gameloft/android/GAND/GloftHAWX/Hawx/GameInstaller,external,90,389,76
+startActivity,com/gameloft/android/GAND/GloftHAWX/Hawx/MyVideoView,com/gameloft/android/GAND/GloftHAWX/Hawx/Hawx,external,90,393,87

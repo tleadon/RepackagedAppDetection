@@ -1,0 +1,37 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.VIBRATE]-[android.permission.INTERNET]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/appquiz/black/hole/Editor$10,com/appquiz/black/hole/SelectDynamic,external,0,0,0
+startActivityForResult,com/appquiz/black/hole/Editor$10,com/appquiz/black/hole/SelectDynamic,external,0,0,0
+startActivity,com/appquiz/black/hole/Editor$11,com/appquiz/black/hole/SelectBackground,external,0,0,0
+startActivityForResult,com/appquiz/black/hole/Editor$11,com/appquiz/black/hole/SelectBackground,external,0,0,0
+startActivity,com/appquiz/black/hole/Editor$2,com/appquiz/black/hole/EditorObjetos,external,0,0,0
+startActivityForResult,com/appquiz/black/hole/Editor$2,com/appquiz/black/hole/EditorObjetos,external,0,0,0
+startActivity,com/appquiz/black/hole/Editor$7,com/appquiz/black/hole/SaveGame,external,0,0,0
+startActivityForResult,com/appquiz/black/hole/Editor$7,com/appquiz/black/hole/SaveGame,external,0,0,0
+startActivity,com/appquiz/black/hole/Editor$8,com/appquiz/black/hole/SelectGoal,external,0,0,0
+startActivityForResult,com/appquiz/black/hole/Editor$8,com/appquiz/black/hole/SelectGoal,external,0,0,0
+startActivity,com/appquiz/black/hole/Editor$9,com/appquiz/black/hole/SelectStatic,external,0,0,0
+startActivityForResult,com/appquiz/black/hole/Editor$9,com/appquiz/black/hole/SelectStatic,external,0,0,0
+startActivity,com/appquiz/black/hole/Editor,com/appquiz/black/hole/MotorHole,external,0,68,0
+startActivity,com/appquiz/black/hole/Exit$2,android.intent.action.VIEW,external,0,68,10
+startActivity,com/appquiz/black/hole/Intro$2,null,external,0,68,10
+startActivity,com/appquiz/black/hole/Intro$3,null,external,0,68,10
+startActivity,com/appquiz/black/hole/Intro,com/appquiz/black/hole/Exit,external,0,68,12
+startActivity,com/appquiz/black/hole/MotorHole,com/appquiz/black/hole/MotorHole,external,0,123,19
+startActivity,com/appquiz/black/hole/MotorHole,com/appquiz/black/hole/MotorHole,external,0,129,19
+startActivity,com/appquiz/black/hole/MotorHole,com/appquiz/black/hole/SelectLevel,external,0,129,19
+startActivity,com/appquiz/black/hole/MotorHole,com/appquiz/black/hole/MotorHole,external,0,129,19
+startActivity,com/appquiz/black/hole/SaveGame$9,android.intent.action.SEND,external,0,199,29
+startActivity,com/appquiz/black/hole/SelectEditor,com/appquiz/black/hole/Editor,external,0,228,85
+startActivity,com/appquiz/black/hole/SelectEditor,com/appquiz/black/hole/Editor,external,0,228,85
+startActivity,com/appquiz/black/hole/SelectLevel$2$1,com/appquiz/black/hole/MotorHole,external,0,228,90
+startActivity,com/appquiz/black/hole/SelectLevel$2$1,com/appquiz/black/hole/Editor,external,0,228,90
+startActivityForResult,com/appquiz/black/hole/SelectLevel$2$1,com/appquiz/black/hole/Editor,external,0,228,90
+startActivity,com/appquiz/black/hole/SelectPlay,com/appquiz/black/hole/SelectLevel,external,0,386,96
+startActivity,com/appquiz/black/hole/SplashScreen$1,com/appquiz/black/hole/Intro,external,0,386,101
+startActivity,com/google/ads/AdActivity,com/google/ads/AdActivity,external,0,386,103
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,386,104
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,386,104
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,386,104
+startActivity,org/anddev/andengine/util/BetaUtils$1,null,external,37,561,130
+startActivity,org/anddev/andengine/util/BetaUtils$2,null,external,37,561,131

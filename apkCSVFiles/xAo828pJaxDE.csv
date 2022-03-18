@@ -1,0 +1,24 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.INTERNET]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.RECORD_AUDIO]-[android.permission.ACCESS_NETWORK_STATE]-,0,0
+startActivity,com/google/ads/AdActivity$StaticMethodWrapper,com/google/ads/AdActivity,external,0,0,0
+startActivity,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivityForResult,com/google/ads/AdActivity,com.google.android.apps.plus,external,0,0,0
+startActivity,com/google/ads/AdActivity,android.intent.action.VIEW,external,0,0,0
+startActivity,com/google/ads/internal/AdWebView$1,android.intent.action.VIEW,external,14,2,4
+startActivity,com/google/ads/internal/j$a$2,android.intent.action.SEND,external,17,7,6
+sendBroadcast,geode/android/VoiceXML_IVR/DownloadService,geode.android.VoiceXML_IVR,external,33,85,20
+startActivity,geode/android/VoiceXML_IVR/DownloadTaskFlight,geode/android/VoiceXML_IVR/Flightlist,external,33,133,20
+startActivity,geode/android/VoiceXML_IVR/Interpret,android.speech.action.RECOGNIZE_SPEECH,internal,33,155,23
+startActivityForResult,geode/android/VoiceXML_IVR/Interpret,android.speech.action.RECOGNIZE_SPEECH,internal,33,155,23
+startActivity,geode/android/VoiceXML_IVR/Interpret,geode/android/VoiceXML_IVR/Search,internal,33,163,23
+startActivity,geode/android/VoiceXML_IVR/Interpret,geode/android/VoiceXML_IVR/KeyIn,internal,33,163,23
+startActivity,geode/android/VoiceXML_IVR/Interpret,geode/android/VoiceXML_IVR/Menu,internal,33,163,23
+startActivity,geode/android/VoiceXML_IVR/Interpret,android.intent.action.VIEW,internal,33,221,23
+startActivity,geode/android/VoiceXML_IVR/Interpret,geode/android/VoiceXML_IVR/MapsActivity,internal,33,326,24
+startActivity,geode/android/VoiceXML_IVR/KeyIn,geode/android/VoiceXML_IVR/Search,internal,33,382,25
+startActivity,geode/android/VoiceXML_IVR/Menu,geode/android/VoiceXML_IVR/Contact,internal,33,382,31
+startActivity,geode/android/VoiceXML_IVR/Menu,geode/android/VoiceXML_IVR/Contact,internal,33,382,31
+startActivity,geode/android/VoiceXML_IVR/Menu,geode/android/VoiceXML_IVR/More,internal,33,382,31
+startActivity,geode/android/VoiceXML_IVR/More,geode/android/VoiceXML_IVR/Info,internal,33,382,32
+startActivity,geode/android/VoiceXML_IVR/More,geode/android/VoiceXML_IVR/Config,internal,33,382,32
+startService,geode/android/VoiceXML_IVR/RGetURL_Service,geode/android/VoiceXML_IVR/DownloadService,external,33,420,33

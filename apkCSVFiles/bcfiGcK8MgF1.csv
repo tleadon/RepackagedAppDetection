@@ -1,0 +1,14 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_SETTINGS]-,0,0
+startActivity,com/jupiterapps/audioguru/activity/aa,android.intent.action.RINGTONE_PICKER,external,38,0,2
+startActivityForResult,com/jupiterapps/audioguru/activity/aa,android.intent.action.RINGTONE_PICKER,external,38,0,2
+startActivity,com/jupiterapps/audioguru/activity/ad,android.intent.action.RINGTONE_PICKER,external,38,0,5
+startActivityForResult,com/jupiterapps/audioguru/activity/ad,android.intent.action.RINGTONE_PICKER,external,38,0,5
+startActivity,com/jupiterapps/audioguru/activity/ae,android.intent.action.RINGTONE_PICKER,external,38,0,6
+startActivityForResult,com/jupiterapps/audioguru/activity/ae,android.intent.action.RINGTONE_PICKER,external,38,0,6
+startActivity,com/jupiterapps/audioguru/activity/p,android.intent.action.VIEW,external,43,0,26
+startActivity,com/jupiterapps/audioguru/activity/q,android.intent.action.VIEW,external,43,0,27
+startActivity,com/jupiterapps/audioguru/activity/r,android.intent.action.VIEW,external,43,0,28
+startActivity,com/jupiterapps/audioguru/activity/s,android.intent.action.VIEW,external,43,0,29
+startActivity,com/jupiterapps/audioguru/activity/u,com/jupiterapps/audioguru/activity/SettingsActivity,external,43,0,31
+startActivity,com/jupiterapps/audioguru/activity/v,com/jupiterapps/audioguru/activity/HelpActivity,external,43,0,32

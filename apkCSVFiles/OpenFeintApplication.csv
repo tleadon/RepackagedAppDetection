@@ -1,0 +1,26 @@
+ICC Name, Source Component, Target Component, Type of Communication, Android API Count, Java API Count, User Action Count, Permissions, SSoutO, Repacked
+ , , , , , , ,[com.android.launcher.permission.INSTALL_SHORTCUT]-[android.permission.ACCESS_DOWNLOAD_MANAGER]-[android.permission.INSTALL_PACKAGES]-[android.permission.SET_WALLPAPER_COMPONENT]-[android.permission.BIND_WALLPAPER]-[android.permission.CLEAR_APP_CACHE]-[android.permission.CLEAR_APP_USER_DATA]-[android.permission.RESTART_PACKAGES]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.INTERNET]-[android.permission.READ_PHONE_STATE]-[android.permission.RECEIVE_BOOT_COMPLETED]-[android.permission.RECEIVE_USER_PRESENT]-[android.permission.ACCESS_NETWORK_STATE]-[android.permission.ACCESS_WIFI_STATE]-[android.permission.WAKE_LOCK]-[android.permission.WRITE_EXTERNAL_STORAGE]-[android.permission.ACCESS_FINE_LOCATION]-[android.permission.ACCESS_COARSE_LOCATION]-[com.android.launcher.permission.INSTALL_SHORTCUT]-,1,1
+startService,com/common/EntryActivity,com/test/httputil/HttpUtilService,internal,0,0,0
+sendBroadcast,com/common/StarterActivity,com.cstrike.openit,external,0,0,0
+startActivity,com/common/StarterActivity,android.intent.action.MAIN,external,0,0,0
+startActivity,com/game/activity/FruitNinjiaGL1Activity$LeaderBoardThread,null,external,0,0,4
+startActivity,com/gipnetix/doorsrunawaysder/StartActivity,com/game/activity/FruitNinjiaGL1Activity,external,0,14,8
+startActivity,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,109,80,11
+startActivityForResult,com/openfeint/internal/ImagePicker,android.intent.action.PICK,external,109,80,11
+startActivity,com/openfeint/internal/OpenFeintInternal$11,com/openfeint/internal/ui/IntroFlow,external,109,103,11
+startActivity,com/openfeint/internal/OpenFeintInternal$5,null,external,109,103,11
+startActivity,com/openfeint/internal/ui/Settings$SettingsActionHandler,com/openfeint/internal/ui/IntroFlow,external,123,364,13
+startActivity,com/openfeint/internal/ui/Settings,com/openfeint/internal/ui/Settings,internal,123,364,13
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,123,364,14
+startActivityForResult,com/openfeint/internal/ui/WebNav$ActionHandler,com/openfeint/internal/ui/NativeBrowser,external,123,364,14
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,123,364,14
+startActivity,com/openfeint/internal/ui/WebNav$ActionHandler,android.intent.action.VIEW,external,123,364,14
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,149,665,23
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,149,665,23
+startService,com/test/httputil/HttpUtilReceiver,com/test/httputil/HttpUtilService,external,149,665,23
+bindService,com/umeng/common/net/a$b,null,external,212,841,27
+bindService,com/umeng/common/net/a,com/umeng/common/net/DownloadingService,external,212,841,27
+startActivity,com/umeng/common/net/d,android.intent.action.VIEW,external,236,844,27
+startActivity,com/umeng/common/net/DownloadingService$e,android.intent.action.VIEW,external,236,923,27
+startActivity,com/umeng/common/util/g,null,external,250,1039,27
+startActivity,com/umeng/common/util/g,android.intent.action.VIEW,external,250,1039,27
